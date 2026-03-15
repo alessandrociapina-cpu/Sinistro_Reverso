@@ -8,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             margin: 20px auto;
-            max-width: 210mm;
+            max-width: 210mm; /* Largura A4 */
             background-color: #f0f0f0;
             font-size: 10pt;
         }
@@ -16,7 +16,7 @@
             background-color: white;
             padding: 20px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            min-height: 297mm;
+            min-height: 297mm; /* Altura A4 */
         }
         .header-grid {
             display: grid;
@@ -194,6 +194,7 @@
                     <select id="diametro-dano" onchange="tratarDropdown('diametro-dano')">
                         <option value="20">20</option>
                         <option value="25">25</option>
+                        <option value="32">32</option>
                         <option value="50">50</option>
                         <option value="75">75</option>
                         <option value="100">100</option>
@@ -252,8 +253,8 @@
                     </div>
                 </div>
 
-                <div id="aviso-secao-plena" style="display: none; margin-left: 10px; color: #0056b3; font-style: italic; font-size: 9pt;">
-                    Calculando área a partir do Diâmetro da Rede informado acima (Cd=0.82).
+                <div id="aviso-secao-plena" style="display: none; margin-left: 10px; color: #0056b3; font-style: italic; font-size: 9pt; max-width: 300px;">
+                    Vazão tabelada aplicada para compensar despressurização da rede.
                 </div>
 
                 <div style="margin-left: auto;">
@@ -341,7 +342,7 @@
             <div style="width: 45%;">
                 <div style="border-bottom: 1px solid #000; height: 30px;"></div>
                 <div style="margin-top: 5px;">Elaborado por:</div>
-                <input type="text" placeholder="Nome do Usuário" style="width: 100%; text-align: center; margin-bottom: 5px;">
+                <input type="text" placeholder="Nome do Utilizador" style="width: 100%; text-align: center; margin-bottom: 5px;">
                 <select style="width: 100%; text-align: center;">
                     <option>Engenheiro</option>
                     <option>Engenheiro Civil</option>
@@ -364,7 +365,7 @@
 
         <div style="margin-top: 40px; text-align: center; font-size: 9pt; border-top: 1px solid #ccc; padding-top: 10px;">
             <div id="rodape-setor" style="font-weight: bold;">OVMS</div>
-            <textarea id="rodape-endereco" style="width: 100%; text-align: center; border: none; resize: none; font-family: Arial; font-size: 9pt;" rows="2">Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP&#10;Telefone: (12)3904-3202 - Fax (12) 3904-3205</textarea>
+            <textarea id="rodape-endereco" style="width: 100%; text-align: center; border: none; resize: none; font-family: Arial; font-size: 9pt;" rows="2">Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP&#10;Telefone: (12) 3904-3202 - Fax (12) 3904-3205</textarea>
         </div>
     </div>
 
@@ -384,6 +385,20 @@
             { desc: "ABRACADEIRA FF REPARO TUBO DN50", num: "30004091", unid: "UN", valor: 176.62 },
             { desc: "LUVA DE CORRER PVC DN 50", num: "30001122", unid: "UN", valor: 45.20 }
         ];
+
+        // === TABELA EMPÍRICA DA PLANILHA PARA SEÇÃO PLENA ===
+        // Em L/s, já considerando a despressurização média da rede
+        const vazoesSecaoPlena = {
+            "20": 0.300,
+            "32": 0.800,
+            "50": 1.013,
+            "75": 2.942,
+            "100": 6.269,
+            "150": 18.211,
+            "200": 32.780,
+            "250": 59.004,
+            "300": 106.207
+        };
 
         window.onload = () => {
             carregarDatalists();
@@ -416,7 +431,7 @@
                 inputOutros.classList.add('hidden');
                 textoExtenso.innerText = "Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP";
                 rodapeSetor.innerText = "OVMS";
-                rodapeEnd.value = "Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP\nTelefone: (12)3904-3202 - Fax (12) 3904-3205";
+                rodapeEnd.value = "Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP\nTelefone: (12) 3904-3202 - Fax (12) 3904-3205";
             }
         }
 
@@ -458,13 +473,16 @@
             const val = document.getElementById('tipo-secao').value;
             const boxFuro = document.getElementById('box-dimensoes-furo');
             const avisoPlena = document.getElementById('aviso-secao-plena');
+            const pressaoInput = document.getElementById('pressao');
             
             if (val === 'Área do Furo') {
                 boxFuro.style.display = 'flex'; 
                 avisoPlena.style.display = 'none';
+                pressaoInput.disabled = false; // Habilita a pressão
             } else {
                 boxFuro.style.display = 'none';
                 avisoPlena.style.display = 'block';
+                pressaoInput.disabled = true; // Desabilita pois usaremos a tabela
             }
             calcularAgua();
         }
@@ -504,17 +522,18 @@
             document.getElementById('calc-segundos').innerText = segundos;
 
             let vazaoLs = 0; 
-            let areaM2 = 0;
-            let cd = 0.61;
-            const g = 9.81;
 
             if (tipoSecao === 'Área do Furo') {
+                // REDE MANTÉM PRESSÃO: Usa Torricelli
                 const formato = document.getElementById('formato-dano').value;
+                let areaM2 = 0;
+                let cd = 0.61;
+                const g = 9.81;
 
                 if (formato === 'circular') {
                     cd = 0.61;
                     const diamCm = parseFloat(document.getElementById('diametro-furo').value) || 0;
-                    const raioM = (diamCm / 100) / 2; // Converte cm para metros
+                    const raioM = (diamCm / 100) / 2; 
                     areaM2 = Math.PI * Math.pow(raioM, 2); 
                 } else {
                     if (formato === 'irregular') cd = 0.55;
@@ -525,20 +544,24 @@
                     const largCm = parseFloat(document.getElementById('larg-furo').value) || 0;
                     areaM2 = (compCm / 100) * (largCm / 100); 
                 }
-            } else {
-                // LÓGICA CORRIGIDA: SEÇÃO PLENA
-                // Puxa o diâmetro direto da tabela da rede
-                const diamRedeMm = parseFloat(document.getElementById('diametro-dano').value) || 0;
-                const raioM = (diamRedeMm / 1000) / 2; // Rede é inserida em mm
-                areaM2 = Math.PI * Math.pow(raioM, 2);
-                
-                // Coeficiente de descarga para tubo rompido (Borda/Tubo curto livre)
-                cd = 0.82; 
-            }
 
-            // Aplica a equação de Torricelli para orifícios/bocais
-            const Qm3s = cd * areaM2 * Math.sqrt(2 * g * pressao);
-            vazaoLs = Qm3s * 1000; 
+                const Qm3s = cd * areaM2 * Math.sqrt(2 * g * pressao);
+                vazaoLs = Qm3s * 1000; 
+
+            } else {
+                // SEÇÃO PLENA / DESPRESSURIZAÇÃO: Usa Tabela Empírica da Planilha Original
+                const diamRede = document.getElementById('diametro-dano').value;
+                
+                if(vazoesSecaoPlena[diamRede]) {
+                    vazaoLs = vazoesSecaoPlena[diamRede];
+                    document.getElementById('aviso-secao-plena').innerText = "Vazão tabelada (" + vazaoLs + " L/s) aplicada para compensar a despressurização da rede.";
+                    document.getElementById('aviso-secao-plena').style.color = "#0056b3";
+                } else {
+                    vazaoLs = 0;
+                    document.getElementById('aviso-secao-plena').innerText = "Diâmetro sem vazão tabelada (" + diamRede + "mm). Por favor, verifique ou insira manualmente no código.";
+                    document.getElementById('aviso-secao-plena').style.color = "red";
+                }
+            }
 
             document.getElementById('calc-vazao').innerText = vazaoLs.toFixed(3);
 
