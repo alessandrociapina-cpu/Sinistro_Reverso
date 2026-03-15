@@ -3,6 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <title>Planilha Orçamentária</title>
+    
+    <script src="servicos.js"></script>
+    <script src="materiais.js"></script>
+
     <style>
         /* === ESTILOS GERAIS E DE TELA === */
         :root {
@@ -28,23 +32,6 @@
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
             border-radius: 8px;
             box-sizing: border-box;
-        }
-
-        /* Alerta Offline */
-        #alerta-offline {
-            display: none;
-            background-color: #fff3cd;
-            color: #856404;
-            border: 1px solid #ffeeba;
-            padding: 12px;
-            border-radius: 4px;
-            margin-bottom: 15px;
-            font-size: 10pt;
-            text-align: center;
-        }
-        #alerta-offline input[type="file"] {
-            margin-left: 10px;
-            font-size: 9pt;
         }
 
         /* Cabeçalho */
@@ -227,12 +214,6 @@
         <button class="btn" onclick="window.print()">🖨️ Imprimir / Guardar PDF</button>
     </div>
 
-    <div id="alerta-offline" class="no-print">
-        <strong>Aviso:</strong> Você está abrindo o arquivo offline e o navegador bloqueou o carregamento automático das bases. <br>
-        Por favor, carregue os arquivos <b>materiais.json</b> e <b>servicos.json</b> manualmente aqui:
-        <input type="file" id="json-uploader" multiple accept=".json">
-    </div>
-
     <div class="container">
         <div class="header-grid">
             <div class="titles">
@@ -376,15 +357,15 @@
             
             <table style="table-layout: fixed; width: 100%; margin-top: 15px;">
                 <colgroup>
-                    <col style="width: 13%;">
+                    <col style="width: 14%;">
                     <col style="width: 11%;">
-                    <col style="width: 13%;">
+                    <col style="width: 14%;">
                     <col style="width: 11%;">
                     <col style="width: 9%;">
                     <col style="width: 9%;">
                     <col style="width: 9%;">
-                    <col style="width: 10%;">
-                    <col style="width: 15%;">
+                    <col style="width: 9%;">
+                    <col style="width: 14%;">
                 </colgroup>
                 <tr>
                     <th colspan="2">Início da Ocorrência</th>
@@ -501,47 +482,14 @@
             "300": 106.207, "350": 153.410, "400": 200.613
         };
 
-        window.onload = async () => {
+        window.onload = () => {
             gerarLinhasTabela('tabela-servicos', 5, 'servico'); 
             gerarLinhasTabela('tabela-materiais', 5, 'material');
             tratarSecaoVazamento(); 
             tratarFormatoDano();
             
-            await carregarBancosDeDados();
+            inicializarBases();
         };
-
-        // CARREGADOR DE JSON OFFLINE MANUAL
-        document.getElementById('json-uploader').addEventListener('change', function(e) {
-            const files = e.target.files;
-            let carregados = 0;
-            for(let file of files) {
-                const reader = new FileReader();
-                reader.onload = function(evt) {
-                    try {
-                        const data = JSON.parse(evt.target.result);
-                        if (file.name.toLowerCase().includes('servico')) {
-                            dbServicos = data;
-                            carregados++;
-                        } else if (file.name.toLowerCase().includes('materiais')) {
-                            dbMateriais = data.map(m => ({
-                                NPRECO: m["Material"] !== undefined ? m["Material"] : m.NPRECO,
-                                ESPEC: m["Texto breve material"] !== undefined ? m["Texto breve material"] : m.ESPEC,
-                                UNID: m["Unid.medida básica"] !== undefined ? String(m["Unid.medida básica"]).trim() : m.UNID,
-                                PUNIT: m["Valor Unitário"] !== undefined ? m["Valor Unitário"] : m.PUNIT
-                            }));
-                            carregados++;
-                        }
-                        if(carregados > 0) {
-                            document.getElementById('alerta-offline').style.display = 'none';
-                            alert('Bases carregadas com sucesso! Você já pode pesquisar.');
-                        }
-                    } catch(err) {
-                        alert("Erro ao ler o arquivo " + file.name);
-                    }
-                };
-                reader.readAsText(file);
-            }
-        });
 
         // FECHAR DROP DOWNS SE CLICAR FORA
         document.addEventListener('click', function(e) {
@@ -570,33 +518,24 @@
             document.querySelectorAll('.hide-on-print').forEach(el => el.classList.remove('hide-on-print'));
         });
 
-        async function carregarBancosDeDados() {
-            let fetchFalhou = false;
-            
-            try {
-                const resServ = await fetch('servicos.json');
-                if (resServ.ok) {
-                    dbServicos = await resServ.json();
-                } else { fetchFalhou = true; }
-
-                const resMat = await fetch('materiais.json');
-                if (resMat.ok) {
-                    const rawMat = await resMat.json();
-                    dbMateriais = rawMat.map(m => ({
-                        NPRECO: m["Material"] !== undefined ? m["Material"] : m.NPRECO,
-                        ESPEC: m["Texto breve material"] !== undefined ? m["Texto breve material"] : m.ESPEC,
-                        UNID: m["Unid.medida básica"] !== undefined ? String(m["Unid.medida básica"]).trim() : m.UNID,
-                        PUNIT: m["Valor Unitário"] !== undefined ? m["Valor Unitário"] : m.PUNIT
-                    }));
-                } else { fetchFalhou = true; }
-            } catch (e) {
-                console.error("Arquivos .json não encontrados automaticamente (CORS/Offline).", e);
-                fetchFalhou = true;
+        function inicializarBases() {
+            // Verifica se o ficheiro servicos.js carregou corretamente a variável global
+            if (typeof baseServicos !== 'undefined') {
+                dbServicos = baseServicos;
+            } else {
+                console.error("Base de serviços não carregada.");
             }
-            
-            // Se o fetch falhar, exibe o bloco amarelo com botão de upload
-            if(fetchFalhou || dbServicos.length === 0 || dbMateriais.length === 0) {
-                document.getElementById('alerta-offline').style.display = 'block';
+
+            // Verifica se o ficheiro materiais.js carregou e faz a tradução dos campos na hora
+            if (typeof baseMateriais !== 'undefined') {
+                dbMateriais = baseMateriais.map(m => ({
+                    NPRECO: m["Material"] !== undefined ? m["Material"] : m.NPRECO,
+                    ESPEC: m["Texto breve material"] !== undefined ? m["Texto breve material"] : m.ESPEC,
+                    UNID: m["Unid.medida básica"] !== undefined ? String(m["Unid.medida básica"]).trim() : m.UNID,
+                    PUNIT: m["Valor Unitário"] !== undefined ? m["Valor Unitário"] : m.PUNIT
+                }));
+            } else {
+                console.error("Base de materiais não carregada.");
             }
         }
 
