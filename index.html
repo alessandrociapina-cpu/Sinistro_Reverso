@@ -6,8 +6,7 @@
     <style>
         /* === ESTILOS GERAIS E DE TELA === */
         :root {
-            var(--primary-color): #004488; /* Azul padrão corporativo / Relatórios */
-            --primary-color: #004488;
+            --primary-color: #004488; 
             --secondary-color: #0056b3;
             --text-color: #333;
             --border-color: #ccc;
@@ -19,7 +18,7 @@
             margin: 20px auto;
             max-width: 210mm;
             background-color: #e9ecef;
-            font-size: 11pt; /* Fonte Tahoma 11pt exigida */
+            font-size: 11pt; 
             color: var(--text-color);
         }
 
@@ -453,7 +452,7 @@
         </div>
 
         <div class="rodape-container">
-            <div id="rodape-setor" style="font-weight: bold; color: var(--primary-color);">OVMS</div>
+            <div id="rodape-setor" style="font-weight: bold; color: var(--primary-color);">Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP</div>
             <textarea id="rodape-endereco" style="width: 100%; text-align: left; border: none; resize: none; font-family: inherit; font-size: 9pt; color: #555; background:transparent;" rows="2">Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP&#10;Telefone: (12) 3904-3202</textarea>
         </div>
     </div>
@@ -506,7 +505,6 @@
 
         async function carregarBancosDeDados() {
             try {
-                // Tenta carregar os arquivos gerados na mesma pasta
                 const resServ = await fetch('servicos.json');
                 if (resServ.ok) dbServicos = await resServ.json();
 
@@ -516,7 +514,7 @@
                 console.error("Arquivos .json não encontrados automaticamente.", e);
             }
             
-            // Dados Mockados de segurança caso não encontre o JSON (Para teste rápido)
+            // Dados Mockados de segurança
             if(dbServicos.length === 0) {
                 dbServicos = [
                     { ESPEC: "REPARO DE REDE DE AGUA", NPRECO: "500101", UNID: "UN", PUNIT: "150.00" },
@@ -524,7 +522,7 @@
                     { ESPEC: "RECOMPOSICAO DE PAVIMENTO ASFALTICO", NPRECO: "72000445", UNID: "M2", PUNIT: "85.30" }
                 ];
                 dbMateriais = [
-                    { ESPEC: "TUBO PVC DEFofo DN 50", NPRECO: "30008103", UNID: "M", PUNIT: "25.40" },
+                    { ESPEC: "TUBO PVC DEFOFO DN 50", NPRECO: "30008103", UNID: "M", PUNIT: "25.40" },
                     { ESPEC: "ABRACADEIRA FF REPARO TUBO DN50", NPRECO: "30004091", UNID: "UN", PUNIT: "176.62" },
                     { ESPEC: "LUVA DE CORRER PVC DN 50", NPRECO: "30001122", UNID: "UN", PUNIT: "45.20" }
                 ];
@@ -548,7 +546,6 @@
             const db = (tipo === 'servico') ? dbServicos : dbMateriais;
             const containerDropdown = input.nextElementSibling;
             
-            // Se o campo for limpo, zera os outros campos da linha
             if (valPesquisa.trim() === '') {
                 containerDropdown.style.display = 'none';
                 limparLinha(input, tipo);
@@ -557,7 +554,6 @@
 
             containerDropdown.innerHTML = '';
 
-            // Filtra banco de dados e limita a 30 resultados para performance
             const filtrados = db.filter(item => {
                 const espec = removerAcentos(item.ESPEC);
                 const npreco = removerAcentos(String(item.NPRECO));
@@ -573,7 +569,6 @@
                 const div = document.createElement('div');
                 div.innerHTML = `<strong>${item.NPRECO}</strong> - ${item.ESPEC}`;
                 
-                // Ao clicar no item
                 div.onclick = function(e) {
                     e.stopPropagation();
                     input.value = `${item.NPRECO} - ${item.ESPEC}`;
@@ -613,19 +608,20 @@
             if (val === 'Outros') {
                 inputOutros.classList.remove('hidden');
                 textoExtenso.innerText = "_______________________________________________________";
-                rodapeSetor.innerText = "UNIDADE";
+                rodapeSetor.innerText = "_______________________________________________________";
                 rodapeEnd.value = "Insira o endereço aqui";
             } else {
                 inputOutros.classList.add('hidden');
                 textoExtenso.innerText = "Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP";
-                rodapeSetor.innerText = "OVMS";
+                rodapeSetor.innerText = "Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP";
                 rodapeEnd.value = "Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP\nTelefone: (12) 3904-3202";
             }
         }
 
         document.getElementById('unidade-outros').addEventListener('input', function() {
-            document.getElementById('unidade-extenso').innerText = this.value || "_______________________________________________________";
-            document.getElementById('rodape-setor').innerText = this.value || "UNIDADE";
+            const texto = this.value || "_______________________________________________________";
+            document.getElementById('unidade-extenso').innerText = texto;
+            document.getElementById('rodape-setor').innerText = texto;
         });
 
         function tratarDano() {
