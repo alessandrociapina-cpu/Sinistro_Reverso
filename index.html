@@ -6,7 +6,7 @@
     <style>
         /* === ESTILOS GERAIS E DE TELA === */
         :root {
-            --primary-color: #0056b3; /* Azul Sabesp */
+            --primary-color: #0056b3; 
             --text-color: #333;
             --border-color: #ccc;
             --bg-color: #f8f9fa;
@@ -29,7 +29,6 @@
             box-sizing: border-box;
         }
 
-        /* Cabeçalho */
         .header-grid {
             display: flex;
             justify-content: space-between;
@@ -45,10 +44,9 @@
         .logo-placeholder {
             max-height: 60px;
             max-width: 140px;
-            object-fit: contain; /* Impede deformação do logo */
+            object-fit: contain; 
         }
 
-        /* Formulários e Estrutura */
         .row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 6px; }
         label { font-weight: 600; color: #444; }
         
@@ -65,7 +63,6 @@
 
         .hidden { display: none !important; }
         
-        /* Títulos de Seção */
         .section-title {
             font-weight: bold;
             margin-top: 15px;
@@ -79,7 +76,6 @@
             border-radius: 0 4px 4px 0;
         }
 
-        /* Tabelas */
         table {
             width: 100%;
             border-collapse: collapse;
@@ -91,7 +87,6 @@
         td input { width: calc(100% - 12px); border: none; background: transparent; }
         td input:focus { background: #fff; border: 1px solid var(--primary-color); }
 
-        /* Caixa de Totais */
         .totais-box {
             border: 1.5px solid var(--primary-color);
             border-radius: 6px;
@@ -102,12 +97,10 @@
         .totais-box .row { justify-content: space-between; margin-bottom: 4px; }
         .total-final-row { font-size: 13pt; font-weight: bold; color: var(--primary-color); margin-top: 8px; padding-top: 8px; border-top: 1px dashed #ccc; }
 
-        /* Assinaturas */
         .assinaturas { display: flex; justify-content: space-around; text-align: center; margin-top: 25px; }
         .assinatura-box { width: 40%; }
         .linha-assinatura { border-bottom: 1px solid #000; height: 25px; margin-bottom: 5px; }
 
-        /* Botão */
         .btn {
             padding: 10px 20px;
             background-color: var(--primary-color);
@@ -122,32 +115,20 @@
         }
         .btn:hover { background-color: #004494; }
 
-        /* === OTIMIZAÇÃO RIGOROSA PARA 1 PÁGINA A4 (IMPRESSÃO PDF) === */
-        @page {
-            size: A4 portrait;
-            margin: 10mm; /* Margem da folha reduzida */
-        }
-        
+        /* === OTIMIZAÇÃO PARA 1 PÁGINA A4 (IMPRESSÃO PDF) === */
+        @page { size: A4 portrait; margin: 10mm; }
         @media print {
             body { margin: 0; background-color: white; font-size: 8pt; color: #000; }
             .container { box-shadow: none; padding: 0; max-width: 100%; }
             .no-print { display: none !important; }
-            
-            /* Ajustes de cor para P&B e economia de espaço */
             .header-grid { border-bottom: 1px solid #000; padding-bottom: 8px; margin-bottom: 10px; }
             .linha1 { color: #000; font-size: 11pt; }
             .section-title { color: #000; background-color: #eee; border-left: 3px solid #000; margin-top: 10px; margin-bottom: 4px; padding: 4px 6px; font-size: 8.5pt; }
-            
-            /* Tabelas mais compactas na impressão */
             table { margin-bottom: 6px; font-size: 7.5pt; }
             th, td { padding: 2px 3px; border-color: #999; }
             th { background-color: #f0f0f0 !important; -webkit-print-color-adjust: exact; }
-            
-            /* Remoção de bordas de input para ficar igual texto corrido */
             input, select, textarea { border: none !important; background: transparent !important; padding: 0; margin: 0; appearance: none; -webkit-appearance: none; color: #000; }
             input::placeholder { color: transparent; }
-            
-            /* Estrutura final mais espremida para não gerar 2ª página */
             .row { margin-bottom: 4px; gap: 5px; }
             .totais-box { border: 1px solid #000; padding: 8px; margin-top: 10px; background-color: transparent; }
             .total-final-row { color: #000; font-size: 11pt; padding-top: 4px; margin-top: 4px; border-top: 1px solid #000; }
@@ -413,18 +394,9 @@
     <datalist id="lista-materiais"></datalist>
 
     <script>
-        // === BANCO DE DADOS MOCKADO ===
-        const dbServicos = [
-            { desc: "REPARO DE REDE DE AGUA", num: "500101", unid: "UN", valor: 150.00 },
-            { desc: "REPARO DE RAMAL DE AGUA", num: "500102", unid: "UN", valor: 95.50 },
-            { desc: "RECOMPOSICAO DE PAVIMENTO ASFALTICO", num: "72000445", unid: "M2", valor: 85.30 }
-        ];
-
-        const dbMateriais = [
-            { desc: "TUBO PVC DEFofo DN 50", num: "30008103", unid: "M", valor: 25.40 },
-            { desc: "ABRACADEIRA FF REPARO TUBO DN50", num: "30004091", unid: "UN", valor: 176.62 },
-            { desc: "LUVA DE CORRER PVC DN 50", num: "30001122", unid: "UN", valor: 45.20 }
-        ];
+        // Bancos de dados vazios que serão preenchidos pelo JSON
+        let dbServicos = [];
+        let dbMateriais = [];
 
         // Tabela empírica para seção plena (L/s)
         const vazoesSecaoPlena = {
@@ -433,19 +405,51 @@
             "300": 106.207, "350": 153.410, "400": 200.613
         };
 
-        window.onload = () => {
-            carregarDatalists();
-            gerarLinhasTabela('tabela-servicos', 4, 'servico'); // Reduzido para 4 linhas para garantir espaço A4
+        window.onload = async () => {
+            gerarLinhasTabela('tabela-servicos', 4, 'servico'); 
             gerarLinhasTabela('tabela-materiais', 4, 'material');
             tratarSecaoVazamento(); 
             tratarFormatoDano();
+            
+            // Tenta buscar os dados dos arquivos JSON automaticamente
+            await carregarBancosDeDados();
         };
+
+        async function carregarBancosDeDados() {
+            try {
+                const resServ = await fetch('servicos.json');
+                if (!resServ.ok) throw new Error("Erro ao carregar servicos.json");
+                dbServicos = await resServ.json();
+
+                const resMat = await fetch('materiais.json');
+                if (!resMat.ok) throw new Error("Erro ao carregar materiais.json");
+                dbMateriais = await resMat.json();
+
+                carregarDatalists();
+            } catch (e) {
+                console.error(e);
+                alert("Atenção: Os arquivos servicos.json e materiais.json não puderam ser lidos automaticamente. Isso ocorre por proteção do navegador ao abrir arquivos locais. Faça o deploy no GitHub Pages para que funcione corretamente!");
+            }
+        }
 
         function carregarDatalists() {
             const dlServ = document.getElementById('lista-servicos');
-            dbServicos.forEach(s => dlServ.innerHTML += `<option value="${s.desc}">`);
+            dbServicos.forEach(s => {
+                if(s.ESPEC) dlServ.innerHTML += `<option value="${s.ESPEC}">`;
+            });
+            
             const dlMat = document.getElementById('lista-materiais');
-            dbMateriais.forEach(m => dlMat.innerHTML += `<option value="${m.desc}">`);
+            dbMateriais.forEach(m => {
+                if(m.ESPEC) dlMat.innerHTML += `<option value="${m.ESPEC}">`;
+            });
+        }
+
+        // Função para limpar a string "R$ 1.062,33" e transformar em número 1062.33
+        function parseValor(strPunit) {
+            if (!strPunit) return 0;
+            // Remove R$, espaços em branco e pontos de milhar, troca vírgula por ponto
+            let limpo = String(strPunit).replace(/[R$\s]/g, '').replace(/\./g, '').replace(',', '.');
+            return parseFloat(limpo) || 0;
         }
 
         function tratarUnidade() {
@@ -616,12 +620,15 @@
         function buscarItem(inputDesc, tipo) {
             const db = tipo === 'servico' ? dbServicos : dbMateriais;
             const tr = inputDesc.closest('tr');
-            const item = db.find(x => x.desc === inputDesc.value.toUpperCase());
+            
+            // Busca considerando que o JSON tem .ESPEC, .NPRECO, .UNID, e .PUNIT
+            const valDigitado = inputDesc.value.toUpperCase();
+            const item = db.find(x => x.ESPEC && x.ESPEC.toUpperCase() === valDigitado);
             
             if (item) {
-                tr.querySelector(`.num-${tipo}`).value = item.num;
-                tr.querySelector(`.unid-${tipo}`).value = item.unid;
-                tr.querySelector(`.val-${tipo}`).value = item.valor;
+                tr.querySelector(`.num-${tipo}`).value = item.NPRECO;
+                tr.querySelector(`.unid-${tipo}`).value = item.UNID;
+                tr.querySelector(`.val-${tipo}`).value = parseValor(item.PUNIT);
             } else {
                 tr.querySelector(`.num-${tipo}`).value = "";
                 tr.querySelector(`.unid-${tipo}`).value = "";
