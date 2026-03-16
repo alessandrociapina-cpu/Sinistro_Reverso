@@ -206,13 +206,13 @@
         <div class="content-wrapper">
             
             <div class="version-wrapper no-print">
-                <div class="version-badge">v3.1 ℹ️</div>
+                <div class="version-badge">v3.2 ℹ️</div>
                 <div class="changelog-box">
                     <h4>Últimas Atualizações</h4>
                     <ul>
-                        <li><strong>v3.1:</strong> Alinhamento perfeito do nº à margem direita; Seção Água Perdida alinhada e agrupada; Rodapé ancorado via Flexbox absoluto; Remoção de espaçamentos inúteis.</li>
+                        <li><strong>v3.2:</strong> Campo 'nº' posicionado em linha independente acima da 'Unidade'; layout restante intocado.</li>
+                        <li><strong>v3.1:</strong> Alinhamento perfeito; Seção Água Perdida alinhada e agrupada; Rodapé ancorado via Flexbox absoluto; Remoção de espaçamentos inúteis.</li>
                         <li><strong>v3.0:</strong> Pressão agrupada junto às dimensões de furo; Rodapé 100% em negrito restaurado.</li>
-                        <li><strong>v2.8:</strong> Fim do dropdown na Unidade.</li>
                     </ul>
                 </div>
             </div>
@@ -229,10 +229,13 @@
             </div>
 
             <div class="ident-row">
+                <label>nº:</label>
+                <input type="text" id="sef" placeholder="XXX/XX" style="flex: 0 0 150px;">
+            </div>
+            
+            <div class="ident-row">
                 <label>Unidade:</label>
                 <input type="text" id="unidade" value="Divisão de Manutenção e Serviços Operacionais de São José dos Campos - OVMS" oninput="tratarUnidade()">
-                <label class="label-n">nº:</label>
-                <input type="text" id="sef" placeholder="XXX/XX">
             </div>
 
             <div class="ident-row">
@@ -501,7 +504,7 @@
     </div>
 
     <script>
-        const VERSAO_APP = "3.1";
+        const VERSAO_APP = "3.2";
         if (localStorage.getItem("versao_planilha_sabesp") !== VERSAO_APP) {
             if ('caches' in window) {
                 caches.keys().then(names => { names.forEach(name => caches.delete(name)); });
