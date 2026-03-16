@@ -31,6 +31,7 @@
             text-align: justify;
         }
 
+        /* Envolve todo o conteúdo para simular a folha em tela */
         .container {
             background-color: white;
             padding: 20px 30px;
@@ -46,6 +47,7 @@
         table.print-structure > tbody > tr > td, 
         table.print-structure > tfoot > tr > td { border: none; padding: 0; }
 
+        /* Cabeçalho */
         .header-grid {
             display: flex; justify-content: space-between; align-items: flex-start;
             border-bottom: 2px solid var(--sabesp-blue); padding-bottom: 10px; margin-bottom: 15px; width: 100%;
@@ -56,6 +58,7 @@
         .logo-box { text-align: right; flex-shrink: 0; }
         .logo-placeholder { max-height: 65px; max-width: 150px; object-fit: contain; }
 
+        /* Rodapé Repetitivo */
         .rodape-container { margin-top: 10px; border-top: 1.5px solid var(--sabesp-blue); padding-top: 8px; width: 100%; }
         .rodape-texto, .rodape-texto div { font-weight: bold; font-size: 8pt; color: var(--sabesp-blue); text-align: left; line-height: 1.2; }
 
@@ -71,31 +74,39 @@
 
         .hidden { display: none !important; }
 
+        /* === TABELAS DE DADOS === */
         table.data-table {
             width: 100%; table-layout: fixed; border-collapse: collapse; margin-bottom: 15px;
             font-size: 9pt; word-wrap: break-word; border: 1px solid var(--border-color);
         }
-        table.data-table th, table.data-table td { border: 1px solid var(--border-color); padding: 3px; text-align: left; overflow: hidden; }
+        
+        /* CORREÇÃO DO BUG: overflow: visible para permitir que a lista suspensa saia da célula */
+        table.data-table th, table.data-table td { 
+            border: 1px solid var(--border-color); 
+            padding: 3px; 
+            text-align: left; 
+            overflow: visible; 
+        }
         table.data-table th { background-color: var(--bg-color); font-weight: bold; text-align: center; }
         
-        /* CORREÇÃO AQUI: text-align: left !important garante que fique à esquerda */
         th.section-header {
-            font-size: 11pt; color: var(--sabesp-blue); text-transform: uppercase; 
-            text-align: left !important; 
+            font-size: 11pt; color: var(--sabesp-blue); text-transform: uppercase; text-align: left !important;
             background-color: #f9f9f9; padding: 5px 8px; border-bottom: 2px solid var(--sabesp-blue);
         }
 
         .subtitle { font-weight: bold; font-size: 10pt; color: var(--sabesp-blue); text-align: left; margin-top: 2px; }
         table.data-table td input { width: 100%; border: none; background: transparent; font-size: 9pt; padding: 2px; } 
 
+        /* === LISTA SUSPENSA DE AUTOCOMPLETAR === */
         .autocomplete-list {
-            position: absolute; top: 100%; left: 0; width: 100%; background: #fff;
-            border: 1px solid var(--sabesp-blue); box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-            z-index: 1000; max-height: 250px; overflow-y: auto; display: none; border-radius: 0 0 4px 4px;
+            position: absolute; top: 100%; left: 0; width: 100%; min-width: 350px; background: #fff;
+            border: 1px solid var(--sabesp-blue); box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            z-index: 9999; max-height: 250px; overflow-y: auto; display: none; border-radius: 0 0 4px 4px;
         }
-        .autocomplete-list div { padding: 6px 10px; cursor: pointer; border-bottom: 1px solid #eee; font-size: 9pt; color: #333; }
+        .autocomplete-list div { padding: 8px 10px; cursor: pointer; border-bottom: 1px solid #eee; font-size: 9pt; color: #333; }
         .autocomplete-list div:hover { background-color: var(--sabesp-blue); color: white; }
 
+        /* Demais elementos */
         .totais-box {
             border: 2px solid var(--sabesp-blue); border-radius: 6px; padding: 10px 15px;
             background-color: #fafafa; margin-top: 5px; width: 100%;
@@ -116,6 +127,7 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.2); margin: 5px;
         }
 
+        /* === OTIMIZAÇÃO PARA IMPRESSÃO === */
         @page { size: A4 portrait; margin: 10mm 10mm 10mm 10mm; } 
         
         @media print {
@@ -468,11 +480,8 @@
     </div>
 
     <script>
-        // Registra o Service Worker (PWA)
         if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('sw.js');
-            });
+            window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js'); });
         }
 
         let dbServicos = [];
@@ -486,16 +495,6 @@
 
         window.onload = () => {
             try {
-                inicializarBases();
-                gerarLinhasTabela('tabela-servicos', 5, 'servico'); 
-                gerarLinhasTabela('tabela-materiais', 5, 'material');
-                tratarSecaoVazamento(); 
-                tratarFormatoDano();
-            } catch(e) { console.error(e); }
-        };
-
-        function inicializarBases() {
-            try {
                 if (typeof baseServicos !== 'undefined') dbServicos = baseServicos;
                 if (typeof baseMateriais !== 'undefined') {
                     dbMateriais = baseMateriais.map(m => ({
@@ -505,17 +504,21 @@
                         PUNIT: m["Valor Unitário"] !== undefined ? m["Valor Unitário"] : m.PUNIT
                     }));
                 }
-            } catch(e) {
-                console.error("Erro ao processar as bases de dados.");
-            }
-        }
+                gerarLinhasTabela('tabela-servicos', 5, 'servico'); 
+                gerarLinhasTabela('tabela-materiais', 5, 'material');
+                tratarSecaoVazamento(); 
+                tratarFormatoDano();
+            } catch(e) { console.error("Erro ao carregar:", e); }
+        };
 
+        // Fecha a lista se clicar fora
         document.addEventListener('click', function(e) {
             if (!e.target.classList.contains('desc-input')) {
                 document.querySelectorAll('.autocomplete-list').forEach(el => el.style.display = 'none');
             }
         });
 
+        // Limpa campos vazios antes de imprimir
         window.addEventListener('beforeprint', function() {
             const tabelas = ['tabela-servicos', 'tabela-materiais'];
             tabelas.forEach(id => {
@@ -565,7 +568,10 @@
             filtrados.forEach(item => {
                 const div = document.createElement('div');
                 div.innerHTML = `<strong>${item.NPRECO}</strong> - ${item.ESPEC}`;
-                div.onclick = function(e) {
+                
+                // MUDANÇA CRÍTICA: onmousedown impede que o campo perca o foco antes do clique ser processado
+                div.onmousedown = function(e) {
+                    e.preventDefault(); 
                     e.stopPropagation();
                     input.value = `${item.NPRECO} - ${item.ESPEC}`;
                     containerDropdown.style.display = 'none';
@@ -732,8 +738,8 @@
             for (let i = 0; i < qtd; i++) {
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
-                    <td style="position: relative; padding: 0;">
-                        <input type="text" class="desc-input" autocomplete="off" onkeyup="mostrarSugestoes(this, '${tipo}')" oninput="mostrarSugestoes(this, '${tipo}')" onfocus="mostrarSugestoes(this, '${tipo}')" style="padding: 4px;" placeholder="Digite para buscar...">
+                    <td style="position: relative; padding: 0; overflow: visible;">
+                        <input type="text" class="desc-input" autocomplete="off" oninput="mostrarSugestoes(this, '${tipo}')" onclick="mostrarSugestoes(this, '${tipo}')" style="padding: 4px;" placeholder="Digite para buscar...">
                         <div class="autocomplete-list"></div>
                     </td>
                     <td style="padding: 0;"><input type="text" class="num-${tipo}" readonly style="text-align: center; color: var(--text-black); font-weight: bold; padding: 4px;"></td>
