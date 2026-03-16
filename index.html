@@ -78,8 +78,10 @@
         table.data-table th, table.data-table td { border: 1px solid var(--border-color); padding: 3px; text-align: left; overflow: hidden; }
         table.data-table th { background-color: var(--bg-color); font-weight: bold; text-align: center; }
         
+        /* CORREÇÃO AQUI: text-align: left !important garante que fique à esquerda */
         th.section-header {
-            font-size: 11pt; color: var(--sabesp-blue); text-transform: uppercase; text-align: left;
+            font-size: 11pt; color: var(--sabesp-blue); text-transform: uppercase; 
+            text-align: left !important; 
             background-color: #f9f9f9; padding: 5px 8px; border-bottom: 2px solid var(--sabesp-blue);
         }
 
@@ -114,7 +116,6 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.2); margin: 5px;
         }
 
-        /* === OTIMIZAÇÃO PARA IMPRESSÃO === */
         @page { size: A4 portrait; margin: 10mm 10mm 10mm 10mm; } 
         
         @media print {
@@ -140,13 +141,13 @@
             
             .row { margin-bottom: 2px; gap: 4px; }
             table.data-table { margin-bottom: 8px; font-size: 8.5pt; width: 100%; table-layout: fixed; }
-            th.section-header { padding: 4px 6px; font-size: 10pt; } 
+            th.section-header { padding: 4px 6px; font-size: 10pt; text-align: left !important; } 
             table.data-table td input { font-size: 8.5pt; }
             
             .assinaturas { margin-top: 15px; }
             .assinatura-label { margin-bottom: 20px; }
             
-            .rodape-container { border-top: 1.5px solid var(--sabesp-blue) !important; margin-top: 5px; }
+            .rodape-container { border-top: 1.5px solid var(--sabesp-blue) !important; }
         }
     </style>
 </head>
@@ -418,7 +419,7 @@
                             </div>
                             <div class="row" style="justify-content: flex-end; font-size: 9pt; color: #666; margin-top: 2px;">
                                 Equivalente em UFESPs: <span id="total-ufesp" style="margin-left: 5px; font-weight: bold; color: var(--text-black);">0.00</span>
-            </div>
+                            </div>
                         </div>
 
                         <div class="assinaturas">
@@ -484,11 +485,13 @@
         };
 
         window.onload = () => {
-            inicializarBases();
-            gerarLinhasTabela('tabela-servicos', 5, 'servico'); 
-            gerarLinhasTabela('tabela-materiais', 5, 'material');
-            tratarSecaoVazamento(); 
-            tratarFormatoDano();
+            try {
+                inicializarBases();
+                gerarLinhasTabela('tabela-servicos', 5, 'servico'); 
+                gerarLinhasTabela('tabela-materiais', 5, 'material');
+                tratarSecaoVazamento(); 
+                tratarFormatoDano();
+            } catch(e) { console.error(e); }
         };
 
         function inicializarBases() {
