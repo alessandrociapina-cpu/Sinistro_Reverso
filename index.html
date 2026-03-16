@@ -8,23 +8,22 @@
     <script src="materiais.js"></script>
 
     <style>
-        /* === ESTILOS GERAIS E DE TELA === */
+        /* === IDENTIDADE VISUAL SABESP E VARIÁVEIS GERAIS === */
         :root {
-            --primary-color: #004488; 
-            --secondary-color: #0056b3;
             --sabesp-blue: #12D0FF; 
-            --text-color: #333;
+            --text-black: #000000;
             --border-color: #ccc;
-            --bg-color: #f4f7fa;
+            --bg-color: #f9f9f9;
         }
 
         body {
             font-family: Tahoma, sans-serif;
+            font-size: 11pt; 
+            color: var(--text-black);
             margin: 20px auto;
             max-width: 210mm;
             background-color: #e9ecef;
-            font-size: 11pt; 
-            color: var(--text-color);
+            text-align: justify;
         }
 
         .container {
@@ -35,39 +34,66 @@
             box-sizing: border-box;
         }
 
-        /* Cabeçalho */
+        /* === CABEÇALHO === */
         .header-grid {
-            display: flex;
-            justify-content: space-between;
+            display: grid;
+            grid-template-columns: 150px 1fr 150px; /* Garante que o texto fique centralizado de forma absoluta */
             align-items: center;
-            border-bottom: 3px solid var(--primary-color);
+            border-bottom: 2px solid var(--sabesp-blue);
             padding-bottom: 12px;
-            margin-bottom: 15px;
-        }
-        .titles { flex: 1; text-align: center; padding-right: 15px; }
-        .linha1 { 
-            font-family: Tahoma, sans-serif; 
-            font-size: 14pt; 
-            font-weight: bold; 
-            color: var(--sabesp-blue); 
-            letter-spacing: 0.5px; 
-            text-transform: uppercase;
-        }
-        .linha2 { 
-            font-size: 11pt; 
-            font-weight: bold; 
-            margin-top: 5px; 
-            color: var(--sabesp-blue); 
+            margin-bottom: 20px;
         }
         
-        .logo-placeholder {
-            max-height: 65px;
-            max-width: 150px;
-            object-fit: contain; 
+        .header-grid > div:first-child { } /* Espaçador esquerdo invisível */
+        
+        .titles { text-align: center; }
+        
+        .linha1 { 
+            font-family: Tahoma, sans-serif; 
+            font-size: 7pt; 
+            font-weight: bold; 
+            color: var(--sabesp-blue); 
+            text-transform: uppercase;
+        }
+        
+        .linha2 { 
+            font-family: Tahoma, sans-serif; 
+            font-size: 16pt; 
+            font-weight: bold; 
+            color: var(--sabesp-blue); 
+            text-transform: uppercase;
+            margin-top: 4px;
+            line-height: 1.1;
+        }
+        
+        .logo-box { text-align: right; }
+        .logo-placeholder { max-height: 65px; max-width: 150px; object-fit: contain; }
+
+        /* === TÍTULOS E SUBTÍTULOS === */
+        .section-title {
+            font-family: Tahoma, sans-serif;
+            font-weight: bold;
+            font-size: 14pt;
+            color: var(--sabesp-blue);
+            text-transform: uppercase;
+            text-align: left;
+            margin-top: 25px;
+            margin-bottom: 10px;
         }
 
-        .row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 6px; }
-        label { font-weight: bold; color: var(--primary-color); }
+        .subtitle {
+            font-family: Tahoma, sans-serif;
+            font-weight: bold;
+            font-size: 12pt;
+            color: var(--sabesp-blue);
+            text-align: left;
+            margin-top: 10px;
+            margin-bottom: 5px;
+        }
+
+        /* === FORMULÁRIOS E TEXTO DO CORPO === */
+        .row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+        label { font-weight: bold; color: var(--text-black); }
         
         input, select, textarea {
             padding: 4px 6px;
@@ -75,45 +101,34 @@
             border-radius: 4px;
             font-family: Tahoma, sans-serif;
             font-size: 11pt;
+            color: var(--text-black);
             transition: border-color 0.2s;
-            color: #000;
         }
-        input:focus, select:focus { border-color: var(--secondary-color); outline: none; box-shadow: 0 0 3px rgba(0,86,179,0.3); }
+        input:focus, select:focus { border-color: var(--sabesp-blue); outline: none; }
         input[type="number"] { text-align: right; }
 
         .hidden { display: none !important; }
-        
-        .section-title {
-            font-weight: bold;
-            margin-top: 15px;
-            margin-bottom: 8px;
-            background-color: var(--primary-color);
-            color: white;
-            padding: 6px 10px;
-            text-transform: uppercase;
-            font-size: 11pt;
-            border-radius: 4px;
-        }
 
+        /* === TABELAS === */
         table {
             width: 100%;
             border-collapse: collapse;
             margin-bottom: 10px;
-            font-size: 10.5pt;
+            font-size: 11pt;
         }
         th, td { border: 1px solid #dcdcdc; padding: 4px; text-align: left; }
-        th { background-color: var(--bg-color); font-weight: bold; text-align: center; color: var(--primary-color); border-bottom: 2px solid var(--primary-color); }
-        td input { width: calc(100% - 12px); border: none; background: transparent; font-size: 10.5pt; }
-        td input:focus { background: #fff; border: 1px solid var(--primary-color); }
+        th { background-color: var(--bg-color); font-weight: bold; text-align: center; color: var(--text-black); }
+        td input { width: calc(100% - 12px); border: none; background: transparent; font-size: 11pt; }
+        td input:focus { background: #fff; border: 1px solid var(--sabesp-blue); }
 
-        /* Estilo da Lista de Autocompletar Customizada */
+        /* === AUTOCOMPLETAR CUSTOMIZADO === */
         .autocomplete-list {
             position: absolute;
             top: 100%;
             left: 0;
             width: 100%;
             background: #fff;
-            border: 1px solid var(--primary-color);
+            border: 1px solid var(--sabesp-blue);
             box-shadow: 0 4px 10px rgba(0,0,0,0.15);
             z-index: 1000;
             max-height: 250px;
@@ -125,33 +140,47 @@
             padding: 6px 10px;
             cursor: pointer;
             border-bottom: 1px solid #eee;
-            font-size: 9.5pt;
+            font-size: 10pt;
             color: #333;
-            line-height: 1.2;
         }
-        .autocomplete-list div:last-child { border-bottom: none; }
-        .autocomplete-list div:hover {
-            background-color: var(--primary-color);
-            color: white;
-        }
+        .autocomplete-list div:hover { background-color: var(--sabesp-blue); color: white; }
 
+        /* === CAIXA DE TOTAIS === */
         .totais-box {
-            border: 2px solid var(--primary-color);
+            border: 2px solid var(--sabesp-blue);
             border-radius: 6px;
-            padding: 12px;
-            background-color: #fcfcfc;
-            margin-top: 15px;
+            padding: 15px;
+            background-color: #fafafa;
+            margin-top: 20px;
         }
-        .totais-box .row { justify-content: space-between; margin-bottom: 4px; font-weight: bold;}
-        .total-final-row { font-size: 14pt; font-weight: bold; color: var(--primary-color); margin-top: 8px; padding-top: 8px; border-top: 2px dashed var(--primary-color); }
+        .totais-box .row { justify-content: space-between; margin-bottom: 6px; font-weight: bold; font-size: 11pt; }
+        .total-final-row { font-size: 14pt; font-weight: bold; color: var(--sabesp-blue); margin-top: 10px; padding-top: 10px; border-top: 2px dashed var(--sabesp-blue); }
 
-        .assinaturas { display: flex; justify-content: space-around; text-align: center; margin-top: 25px; font-size: 11pt; }
+        /* === ASSINATURAS === */
+        .assinaturas { display: flex; justify-content: space-around; text-align: center; margin-top: 30px; font-size: 11pt; }
         .assinatura-box { width: 40%; }
-        .linha-assinatura { border-bottom: 1px solid #000; height: 25px; margin-bottom: 5px; }
+        .linha-assinatura { border-bottom: 1px solid var(--text-black); height: 25px; margin-bottom: 5px; }
 
+        /* === RODAPÉ === */
+        .rodape-container {
+            margin-top: 30px; 
+            border-top: 1.5px solid var(--sabesp-blue); 
+            padding-top: 10px;
+        }
+        .rodape-texto, .rodape-texto textarea {
+            font-family: Tahoma, sans-serif;
+            font-weight: bold;
+            font-size: 8pt;
+            color: var(--sabesp-blue);
+            text-align: left;
+            line-height: 1.4;
+        }
+        .rodape-texto textarea { border: none; background: transparent; resize: none; overflow: hidden; width: 100%; }
+
+        /* === BOTÃO IMPRIMIR === */
         .btn {
             padding: 10px 20px;
-            background-color: var(--primary-color);
+            background-color: var(--sabesp-blue);
             color: white;
             border: none;
             border-radius: 5px;
@@ -159,57 +188,38 @@
             font-weight: bold;
             font-size: 11pt;
             font-family: Tahoma, sans-serif;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-            transition: background 0.2s;
-        }
-        .btn:hover { background-color: #003366; }
-
-        .rodape-container {
-            margin-top: 15px; 
-            text-align: left; 
-            font-size: 9pt; 
-            border-top: 1px solid var(--border-color); 
-            padding-top: 8px;
         }
 
-        /* === OTIMIZAÇÃO PARA 1 PÁGINA A4 (IMPRESSÃO PDF) === */
+        /* === OTIMIZAÇÃO PARA IMPRESSÃO (PDF) === */
         @page { size: A4 portrait; margin: 10mm; }
         
         @media print {
-            body { margin: 0; background-color: white; font-size: 9.5pt; color: #000; }
-            .container { box-shadow: none; padding: 0; max-width: 100%; }
-            .no-print { display: none !important; }
+            body { margin: 0; background-color: white; color: #000; }
+            .container { box-shadow: none; padding: 0; max-width: 100%; border: none; }
+            .no-print, .hide-on-print, .autocomplete-list { display: none !important; }
             
-            .hide-on-print { display: none !important; }
-            .autocomplete-list { display: none !important; }
+            /* Força a impressão do azul Sabesp */
+            .linha1, .linha2, .section-title, .subtitle, .rodape-texto, .rodape-texto textarea, .total-final-row { 
+                color: var(--sabesp-blue) !important; 
+                -webkit-print-color-adjust: exact; 
+                print-color-adjust: exact; 
+            }
+            .header-grid { border-bottom: 2px solid var(--sabesp-blue) !important; padding-bottom: 10px; margin-bottom: 15px; }
+            .rodape-container { border-top: 1.5px solid var(--sabesp-blue) !important; page-break-inside: avoid; margin-top: 20px; }
+            .totais-box { border: 2px solid var(--sabesp-blue) !important; background: transparent !important; }
+            .total-final-row { border-top: 2px dashed var(--sabesp-blue) !important; }
 
-            .header-grid { border-bottom: 2px solid #000; padding-bottom: 8px; margin-bottom: 10px; }
-            
-            /* Cores mantidas na impressão para a identidade visual */
-            .linha1, .linha2 { color: var(--sabesp-blue) !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-            .linha1 { font-size: 12pt; }
-            .linha2 { font-size: 10pt; }
-            
-            .section-title { color: #000; background-color: #e0e0e0 !important; border: 1px solid #000; margin-top: 10px; margin-bottom: 4px; padding: 4px 6px; font-size: 10.5pt; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-            
-            table { margin-bottom: 6px; font-size: 9pt; }
-            th, td { padding: 2px 3px; border-color: #666; }
-            th { background-color: #f0f0f0 !important; color: #000; border-bottom: 1px solid #000; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-            
-            input, select, textarea { border: none !important; background: transparent !important; padding: 0; margin: 0; appearance: none; -webkit-appearance: none; color: #000; font-size: 9pt; }
+            /* Oculta as bordas dos campos de input na impressão */
+            input, select, textarea { border: none !important; background: transparent !important; padding: 0; margin: 0; appearance: none; -webkit-appearance: none; color: #000; }
             input::placeholder { color: transparent; }
+            th { background-color: #f0f0f0 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
             
+            .section-title { margin-top: 15px; margin-bottom: 5px; }
             .row { margin-bottom: 4px; gap: 5px; }
-            label { color: #000; }
-            
-            .totais-box { border: 1px solid #000; padding: 8px; margin-top: 10px; background-color: transparent; }
-            .total-final-row { color: #000; font-size: 12pt; padding-top: 4px; margin-top: 4px; border-top: 1px solid #000; }
-            
-            .assinaturas { margin-top: 20px; page-break-inside: avoid; font-size: 10pt; }
-            .linha-assinatura { height: 20px; }
-            
-            .rodape-container { page-break-inside: avoid; border-top: 1px solid #000; }
-            #rodape-endereco { font-size: 8.5pt !important; overflow: hidden; height: auto; }
+            table { margin-bottom: 5px; }
+            .assinaturas { margin-top: 25px; page-break-inside: avoid; }
         }
     </style>
 </head>
@@ -220,11 +230,11 @@
 
     <div class="container">
         <div class="header-grid">
-            <div class="titles">
+            <div></div> <div class="titles">
                 <div class="linha1">COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO</div>
-                <div class="linha2">Planilha para Recuperação de Danos Causados por Outras Concessionárias ou Terceiros</div>
+                <div class="linha2">Recuperação de Danos Causados por Outras Concessionárias ou Terceiros</div>
             </div>
-            <div>
+            <div class="logo-box">
                 <img src="logosabesp.png" class="logo-placeholder" alt="Logo Sabesp" onerror="this.style.display='none'">
             </div>
         </div>
@@ -239,7 +249,7 @@
                 <input type="text" id="unidade-outros" class="hidden" placeholder="Informe a unidade" style="width: 200px;">
             </div>
             <div class="row">
-                <label>SEF nº:</label>
+                <label>nº:</label>
                 <input type="text" id="sef" placeholder="nº XXX/XX" style="width: 120px;">
             </div>
         </div>
@@ -248,7 +258,7 @@
             <div id="unidade-extenso" style="font-size: 11pt;">Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP</div>
         </div>
 
-        <div class="row" style="margin-top: 8px;">
+        <div class="row" style="margin-top: 10px;">
             <label>Endereço do local atingido:</label>
             <input type="text" id="endereco-local" style="flex: 1;" placeholder="Digite o endereço completo">
         </div>
@@ -348,7 +358,7 @@
                             </div>
                         </div>
                     </div>
-                    <div id="aviso-secao-plena" style="display: none; color: var(--primary-color); font-style: italic; font-size: 9pt; max-width: 250px; line-height: 1.2;">
+                    <div id="aviso-secao-plena" style="display: none; color: var(--sabesp-blue); font-style: italic; font-size: 10pt; max-width: 250px; line-height: 1.2;">
                         Vazão tabelada aplicada (despressurização).
                     </div>
                 </div>
@@ -381,18 +391,21 @@
                     <th>Total(R$)</th>
                 </tr>
                 <tr>
-                    <td><input type="date" id="data-ini" onchange="calcularAgua()" style="width: 100%; box-sizing: border-box; padding: 2px; font-size: 9pt;"></td>
-                    <td><input type="time" id="hora-ini" onchange="calcularAgua()" style="width: 100%; box-sizing: border-box; padding: 2px; font-size: 9pt;"></td>
-                    <td><input type="date" id="data-fim" onchange="calcularAgua()" style="width: 100%; box-sizing: border-box; padding: 2px; font-size: 9pt;"></td>
-                    <td><input type="time" id="hora-fim" onchange="calcularAgua()" style="width: 100%; box-sizing: border-box; padding: 2px; font-size: 9pt;"></td>
+                    <td><input type="date" id="data-ini" onchange="calcularAgua()" style="width: 100%; box-sizing: border-box; padding: 2px;"></td>
+                    <td><input type="time" id="hora-ini" onchange="calcularAgua()" style="width: 100%; box-sizing: border-box; padding: 2px;"></td>
+                    <td><input type="date" id="data-fim" onchange="calcularAgua()" style="width: 100%; box-sizing: border-box; padding: 2px;"></td>
+                    <td><input type="time" id="hora-fim" onchange="calcularAgua()" style="width: 100%; box-sizing: border-box; padding: 2px;"></td>
                     <td style="text-align: center;"><span id="calc-segundos">0</span></td>
                     <td style="text-align: center;"><span id="calc-vazao">0.00</span></td>
                     <td style="text-align: center;"><span id="calc-vol">0.00</span></td>
                     <td><input type="number" id="valor-m3" value="20.52" step="0.01" style="width:100%; box-sizing: border-box; padding: 2px;" oninput="calcularAgua()"></td>
-                    <td style="font-weight: bold; text-align: right; color: var(--primary-color);"><span id="calc-total-agua">0.00</span></td>
+                    <td style="font-weight: bold; text-align: right; color: var(--text-black);"><span id="calc-total-agua">0.00</span></td>
                 </tr>
             </table>
-            <div style="text-align: right; font-weight: bold; font-size: 11pt;">Subtotal Água Perdida: R$ <span id="subtotal-1">0.00</span></div>
+            
+            <div class="row" style="justify-content: flex-end;">
+                <div class="subtitle">Subtotal 1 - Água Perdida: R$ <span id="subtotal-1">0.00</span></div>
+            </div>
         </div>
 
         <div class="section-title">2.1 - Serviço Executado</div>
@@ -406,7 +419,10 @@
                 <th style="width: 12%;">Sub Total</th>
             </tr>
             </table>
-        <div style="text-align: right; font-weight: bold; font-size: 11pt; margin-top: -5px;">Subtotal Serviços: R$ <span id="subtotal-servicos">0.00</span></div>
+        
+        <div class="row" style="justify-content: flex-end;">
+            <div class="subtitle">Subtotal Serviços: R$ <span id="subtotal-servicos">0.00</span></div>
+        </div>
 
         <div class="section-title">2.2 - Materiais</div>
         <table id="tabela-materiais">
@@ -419,18 +435,24 @@
                 <th style="width: 12%;">Sub Total</th>
             </tr>
             </table>
-        <div style="text-align: right; font-weight: bold; font-size: 11pt; margin-top: -5px;">Subtotal Materiais: R$ <span id="subtotal-materiais">0.00</span></div>
-        <div style="text-align: right; font-weight: bold; font-size: 11pt; margin-top: 3px; color: var(--primary-color);">Subtotal 2 (Serviços+Materiais): R$ <span id="subtotal-2">0.00</span></div>
+        
+        <div class="row" style="justify-content: flex-end; flex-direction: column; align-items: flex-end;">
+            <div class="subtitle" style="margin-top: 0;">Subtotal Materiais: R$ <span id="subtotal-materiais">0.00</span></div>
+            <div class="subtitle" style="margin-top: 0;">Subtotal 2 (Serviços+Materiais): R$ <span id="subtotal-2">0.00</span></div>
+        </div>
 
         <div class="section-title">3 - Custos Operacionais e Administrativos</div>
         <div class="row" style="justify-content: space-between;">
-            <div style="font-weight: bold;">Equipes Técnicas + Administrativas + Despesas Indiretas (BDI)</div>
+            <div class="subtitle" style="margin: 0;">Equipes Técnicas + Administrativas + Despesas Indiretas (BDI)</div>
             <div class="row">
                 <label>Taxa (%):</label>
                 <input type="number" id="taxa-bdi" value="28" style="width: 60px;" oninput="calcularGeral()">
             </div>
         </div>
-        <div style="text-align: right; font-weight: bold; font-size: 11pt;">Subtotal Custos Indiretos: R$ <span id="subtotal-3">0.00</span></div>
+        
+        <div class="row" style="justify-content: flex-end;">
+            <div class="subtitle">Subtotal Custos Indiretos: R$ <span id="subtotal-3">0.00</span></div>
+        </div>
 
         <div class="totais-box">
             <div class="row"><span>1 - Água Perdida:</span> <span>R$ <span id="resumo-1">0.00</span></span></div>
@@ -440,8 +462,8 @@
             <div class="row total-final-row">
                 <span>TOTAL FINAL:</span> <span>R$ <span id="total-final">0.00</span></span>
             </div>
-            <div class="row" style="justify-content: flex-end; font-size: 9pt; color: #666; margin-top: 2px;">
-                Equivalente em UFESPs: <span id="total-ufesp" style="margin-left: 5px; font-weight: bold; color:#333;">0.00</span>
+            <div class="row" style="justify-content: flex-end; font-size: 11pt; color: #555; margin-top: 2px;">
+                Equivalente em UFESPs: <span id="total-ufesp" style="margin-left: 5px; font-weight: bold; color: var(--text-black);">0.00</span>
             </div>
         </div>
 
@@ -450,7 +472,7 @@
                 <div class="linha-assinatura"></div>
                 <div style="font-weight: bold; margin-bottom: 2px;">Elaborado por:</div>
                 <input type="text" placeholder="Nome do Responsável" style="width: 100%; text-align: center; margin-bottom: 2px; border:none; background:transparent;">
-                <select style="width: 100%; text-align: center; border:none; background:transparent; font-size: 10pt; color: #555;">
+                <select style="width: 100%; text-align: center; border:none; background:transparent; font-size: 11pt; color: #555;">
                     <option>Engenheiro Civil</option>
                     <option>Engenheiro</option>
                     <option>Técnico em Saneamento</option>
@@ -461,7 +483,7 @@
                 <div class="linha-assinatura"></div>
                 <div style="font-weight: bold; margin-bottom: 2px;">Aprovado por:</div>
                 <input type="text" placeholder="Nome do Gerente/Superior" style="width: 100%; text-align: center; margin-bottom: 2px; border:none; background:transparent;">
-                <select style="width: 100%; text-align: center; border:none; background:transparent; font-size: 10pt; color: #555;">
+                <select style="width: 100%; text-align: center; border:none; background:transparent; font-size: 11pt; color: #555;">
                     <option>Engenheiro Civil</option>
                     <option>Engenheiro</option>
                     <option>Gerente de Divisão</option>
@@ -471,8 +493,12 @@
         </div>
 
         <div class="rodape-container">
-            <div id="rodape-setor" style="font-weight: bold; color: var(--primary-color);">Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP</div>
-            <textarea id="rodape-endereco" style="width: 100%; text-align: left; border: none; resize: none; font-family: inherit; font-size: 9pt; color: #555; background:transparent;" rows="2">Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP&#10;Telefone: (12) 3904-3202</textarea>
+            <div class="rodape-texto">
+                Companhia de Saneamento Básico do Estado de São Paulo – Sabesp<br>
+                <span id="rodape-unidade-dep">Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP</span><br>
+                <textarea id="rodape-endereco" rows="2">Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP</textarea>
+                www.sabesp.com.br
+            </div>
         </div>
     </div>
 
@@ -495,16 +521,14 @@
             tratarFormatoDano();
         };
 
-        // INICIALIZAÇÃO INSTANTÂNEA E NATIVA DOS ARQUIVOS .JS
         function inicializarBases() {
             if (typeof baseServicos !== 'undefined') {
                 dbServicos = baseServicos;
             } else {
-                console.error("Aviso: servicos.js não carregado corretamente.");
+                console.error("Base de serviços não carregada.");
             }
 
             if (typeof baseMateriais !== 'undefined') {
-                // Conversão das colunas feita na hora
                 dbMateriais = baseMateriais.map(m => ({
                     NPRECO: m["Material"] !== undefined ? m["Material"] : m.NPRECO,
                     ESPEC: m["Texto breve material"] !== undefined ? m["Texto breve material"] : m.ESPEC,
@@ -512,18 +536,16 @@
                     PUNIT: m["Valor Unitário"] !== undefined ? m["Valor Unitário"] : m.PUNIT
                 }));
             } else {
-                console.error("Aviso: materiais.js não carregado corretamente.");
+                console.error("Base de materiais não carregada.");
             }
         }
 
-        // FECHAR DROP DOWNS SE CLICAR FORA
         document.addEventListener('click', function(e) {
             if (!e.target.classList.contains('desc-input')) {
                 document.querySelectorAll('.autocomplete-list').forEach(el => el.style.display = 'none');
             }
         });
 
-        // OCULTAR LINHAS VAZIAS ANTES DA IMPRESSÃO
         window.addEventListener('beforeprint', function() {
             const tabelas = ['tabela-servicos', 'tabela-materiais'];
             tabelas.forEach(id => {
@@ -538,7 +560,6 @@
             });
         });
 
-        // DEVOLVER LINHAS VAZIAS APÓS A IMPRESSÃO
         window.addEventListener('afterprint', function() {
             document.querySelectorAll('.hide-on-print').forEach(el => el.classList.remove('hide-on-print'));
         });
@@ -549,7 +570,6 @@
             return parseFloat(limpo) || 0;
         }
 
-        // === AUTOCOMPLETAR CUSTOMIZADO ===
         function removerAcentos(texto) {
             if(!texto) return "";
             return texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
@@ -610,32 +630,31 @@
             tr.querySelector(`.val-${tipo}`).value = parseValor(item.PUNIT);
             calcSubtotalLinha(tr.querySelector(`.qtd-${tipo}`), tipo);
         }
-        // ==============================================================
 
         function tratarUnidade() {
             const val = document.getElementById('unidade').value;
             const inputOutros = document.getElementById('unidade-outros');
             const textoExtenso = document.getElementById('unidade-extenso');
-            const rodapeSetor = document.getElementById('rodape-setor');
+            const rodapeUnidadeDep = document.getElementById('rodape-unidade-dep');
             const rodapeEnd = document.getElementById('rodape-endereco');
 
             if (val === 'Outros') {
                 inputOutros.classList.remove('hidden');
                 textoExtenso.innerText = "_______________________________________________________";
-                rodapeSetor.innerText = "_______________________________________________________";
+                rodapeUnidadeDep.innerText = "_______________________________________________________";
                 rodapeEnd.value = "Insira o endereço aqui";
             } else {
                 inputOutros.classList.add('hidden');
                 textoExtenso.innerText = "Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP";
-                rodapeSetor.innerText = "Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP";
-                rodapeEnd.value = "Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP\nTelefone: (12) 3904-3202";
+                rodapeUnidadeDep.innerText = "Divisão de Manutenção e Serviços Operacionais de São José dos Campos - SP";
+                rodapeEnd.value = "Rua Paulo Setúbal, 19 - Vila Adyanna - CEP 12245-460 - São José dos Campos - SP";
             }
         }
 
         document.getElementById('unidade-outros').addEventListener('input', function() {
             const texto = this.value || "_______________________________________________________";
             document.getElementById('unidade-extenso').innerText = texto;
-            document.getElementById('rodape-setor').innerText = texto;
+            document.getElementById('rodape-unidade-dep').innerText = texto;
         });
 
         function tratarDano() {
@@ -740,7 +759,7 @@
                 if(vazoesSecaoPlena[diamRede]) {
                     vazaoLs = vazoesSecaoPlena[diamRede];
                     document.getElementById('aviso-secao-plena').innerText = `Vazão tabelada (${vazaoLs.toFixed(3)} L/s) aplicada para compensar despressurização.`;
-                    document.getElementById('aviso-secao-plena').style.color = "var(--primary-color)";
+                    document.getElementById('aviso-secao-plena').style.color = "var(--sabesp-blue)";
                 } else {
                     vazaoLs = 0;
                     document.getElementById('aviso-secao-plena').innerText = "Diâmetro sem vazão tabelada. Insira no código.";
@@ -769,11 +788,11 @@
                         <input type="text" class="desc-input" autocomplete="off" oninput="mostrarSugestoes(this, '${tipo}')" onfocus="mostrarSugestoes(this, '${tipo}')" style="width: 100%; box-sizing: border-box;" placeholder="Digite para buscar...">
                         <div class="autocomplete-list"></div>
                     </td>
-                    <td><input type="text" class="num-${tipo}" readonly style="width: 100%; box-sizing: border-box; text-align: center; color: var(--primary-color); font-weight: bold;"></td>
+                    <td><input type="text" class="num-${tipo}" readonly style="width: 100%; box-sizing: border-box; text-align: center; color: var(--text-black); font-weight: bold;"></td>
                     <td><input type="text" class="unid-${tipo}" readonly style="width: 100%; box-sizing: border-box; text-align: center;"></td>
                     <td><input type="number" class="qtd-${tipo}" oninput="calcSubtotalLinha(this, '${tipo}')" style="width: 100%; box-sizing: border-box;"></td>
                     <td><input type="number" class="val-${tipo}" readonly style="width: 100%; box-sizing: border-box;"></td>
-                    <td><input type="text" class="sub-${tipo}" readonly value="0.00" style="width: 100%; box-sizing: border-box; text-align: right; font-weight: bold; color: var(--primary-color);"></td>
+                    <td><input type="text" class="sub-${tipo}" readonly value="0.00" style="width: 100%; box-sizing: border-box; text-align: right; font-weight: bold; color: var(--text-black);"></td>
                 `;
                 tabela.appendChild(tr);
             }
