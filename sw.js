@@ -1,4 +1,5 @@
-const CACHE_NAME = 'sabesp-orcamento-v2'; // Versão 2 força a limpeza do erro antigo
+const CACHE_NAME = 'sabesp-orcamento-cache';
+
 const urlsToCache = [
   './',
   './index.html',
@@ -8,7 +9,6 @@ const urlsToCache = [
   './manifest.json'
 ];
 
-// Instala o Service Worker e pula a espera
 self.addEventListener('install', event => {
   self.skipWaiting();
   event.waitUntil(
@@ -16,7 +16,6 @@ self.addEventListener('install', event => {
   );
 });
 
-// Limpa o lixo (cache antigo) que estava quebrando o seu app
 self.addEventListener('activate', event => {
   event.waitUntil(
     caches.keys().then(cacheNames => {
@@ -32,7 +31,7 @@ self.addEventListener('activate', event => {
   self.clients.claim();
 });
 
-// Estratégia de Rede Primeiro (Para preços e itens estarem sempre atualizados)
+// Estratégia "Network First" (Sempre procura a versão mais nova na internet primeiro)
 self.addEventListener('fetch', event => {
   event.respondWith(
     fetch(event.request).then(response => {
@@ -41,7 +40,6 @@ self.addEventListener('fetch', event => {
         return response;
       });
     }).catch(() => {
-      // Se der erro de rede (offline), usa o que tem em cache
       return caches.match(event.request);
     })
   );
