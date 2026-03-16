@@ -23,7 +23,7 @@
 
         body {
             font-family: Tahoma, sans-serif;
-            font-size: 10pt; 
+            font-size: 9pt; /* Reduzido para ficar mais limpo e caber melhor */
             color: var(--text-black);
             margin: 20px auto;
             max-width: 210mm;
@@ -38,7 +38,6 @@
             border-radius: 8px;
             width: 100%;
             max-width: 100%;
-            position: relative;
         }
 
         table.print-structure { width: 100%; border: none; border-collapse: collapse; }
@@ -52,7 +51,7 @@
         }
         .titles { flex: 1; text-align: center; padding-right: 20px; }
         .linha1 { font-size: 7pt; font-weight: bold; color: var(--sabesp-blue); text-transform: uppercase; margin-bottom: 4px; }
-        .linha2 { font-size: 16pt; font-weight: bold; color: var(--sabesp-blue); text-transform: uppercase; line-height: 1.1; }
+        .linha2 { font-size: 14pt; font-weight: bold; color: var(--sabesp-blue); text-transform: uppercase; line-height: 1.1; }
         .logo-box { text-align: right; flex-shrink: 0; }
         .logo-placeholder { max-height: 65px; max-width: 150px; object-fit: contain; }
 
@@ -60,55 +59,50 @@
         .rodape-texto, .rodape-texto div { font-weight: bold; font-size: 8pt; color: var(--sabesp-blue); text-align: left; line-height: 1.2; }
 
         .row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 6px; width: 100%; }
-        label { font-weight: bold; color: var(--text-black); font-size: 10pt; }
+        label { font-weight: bold; color: var(--text-black); font-size: 9pt; }
         
         input, select {
             padding: 3px 5px; border: 1px solid var(--border-color); border-radius: 4px;
-            font-family: Tahoma, sans-serif; font-size: 10pt; color: var(--text-black); width: 100%;
+            font-family: Tahoma, sans-serif; font-size: 9pt; color: var(--text-black); width: 100%;
         }
         input:focus, select:focus { border-color: var(--sabesp-blue); outline: none; }
         input[type="number"] { text-align: right; }
+        
+        input#os { background-color: #eef9ff !important; border: 1.5px solid var(--sabesp-blue) !important; font-weight: bold; }
 
         .hidden { display: none !important; }
 
         table.data-table {
             width: 100%; table-layout: fixed; border-collapse: collapse; margin-bottom: 15px;
-            font-size: 9pt; word-wrap: break-word; border: 1px solid var(--border-color);
+            font-size: 8.5pt; word-wrap: break-word; border: 1px solid var(--border-color);
         }
         table.data-table th, table.data-table td { border: 1px solid var(--border-color); padding: 3px; text-align: left; overflow: visible; }
         table.data-table th { background-color: var(--bg-color); font-weight: bold; text-align: center; }
         
         th.section-header {
-            font-size: 11pt; color: var(--sabesp-blue); text-transform: uppercase; text-align: left !important;
+            font-size: 10pt; color: var(--sabesp-blue); text-transform: uppercase; text-align: left !important;
             background-color: #f9f9f9; padding: 5px 8px; border-bottom: 2px solid var(--sabesp-blue);
         }
 
-        .subtitle { font-weight: bold; font-size: 10pt; color: var(--sabesp-blue); text-align: left; margin-top: 2px; }
-        table.data-table td input { width: 100%; border: none; background: transparent; font-size: 9pt; padding: 2px; } 
-
-        /* DESTAQUE PARA A ORDEM DE SERVIÇO (OS) */
-        input#os {
-            background-color: #eef9ff !important;
-            border: 1.5px solid var(--sabesp-blue) !important;
-            font-weight: bold;
-            border-radius: 3px;
-        }
+        .subtitle { font-weight: bold; font-size: 9.5pt; color: var(--sabesp-blue); text-align: left; margin-top: 2px; }
+        table.data-table td input { width: 100%; border: none; background: transparent; font-size: 8.5pt; padding: 2px; } 
 
         .autocomplete-list {
             position: absolute; top: 100%; left: 0; width: 100%; min-width: 350px; background: #fff;
             border: 1px solid var(--sabesp-blue); box-shadow: 0 8px 16px rgba(0,0,0,0.2);
             z-index: 9999; max-height: 250px; overflow-y: auto; display: none; border-radius: 0 0 4px 4px;
         }
-        .autocomplete-list div { padding: 8px 10px; cursor: pointer; border-bottom: 1px solid #eee; font-size: 9pt; color: #333; }
+        .autocomplete-list div { padding: 6px 10px; cursor: pointer; border-bottom: 1px solid #eee; font-size: 9pt; color: #333; }
         .autocomplete-list div:hover { background-color: var(--sabesp-blue); color: white; }
 
         .totais-box {
             border: 2px solid var(--sabesp-blue); border-radius: 6px; padding: 10px 15px;
             background-color: #fafafa; margin-top: 5px; width: 100%;
         }
-        .totais-box .row { justify-content: space-between; margin-bottom: 4px; font-weight: bold; font-size: 10pt; }
+        .totais-box .row { justify-content: space-between; margin-bottom: 4px; font-weight: bold; font-size: 9.5pt; }
         .total-final-row { 
-            font-size: 12pt; font-weight: bold; color: var(--sabesp-blue); margin-top: 8px; padding-top: 8px; border-top: 2px solid var(--sabesp-blue); 
+            font-size: 12pt; font-weight: bold; color: var(--sabesp-blue); margin-top: 8px; padding-top: 8px; 
+            border-top: 2px solid var(--sabesp-blue); /* Linha Contínua */
         }
 
         .assinaturas { display: flex; justify-content: space-around; text-align: center; margin-top: 25px; margin-bottom: 10px; width: 100%; page-break-inside: avoid; }
@@ -116,10 +110,7 @@
         .assinatura-label { font-size: 7pt; font-weight: normal; margin-bottom: 25px; color: var(--text-black); }
         .linha-assinatura { border-top: 1px solid var(--text-black); width: 100%; margin-bottom: 3px; }
 
-        /* MENU DE AÇÕES E BOTÕES */
-        .action-menu {
-            display: flex; justify-content: center; gap: 10px; margin-bottom: 15px; flex-wrap: wrap;
-        }
+        .action-menu { display: flex; justify-content: center; gap: 10px; margin-bottom: 15px; flex-wrap: wrap; }
         .btn {
             padding: 8px 15px; background-color: #0056b3; color: white; border: none; border-radius: 5px;
             cursor: pointer; font-weight: bold; font-size: 10pt; font-family: Tahoma, sans-serif;
@@ -129,14 +120,9 @@
         .btn-salvar { background-color: #28a745; }
         .btn-carregar { background-color: #ff9800; color: black; }
 
-        /* JANELA FLUTUANTE DE VERSÕES (CHANGELOG) */
-        .version-wrapper {
-            position: absolute; top: 10px; left: 10px; cursor: help;
-        }
-        .version-badge {
-            background-color: var(--sabesp-blue); color: #000; font-weight: bold; font-size: 8pt;
-            padding: 4px 8px; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);
-        }
+        /* JANELA FLUTUANTE DE VERSÕES */
+        .version-wrapper { position: absolute; top: 10px; left: 10px; cursor: help; }
+        .version-badge { background-color: var(--sabesp-blue); color: #000; font-weight: bold; font-size: 8pt; padding: 4px 8px; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
         .changelog-box {
             position: absolute; top: 25px; left: 0; width: 320px; background-color: #fff;
             border: 2px solid var(--sabesp-blue); border-radius: 6px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);
@@ -171,9 +157,9 @@
             table.data-table td { padding: 1px 2px; }
             
             .row { margin-bottom: 2px; gap: 4px; }
-            table.data-table { margin-bottom: 8px; font-size: 8.5pt; width: 100%; table-layout: fixed; }
-            th.section-header { padding: 4px 6px; font-size: 10pt; text-align: left !important; } 
-            table.data-table td input { font-size: 8.5pt; }
+            table.data-table { margin-bottom: 8px; font-size: 8pt; width: 100%; table-layout: fixed; }
+            th.section-header { padding: 4px 6px; font-size: 9.5pt; text-align: left !important; } 
+            table.data-table td input { font-size: 8pt; }
             
             .assinaturas { margin-top: 15px; }
             .assinatura-label { margin-bottom: 20px; }
@@ -192,21 +178,16 @@
     </div>
 
     <div class="container">
-        
         <div class="version-wrapper no-print">
-            <div class="version-badge">v2.3 ℹ️</div>
+            <div class="version-badge">v2.4 ℹ️</div>
             <div class="changelog-box">
                 <h4>Últimas Atualizações</h4>
                 <ul>
-                    <li><strong>v2.3:</strong> Salvar/Carregar projeto (.json); Auto-update; Destaque visual na OS.</li>
+                    <li><strong>v2.4:</strong> Sistema Inteligente de Linhas (Remove vazias automaticamente); Linha do total contínua.</li>
+                    <li><strong>v2.3:</strong> Salvar/Carregar projeto (.json); Auto-update em Cache.</li>
                     <li><strong>v2.2:</strong> Ajuste de CSS da tabela (overflow) para correção da busca suspensa.</li>
-                    <li><strong>v2.1:</strong> Repetição fixa de cabeçalho/rodapé na impressão e nova estrutura de títulos.</li>
+                    <li><strong>v2.1:</strong> Repetição fixa de cabeçalho/rodapé na impressão.</li>
                     <li><strong>v2.0:</strong> Layout responsivo adaptado para folha A4 e busca customizada anti-acentos.</li>
-                    <li><strong>v1.9:</strong> Integração com bases locais (.js) no GitHub para modo offline.</li>
-                    <li><strong>v1.8:</strong> Correções visuais na impressão e tabelas fixas.</li>
-                    <li><strong>v1.7:</strong> Identidade Visual padrão Sabesp (Azul #12D0FF e fonte Tahoma).</li>
-                    <li><strong>v1.5:</strong> Menu drop-down de materiais ativado.</li>
-                    <li><strong>v1.0:</strong> Criação inicial da estrutura da planilha.</li>
                 </ul>
             </div>
         </div>
@@ -251,7 +232,7 @@
                         </div>
 
                         <div class="row" style="margin-top: 8px;">
-                            <label style="width: 200px;">Endereço do local atingido:</label>
+                            <label style="width: 180px;">Endereço do local atingido:</label>
                             <input type="text" id="endereco-local" style="flex: 1;" placeholder="Digite o endereço completo">
                         </div>
 
@@ -279,7 +260,7 @@
                             <tbody>
                                 <tr>
                                     <td>
-                                        <select id="tipo-dano" onchange="tratarDano()" style="border:none; font-size: 9pt;">
+                                        <select id="tipo-dano" onchange="tratarDano()" style="border:none; font-size: 8.5pt;">
                                             <option value="Reparo de Rede de Água">Reparo de Rede de Água</option>
                                             <option value="Reparo de Ramal de Água">Reparo de Ramal de Água</option>
                                             <option value="Reparo de Rede de Esgoto">Reparo de Rede de Esgoto</option>
@@ -289,7 +270,7 @@
                                         <input type="text" id="tipo-dano-outros" class="hidden" placeholder="Especificar">
                                     </td>
                                     <td>
-                                        <select id="material-dano" onchange="tratarDropdown('material-dano')" style="border:none; font-size: 9pt;">
+                                        <select id="material-dano" onchange="tratarDropdown('material-dano')" style="border:none; font-size: 8.5pt;">
                                             <option value="PVC">PVC</option><option value="PEAD">PEAD</option><option value="Fofo">Fofo</option>
                                             <option value="Defofo">Defofo</option><option value="Fibra">Fibra</option><option value="Concreto">Concreto Arm.</option>
                                             <option value="Cerâmica">Manilha Cerâm.</option><option value="Outros">Outros</option>
@@ -297,7 +278,7 @@
                                         <input type="text" id="material-dano-outros" class="hidden" placeholder="Esp.">
                                     </td>
                                     <td>
-                                        <select id="diametro-dano" onchange="tratarDropdown('diametro-dano')" style="text-align: center; border:none; font-size: 9pt;">
+                                        <select id="diametro-dano" onchange="tratarDropdown('diametro-dano')" style="text-align: center; border:none; font-size: 8.5pt;">
                                             <option value="20">20</option><option value="25">25</option><option value="32">32</option><option value="50">50</option>
                                             <option value="75">75</option><option value="100">100</option><option value="150">150</option><option value="200">200</option>
                                             <option value="250">250</option><option value="300">300</option><option value="350">350</option><option value="400">400</option>
@@ -328,7 +309,7 @@
                                             <div class="row" style="gap: 15px; width: auto;">
                                                 <div>
                                                     <label style="font-size: 9pt;">Seção de Vazamento:</label><br>
-                                                    <select id="tipo-secao" onchange="tratarSecaoVazamento()" style="font-size: 9pt; width: 140px;">
+                                                    <select id="tipo-secao" onchange="tratarSecaoVazamento()" style="font-size: 8.5pt; width: 140px;">
                                                         <option value="Área do Furo">Área do Furo (Localizada)</option>
                                                         <option value="Seção Plena">Seção Plena (Tubo Rompido)</option>
                                                     </select>
@@ -337,7 +318,7 @@
                                                 <div id="box-dimensoes-furo" class="row" style="width: auto;">
                                                     <div>
                                                         <label style="font-size: 9pt;">Formato do Dano:</label><br>
-                                                        <select id="formato-dano" onchange="tratarFormatoDano()" style="font-size: 9pt; width: 150px;">
+                                                        <select id="formato-dano" onchange="tratarFormatoDano()" style="font-size: 8.5pt; width: 150px;">
                                                             <option value="circular">Furo Circular (Cd=0.61)</option>
                                                             <option value="irregular">Rupt. Irregular (Cd=0.55)</option>
                                                             <option value="longitudinal">Fissura Long. (Cd=0.80)</option>
@@ -360,7 +341,7 @@
                             
                                             <div style="width: auto;">
                                                 <label style="font-size: 9pt;">Pressão(mca):</label><br>
-                                                <input type="number" id="pressao" value="10" style="width: 60px; font-size: 9pt;" oninput="calcularAgua()">
+                                                <input type="number" id="pressao" value="10" style="width: 60px; font-size: 8.5pt;" oninput="calcularAgua()">
                                             </div>
                                         </div>
                                     </td>
@@ -405,7 +386,7 @@
                             <tbody id="tabela-servicos"></tbody>
                             <tfoot>
                                 <tr>
-                                    <td colspan="6" style="border-top: none; background-color: #fff;">
+                                    <td colspan="6" style="border-top: none; background-color: #fff; padding-bottom: 0;">
                                         <div class="row" style="justify-content: flex-end; margin: 0;">
                                             <div class="subtitle">Subtotal Serviços: R$ <span id="subtotal-servicos">0.00</span></div>
                                         </div>
@@ -429,7 +410,7 @@
                             <tbody id="tabela-materiais"></tbody>
                             <tfoot>
                                 <tr>
-                                    <td colspan="6" style="border-top: none; background-color: #fff;">
+                                    <td colspan="6" style="border-top: none; background-color: #fff; padding-bottom: 0;">
                                         <div class="row" style="justify-content: flex-end; flex-direction: column; align-items: flex-end; margin: 0; gap: 2px;">
                                             <div class="subtitle" style="margin-top: 0;">Subtotal Materiais: R$ <span id="subtotal-materiais">0.00</span></div>
                                             <div class="subtitle" style="margin-top: 0;">Subtotal 2 (Serviços+Materiais): R$ <span id="subtotal-2">0.00</span></div>
@@ -480,8 +461,8 @@
                             <div class="assinatura-box">
                                 <div class="assinatura-label">Elaborado por:</div>
                                 <div class="linha-assinatura"></div>
-                                <input type="text" id="ass-nome-1" placeholder="Nome do Responsável" style="padding: 0; margin-bottom: 2px; border:none; background:transparent; font-size: 10pt;">
-                                <select id="ass-cargo-1" style="padding: 0; border:none; background:transparent; font-size: 10pt; color: #555;">
+                                <input type="text" id="ass-nome-1" placeholder="Nome do Responsável" style="padding: 0; margin-bottom: 2px; border:none; background:transparent; font-size: 9.5pt;">
+                                <select id="ass-cargo-1" style="padding: 0; border:none; background:transparent; font-size: 9.5pt; color: #555;">
                                     <option>Engenheiro Civil</option><option>Engenheiro</option>
                                     <option>Técnico em Saneamento</option><option>Coordenador</option><option>Outro</option>
                                 </select>
@@ -489,8 +470,8 @@
                             <div class="assinatura-box">
                                 <div class="assinatura-label">Aprovado por:</div>
                                 <div class="linha-assinatura"></div>
-                                <input type="text" id="ass-nome-2" placeholder="Nome do Gerente/Superior" style="padding: 0; margin-bottom: 2px; border:none; background:transparent; font-size: 10pt;">
-                                <select id="ass-cargo-2" style="padding: 0; border:none; background:transparent; font-size: 10pt; color: #555;">
+                                <input type="text" id="ass-nome-2" placeholder="Nome do Gerente/Superior" style="padding: 0; margin-bottom: 2px; border:none; background:transparent; font-size: 9.5pt;">
+                                <select id="ass-cargo-2" style="padding: 0; border:none; background:transparent; font-size: 9.5pt; color: #555;">
                                     <option>Engenheiro Civil</option><option>Engenheiro</option>
                                     <option>Gerente de Divisão</option><option>Coordenador</option><option>Outro</option>
                                 </select>
@@ -525,18 +506,15 @@
 
     <script>
         // === SISTEMA DE AUTO-UPDATE DE VERSÃO ===
-        const VERSAO_APP = "2.3";
+        const VERSAO_APP = "2.4";
         if (localStorage.getItem("versao_planilha_sabesp") !== VERSAO_APP) {
             if ('caches' in window) {
-                caches.keys().then(names => {
-                    names.forEach(name => caches.delete(name));
-                });
+                caches.keys().then(names => { names.forEach(name => caches.delete(name)); });
             }
             localStorage.setItem("versao_planilha_sabesp", VERSAO_APP);
             window.location.reload(true);
         }
 
-        // Registra o Service Worker (PWA)
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js'); });
         }
@@ -553,8 +531,8 @@
         window.onload = () => {
             try {
                 inicializarBases();
-                gerarLinhasTabela('tabela-servicos', 5, 'servico'); 
-                gerarLinhasTabela('tabela-materiais', 5, 'material');
+                gerarLinhasTabela('tabela-servicos', 1, 'servico'); // Começa com 1 linha dinâmica
+                gerarLinhasTabela('tabela-materiais', 1, 'material'); // Começa com 1 linha dinâmica
                 tratarSecaoVazamento(); 
                 tratarFormatoDano();
             } catch(e) { console.error("Erro na inicialização:", e); }
@@ -578,6 +556,66 @@
             if (!e.target.classList.contains('desc-input')) {
                 document.querySelectorAll('.autocomplete-list').forEach(el => el.style.display = 'none');
             }
+        });
+
+        // === NOVO SISTEMA DE LINHAS DINÂMICAS ===
+        function atualizarLinhas(tipo) {
+            const tabela = document.getElementById(`tabela-${tipo}s`);
+            const linhas = Array.from(tabela.querySelectorAll('tr'));
+            let vazias = [];
+            
+            linhas.forEach(tr => {
+                const input = tr.querySelector('.desc-input');
+                if (input && input.value.trim() === '') {
+                    vazias.push(tr);
+                } else if (input) {
+                    tr.style.display = '';
+                }
+            });
+
+            if (vazias.length === 0) {
+                gerarLinhasTabela(`tabela-${tipo}s`, 1, tipo);
+                return; 
+            }
+
+            const ultimaVazia = vazias[vazias.length - 1];
+            ultimaVazia.style.display = ''; // Mantém sempre a última vazia para digitar
+
+            // Esconde todas as outras vazias, EXCETO a que estiver focada no momento
+            for (let i = 0; i < vazias.length - 1; i++) {
+                const tr = vazias[i];
+                const input = tr.querySelector('.desc-input');
+                const hasFocus = (document.activeElement === input || tr.contains(document.activeElement));
+                if (hasFocus) {
+                    tr.style.display = '';
+                } else {
+                    tr.style.display = 'none';
+                    tr.classList.add('hide-on-print'); // Marca para a impressão não ler
+                }
+            }
+        }
+
+        window.addEventListener('beforeprint', function() {
+            const tabelas = ['tabela-servicos', 'tabela-materiais'];
+            tabelas.forEach(id => {
+                const trs = document.querySelectorAll(`#${id} tr`);
+                trs.forEach(tr => {
+                    const inputDesc = tr.querySelector('.desc-input');
+                    if(inputDesc && inputDesc.value.trim() === '') tr.classList.add('hide-on-print');
+                });
+            });
+        });
+
+        window.addEventListener('afterprint', function() {
+            document.querySelectorAll('.hide-on-print').forEach(el => {
+                if(el.querySelector('.desc-input') && el.querySelector('.desc-input').value.trim() !== ''){
+                    el.classList.remove('hide-on-print');
+                } else if (!el.style.display) {
+                    el.classList.remove('hide-on-print');
+                }
+            });
+            atualizarLinhas('servico');
+            atualizarLinhas('material');
         });
 
         function parseValor(strPunit) {
@@ -616,7 +654,6 @@
                 const div = document.createElement('div');
                 div.innerHTML = `<strong>${item.NPRECO}</strong> - ${item.ESPEC}`;
                 
-                // Mousedown resolve o conflito de perda de foco antes do clique
                 div.onmousedown = function(e) {
                     e.preventDefault();
                     e.stopPropagation();
@@ -635,6 +672,7 @@
             tr.querySelector(`.unid-${tipo}`).value = "";
             tr.querySelector(`.val-${tipo}`).value = "";
             calcSubtotalLinha(tr.querySelector(`.qtd-${tipo}`), tipo);
+            atualizarLinhas(tipo);
         }
 
         function aplicarItemSelecionado(input, item, tipo) {
@@ -643,6 +681,32 @@
             tr.querySelector(`.unid-${tipo}`).value = item.UNID;
             tr.querySelector(`.val-${tipo}`).value = parseValor(item.PUNIT);
             calcSubtotalLinha(tr.querySelector(`.qtd-${tipo}`), tipo);
+            atualizarLinhas(tipo);
+        }
+
+        function gerarLinhasTabela(tabelaId, qtd, tipo) {
+            const tabela = document.getElementById(tabelaId);
+            for (let i = 0; i < qtd; i++) {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td style="position: relative; padding: 0; overflow: visible;">
+                        <input type="text" class="desc-input" autocomplete="off" 
+                            onkeyup="mostrarSugestoes(this, '${tipo}')" 
+                            oninput="mostrarSugestoes(this, '${tipo}'); atualizarLinhas('${tipo}');" 
+                            onfocus="mostrarSugestoes(this, '${tipo}')" 
+                            onblur="setTimeout(() => atualizarLinhas('${tipo}'), 200)"
+                            style="padding: 4px;" placeholder="Digite para buscar...">
+                        <div class="autocomplete-list"></div>
+                    </td>
+                    <td style="padding: 0;"><input type="text" class="num-${tipo}" readonly style="text-align: center; color: var(--text-black); font-weight: bold; padding: 4px;"></td>
+                    <td style="padding: 0;"><input type="text" class="unid-${tipo}" readonly style="text-align: center; padding: 4px;"></td>
+                    <td style="padding: 0;"><input type="number" class="qtd-${tipo}" oninput="calcSubtotalLinha(this, '${tipo}')" style="padding: 4px;"></td>
+                    <td style="padding: 0;"><input type="number" class="val-${tipo}" readonly style="padding: 4px;"></td>
+                    <td style="padding: 0;"><input type="text" class="sub-${tipo}" readonly value="0.00" style="text-align: right; font-weight: bold; color: var(--text-black); padding: 4px;"></td>
+                `;
+                tabela.appendChild(tr);
+            }
+            atualizarLinhas(tipo);
         }
 
         // === SALVAR E CARREGAR PROJETO ===
@@ -659,15 +723,17 @@
             });
 
             document.querySelectorAll('#tabela-servicos tr').forEach(tr => {
-                const desc = tr.querySelector('.desc-input').value;
-                const qtd = tr.querySelector('.qtd-servico').value;
-                if(desc) projeto.tabelaServicos.push({ desc, qtd });
+                const desc = tr.querySelector('.desc-input');
+                if(desc && desc.value.trim() !== '') {
+                    projeto.tabelaServicos.push({ desc: desc.value, qtd: tr.querySelector('.qtd-servico').value });
+                }
             });
 
             document.querySelectorAll('#tabela-materiais tr').forEach(tr => {
-                const desc = tr.querySelector('.desc-input').value;
-                const qtd = tr.querySelector('.qtd-material').value;
-                if(desc) projeto.tabelaMateriais.push({ desc, qtd });
+                const desc = tr.querySelector('.desc-input');
+                if(desc && desc.value.trim() !== '') {
+                    projeto.tabelaMateriais.push({ desc: desc.value, qtd: tr.querySelector('.qtd-material').value });
+                }
             });
 
             const dataStr = JSON.stringify(projeto);
@@ -695,29 +761,39 @@
 
                     tratarUnidade(); tratarDano(); tratarDropdown('material-dano'); tratarDropdown('diametro-dano'); tratarSecaoVazamento(); tratarFormatoDano();
 
-                    const servRows = document.querySelectorAll('#tabela-servicos tr');
-                    projeto.tabelaServicos.forEach((item, i) => {
-                        if(servRows[i]) {
-                            const descInput = servRows[i].querySelector('.desc-input');
+                    // Limpa e recria com base no arquivo carregado
+                    document.getElementById('tabela-servicos').innerHTML = '';
+                    document.getElementById('tabela-materiais').innerHTML = '';
+                    
+                    if (projeto.tabelaServicos && projeto.tabelaServicos.length > 0) {
+                        projeto.tabelaServicos.forEach(item => {
+                            gerarLinhasTabela('tabela-servicos', 1, 'servico');
+                            const trs = document.querySelectorAll('#tabela-servicos tr');
+                            const tr = trs[trs.length - 1]; 
+                            const descInput = tr.querySelector('.desc-input');
                             descInput.value = item.desc;
-                            servRows[i].querySelector('.qtd-servico').value = item.qtd;
+                            tr.querySelector('.qtd-servico').value = item.qtd;
                             let obj = dbServicos.find(x => `${x.NPRECO} - ${x.ESPEC}` === item.desc);
                             if(obj) aplicarItemSelecionado(descInput, obj, 'servico');
-                        }
-                    });
+                        });
+                    } else { gerarLinhasTabela('tabela-servicos', 1, 'servico'); }
 
-                    const matRows = document.querySelectorAll('#tabela-materiais tr');
-                    projeto.tabelaMateriais.forEach((item, i) => {
-                        if(matRows[i]) {
-                            const descInput = matRows[i].querySelector('.desc-input');
+                    if (projeto.tabelaMateriais && projeto.tabelaMateriais.length > 0) {
+                        projeto.tabelaMateriais.forEach(item => {
+                            gerarLinhasTabela('tabela-materiais', 1, 'material');
+                            const trs = document.querySelectorAll('#tabela-materiais tr');
+                            const tr = trs[trs.length - 1]; 
+                            const descInput = tr.querySelector('.desc-input');
                             descInput.value = item.desc;
-                            matRows[i].querySelector('.qtd-material').value = item.qtd;
+                            tr.querySelector('.qtd-material').value = item.qtd;
                             let obj = dbMateriais.find(x => `${x.NPRECO} - ${x.ESPEC}` === item.desc);
                             if(obj) aplicarItemSelecionado(descInput, obj, 'material');
-                        }
-                    });
+                        });
+                    } else { gerarLinhasTabela('tabela-materiais', 1, 'material'); }
 
                     calcularAgua();
+                    atualizarLinhas('servico');
+                    atualizarLinhas('material');
                 } catch(err) {
                     alert("Erro ao ler o ficheiro do projeto.");
                 }
@@ -725,7 +801,47 @@
             };
             reader.readAsText(file);
         }
-        // ===================================
+
+        // =================================== Outras Funções Auxiliares ===================================
+        function calcSubtotalLinha(inputQtd, tipo) {
+            const tr = inputQtd.closest('tr');
+            const qtd = parseFloat(inputQtd.value) || 0;
+            const valUnit = parseFloat(tr.querySelector(`.val-${tipo}`).value) || 0;
+            tr.querySelector(`.sub-${tipo}`).value = (qtd * valUnit).toFixed(2);
+            somarTabela(tipo);
+        }
+
+        function somarTabela(tipo) {
+            let total = 0;
+            document.querySelectorAll(`.sub-${tipo}`).forEach(s => total += parseFloat(s.value) || 0);
+            
+            let idSub = tipo === 'servico' ? 'subtotal-servicos' : 'subtotal-materiais';
+            document.getElementById(idSub).innerText = total.toFixed(2);
+            
+            const serv = parseFloat(document.getElementById('subtotal-servicos').innerText) || 0;
+            const mat = parseFloat(document.getElementById('subtotal-materiais').innerText) || 0;
+            document.getElementById('subtotal-2').innerText = (serv + mat).toFixed(2);
+            calcularGeral();
+        }
+
+        function calcularGeral() {
+            const sub1 = parseFloat(document.getElementById('subtotal-1').innerText) || 0;
+            const sub2 = parseFloat(document.getElementById('subtotal-2').innerText) || 0;
+            const taxaBdi = parseFloat(document.getElementById('taxa-bdi').value) || 0;
+            
+            const sub3 = sub2 * (taxaBdi / 100);
+            document.getElementById('subtotal-3').innerText = sub3.toFixed(2);
+
+            document.getElementById('resumo-1').innerText = sub1.toFixed(2);
+            document.getElementById('resumo-2').innerText = sub2.toFixed(2);
+            document.getElementById('resumo-3').innerText = sub3.toFixed(2);
+
+            const totalGeral = sub1 + sub2 + sub3;
+            document.getElementById('total-final').innerText = totalGeral.toFixed(2);
+
+            const valorUfesp = 35.36; 
+            document.getElementById('total-ufesp').innerText = (totalGeral / valorUfesp).toFixed(2);
+        }
 
         function tratarUnidade() {
             const val = document.getElementById('unidade').value;
@@ -860,65 +976,6 @@
             document.getElementById('subtotal-1').innerText = totalAgua.toFixed(2);
 
             calcularGeral();
-        }
-
-        function gerarLinhasTabela(tabelaId, qtd, tipo) {
-            const tabela = document.getElementById(tabelaId);
-            for (let i = 0; i < qtd; i++) {
-                const tr = document.createElement('tr');
-                tr.innerHTML = `
-                    <td style="position: relative; padding: 0; overflow: visible;">
-                        <input type="text" class="desc-input" autocomplete="off" oninput="mostrarSugestoes(this, '${tipo}')" onfocus="mostrarSugestoes(this, '${tipo}')" style="padding: 4px;" placeholder="Digite para buscar...">
-                        <div class="autocomplete-list"></div>
-                    </td>
-                    <td style="padding: 0;"><input type="text" class="num-${tipo}" readonly style="text-align: center; color: var(--text-black); font-weight: bold; padding: 4px;"></td>
-                    <td style="padding: 0;"><input type="text" class="unid-${tipo}" readonly style="text-align: center; padding: 4px;"></td>
-                    <td style="padding: 0;"><input type="number" class="qtd-${tipo}" oninput="calcSubtotalLinha(this, '${tipo}')" style="padding: 4px;"></td>
-                    <td style="padding: 0;"><input type="number" class="val-${tipo}" readonly style="padding: 4px;"></td>
-                    <td style="padding: 0;"><input type="text" class="sub-${tipo}" readonly value="0.00" style="text-align: right; font-weight: bold; color: var(--text-black); padding: 4px;"></td>
-                `;
-                tabela.appendChild(tr);
-            }
-        }
-
-        function calcSubtotalLinha(inputQtd, tipo) {
-            const tr = inputQtd.closest('tr');
-            const qtd = parseFloat(inputQtd.value) || 0;
-            const valUnit = parseFloat(tr.querySelector(`.val-${tipo}`).value) || 0;
-            tr.querySelector(`.sub-${tipo}`).value = (qtd * valUnit).toFixed(2);
-            somarTabela(tipo);
-        }
-
-        function somarTabela(tipo) {
-            let total = 0;
-            document.querySelectorAll(`.sub-${tipo}`).forEach(s => total += parseFloat(s.value) || 0);
-            
-            let idSub = tipo === 'servico' ? 'subtotal-servicos' : 'subtotal-materiais';
-            document.getElementById(idSub).innerText = total.toFixed(2);
-            
-            const serv = parseFloat(document.getElementById('subtotal-servicos').innerText) || 0;
-            const mat = parseFloat(document.getElementById('subtotal-materiais').innerText) || 0;
-            document.getElementById('subtotal-2').innerText = (serv + mat).toFixed(2);
-            calcularGeral();
-        }
-
-        function calcularGeral() {
-            const sub1 = parseFloat(document.getElementById('subtotal-1').innerText) || 0;
-            const sub2 = parseFloat(document.getElementById('subtotal-2').innerText) || 0;
-            const taxaBdi = parseFloat(document.getElementById('taxa-bdi').value) || 0;
-            
-            const sub3 = sub2 * (taxaBdi / 100);
-            document.getElementById('subtotal-3').innerText = sub3.toFixed(2);
-
-            document.getElementById('resumo-1').innerText = sub1.toFixed(2);
-            document.getElementById('resumo-2').innerText = sub2.toFixed(2);
-            document.getElementById('resumo-3').innerText = sub3.toFixed(2);
-
-            const totalGeral = sub1 + sub2 + sub3;
-            document.getElementById('total-final').innerText = totalGeral.toFixed(2);
-
-            const valorUfesp = 35.36; 
-            document.getElementById('total-ufesp').innerText = (totalGeral / valorUfesp).toFixed(2);
         }
     </script>
 </body>
