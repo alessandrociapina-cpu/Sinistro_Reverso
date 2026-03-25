@@ -134,7 +134,7 @@
         }
         .rodape-texto, .rodape-texto div, .rodape-texto span { font-weight: bold; font-size: 8pt; color: var(--sabesp-blue); text-align: left; line-height: 1.2; }
 
-        .action-menu { display: flex; justify-content: center; gap: 10px; margin-bottom: 15px; flex-wrap: wrap; }
+        .action-menu { display: flex; justify-content: center; gap: 10px; margin-bottom: 5px; flex-wrap: wrap; }
         .btn {
             padding: 8px 15px; background-color: #0056b3; color: white; border: none; border-radius: 5px;
             cursor: pointer; font-weight: bold; font-size: 9.5pt; font-family: Tahoma, sans-serif;
@@ -144,10 +144,12 @@
         .btn-salvar { background-color: #28a745; }
         .btn-carregar { background-color: #ff9800; color: black; }
 
+        .db-info { text-align: center; font-size: 8.5pt; color: #555; margin-bottom: 15px; font-weight: bold; }
+
         .version-wrapper { position: absolute; top: 10px; left: 10px; cursor: help; }
         .version-badge { background-color: var(--sabesp-blue); color: #000; font-weight: bold; font-size: 8pt; padding: 4px 8px; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); }
         .changelog-box {
-            position: absolute; top: 25px; left: 0; width: 320px; background-color: #fff;
+            position: absolute; top: 25px; left: 0; width: 340px; background-color: #fff;
             border: 2px solid var(--sabesp-blue); border-radius: 6px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);
             padding: 10px; display: none; z-index: 10000;
         }
@@ -165,7 +167,7 @@
                 box-shadow: none; padding: 0; width: 100%; max-width: 100%; border: none; margin: 0; 
                 min-height: 100%; 
             }
-            .no-print, .hide-on-print, .autocomplete-list, .action-menu, .version-wrapper { display: none !important; }
+            .no-print, .hide-on-print, .autocomplete-list, .action-menu, .version-wrapper, .db-info { display: none !important; }
 
             .linha1, .linha2, th.section-header, .subtitle, .rodape-texto, .rodape-texto div, .rodape-texto span, .total-final-row { 
                 color: var(--sabesp-blue) !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; 
@@ -177,7 +179,6 @@
             input, select { border: none !important; background: transparent !important; padding: 0; margin: 0; appearance: none; -webkit-appearance: none; color: #000; }
             input::placeholder { color: transparent; }
             
-            /* Remove a margem extra do campo "Outros" na impressão */
             #causador-outros { margin-left: 0 !important; }
 
             table.data-table th { background-color: #f0f0f0 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; padding: 2px; }
@@ -203,20 +204,22 @@
         <button class="btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
         <input type="file" id="input-arquivo" class="hidden" accept=".json" onchange="carregarProjeto(event)">
     </div>
+    <div class="db-info no-print">
+        * Utilizando banco de preços de serviços e materiais da Sabesp SPO.
+    </div>
 
     <div class="container">
         <div class="content-wrapper">
             
             <div class="version-wrapper no-print">
-                <div class="version-badge">v3.5 ℹ️</div>
+                <div class="version-badge">v4.0 ℹ️</div>
                 <div class="changelog-box">
                     <h4>Últimas Atualizações</h4>
                     <ul>
+                        <li><strong>v4.0:</strong> Integração completa e mapeamento dinâmico com o banco de preços SPO (Serviços e Materiais).</li>
                         <li><strong>v3.5:</strong> Esconde o texto 'Outros' no Causador durante a impressão.</li>
                         <li><strong>v3.4:</strong> Opção 'Outros' no Causador com campo de preenchimento.</li>
                         <li><strong>v3.3:</strong> Seção de Água Perdida estruturada em Tabela.</li>
-                        <li><strong>v3.2:</strong> Campo 'nº' independente acima da Unidade.</li>
-                        <li><strong>v3.1:</strong> Alinhamento perfeito; Rodapé absoluto.</li>
                     </ul>
                 </div>
             </div>
@@ -500,9 +503,12 @@
         <button class="btn btn-carregar" onclick="document.getElementById('input-arquivo').click()">📂 Carregar Projeto</button>
         <button class="btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
     </div>
+    <div class="db-info no-print">
+        * Utilizando banco de preços de serviços e materiais da Sabesp SPO.
+    </div>
 
     <script>
-        const VERSAO_APP = "3.5";
+        const VERSAO_APP = "4.0";
         if (localStorage.getItem("versao_planilha_sabesp") !== VERSAO_APP) {
             if ('caches' in window) {
                 caches.keys().then(names => { names.forEach(name => caches.delete(name)); });
@@ -536,25 +542,34 @@
             } catch(e) { console.error("Erro na inicialização:", e); }
         };
 
+        function findValueByKeys(obj, keys) {
+            const objKeys = Object.keys(obj);
+            for (let searchKey of keys) {
+                const foundKey = objKeys.find(k => k.trim().toLowerCase() === searchKey.toLowerCase());
+                if (foundKey) return obj[foundKey];
+            }
+            return "";
+        }
+
         function inicializarBases() {
             try {
                 if (typeof baseServicos !== 'undefined') {
                     dbServicos = baseServicos.map(s => ({
-                        NPRECO: s["ITEM"] !== undefined ? s["ITEM"] : s.NPRECO,
-                        ESPEC: s["DESCRIÇÃO"] !== undefined ? s["DESCRIÇÃO"] : s.ESPEC,
-                        UNID: s["UNID"] !== undefined ? String(s["UNID"]).trim() : s.UNID,
-                        PUNIT: s["PREÇO"] !== undefined ? s["PREÇO"] : s.PUNIT
+                        NPRECO: findValueByKeys(s, ["item", "npreco", "código", "codigo"]),
+                        ESPEC: findValueByKeys(s, ["descrição", "descricao", "espec"]),
+                        UNID: String(findValueByKeys(s, ["unid", "unidade"])).trim(),
+                        PUNIT: findValueByKeys(s, ["preço", "preco", "punit", "valor unitário", "valor"])
                     }));
                 }
                 if (typeof baseMateriais !== 'undefined') {
                     dbMateriais = baseMateriais.map(m => ({
-                        NPRECO: m["ITEM"] !== undefined ? m["ITEM"] : (m["Material"] !== undefined ? m["Material"] : m.NPRECO),
-                        ESPEC: m["DESCRIÇÃO"] !== undefined ? m["DESCRIÇÃO"] : (m["Texto breve material"] !== undefined ? m["Texto breve material"] : m.ESPEC),
-                        UNID: m["UNID"] !== undefined ? String(m["UNID"]).trim() : (m["Unid.medida básica"] !== undefined ? String(m["Unid.medida básica"]).trim() : m.UNID),
-                        PUNIT: m["PREÇO"] !== undefined ? m["PREÇO"] : (m["Valor Unitário"] !== undefined ? m["Valor Unitário"] : m.PUNIT)
+                        NPRECO: findValueByKeys(m, ["material", "item", "npreco", "código", "codigo"]),
+                        ESPEC: findValueByKeys(m, ["texto breve material", "descrição", "descricao", "espec", "texto breve"]),
+                        UNID: String(findValueByKeys(m, ["unid.medida básica", "unid. medida basica", "unid", "unidade", "umb"])).trim(),
+                        PUNIT: findValueByKeys(m, ["valor unitário", "valor unitario", "preço", "preco", "punit", "valor"])
                     }));
                 }
-            } catch(e) { console.error("Erro ao processar as bases de dados."); }
+            } catch(e) { console.error("Erro ao processar as bases de dados:", e); }
         }
 
         document.addEventListener('click', function(e) {
