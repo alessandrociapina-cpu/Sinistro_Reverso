@@ -538,7 +538,14 @@
 
         function inicializarBases() {
             try {
-                if (typeof baseServicos !== 'undefined') dbServicos = baseServicos;
+                if (typeof baseServicos !== 'undefined') {
+                    dbServicos = baseServicos.map(s => ({
+                        NPRECO: s["ITEM"] !== undefined ? s["ITEM"] : s.NPRECO,
+                        ESPEC: s["DESCRIÇÃO"] !== undefined ? s["DESCRIÇÃO"] : s.ESPEC,
+                        UNID: s["UNID"] !== undefined ? String(s["UNID"]).trim() : s.UNID,
+                        PUNIT: s["PREÇO"] !== undefined ? s["PREÇO"] : s.PUNIT
+                    }));
+                }
                 if (typeof baseMateriais !== 'undefined') {
                     dbMateriais = baseMateriais.map(m => ({
                         NPRECO: m["Material"] !== undefined ? m["Material"] : m.NPRECO,
