@@ -145,9 +145,9 @@
         .btn {
             padding: 8px 15px; background-color: #0056b3; color: white; border: none; border-radius: 5px;
             cursor: pointer; font-weight: bold; font-size: 9pt; font-family: Tahoma, sans-serif;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.2); transition: background 0.2s;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2); transition: background 0.2s, opacity 0.2s;
         }
-        .btn:hover { background-color: var(--sabesp-blue); color: #000; }
+        .btn:hover:not(:disabled) { background-color: var(--sabesp-blue); color: #000; }
         .btn-salvar { background-color: #28a745; }
         .btn-carregar { background-color: #ff9800; color: black; }
 
@@ -214,9 +214,9 @@
 <body>
     
     <div class="action-menu no-print">
-        <button class="btn btn-salvar" onclick="salvarProjeto()">💾 Salvar Projeto</button>
-        <button class="btn btn-carregar" onclick="document.getElementById('input-arquivo').click()">📂 Carregar Projeto</button>
-        <button class="btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
+        <button id="btn-salvar-proj" class="btn btn-salvar" onclick="salvarProjeto()">💾 Salvar Projeto</button>
+        <button id="btn-carregar-proj" class="btn btn-carregar" onclick="document.getElementById('input-arquivo').click()">📂 Carregar Projeto</button>
+        <button id="btn-imprimir-proj" class="btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
         <input type="file" id="input-arquivo" class="hidden" accept=".json" onchange="carregarProjeto(event)">
     </div>
     <div class="db-info no-print">
@@ -227,13 +227,13 @@
         <div class="content-wrapper">
             
             <div class="version-wrapper no-print">
-                <div class="version-badge">v4.4 ℹ️</div>
+                <div class="version-badge">v4.5 ℹ️</div>
                 <div class="changelog-box">
                     <h4>Últimas Atualizações</h4>
                     <ul>
+                        <li><strong>v4.5:</strong> Melhorias no rigor do cálculo hidráulico e validação de segurança na Seção Plena.</li>
                         <li><strong>v4.4:</strong> Restauração completa do motor de cálculo da v4.2 com ajuste seguro para margem de impressão.</li>
                         <li><strong>v4.2:</strong> Redução de fontes e alinhamento dos campos de identificação.</li>
-                        <li><strong>v4.1:</strong> Banco SPO jan/2026.</li>
                     </ul>
                 </div>
             </div>
@@ -359,14 +359,14 @@
                             </div>
                         </td>
                         <td colspan="2" id="td-dim-1" style="padding: 0;">
-                            <input type="number" id="diametro-furo" value="2" step="0.1" style="border:none; width:100%; text-align:center;" oninput="calcularAgua()">
-                            <input type="number" id="comp-furo" value="5" step="0.1" style="border:none; width:100%; text-align:center; display:none;" oninput="calcularAgua()">
+                            <input type="number" id="diametro-furo" value="2" step="0.1" min="0" style="border:none; width:100%; text-align:center;" oninput="calcularAgua()">
+                            <input type="number" id="comp-furo" value="5" step="0.1" min="0" style="border:none; width:100%; text-align:center; display:none;" oninput="calcularAgua()">
                         </td>
                         <td colspan="1" id="td-dim-2" style="padding: 0; display:none;">
-                            <input type="number" id="larg-furo" value="2" step="0.1" style="border:none; width:100%; text-align:center;" oninput="calcularAgua()">
+                            <input type="number" id="larg-furo" value="2" step="0.1" min="0" style="border:none; width:100%; text-align:center;" oninput="calcularAgua()">
                         </td>
                         <td colspan="2" id="td-pressao" style="padding: 0;">
-                            <input type="number" id="pressao" value="10" style="border:none; width:100%; text-align:center;" oninput="calcularAgua()">
+                            <input type="number" id="pressao" value="10" min="0" style="border:none; width:100%; text-align:center;" oninput="calcularAgua()">
                         </td>
                     </tr>
                     <tr>
@@ -381,7 +381,7 @@
                         <td style="text-align: center;"><span id="calc-segundos">0</span></td>
                         <td style="text-align: center;"><span id="calc-vazao">0.00</span></td>
                         <td style="text-align: center;"><span id="calc-vol">0.00</span></td>
-                        <td><input type="number" id="valor-m3" value="20.52" step="0.01" style="padding: 0;" oninput="calcularAgua()"></td>
+                        <td><input type="number" id="valor-m3" value="20.52" step="0.01" min="0" style="padding: 0;" oninput="calcularAgua()"></td>
                         <td style="font-weight: bold; text-align: right; color: var(--text-black);"><span id="calc-total-agua">0.00</span></td>
                     </tr>
                     <tr>
@@ -454,7 +454,7 @@
                             Equipes Técnicas + Administrativas + Despesas Indiretas (BDI)
                         </td>
                         <td style="text-align: right; padding: 6px 8px; font-weight: bold; background-color: #fff;">
-                            Taxa (%): <input type="number" id="taxa-bdi" value="28" style="width: 50px; display: inline-block; padding: 2px;" oninput="calcularGeral()">
+                            Taxa (%): <input type="number" id="taxa-bdi" value="28" min="0" style="width: 50px; display: inline-block; padding: 2px;" oninput="calcularGeral()">
                         </td>
                     </tr>
                     <tr>
@@ -513,7 +513,8 @@
     </div>
 
     <script>
-        const VERSAO_APP = "4.4";
+        // Atualizado para 4.5 para forçar o recarregamento do novo script de cálculo
+        const VERSAO_APP = "4.5";
         if (localStorage.getItem("versao_planilha_sabesp") !== VERSAO_APP) {
             if ('caches' in window) {
                 caches.keys().then(names => { names.forEach(name => caches.delete(name)); });
@@ -525,6 +526,9 @@
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => { navigator.serviceWorker.register('sw.js'); });
         }
+
+        // CONSTANTES FÍSICAS (Rigor Hidráulico)
+        const GRAVIDADE = 9.81;
 
         let dbServicos = [];
         let dbMateriais = [];
@@ -638,7 +642,7 @@
                     </td>
                     <td style="padding: 0;"><input type="text" class="num-${tipo}" readonly style="text-align: center; color: var(--text-black); font-weight: bold; padding: 4px;"></td>
                     <td style="padding: 0;"><input type="text" class="unid-${tipo}" readonly style="text-align: center; padding: 4px;"></td>
-                    <td style="padding: 0;"><input type="number" class="qtd-${tipo}" oninput="calcSubtotalLinha(this, '${tipo}')" style="padding: 4px;"></td>
+                    <td style="padding: 0;"><input type="number" class="qtd-${tipo}" min="0" oninput="calcSubtotalLinha(this, '${tipo}')" style="padding: 4px;"></td>
                     <td style="padding: 0;"><input type="number" class="val-${tipo}" readonly style="padding: 4px;"></td>
                     <td style="padding: 0;"><input type="text" class="sub-${tipo}" readonly value="0.00" style="text-align: right; font-weight: bold; color: var(--text-black); padding: 4px;"></td>
                 `;
@@ -833,7 +837,7 @@
 
         function calcSubtotalLinha(inputQtd, tipo) {
             const tr = inputQtd.closest('tr');
-            const qtd = parseFloat(inputQtd.value) || 0;
+            const qtd = Math.max(0, parseFloat(inputQtd.value) || 0);
             const valUnit = parseFloat(tr.querySelector(`.val-${tipo}`).value) || 0;
             tr.querySelector(`.sub-${tipo}`).value = (qtd * valUnit).toFixed(2);
             somarTabela(tipo);
@@ -855,7 +859,7 @@
         function calcularGeral() {
             const sub1 = parseFloat(document.getElementById('subtotal-1').innerText) || 0;
             const sub2 = parseFloat(document.getElementById('subtotal-2').innerText) || 0;
-            const taxaBdi = parseFloat(document.getElementById('taxa-bdi').value) || 0;
+            const taxaBdi = Math.max(0, parseFloat(document.getElementById('taxa-bdi').value) || 0);
             
             const sub3 = sub2 * (taxaBdi / 100);
             document.getElementById('subtotal-3').innerText = sub3.toFixed(2);
@@ -999,14 +1003,38 @@
             calcularAgua();
         }
 
+        // Função pura separada para calcular vazão (Rigor Hidráulico e Desacoplamento)
+        function calcularVazaoOrificio(cd, areaM2, pressaoMca) {
+            if (pressaoMca <= 0 || areaM2 <= 0 || cd <= 0) return 0;
+            return (cd * areaM2 * Math.sqrt(2 * GRAVIDADE * pressaoMca)) * 1000;
+        }
+
+        // UX: Função para desabilitar botões caso haja erro impeditivo
+        function alternarBotoesAcao(desabilitar) {
+            const btnImprimir = document.getElementById('btn-imprimir-proj');
+            const btnSalvar = document.getElementById('btn-salvar-proj');
+
+            if(btnImprimir) {
+                btnImprimir.disabled = desabilitar;
+                btnImprimir.style.opacity = desabilitar ? '0.5' : '1';
+                btnImprimir.style.cursor = desabilitar ? 'not-allowed' : 'pointer';
+            }
+            if(btnSalvar) {
+                btnSalvar.disabled = desabilitar;
+                btnSalvar.style.opacity = desabilitar ? '0.5' : '1';
+                btnSalvar.style.cursor = desabilitar ? 'not-allowed' : 'pointer';
+            }
+        }
+
         function calcularAgua() {
             const tipoSecao = document.getElementById('tipo-secao').value;
             const dIni = document.getElementById('data-ini').value;
             const hIni = document.getElementById('hora-ini').value;
             const dFim = document.getElementById('data-fim').value;
             const hFim = document.getElementById('hora-fim').value;
-            const pressao = parseFloat(document.getElementById('pressao').value) || 0;
-            const precoM3 = parseFloat(document.getElementById('valor-m3').value) || 0;
+            // Validação de pressao e preço garantindo segurança contra NaN
+            const pressao = Math.max(0, parseFloat(document.getElementById('pressao').value) || 0);
+            const precoM3 = Math.max(0, parseFloat(document.getElementById('valor-m3').value) || 0);
 
             let segundos = 0;
             if (dIni && hIni && dFim && hFim) {
@@ -1018,33 +1046,42 @@
             document.getElementById('calc-segundos').innerText = segundos;
 
             let vazaoLs = 0; 
+            let erroSecaoPlena = false;
+
             if (tipoSecao === 'Área do Furo') {
                 const formato = document.getElementById('formato-dano').value;
-                let areaM2 = 0; let cd = 0.61; const g = 9.81;
+                let areaM2 = 0; 
+                let cd = 0.61;
 
                 if (formato === 'circular') {
                     cd = 0.61;
-                    const diamCm = parseFloat(document.getElementById('diametro-furo').value) || 0;
+                    const diamCm = Math.max(0, parseFloat(document.getElementById('diametro-furo').value) || 0);
                     areaM2 = Math.PI * Math.pow((diamCm / 100) / 2, 2); 
                 } else {
                     cd = formato === 'irregular' ? 0.55 : (formato === 'longitudinal' ? 0.80 : 0.58);
-                    const compCm = parseFloat(document.getElementById('comp-furo').value) || 0;
-                    const largCm = parseFloat(document.getElementById('larg-furo').value) || 0;
+                    const compCm = Math.max(0, parseFloat(document.getElementById('comp-furo').value) || 0);
+                    const largCm = Math.max(0, parseFloat(document.getElementById('larg-furo').value) || 0);
                     areaM2 = (compCm / 100) * (largCm / 100); 
                 }
-                vazaoLs = (cd * areaM2 * Math.sqrt(2 * g * pressao)) * 1000; 
+                vazaoLs = calcularVazaoOrificio(cd, areaM2, pressao);
             } else {
-                const diamRede = document.getElementById('diametro-dano').value;
+                // Normalizando o diâmetro da rede para pesquisa de chave
+                const diamRede = String(document.getElementById('diametro-dano').value).trim();
+                
                 if(vazoesSecaoPlena[diamRede]) {
                     vazaoLs = vazoesSecaoPlena[diamRede];
                     document.getElementById('aviso-secao-plena').innerText = `Vazão tabelada (${vazaoLs.toFixed(3)} L/s) aplicada.`;
                     document.getElementById('aviso-secao-plena').style.color = "var(--sabesp-blue)";
                 } else {
                     vazaoLs = 0;
+                    erroSecaoPlena = true;
                     document.getElementById('aviso-secao-plena').innerText = "Diâmetro sem vazão tabelada.";
                     document.getElementById('aviso-secao-plena').style.color = "red";
                 }
             }
+
+            // Aplicando restrições de UX para proteger o orçamento final
+            alternarBotoesAcao(erroSecaoPlena);
 
             document.getElementById('calc-vazao').innerText = vazaoLs.toFixed(3);
             const volM3 = (vazaoLs * segundos) / 1000;
