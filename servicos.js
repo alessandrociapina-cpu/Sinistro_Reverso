@@ -1,4 +1,5 @@
-const baseServicos = [
+const baseServicos = 
+[
  {
    "ITEM": 72000779,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO/PVC DN 150/200 MM - PROF. ATE 2,00M, S/ REPOS DO PAV (SFMH)",
@@ -3554,5 +3555,1307 @@ const baseServicos = [
    "DATA I0": "jan/26",
    "UNID": "M",
    "PREÇO": "306,21"
+ },
+ {
+   "ITEM": 70070229,
+   "DESCRIÇÃO": "ASSENTAMENTO DE TUBO DE QUEDA",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "474,24"
+ },
+ {
+   "ITEM": 70070230,
+   "DESCRIÇÃO": "ASSENTAMENTO DE TAMPÃO DE FERRO FUNDIDO, DN 600 MM",
+   "DATA I0": "jan/26",
+   "UNID": "un",
+   "PREÇO": "181,39"
+ },
+ {
+   "ITEM": 70070231,
+   "DESCRIÇÃO": "ASSENTAMENTO DE TAMPÃO DE FERRO FUNDIDO, DN 900 MM",
+   "DATA I0": "jan/26",
+   "UNID": "un",
+   "PREÇO": "250,41"
+ },
+ {
+   "ITEM": 70070342,
+   "DESCRIÇÃO": "DISPOSITIVO DE PROTEÇÃO PARA REGISTRO COM ASSENTAMENTO DE TAMPA T-5",
+   "DATA I0": "jan/26",
+   "UNID": "un",
+   "PREÇO": "330,18"
+ },
+ {
+   "ITEM": 70080001,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "17,03"
+ },
+ {
+   "ITEM": 70080002,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "17,68"
+ },
+ {
+   "ITEM": 70080003,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "18,95"
+ },
+ {
+   "ITEM": 70080004,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "22,17"
+ },
+ {
+   "ITEM": 70080005,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "24,06"
+ },
+ {
+   "ITEM": 70080006,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "28,15"
+ },
+ {
+   "ITEM": 70080007,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "32,57"
+ },
+ {
+   "ITEM": 70080008,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "36,1"
+ },
+ {
+   "ITEM": 70080009,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "23,22"
+ },
+ {
+   "ITEM": 70080010,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "64,56"
+ },
+ {
+   "ITEM": 70080011,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "193,16"
+ },
+ {
+   "ITEM": 70080012,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "13,97"
+ },
+ {
+   "ITEM": 70080013,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "14,44"
+ },
+ {
+   "ITEM": 70080014,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "15,45"
+ },
+ {
+   "ITEM": 70080015,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "18,02"
+ },
+ {
+   "ITEM": 70080016,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "19,54"
+ },
+ {
+   "ITEM": 70080017,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "22,57"
+ },
+ {
+   "ITEM": 70080018,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "26,41"
+ },
+ {
+   "ITEM": 70080019,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "30,59"
+ },
+ {
+   "ITEM": 70080020,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "20,21"
+ },
+ {
+   "ITEM": 70080021,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "60,47"
+ },
+ {
+   "ITEM": 70080022,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "184,55"
+ },
+ {
+   "ITEM": 70080023,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "9,82"
+ },
+ {
+   "ITEM": 70080024,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "10,15"
+ },
+ {
+   "ITEM": 70080025,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "10,83"
+ },
+ {
+   "ITEM": 70080026,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "12,42"
+ },
+ {
+   "ITEM": 70080027,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "13,37"
+ },
+ {
+   "ITEM": 70080028,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "15,36"
+ },
+ {
+   "ITEM": 70080029,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "17,99"
+ },
+ {
+   "ITEM": 70080030,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "20,83"
+ },
+ {
+   "ITEM": 70080031,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "16,1"
+ },
+ {
+   "ITEM": 70080032,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "54,84"
+ },
+ {
+   "ITEM": 70080033,
+   "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "172,4"
+ },
+ {
+   "ITEM": 70080067,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "2,57"
+ },
+ {
+   "ITEM": 70080068,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "3,1"
+ },
+ {
+   "ITEM": 70080069,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "4,13"
+ },
+ {
+   "ITEM": 70080070,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "7,24"
+ },
+ {
+   "ITEM": 70080071,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "8,29"
+ },
+ {
+   "ITEM": 70080072,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "12,43"
+ },
+ {
+   "ITEM": 70080073,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "15,53"
+ },
+ {
+   "ITEM": 70080074,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "10,37"
+ },
+ {
+   "ITEM": 70080075,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "13,95"
+ },
+ {
+   "ITEM": 70080076,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 450 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "18,11"
+ },
+ {
+   "ITEM": 70080077,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "11,35"
+ },
+ {
+   "ITEM": 70080078,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "50,74"
+ },
+ {
+   "ITEM": 70080079,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "174,52"
+ },
+ {
+   "ITEM": 70080351,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 450 E 500 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "246,66"
+ },
+ {
+   "ITEM": 70080352,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 450 E 500 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "236,8"
+ },
+ {
+   "ITEM": 70080353,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 450 E 500 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "221,94"
+ },
+ {
+   "ITEM": 70080354,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 560 E 630 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "323,35"
+ },
+ {
+   "ITEM": 70080355,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 560 E 630 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "307,44"
+ },
+ {
+   "ITEM": 70080356,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 560 E 630 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "283,56"
+ },
+ {
+   "ITEM": 70080357,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 710 E 800 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "369,01"
+ },
+ {
+   "ITEM": 70080358,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 710 E 800 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "348,19"
+ },
+ {
+   "ITEM": 70080359,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 710 E 800 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "317,03"
+ },
+ {
+   "ITEM": 70080360,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 900 A 1200 MM, EM PEAD (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "509,85"
+ },
+ {
+   "ITEM": 70080361,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 900 A 1200 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "478,18"
+ },
+ {
+   "ITEM": 70080362,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 900 A 1200 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "430,71"
+ },
+ {
+   "ITEM": 70080080,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "2,1"
+ },
+ {
+   "ITEM": 70080081,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "2,47"
+ },
+ {
+   "ITEM": 70080082,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "3,3"
+ },
+ {
+   "ITEM": 70080083,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "5,77"
+ },
+ {
+   "ITEM": 70080084,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "6,62"
+ },
+ {
+   "ITEM": 70080085,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "9,92"
+ },
+ {
+   "ITEM": 70080086,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "12,43"
+ },
+ {
+   "ITEM": 70080087,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "8,29"
+ },
+ {
+   "ITEM": 70080088,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "11,21"
+ },
+ {
+   "ITEM": 70080089,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 450 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "14,52"
+ },
+ {
+   "ITEM": 70080090,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "10,46"
+ },
+ {
+   "ITEM": 70080091,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "49,14"
+ },
+ {
+   "ITEM": 70080092,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "169,29"
+ },
+ {
+   "ITEM": 70080093,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "1,29"
+ },
+ {
+   "ITEM": 70080094,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "1,56"
+ },
+ {
+   "ITEM": 70080095,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "2,1"
+ },
+ {
+   "ITEM": 70080096,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "3,62"
+ },
+ {
+   "ITEM": 70080097,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "4,13"
+ },
+ {
+   "ITEM": 70080098,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "6,23"
+ },
+ {
+   "ITEM": 70080099,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "7,76"
+ },
+ {
+   "ITEM": 70080100,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "5,15"
+ },
+ {
+   "ITEM": 70080101,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "7"
+ },
+ {
+   "ITEM": 70080102,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 450 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "9,06"
+ },
+ {
+   "ITEM": 70080103,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "9,09"
+ },
+ {
+   "ITEM": 70080104,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "46,71"
+ },
+ {
+   "ITEM": 70080105,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "161,52"
+ },
+ {
+   "ITEM": 70080151,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "13,07"
+ },
+ {
+   "ITEM": 70080152,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "16,24"
+ },
+ {
+   "ITEM": 70080153,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "38,9"
+ },
+ {
+   "ITEM": 70080154,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "44,35"
+ },
+ {
+   "ITEM": 70080155,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "50,89"
+ },
+ {
+   "ITEM": 70080156,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "59,11"
+ },
+ {
+   "ITEM": 70080157,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "77,76"
+ },
+ {
+   "ITEM": 70080158,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "86,39"
+ },
+ {
+   "ITEM": 70080159,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "96,83"
+ },
+ {
+   "ITEM": 70080160,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "127,94"
+ },
+ {
+   "ITEM": 70080161,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "175,59"
+ },
+ {
+   "ITEM": 70080162,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "221,43"
+ },
+ {
+   "ITEM": 70080163,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 200 MM, JA (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "10,32"
+ },
+ {
+   "ITEM": 70080164,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "11,64"
+ },
+ {
+   "ITEM": 70080165,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "12,54"
+ },
+ {
+   "ITEM": 70080166,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "35,7"
+ },
+ {
+   "ITEM": 70080167,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "40,74"
+ },
+ {
+   "ITEM": 70080168,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "46,77"
+ },
+ {
+   "ITEM": 70080169,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "54,31"
+ },
+ {
+   "ITEM": 70080170,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "70,68"
+ },
+ {
+   "ITEM": 70080171,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "78,52"
+ },
+ {
+   "ITEM": 70080172,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "87,97"
+ },
+ {
+   "ITEM": 70080173,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "115,29"
+ },
+ {
+   "ITEM": 70080174,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "157,29"
+ },
+ {
+   "ITEM": 70080175,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "198,6"
+ },
+ {
+   "ITEM": 70080176,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 200 MM, JA (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "9,1"
+ },
+ {
+   "ITEM": 70080177,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "10,28"
+ },
+ {
+   "ITEM": 70080178,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "12,9"
+ },
+ {
+   "ITEM": 70080179,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "28,51"
+ },
+ {
+   "ITEM": 70080180,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "32,69"
+ },
+ {
+   "ITEM": 70080181,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "37,56"
+ },
+ {
+   "ITEM": 70080182,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "43,55"
+ },
+ {
+   "ITEM": 70080183,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "56,52"
+ },
+ {
+   "ITEM": 70080184,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "62,82"
+ },
+ {
+   "ITEM": 70080185,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "70,23"
+ },
+ {
+   "ITEM": 70080186,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "91,51"
+ },
+ {
+   "ITEM": 70080187,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "124,84"
+ },
+ {
+   "ITEM": 70080188,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "221,43"
+ },
+ {
+   "ITEM": 70080189,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 200 MM, JA (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "7,87"
+ },
+ {
+   "ITEM": 70080190,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "30,27"
+ },
+ {
+   "ITEM": 70080191,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "43,98"
+ },
+ {
+   "ITEM": 70080192,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "53,08"
+ },
+ {
+   "ITEM": 70080193,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "61,27"
+ },
+ {
+   "ITEM": 70080194,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "77,68"
+ },
+ {
+   "ITEM": 70080195,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "100,04"
+ },
+ {
+   "ITEM": 70080196,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "114,61"
+ },
+ {
+   "ITEM": 70080197,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "159,65"
+ },
+ {
+   "ITEM": 70080198,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "225,74"
+ },
+ {
+   "ITEM": 70080199,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "295,08"
+ },
+ {
+   "ITEM": 70080200,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "394,16"
+ },
+ {
+   "ITEM": 70080201,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JE (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "23,22"
+ },
+ {
+   "ITEM": 70080202,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "24,22"
+ },
+ {
+   "ITEM": 70080203,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "35,17"
+ },
+ {
+   "ITEM": 70080204,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "42,44"
+ },
+ {
+   "ITEM": 70080205,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "49,01"
+ },
+ {
+   "ITEM": 70080206,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "62,14"
+ },
+ {
+   "ITEM": 70080207,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "80,05"
+ },
+ {
+   "ITEM": 70080208,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "91,69"
+ },
+ {
+   "ITEM": 70080209,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "127,73"
+ },
+ {
+   "ITEM": 70080210,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "180,58"
+ },
+ {
+   "ITEM": 70080211,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "236,08"
+ },
+ {
+   "ITEM": 70080212,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "312,24"
+ },
+ {
+   "ITEM": 70080213,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JE (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "18,55"
+ },
+ {
+   "ITEM": 70080214,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "15,16"
+ },
+ {
+   "ITEM": 70080215,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "22"
+ },
+ {
+   "ITEM": 70080216,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "26,53"
+ },
+ {
+   "ITEM": 70080217,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "30,62"
+ },
+ {
+   "ITEM": 70080218,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "38,84"
+ },
+ {
+   "ITEM": 70080219,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "50,04"
+ },
+ {
+   "ITEM": 70080220,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "57,32"
+ },
+ {
+   "ITEM": 70080221,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "79,81"
+ },
+ {
+   "ITEM": 70080222,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "112,87"
+ },
+ {
+   "ITEM": 70080223,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "147,56"
+ },
+ {
+   "ITEM": 70080224,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "227,3"
+ },
+ {
+   "ITEM": 70080225,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JE (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "11,58"
+ },
+ {
+   "ITEM": 70090052,
+   "DESCRIÇÃO": "ASSENTAMENTO DE PARALELEPÍPEDO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M2",
+   "PREÇO": "164,57"
+ },
+ {
+   "ITEM": 70090054,
+   "DESCRIÇÃO": "ASSENTAMENTO DE BLOCOS PARA PAVIMENTAÇÃO (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M2",
+   "PREÇO": "41,11"
+ },
+ {
+   "ITEM": 70090061,
+   "DESCRIÇÃO": "ASSENTAMENTO DE GUIAS (A)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "18,23"
+ },
+ {
+   "ITEM": 70090069,
+   "DESCRIÇÃO": "ASSENTAMENTO DE PARALELEPÍPEDO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M2",
+   "PREÇO": "147,24"
+ },
+ {
+   "ITEM": 70090070,
+   "DESCRIÇÃO": "ASSENTAMENTO DE BLOCOS PARA PAVIMENTAÇÃO (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M2",
+   "PREÇO": "37,61"
+ },
+ {
+   "ITEM": 70090074,
+   "DESCRIÇÃO": "ASSENTAMENTO DE GUIAS (B)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "17,66"
+ },
+ {
+   "ITEM": 70090076,
+   "DESCRIÇÃO": "ASSENTAMENTO DE PARALELEPÍPEDO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M2",
+   "PREÇO": "121,29"
+ },
+ {
+   "ITEM": 70090077,
+   "DESCRIÇÃO": "ASSENTAMENTO DE BLOCOS PARA PAVIMENTAÇÃO (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M2",
+   "PREÇO": "34,12"
+ },
+ {
+   "ITEM": 70090081,
+   "DESCRIÇÃO": "ASSENTAMENTO DE GUIAS (C)",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "16,86"
+ },
+ {
+   "ITEM": 70100002,
+   "DESCRIÇÃO": "LIGAÇÕES DOMICILIARES DE ÁGUA - ASSENTAMENTO DE TUBULAÇÃO - PE",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "31,51"
+ },
+ {
+   "ITEM": 70140021,
+   "DESCRIÇÃO": "ASSENTAMENTO DE BLOCOS LEOPOLD",
+   "DATA I0": "jan/26",
+   "UNID": "M2",
+   "PREÇO": "164,24"
+ },
+ {
+   "ITEM": 70210000,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 63 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "77,4"
+ },
+ {
+   "ITEM": 70210010,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 90 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "84,95"
+ },
+ {
+   "ITEM": 70210011,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 110 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "136,37"
+ },
+ {
+   "ITEM": 70210012,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 160 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "255,46"
+ },
+ {
+   "ITEM": 70210013,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 200 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "360,25"
+ },
+ {
+   "ITEM": 70210014,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 225 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "366,72"
+ },
+ {
+   "ITEM": 70210015,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 250 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "513,99"
+ },
+ {
+   "ITEM": 70210016,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 280 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "523,09"
+ },
+ {
+   "ITEM": 70210017,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 315 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "741,08"
+ },
+ {
+   "ITEM": 70210018,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 355 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "755,39"
+ },
+ {
+   "ITEM": 70210019,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 400 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "904,71"
+ },
+ {
+   "ITEM": 70210020,
+   "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 500 MM - SOLO COMUM",
+   "DATA I0": "jan/26",
+   "UNID": "M",
+   "PREÇO": "1.184,64"
  }
 ];
