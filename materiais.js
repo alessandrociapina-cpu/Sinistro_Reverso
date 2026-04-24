@@ -4173,12 +4173,6 @@ const baseMateriais = [
    "Código": "HM08320",
    "Descrição": "CAP TERMOFUSÃO PEAD DE=500 MM SDR17 PE100 INJETADO NTS 193",
    "Unid. Med.": "un",
-   "Preço": ""
- },
- {
-   "Código": "HM08320",
-   "Descrição": "CAP TERMOFUSÃO PEAD DE=500 MM SDR17 PE100 INJETADO NTS 193",
-   "Unid. Med.": "un",
    "Preço": "6985,91"
  },
  {
@@ -24276,12 +24270,6 @@ const baseMateriais = [
    "Preço": "130,07"
  },
  {
-   "Código": "CV01258",
-   "Descrição": "TUBO CONCRETO SIMPLES DN=400 MM, PONTA BOLSA JUNTA ELÁSTICA (PBJE) PS-1 NBR 8890 - PARA ÁGUAS PLUVIAIS",
-   "Unid. Med.": "M",
-   "Preço": ""
- },
- {
    "Código": "HM01992",
    "Descrição": "TUBO CORRUGADO PVC RÍGIDO DN=100 MM PERFURADO PARA DRENAGEM",
    "Unid. Med.": "M",
@@ -25014,12 +25002,6 @@ const baseMateriais = [
    "Preço": "14,19"
  },
  {
-   "Código": "HM01857",
-   "Descrição": "UNIÃO CAPEADA EM POLIPROPILENO PARA TUBO DE PEAD DE=32 MM NTS 179",
-   "Unid. Med.": "un",
-   "Preço": ""
- },
- {
    "Código": "EL02159",
    "Descrição": "UNIÃO MACHO FÊMEA DE FERRO NODULAR GALV A FOGO D=1\" PARA ELETRODUTO",
    "Unid. Med.": "un",
@@ -25671,12 +25653,6 @@ const baseMateriais = [
    "Código": "HM07130",
    "Descrição": "VÁLVULA RETENÇÃO PVC DN=100 MM HORIZONTAL COM BOLSAS, ESGOTO PREDIAL",
    "Unid. Med.": "un",
-   "Preço": "1"
- },
- {
-   "Código": "HM07130",
-   "Descrição": "VÁLVULA RETENÇÃO PVC DN=100 MM HORIZONTAL COM BOLSAS, ESGOTO PREDIAL",
-   "Unid. Med.": "un",
    "Preço": "142,94"
  },
  {
@@ -25924,11 +25900,5 @@ const baseMateriais = [
    "Descrição": "VOLTÍMETRO ANALÓGICO EM CAIXA TERMOPLÁSTICA 0 - 600V, 72 X 72MM FERRO MÓVEL (PARA TENSÃO ALTERNADA) PARA PORTA DE PAINEL ELÉTRICO",
    "Unid. Med.": "un",
    "Preço": "131,13"
- },
- {
-   "Código": "EL02647",
-   "Descrição": "VOLTÍMETRO ANALÓGICO EM CAIXA TERMOPLÁSTICA 0 - 600V, 96 X 96MM FERRO MÓVEL (PARA TENSÃO ALTERNADA) PARA PORTA DE PAINEL ELÉTRICO",
-   "Unid. Med.": "un",
-   "Preço": ""
  }
 ];
