@@ -756,6 +756,11 @@
                 if(el.id !== 'input-arquivo') projeto.inputsGerais[el.id] = el.value;
             });
 
+            ['rodape-unidade-dep', 'rodape-endereco'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) projeto.inputsGerais[id] = el.innerText;
+            });
+
             document.querySelectorAll('#tabela-servicos tr').forEach(tr => {
                 const desc = tr.querySelector('.desc-input');
                 if(desc && desc.value.trim() !== '') {
@@ -795,6 +800,11 @@
 
                     tratarUnidade(); tratarDano(); tratarDropdown('material-dano'); tratarDropdown('diametro-dano'); tratarSecaoVazamento(); tratarFormatoDano(); tratarCausador();
 
+                    ['rodape-unidade-dep', 'rodape-endereco'].forEach(id => {
+                        const el = document.getElementById(id);
+                        if (el && projeto.inputsGerais[id] !== undefined) el.innerText = projeto.inputsGerais[id];
+                    });
+
                     document.getElementById('tabela-servicos').innerHTML = '';
                     document.getElementById('tabela-materiais').innerHTML = '';
                     
@@ -828,7 +838,7 @@
                     atualizarLinhas('servico');
                     atualizarLinhas('material');
                 } catch(err) {
-                    alert("Erro ao ler o ficheiro do projeto.");
+                    alert("Erro ao ler o arquivo do projeto.");
                 }
                 event.target.value = ""; 
             };
