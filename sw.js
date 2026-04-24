@@ -3,6 +3,9 @@ const CACHE_NAME = 'sabesp-orcamento-cache';
 const urlsToCache = [
   './',
   './index.html',
+  './styles.css',
+  './app.js',
+  './tests.js',
   './servicos.js',
   './materiais.js',
   './logosabesp.png',
