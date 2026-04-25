@@ -54,12 +54,20 @@
 
             <div class="ident-row">
                 <label>nº:</label>
-                <input type="text" id="sef" placeholder="XXX/XX" style="flex: 0 0 150px;">
+                <input type="text" id="sef" placeholder="XXX/XXXX" style="flex: none; width: 150px;">
             </div>
 
             <div class="ident-row">
                 <label>Unidade:</label>
-                <input type="text" id="unidade" value="Divisão de Manutenção e Serviços Operacionais de São José dos Campos - OVMS" oninput="tratarUnidade()">
+                <select id="unidade" onchange="tratarUnidade()">
+                    <option value="Divisão de Manutenção e Serviços de São José dos Campos - OVMS">Divisão de Manutenção e Serviços de São José dos Campos - OVMS</option>
+                    <option value="Divisão de Serviços Técnicos do Litoral Norte - OIOT">Divisão de Serviços Técnicos do Litoral Norte - OIOT</option>
+                    <option value="Outras">Outras</option>
+                </select>
+            </div>
+            <div class="ident-row" id="unidade-outros-row" style="display: none;">
+                <label></label>
+                <input type="text" id="unidade-outros" placeholder="Digite o nome da unidade..." oninput="tratarUnidadeOutros()">
             </div>
 
             <div class="ident-row">
@@ -309,7 +317,7 @@
         <div class="rodape-container">
             <div class="rodape-texto">
                 Companhia de Saneamento Básico do Estado de São Paulo – Sabesp<br>
-                <span id="rodape-unidade-dep" contenteditable="true" style="display:inline-block; outline:none;">Divisão de Manutenção e Serviços Operacionais de São José dos Campos - OVMS</span><br>
+                <span id="rodape-unidade-dep" contenteditable="true" style="display:inline-block; outline:none;">Divisão de Manutenção e Serviços de São José dos Campos - OVMS</span><br>
                 <span id="rodape-endereco" contenteditable="true" data-placeholder="Endereço da unidade Sabesp" style="display: inline-block; outline: none; min-width: 100%;"></span><br>
                 <span>www.sabesp.com.br</span>
             </div>
