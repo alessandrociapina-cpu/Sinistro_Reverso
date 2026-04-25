@@ -35,11 +35,11 @@
 
     // calcularVazaoOrificio
     // Furo circular Cd=0.61, diam=2cm → área=π*(0.01)²≈3.1416e-4 m², pressão=10mca
-    // Q = 0.61 × 3.1416e-4 × √(2×9.81×10) × 1000 ≈ 0.848 L/s
+    // Q = 0.61 × 3.1416e-4 × √(2×9.81×10) × 1000 ≈ 2.684 L/s
     const areaCirc = Math.PI * Math.pow(0.01, 2);
     const q = calcularVazaoOrificio(0.61, areaCirc, 10);
-    assert(Math.abs(q - 0.848) < 0.01,
-        `calcularVazaoOrificio: Cd=0.61 d=2cm p=10mca ≈ 0.848 L/s (obtido ${q.toFixed(3)})`);
+    assert(Math.abs(q - 2.684) < 0.01,
+        `calcularVazaoOrificio: Cd=0.61 d=2cm p=10mca ≈ 2.684 L/s (obtido ${q.toFixed(3)})`);
     assert(calcularVazaoOrificio(0, 1, 10) === 0,    'calcularVazaoOrificio: Cd=0 → 0');
     assert(calcularVazaoOrificio(0.61, 0, 10) === 0, 'calcularVazaoOrificio: área=0 → 0');
     assert(calcularVazaoOrificio(0.61, 1, 0) === 0,  'calcularVazaoOrificio: pressão=0 → 0');
