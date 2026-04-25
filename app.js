@@ -290,6 +290,10 @@ function obterErrosValidacaoDocumento() {
         if (!valorCampo(id)) erros.push(`${rotulo}: preenchimento obrigatorio.`);
     });
 
+    if (valorCampo('unidade') === 'Outras' && !valorCampo('unidade-outros')) {
+        erros.push('Unidade: informe o nome da unidade no campo aberto.');
+    }
+
     campoOutrosValido('causador', 'causador-outros', 'Causador dos danos', erros);
     campoOutrosValido('tipo-dano', 'tipo-dano-outros', 'Tipo do dano', erros);
     campoOutrosValido('material-dano', 'material-dano-outros', 'Material', erros);
@@ -503,10 +507,33 @@ function calcularGeral() {
     document.getElementById('total-ufesp').innerText = (totalGeral / VALOR_UFESP).toFixed(2);
 }
 
+const ENDERECO_OVMS = 'Rua Euclides Miragaia, 126, Centro - CEP 12.245-820 - São José dos Campos - SP';
+
 function tratarUnidade() {
-    const val = document.getElementById('unidade').value;
+    const select = document.getElementById('unidade');
+    const inputOutros = document.getElementById('unidade-outros');
+    const outrosRow = document.getElementById('unidade-outros-row');
     const rodapeUnidadeDep = document.getElementById('rodape-unidade-dep');
-    rodapeUnidadeDep.innerText = val || "_______________________________________________________";
+    const rodapeEndereco = document.getElementById('rodape-endereco');
+    const val = select.value;
+
+    if (val === 'Outras') {
+        outrosRow.style.display = '';
+        select.classList.add('hide-on-print');
+        rodapeUnidadeDep.innerText = inputOutros.value || '_______________________________________________________';
+        rodapeEndereco.innerText = '';
+    } else {
+        outrosRow.style.display = 'none';
+        inputOutros.value = '';
+        select.classList.remove('hide-on-print');
+        rodapeUnidadeDep.innerText = val;
+        rodapeEndereco.innerText = val.includes('OVMS') ? ENDERECO_OVMS : '';
+    }
+}
+
+function tratarUnidadeOutros() {
+    const val = document.getElementById('unidade-outros').value;
+    document.getElementById('rodape-unidade-dep').innerText = val || '_______________________________________________________';
 }
 
 function tratarCausador() {
