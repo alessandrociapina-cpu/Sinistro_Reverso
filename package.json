@@ -1,0 +1,15 @@
+{
+  "name": "sinistro-reverso",
+  "version": "5.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "npm run validate:data && npm run test:browser",
+    "validate:data": "node scripts/validate-data.mjs",
+    "test:browser": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "http-server": "^14.1.1"
+  }
+}
