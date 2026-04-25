@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v5.0.1';
+const CACHE_VERSION = 'v5.1.0';
 const CACHE_NAME = `sabesp-orcamento-cache-${CACHE_VERSION}`;
 
 const urlsToCache = [
