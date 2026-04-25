@@ -4,6 +4,11 @@
     if (!new URLSearchParams(window.location.search).has('tests')) return;
 
     let passou = 0, falhou = 0;
+    window.__SABESP_TEST_RESULTS__ = { passou, falhou, done: false };
+
+    function registrarResultado() {
+        window.__SABESP_TEST_RESULTS__ = { passou, falhou, done: true };
+    }
 
     function assert(condicao, mensagem) {
         if (condicao) {
@@ -39,6 +44,8 @@
     assert(calcularVazaoOrificio(0.61, 0, 10) === 0, 'calcularVazaoOrificio: área=0 → 0');
     assert(calcularVazaoOrificio(0.61, 1, 0) === 0,  'calcularVazaoOrificio: pressão=0 → 0');
     assert(calcularVazaoOrificio(0.61, 1, -5) === 0, 'calcularVazaoOrificio: pressão negativa → 0');
+
+    registrarResultado();
 
     console.log(
         `%c── ${passou} passou  ${falhou} falhou ──`,
