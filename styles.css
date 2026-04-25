@@ -134,6 +134,83 @@ table.data-table td input { width: 100%; border: none; background: transparent; 
     font-weight: normal;
 }
 
+/* === CAMPOS EDITÁVEIS — DESTAQUE VISUAL =====================================
+   Regra geral: inputs/selects dentro de células de tabela têm border/background
+   resetados para transparent. As regras abaixo restauram o destaque apenas nos
+   campos que o usuário deve preencher, excluindo os campos readonly/calculados.
+   =========================================================================== */
+
+/* Inputs editáveis em células de tabela (exclui readonly) */
+table.data-table td input:not([readonly]) {
+    background-color: #eef9ff;
+    border-bottom: 1.5px solid #90cce0 !important;
+    border-radius: 2px;
+}
+table.data-table td input:not([readonly]):focus {
+    background-color: #ddf2fc;
+    border-bottom: 2px solid var(--sabesp-blue) !important;
+    outline: none;
+}
+
+/* Selects editáveis em células de tabela */
+table.data-table td select {
+    background-color: #eef9ff;
+    border-bottom: 1.5px solid #90cce0 !important;
+    border-radius: 2px;
+}
+table.data-table td select:focus {
+    background-color: #ddf2fc;
+    border-bottom: 2px solid var(--sabesp-blue) !important;
+    outline: none;
+}
+
+/* BDI — mesma ênfase do campo OS por impactar diretamente o total */
+#taxa-bdi {
+    background-color: #eef9ff !important;
+    border: 1.5px solid var(--sabesp-blue) !important;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+/* Campos de assinatura (inline styles forçam transparent/none, precisam !important) */
+#ass-nome-1, #ass-nome-2 {
+    background-color: #eef9ff !important;
+    border-bottom: 1.5px solid #90cce0 !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 2px;
+    padding: 2px 4px !important;
+}
+#ass-cargo-1, #ass-cargo-2 {
+    background-color: #eef9ff !important;
+    border-bottom: 1.5px solid #90cce0 !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 2px;
+    padding: 2px 4px !important;
+}
+
+/* Campos contenteditable do rodapé */
+[contenteditable="true"] {
+    border-bottom: 1.5px dashed #90cce0;
+    cursor: text;
+    padding-bottom: 2px;
+    transition: border-color 0.15s, background-color 0.15s;
+    border-radius: 2px;
+}
+[contenteditable="true"]:hover {
+    border-bottom-color: var(--sabesp-blue);
+    background-color: rgba(18, 208, 255, 0.05);
+}
+[contenteditable="true"]:focus {
+    border-bottom: 2px solid var(--sabesp-blue);
+    outline: none;
+    background-color: rgba(18, 208, 255, 0.08);
+}
+/* =========================================================================== */
+
 .action-menu { display: flex; justify-content: center; gap: 10px; margin-bottom: 5px; flex-wrap: wrap; margin-top: 20px; }
 .btn {
     padding: 8px 15px; background-color: #0056b3; color: white; border: none; border-radius: 5px;
@@ -223,4 +300,12 @@ table.data-table td input { width: 100%; border: none; background: transparent; 
 
     /* Oculta placeholder do contenteditable na impressão */
     [contenteditable]:empty::before { content: none; }
+
+    /* Remove destaques de editabilidade na impressão */
+    table.data-table td input:not([readonly]),
+    table.data-table td select { background-color: transparent !important; border-bottom: none !important; }
+    #taxa-bdi { background-color: transparent !important; border: none !important; font-weight: normal; }
+    #ass-nome-1, #ass-nome-2,
+    #ass-cargo-1, #ass-cargo-2 { background-color: transparent !important; border-bottom: none !important; padding: 0 !important; }
+    [contenteditable="true"] { border-bottom: none !important; background-color: transparent !important; cursor: default; }
 }

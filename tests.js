@@ -34,8 +34,8 @@
     assert(removerAcentos('ESGOTO') === 'esgoto',  'removerAcentos: só maiúscula');
 
     // versionamento
-    assert(window.SABESP_APP_INFO?.version === '5.2.0', 'version.js: versão técnica v5.2.0');
-    assert(document.querySelector('.version-badge')?.textContent.includes('v5.2'), 'interface: badge exibe v5.2');
+    assert(window.SABESP_APP_INFO?.version === '5.3.0', 'version.js: versão técnica v5.3.0');
+    assert(document.querySelector('.version-badge')?.textContent.includes('v5.3'), 'interface: badge exibe v5.3');
 
     // calcularVazaoOrificio
     // Furo circular Cd=0.61, diam=2cm → área=π*(0.01)²≈3.1416e-4 m², pressão=10mca
