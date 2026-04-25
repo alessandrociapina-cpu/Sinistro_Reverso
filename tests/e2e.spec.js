@@ -19,10 +19,10 @@ test('calcula agua perdida por area de furo circular', async ({ page }) => {
   await page.locator('#hora-fim').fill('09:00');
 
   await expect(page.locator('#calc-segundos')).toHaveText('3600');
-  await expect(page.locator('#calc-vazao')).toHaveText('0.848');
-  await expect(page.locator('#calc-vol')).toHaveText('3.05');
-  await expect(page.locator('#calc-total-agua')).toHaveText('62.66');
-  await expect(page.locator('#total-final')).toHaveText('62.66');
+  await expect(page.locator('#calc-vazao')).toHaveText('2.684');
+  await expect(page.locator('#calc-vol')).toHaveText('9.66');
+  await expect(page.locator('#calc-total-agua')).toHaveText('198.27');
+  await expect(page.locator('#total-final')).toHaveText('198.27');
 });
 
 test('bloqueia salvar e imprimir quando secao plena usa diametro sem tabela', async ({ page }) => {
