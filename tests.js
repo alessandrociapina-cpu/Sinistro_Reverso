@@ -1,3 +1,17 @@
+// Atualiza a versão visível e o histórico de mudanças exibido na interface.
+(function atualizarReleaseNotes() {
+    const badge = document.querySelector('.version-badge');
+    if (badge) badge.textContent = 'v5.1 ℹ️';
+
+    const changelog = document.querySelector('.changelog-box ul');
+    if (!changelog || changelog.querySelector('[data-version="5.1"]')) return;
+
+    const item = document.createElement('li');
+    item.dataset.version = '5.1';
+    item.innerHTML = '<strong>v5.1:</strong> Documentação do repositório adicionada; validação automática das bases de serviços e materiais; testes de navegador configurados; workflow de CI incluído; cache do PWA versionado; correção da expectativa de vazão nos testes.';
+    changelog.insertBefore(item, changelog.firstChild);
+})();
+
 // Suíte de testes — ativada apenas com ?tests=true na URL
 // Exemplo: file:///index.html?tests=true
 (function () {
