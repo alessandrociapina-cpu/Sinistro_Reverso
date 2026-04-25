@@ -13,8 +13,11 @@ O projeto tambem funciona como PWA quando servido por HTTP/HTTPS, usando `manife
 - `index.html`: estrutura da planilha e campos de entrada.
 - `styles.css`: layout de tela, responsivo mobile e regras de impressao A4.
 - `app.js`: regras de calculo, estado, autocomplete, salvar/carregar projeto e PWA.
+- `version.js`: fonte unica de versao e historico da ultima atualizacao exibida na interface.
+- `calculos.js`: funcoes puras de calculo usadas pela interface e pelos testes.
 - `servicos.js`: base de precos de servicos.
 - `materiais.js`: base de precos de materiais.
+- `DATA_SOURCES.md`: metadados e checklist de atualizacao das bases.
 - `tests.js`: testes de funcoes puras executados no navegador com `?tests=true`.
 - `scripts/validate-data.mjs`: validacao automatica das bases de precos.
 - `tests/e2e.spec.js`: testes de navegador com Playwright.
@@ -62,6 +65,8 @@ index.html?tests=true
 Ao atualizar `servicos.js` ou `materiais.js`, mantenha o formato de array JavaScript global (`baseServicos` e `baseMateriais`) ou ajuste `app.js` e `scripts/validate-data.mjs` em conjunto.
 
 Antes de publicar uma nova base, rode `npm run validate:data` para verificar campos obrigatorios, precos invalidos e duplicidades exatas.
+
+Registre tambem origem, responsavel e data de referencia em `DATA_SOURCES.md` antes de liberar a atualizacao.
 
 ## Publicacao
 

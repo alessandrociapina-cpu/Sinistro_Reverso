@@ -12,6 +12,11 @@ test('browser smoke tests exposed by tests.js pass', async ({ page }) => {
   expect(results.passou).toBeGreaterThan(0);
 });
 
+test('exibe versao e historico atuais', async ({ page }) => {
+  await expect(page.locator('.version-badge')).toContainText('v5.2');
+  await expect(page.locator('.changelog-box li').first()).toContainText('v5.2');
+});
+
 test('calcula agua perdida por area de furo circular', async ({ page }) => {
   await page.locator('#data-ini').fill('2026-01-01');
   await page.locator('#hora-ini').fill('08:00');
@@ -40,4 +45,18 @@ test('mostra campo livre quando causador e Outros', async ({ page }) => {
 
   await page.locator('#causador').selectOption('COMGAS');
   await expect(page.locator('#causador-outros')).toBeHidden();
+});
+
+test('bloqueia salvar documento com campos obrigatorios ausentes', async ({ page }) => {
+  let mensagem = '';
+  page.on('dialog', async dialog => {
+    mensagem = dialog.message();
+    await dialog.dismiss();
+  });
+
+  await page.locator('#btn-salvar-proj').click();
+
+  expect(mensagem).toContain('Antes de salvar o projeto');
+  expect(mensagem).toContain('Identificacao');
+  expect(mensagem).toContain('OS');
 });

@@ -5,7 +5,7 @@ const definitions = [
   {
     file: 'servicos.js',
     globalName: 'baseServicos',
-    codeKeys: ['ITEM', 'item', 'Codigo', 'Codigo', 'codigo', 'código'],
+    codeKeys: ['ITEM', 'item', 'Codigo', 'codigo', 'código'],
     descKeys: ['DESCRICAO', 'DESCRIÇÃO', 'descrição', 'descricao', 'espec'],
     unitKeys: ['UNID', 'unid', 'unidade'],
     priceKeys: ['PRECO', 'PREÇO', 'preço', 'preco', 'punit', 'valor']
@@ -55,6 +55,7 @@ let failures = 0;
 for (const definition of definitions) {
   const rows = loadArray(definition.file, definition.globalName);
   const seenExact = new Set();
+  const codes = new Map();
   const problems = [];
 
   if (!Array.isArray(rows) || rows.length === 0) {
@@ -75,6 +76,14 @@ for (const definition of definitions) {
     if (!Number.isFinite(price) || price <= 0) problems.push(`linha ${index + 1}: preco invalido (${priceRaw})`);
     if (seenExact.has(identity)) problems.push(`linha ${index + 1}: duplicidade exata de codigo+descricao (${identity})`);
     seenExact.add(identity);
+
+    if (code) {
+      const existing = codes.get(code);
+      if (existing && existing.desc !== desc) {
+        problems.push(`linha ${index + 1}: codigo repetido com descricao diferente (${code})`);
+      }
+      if (!existing) codes.set(code, { desc, index });
+    }
   });
 
   if (problems.length > 0) {

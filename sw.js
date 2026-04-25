@@ -1,10 +1,12 @@
-const CACHE_VERSION = 'v5.1.0';
+const CACHE_VERSION = 'v5.2.0';
 const CACHE_NAME = `sabesp-orcamento-cache-${CACHE_VERSION}`;
 
 const urlsToCache = [
   './',
   './index.html',
   './styles.css',
+  './version.js',
+  './calculos.js',
   './app.js',
   './tests.js',
   './servicos.js',
@@ -16,7 +18,14 @@ const urlsToCache = [
 self.addEventListener('install', event => {
   self.skipWaiting();
   event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => cache.addAll(urlsToCache))
+    caches.open(CACHE_NAME).then(cache => {
+      return Promise.allSettled(urlsToCache.map(url => cache.add(url))).then(results => {
+        const failures = results.filter(result => result.status === 'rejected');
+        if (failures.length > 0) {
+          console.warn(`${failures.length} arquivo(s) nao foram adicionados ao cache inicial.`);
+        }
+      });
+    })
   );
 });
 
@@ -45,12 +54,18 @@ self.addEventListener('fetch', event => {
 
   event.respondWith(
     fetch(event.request).then(response => {
+      if (!response || !response.ok) return response;
+
       return caches.open(CACHE_NAME).then(cache => {
         cache.put(event.request, response.clone());
         return response;
       });
     }).catch(() => {
-      return caches.match(event.request);
+      return caches.match(event.request).then(cachedResponse => {
+        if (cachedResponse) return cachedResponse;
+        if (event.request.mode === 'navigate') return caches.match('./index.html');
+        return Response.error();
+      });
     })
   );
 });

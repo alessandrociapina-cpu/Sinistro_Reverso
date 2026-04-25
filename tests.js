@@ -1,17 +1,3 @@
-// Atualiza a versão visível e o histórico de mudanças exibido na interface.
-(function atualizarReleaseNotes() {
-    const badge = document.querySelector('.version-badge');
-    if (badge) badge.textContent = 'v5.1 ℹ️';
-
-    const changelog = document.querySelector('.changelog-box ul');
-    if (!changelog || changelog.querySelector('[data-version="5.1"]')) return;
-
-    const item = document.createElement('li');
-    item.dataset.version = '5.1';
-    item.innerHTML = '<strong>v5.1:</strong> Documentação do repositório adicionada; validação automática das bases de serviços e materiais; testes de navegador configurados; workflow de CI incluído; cache do PWA versionado; correção da expectativa de vazão nos testes.';
-    changelog.insertBefore(item, changelog.firstChild);
-})();
-
 // Suíte de testes — ativada apenas com ?tests=true na URL
 // Exemplo: file:///index.html?tests=true
 (function () {
@@ -47,6 +33,10 @@
     assert(removerAcentos(null) === '',             'removerAcentos: null → string vazia');
     assert(removerAcentos('ESGOTO') === 'esgoto',  'removerAcentos: só maiúscula');
 
+    // versionamento
+    assert(window.SABESP_APP_INFO?.version === '5.2.0', 'version.js: versão técnica v5.2.0');
+    assert(document.querySelector('.version-badge')?.textContent.includes('v5.2'), 'interface: badge exibe v5.2');
+
     // calcularVazaoOrificio
     // Furo circular Cd=0.61, diam=2cm → área=π*(0.01)²≈3.1416e-4 m², pressão=10mca
     // Q = 0.61 × 3.1416e-4 × √(2×9.81×10) × 1000 ≈ 2.684 L/s
@@ -58,6 +48,11 @@
     assert(calcularVazaoOrificio(0.61, 0, 10) === 0, 'calcularVazaoOrificio: área=0 → 0');
     assert(calcularVazaoOrificio(0.61, 1, 0) === 0,  'calcularVazaoOrificio: pressão=0 → 0');
     assert(calcularVazaoOrificio(0.61, 1, -5) === 0, 'calcularVazaoOrificio: pressão negativa → 0');
+
+    const periodoValido = window.SabespCalculos.calcularTempoSegundos('2026-01-01', '08:00', '2026-01-01', '09:00');
+    assert(periodoValido.valido && periodoValido.segundos === 3600, 'calcularTempoSegundos: uma hora → 3600s');
+    const periodoNegativo = window.SabespCalculos.calcularTempoSegundos('2026-01-01', '09:00', '2026-01-01', '08:00');
+    assert(!periodoNegativo.valido && periodoNegativo.segundos === 0, 'calcularTempoSegundos: periodo negativo bloqueado');
 
     registrarResultado();
 

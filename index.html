@@ -17,7 +17,7 @@
     <div class="action-menu no-print">
         <button id="btn-salvar-proj" class="btn btn-salvar" onclick="salvarProjeto()">💾 Salvar Projeto</button>
         <button id="btn-carregar-proj" class="btn btn-carregar" onclick="document.getElementById('input-arquivo').click()">📂 Carregar Projeto</button>
-        <button id="btn-imprimir-proj" class="btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
+        <button id="btn-imprimir-proj" class="btn" onclick="imprimirProjeto()">🖨️ Imprimir / PDF</button>
         <input type="file" id="input-arquivo" class="hidden" accept=".json" onchange="carregarProjeto(event)">
     </div>
     <div class="db-info no-print">
@@ -28,10 +28,11 @@
         <div class="content-wrapper">
 
             <div class="version-wrapper no-print">
-                <div class="version-badge">v5.0 ℹ️</div>
+                <div class="version-badge">v5.2 ℹ️</div>
                 <div class="changelog-box">
                     <h4>Últimas Atualizações</h4>
                     <ul>
+                        <li data-version="5.2.0"><strong>v5.2:</strong> Versão única do aplicativo, cálculos puros separados, validações antes de salvar/imprimir, service worker mais robusto, metadados das bases e testes ampliados.</li>
                         <li><strong>v5.0:</strong> CSS e JS separados em arquivos próprios; objeto de estado desacopla cálculos do DOM; rodapé genérico para todas as unidades Sabesp; correção de layout mobile; persistência de preços no projeto salvo; UX aprimorada nos botões bloqueados; suíte de testes básicos.</li>
                         <li><strong>v4.5:</strong> Melhorias no rigor do cálculo hidráulico e validação de segurança na Seção Plena.</li>
                         <li><strong>v4.4:</strong> Restauração completa do motor de cálculo da v4.2 com ajuste seguro para margem de impressão.</li>
@@ -316,6 +317,8 @@
 
     </div>
 
+    <script src="version.js"></script>
+    <script src="calculos.js"></script>
     <script src="app.js"></script>
     <script src="tests.js"></script>
 </body>
