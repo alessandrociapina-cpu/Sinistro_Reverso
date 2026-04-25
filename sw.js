@@ -1,4 +1,5 @@
-const CACHE_NAME = 'sabesp-orcamento-cache';
+const CACHE_VERSION = 'v5.0.1';
+const CACHE_NAME = `sabesp-orcamento-cache-${CACHE_VERSION}`;
 
 const urlsToCache = [
   './',
@@ -24,9 +25,10 @@ self.addEventListener('activate', event => {
     caches.keys().then(cacheNames => {
       return Promise.all(
         cacheNames.map(cacheName => {
-          if (cacheName !== CACHE_NAME) {
+          if (cacheName !== CACHE_NAME && cacheName.startsWith('sabesp-orcamento-cache')) {
             return caches.delete(cacheName);
           }
+          return undefined;
         })
       );
     })
@@ -34,8 +36,13 @@ self.addEventListener('activate', event => {
   self.clients.claim();
 });
 
-// Estratégia "Network First" (Sempre procura a versão mais nova na internet primeiro)
+// Estrategia "Network First": tenta buscar a versao mais nova antes de usar o cache.
 self.addEventListener('fetch', event => {
+  if (event.request.method !== 'GET') return;
+
+  const requestUrl = new URL(event.request.url);
+  if (!['http:', 'https:'].includes(requestUrl.protocol)) return;
+
   event.respondWith(
     fetch(event.request).then(response => {
       return caches.open(CACHE_NAME).then(cache => {
