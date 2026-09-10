@@ -1,7 +1,12 @@
 window.SABESP_APP_INFO = Object.freeze({
-  version: '5.10.0',
-  displayVersion: 'v5.10',
+  version: '5.11.0',
+  displayVersion: 'v5.11',
   releaseNotes: [
+    {
+      version: '5.11.0',
+      displayVersion: 'v5.11',
+      summary: 'Atualizacao do endereco da unidade OVMS no rodape: Av. Heitor Villa Lobos, 1229 - Vila Ema - CEP 12243-260 - Sao Jose dos Campos - SP, com telefone 55(12)3904-3202.'
+    },
     {
       version: '5.10.0',
       displayVersion: 'v5.10',

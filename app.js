@@ -485,7 +485,7 @@ function calcularGeral() {
     document.getElementById('total-ufesp').innerText = formatarBR(totalGeral / VALOR_UFESP);
 }
 
-const ENDERECO_OVMS = 'Rua Euclides Miragaia, 126, Centro - CEP 12.245-820 - São José dos Campos - SP';
+const ENDERECO_OVMS = 'Av. Heitor Villa Lobos, 1229 - Vila Ema - CEP 12243-260 - São José dos Campos - SP\nTel. 55(12)3904-3202.  www.sabesp.com.br';
 
 function tratarUnidade() {
     const select = document.getElementById('unidade');
@@ -493,6 +493,7 @@ function tratarUnidade() {
     const outrosRow = document.getElementById('unidade-outros-row');
     const rodapeUnidadeDep = document.getElementById('rodape-unidade-dep');
     const rodapeEndereco = document.getElementById('rodape-endereco');
+    const rodapeSite = document.getElementById('rodape-site');
     const val = select.value;
 
     if (val === 'Outras') {
@@ -500,12 +501,17 @@ function tratarUnidade() {
         select.classList.add('hide-on-print');
         rodapeUnidadeDep.innerText = inputOutros.value || '_______________________________________________________';
         rodapeEndereco.innerText = '';
+        if (rodapeSite) rodapeSite.style.display = '';
     } else {
         outrosRow.style.display = 'none';
         inputOutros.value = '';
         select.classList.remove('hide-on-print');
         rodapeUnidadeDep.innerText = val;
-        rodapeEndereco.innerText = val.includes('OVMS') ? ENDERECO_OVMS : '';
+        const isOvms = val.includes('OVMS');
+        rodapeEndereco.innerText = isOvms ? ENDERECO_OVMS : '';
+        // O endereço da OVMS já inclui telefone e www.sabesp.com.br,
+        // então a linha estática é ocultada para não duplicar o site.
+        if (rodapeSite) rodapeSite.style.display = isOvms ? 'none' : '';
     }
 }
 
