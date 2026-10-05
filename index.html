@@ -28,10 +28,11 @@
         <div class="content-wrapper">
 
             <div class="version-wrapper no-print">
-                <div class="version-badge">v5.11 ℹ️</div>
+                <div class="version-badge">v6.0 ℹ️</div>
                 <div class="changelog-box">
                     <h4>Últimas Atualizações</h4>
                     <ul>
+                        <li data-version="6.0.0"><strong>v6.0:</strong> Revisão do cálculo de água perdida: a vazão passa a ser limitada pela capacidade hidráulica da tubulação (teto de 6 m/s e perda de carga por Hazen-Williams), o fechamento dos registros limita o período faturável também em Área do Furo, a área do furo não pode exceder a seção do tubo e a pressão tem faixa de plausibilidade. Novos parâmetros: alimentação por um ou dois lados, expansão da abertura com a pressão (FAVAD) e origem da pressão. UFESP com vigência por exercício. Memória de cálculo impressa no documento.</li>
                         <li data-version="5.11.0"><strong>v5.11:</strong> Endereço da unidade OVMS atualizado no rodapé: Av. Heitor Villa Lobos, 1229 - Vila Ema - CEP 12243-260 - São José dos Campos - SP, Tel. 55(12)3904-3202.</li>
                         <li data-version="5.10.0"><strong>v5.10:</strong> Seção Plena: o tempo informado passa a ser o vazamento até o fechamento dos registros, limitando o período faturável. A pressão decai de P₀ a zero durante o vazamento (vazão média = ⅔ de Q₀): V = ⅔ × Q₀ × T_efetivo.</li>
                         <li data-version="5.8.0"><strong>v5.8:</strong> Atualização das bases de serviços e materiais para Sabesp SPO Junho/2026 (3.514 serviços e 4.333 insumos).</li>
@@ -136,7 +137,7 @@
                             <input type="text" id="diametro-dano-outros" class="hidden" placeholder="Esp.">
                         </td>
                         <td><input type="text" id="os" placeholder="Digite a OS..." style="text-align: center;"></td>
-                        <td><input type="date" id="data-dano" style="padding: 0;"></td>
+                        <td><input type="date" id="data-dano" onchange="calcularGeral()" style="padding: 0;"></td>
                         <td><input type="time" id="hora-dano" style="padding: 0;"></td>
                     </tr>
                 </tbody>
@@ -188,13 +189,61 @@
                             <input type="number" id="pressao" value="10" min="0" style="border:none; width:100%; text-align:center;" oninput="calcularAgua()">
                         </td>
                     </tr>
-                    <tr id="tr-manobra" class="no-print" style="display: none;">
+                    <tr id="tr-manobra" class="no-print">
                         <td colspan="9" style="padding: 4px 8px; background-color: #eef6ff; border-top: none; font-size: 8pt; font-style: italic; color: #2b5797;">
                             &#x23F1; Tempo de vazamento até o fechamento dos registros:
                             <input type="number" id="tempo-manobra" value="30" min="1" max="1440" step="1"
                                 style="width: 55px; text-align: center; font-style: normal;" oninput="calcularAgua()"> min
-                            &nbsp;&ndash;&nbsp;
-                            <span style="font-size: 7.5pt; color: #555;">Limita o período faturável. A pressão decai de P&#x2080; a zero durante o vazamento: V = &frac23; &times; Q&#x2080; &times; T &nbsp;(vazão média = &frac23; de Q&#x2080;)</span>
+                            &nbsp;&nbsp;|&nbsp;&nbsp;
+                            &#x1F4CD; Distância até a fonte que sustenta a pressão:
+                            <input type="number" id="distancia-fonte" value="0" min="0" max="20000" step="10"
+                                style="width: 70px; text-align: center; font-style: normal;" oninput="calcularAgua()" placeholder="opcional"> m
+                            &nbsp;&nbsp;|&nbsp;&nbsp;
+                            &#x1F4D0; Origem da pressão:
+                            <select id="origem-pressao" style="font-style: normal; font-size: 8pt;" onchange="calcularAgua()">
+                                <option value="Manômetro em campo">Manômetro em campo</option>
+                                <option value="Macromedição">Macromedição</option>
+                                <option value="Modelo da zona de pressão">Modelo da zona de pressão</option>
+                                <option value="Estimada (projeto)">Estimada (projeto)</option>
+                            </select>
+                            <div style="font-size: 7.5pt; color: #555; font-style: normal; margin-top: 2px;">
+                                O tempo de fechamento limita o período faturável. A distância é opcional: sem ela,
+                                a vazão é limitada apenas pelo teto de velocidade de <strong>6 m/s</strong>; com ela,
+                                aplica-se também a perda de carga (Hazen-Williams) e prevalece o menor valor.
+                            </div>
+                        </td>
+                    </tr>
+                    <tr id="tr-lados" class="no-print" style="display: none;">
+                        <td colspan="9" style="padding: 4px 8px; background-color: #eef6ff; border-top: none; font-size: 8pt; font-style: italic; color: #2b5797;">
+                            &#x2194; Alimentação da ruptura:
+                            <select id="lados-ruptura" style="font-style: normal; font-size: 8pt;" onchange="calcularAgua()">
+                                <option value="1">Por um lado (rede ramificada / ponta seca)</option>
+                                <option value="2">Pelos dois lados (rede malhada)</option>
+                            </select>
+                            <span style="font-size: 7.5pt; color: #555; font-style: normal;">
+                                &nbsp;&ndash;&nbsp; Em rede malhada o tubo seccionado verte pelas duas extremidades, dobrando a vazão.
+                            </span>
+                        </td>
+                    </tr>
+                    <tr id="tr-expansao" class="no-print">
+                        <td colspan="9" style="padding: 4px 8px; background-color: #eef6ff; border-top: none; font-size: 8pt; font-style: italic; color: #2b5797;">
+                            &#x2197; Expansão da abertura com a pressão (FAVAD):
+                            <select id="expansao-fissura" style="font-style: normal; font-size: 8pt;" onchange="calcularAgua()">
+                                <option value="0">Sem expansão &ndash; tubo rígido ou furo circular (padrão)</option>
+                                <option value="0.05">5% por 10 mca &ndash; fissura em tubo flexível</option>
+                                <option value="0.10">10% por 10 mca &ndash; fissura longitudinal em PVC/PEAD</option>
+                                <option value="0.20">20% por 10 mca &ndash; fissura longitudinal extensa</option>
+                            </select>
+                            <div style="font-size: 7.5pt; color: #555; font-style: normal; margin-top: 2px;">
+                                A abertura é medida com o tubo despressurizado, o que subestima a área sob carga em
+                                tubos flexíveis. Use valor diferente de zero <strong>apenas com justificativa técnica</strong>,
+                                pois majora o volume faturado.
+                            </div>
+                        </td>
+                    </tr>
+                    <tr id="tr-memoria">
+                        <td colspan="9" style="padding: 4px 8px; border-top: none; font-size: 7.5pt; color: var(--sabesp-blue); text-align: left; line-height: 1.35;">
+                            <span id="memoria-calculo"></span>
                         </td>
                     </tr>
                     <tr>
@@ -303,9 +352,13 @@
                 <div class="total-final-row" style="display: flex; justify-content: space-between;">
                     <span>TOTAL FINAL:</span> <span>R$ <span id="total-final">0,00</span></span>
                 </div>
-                <div style="display: flex; justify-content: flex-end; font-size: 8.5pt; color: #666; margin-top: 2px;">
+                <div style="display: flex; justify-content: flex-end; align-items: center; font-size: 8.5pt; color: #666; margin-top: 2px;">
                     Equivalente em UFESPs: <span id="total-ufesp" style="margin-left: 5px; font-weight: bold; color: var(--text-black);">0,00</span>
+                    <span style="margin-left: 8px;">(UFESP R$
+                        <input type="number" id="valor-ufesp" value="35.36" step="0.01" min="0.01"
+                            style="width: 62px; text-align: center; font-size: 8.5pt; padding: 0;" oninput="calcularGeral()">)</span>
                 </div>
+                <div id="aviso-ufesp" class="no-print" style="display: none; justify-content: flex-end; font-size: 7.5pt; color: #b35c00; margin-top: 1px; text-align: right;"></div>
             </div>
 
             <div class="assinaturas">

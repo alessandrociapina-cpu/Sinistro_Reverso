@@ -17,6 +17,11 @@ const GRAVIDADE = window.SabespCalculos?.GRAVIDADE || 9.81;
 const VALOR_UFESP = 35.36;
 const PRECO_M3_AGUA_PADRAO = 20.52;
 
+// Redes de distribuicao operam tipicamente entre 10 e 50 mca; a NBR 12218
+// admite 50 mca como maxima estatica. Acima disso o valor e quase sempre erro
+// de digitacao, e o efeito na conta e grande (Q cresce com a raiz da pressao).
+const PRESSAO_MAX_PLAUSIVEL = 100;
+
 const estado = {
     subtotalAgua: 0,
     subtotalServicos: 0,
@@ -292,9 +297,7 @@ function obterErrosValidacaoDocumento() {
     campoOutrosValido('material-dano', 'material-dano-outros', 'Material', erros);
     campoOutrosValido('diametro-dano', 'diametro-dano-outros', 'Diametro', erros);
 
-    const tipoDano = valorCampo('tipo-dano').toLowerCase();
-    const envolveAgua = tipoDano.includes('agua') || tipoDano.includes('água');
-    if (envolveAgua) {
+    if (danoEnvolveAgua()) {
         const periodo = window.SabespCalculos?.calcularTempoSegundos(
             valorCampo('data-ini'),
             valorCampo('hora-ini'),
@@ -306,10 +309,20 @@ function obterErrosValidacaoDocumento() {
             erros.push('Agua perdida: informe inicio e fim validos da ocorrencia.');
         }
 
-        if (valorCampo('tipo-secao') === 'Área do Furo') {
-            const pressao = parseFloat(valorCampo('pressao')) || 0;
-            if (pressao <= 0) erros.push('Agua perdida: pressao deve ser maior que zero.');
+        const pressao = parseFloat(valorCampo('pressao')) || 0;
+        if (pressao <= 0) {
+            erros.push('Agua perdida: pressao deve ser maior que zero.');
+        } else if (pressao > PRESSAO_MAX_PLAUSIVEL) {
+            erros.push(`Agua perdida: pressao de ${formatarBR(pressao, 2)} mca excede o limite plausivel de `
+                + `${PRESSAO_MAX_PLAUSIVEL} mca em rede de distribuicao. Confira o valor informado.`);
+        }
 
+        const tempoFechamento = parseFloat(valorCampo('tempo-manobra')) || 0;
+        if (tempoFechamento <= 0) {
+            erros.push('Agua perdida: informe o tempo de vazamento ate o fechamento dos registros (maior que zero).');
+        }
+
+        if (valorCampo('tipo-secao') === 'Área do Furo') {
             if (valorCampo('formato-dano') === 'circular') {
                 const diametroFuro = parseFloat(valorCampo('diametro-furo')) || 0;
                 if (diametroFuro <= 0) erros.push('Agua perdida: diametro do furo deve ser maior que zero.');
@@ -318,11 +331,8 @@ function obterErrosValidacaoDocumento() {
                 const larg = parseFloat(valorCampo('larg-furo')) || 0;
                 if (comp <= 0 || larg <= 0) erros.push('Agua perdida: comprimento e largura devem ser maiores que zero.');
             }
-        } else {
-            const pressao = parseFloat(valorCampo('pressao')) || 0;
-            if (pressao <= 0) erros.push('Agua perdida: pressao da rede deve ser maior que zero para Secao Plena.');
-            const tempoManobra = parseFloat(valorCampo('tempo-manobra')) || 0;
-            if (tempoManobra <= 0) erros.push('Agua perdida: informe o tempo ate fechamento da rede (maior que zero).');
+        } else if (diametroNominalMm() <= 0) {
+            erros.push('Agua perdida: informe um diametro valido para Secao Plena.');
         }
     }
 
@@ -482,7 +492,38 @@ function calcularGeral() {
     document.getElementById('resumo-3').innerText = formatarBR(sub3);
     const totalGeral = sub1 + sub2 + sub3;
     document.getElementById('total-final').innerText = formatarBR(totalGeral);
-    document.getElementById('total-ufesp').innerText = formatarBR(totalGeral / VALOR_UFESP);
+    document.getElementById('total-ufesp').innerText = formatarBR(totalGeral / obterUfespVigente());
+}
+
+// A UFESP e fixada por exercicio e o laudo deve usar a vigente na data da
+// ocorrencia. Quando o exercicio nao consta da tabela oficial, mantem-se o
+// valor de referencia e a interface alerta para conferir a vigencia.
+function obterUfespVigente() {
+    const campo = document.getElementById('valor-ufesp');
+    const aviso = document.getElementById('aviso-ufesp');
+    const referencia = window.SabespCalculos
+        ? window.SabespCalculos.obterUfesp(document.getElementById('data-dano')?.value)
+        : { valor: VALOR_UFESP, ano: null, oficial: false };
+
+    if (campo && referencia.oficial && document.activeElement !== campo) {
+        campo.value = referencia.valor;
+    }
+
+    const informado = campo ? Math.max(0, parseFloat(campo.value) || 0) : 0;
+    const valor = informado > 0 ? informado : referencia.valor;
+
+    if (aviso) {
+        if (referencia.oficial) {
+            aviso.style.display = 'none';
+            aviso.innerText = '';
+        } else {
+            aviso.style.display = 'block';
+            aviso.innerText = referencia.ano
+                ? `Confira a UFESP vigente em ${referencia.ano}: o exercício não consta da tabela oficial do aplicativo.`
+                : 'Informe a data da ocorrência para validar a UFESP vigente.';
+        }
+    }
+    return valor > 0 ? valor : VALOR_UFESP;
 }
 
 const ENDERECO_OVMS = 'Av. Heitor Villa Lobos, 1229 - Vila Ema - CEP 12243-260 - São José dos Campos - SP\nTel. 55(12)3904-3202.  www.sabesp.com.br';
@@ -540,14 +581,8 @@ function tratarDano() {
     if (val === 'Outros') inputOutros.classList.remove('hidden');
     else inputOutros.classList.add('hidden');
 
-    if (val.toLowerCase().includes('água') || val.toLowerCase().includes('agua')) {
-        secaoAgua.style.display = 'table';
-    } else {
-        secaoAgua.style.display = 'none';
-        estado.subtotalAgua = 0;
-        document.getElementById('subtotal-1').innerText = "0,00";
-        calcularGeral();
-    }
+    secaoAgua.style.display = danoEnvolveAgua() ? 'table' : 'none';
+    calcularAgua();
 }
 
 function tratarDropdown(id) {
@@ -571,11 +606,19 @@ function tratarSecaoVazamento() {
     const tdDim1 = document.getElementById('td-dim-1');
     const tdDim2 = document.getElementById('td-dim-2');
 
+    const trLados = document.getElementById('tr-lados');
+    const trExpansao = document.getElementById('tr-expansao');
+
+    // O tempo de fechamento limita o periodo faturavel nos dois modos: se a
+    // equipe isolou a rede, o vazamento cessou, seja furo ou tubo rompido.
+    if (trManobra) trManobra.style.display = '';
+
     if (val === 'Área do Furo') {
         formatoSelect.style.display = 'inline-block';
         avisoPlena.style.display = 'none';
         pressaoInput.disabled = false;
-        if (trManobra) trManobra.style.display = 'none';
+        if (trLados) trLados.style.display = 'none';
+        if (trExpansao) trExpansao.style.display = '';
         thFormato.colSpan = 3;
         tdFormato.colSpan = 3;
         thFormato.innerText = "Formato do Dano";
@@ -584,7 +627,8 @@ function tratarSecaoVazamento() {
         formatoSelect.style.display = 'none';
         avisoPlena.style.display = 'block';
         pressaoInput.disabled = false;
-        if (trManobra) trManobra.style.display = '';
+        if (trLados) trLados.style.display = '';
+        if (trExpansao) trExpansao.style.display = 'none';
         thDim1.style.display = 'none';
         thDim2.style.display = 'none';
         tdDim1.style.display = 'none';
@@ -653,7 +697,48 @@ function alternarBotoesAcao(desabilitar) {
     });
 }
 
+// Verdadeiro apenas quando o tipo de dano envolve rede/ramal de agua.
+// Reparos de esgoto nao geram perda de agua faturavel.
+function danoEnvolveAgua() {
+    const tipo = String(document.getElementById('tipo-dano')?.value || '').toLowerCase();
+    return tipo.includes('agua') || tipo.includes('água');
+}
+
+function diametroNominalMm() {
+    const sel = String(document.getElementById('diametro-dano').value).trim();
+    return sel === 'Outros'
+        ? (parseFloat(document.getElementById('diametro-dano-outros').value) || 0)
+        : (parseFloat(sel) || 0);
+}
+
+function materialDano() {
+    const sel = String(document.getElementById('material-dano').value).trim();
+    return sel === 'Outros'
+        ? String(document.getElementById('material-dano-outros').value || '').trim()
+        : sel;
+}
+
+function zerarAgua() {
+    estado.subtotalAgua = 0;
+    document.getElementById('calc-vazao').innerText = formatarBR(0, 3);
+    document.getElementById('calc-vol').innerText = formatarBR(0);
+    document.getElementById('calc-total-agua').innerText = formatarBR(0);
+    document.getElementById('subtotal-1').innerText = formatarBR(0);
+    const memoria = document.getElementById('memoria-calculo');
+    if (memoria) memoria.innerHTML = '';
+    calcularGeral();
+}
+
 function calcularAgua() {
+    // Guarda contra o acoplamento com campos fora da secao de agua (diametro,
+    // material): sem isso, mexer no diametro depois de trocar o tipo de dano
+    // para esgoto fazia a cobranca de agua reaparecer com a secao oculta.
+    if (!danoEnvolveAgua()) {
+        zerarAgua();
+        alternarBotoesAcao(false);
+        return;
+    }
+
     const tipoSecao = document.getElementById('tipo-secao').value;
     const dIni = document.getElementById('data-ini').value;
     const hIni = document.getElementById('hora-ini').value;
@@ -666,9 +751,24 @@ function calcularAgua() {
     const segundos = periodo ? periodo.segundos : 0;
     document.getElementById('calc-segundos').innerText = segundos;
 
+    const diamMm = diametroNominalMm();
+    const material = materialDano();
+    const distanciaFonteM = Math.max(0, parseFloat(document.getElementById('distancia-fonte')?.value) || 0);
+    const tempoFechamentoMin = Math.max(1, parseFloat(document.getElementById('tempo-manobra').value) || 30);
+    const tempoFechamentoS = tempoFechamentoMin * 60;
+
+    const comum = {
+        diamNominalMm: diamMm,
+        pressaoMca: pressao,
+        tempoFechamentoS,
+        totalIncidenteS: segundos,
+        distanciaFonteM,
+        material
+    };
+
     let vazaoLs = 0;
-    let erroSecaoPlena = false;
-    let volumeM3Override = null;
+    let volM3 = 0;
+    let bloquear = false;
 
     if (tipoSecao === 'Área do Furo') {
         const formato = document.getElementById('formato-dano').value;
@@ -684,52 +784,33 @@ function calcularAgua() {
             const largCm = Math.max(0, parseFloat(document.getElementById('larg-furo').value) || 0);
             areaM2 = (compCm / 100) * (largCm / 100);
         }
-        vazaoLs = calcularVazaoOrificio(cd, areaM2, pressao);
+        const expansao = parseFloat(document.getElementById('expansao-fissura')?.value) || 0;
+        const r = window.SabespCalculos.avaliarAreaFuro({
+            ...comum, cd, areaInformadaM2: areaM2, expansaoPor10Mca: expansao
+        });
+        vazaoLs = r.vazaoLs;
+        volM3 = r.volumeM3;
+        renderizarMemoriaFuro(r, { cd, formato, expansao, pressao, segundos, diamMm });
     } else {
-        const diamSelect = String(document.getElementById('diametro-dano').value).trim();
-        const diamMm = diamSelect === 'Outros'
-            ? (parseFloat(document.getElementById('diametro-dano-outros').value) || 0)
-            : (parseFloat(diamSelect) || 0);
         if (diamMm > 0 && pressao > 0) {
-            const rM = (diamMm / 1000) / 2;
-            const areaM2 = Math.PI * rM * rM;
-            vazaoLs = window.SabespCalculos
-                ? window.SabespCalculos.calcularVazaoOrificio(0.82, areaM2, pressao)
-                : (0.82 * areaM2 * Math.sqrt(2 * 9.81 * pressao)) * 1000;
-            const tempoFechamentoMin = Math.max(1, parseFloat(document.getElementById('tempo-manobra').value) || 30);
-            const tempoFechamentoS = tempoFechamentoMin * 60;
-            const tEfetivoS = window.SabespCalculos
-                ? window.SabespCalculos.calcularTempoEfetivoVazamento(segundos, tempoFechamentoS)
-                : Math.min(Math.max(0, segundos), tempoFechamentoS);
-            const volTotalL = window.SabespCalculos
-                ? window.SabespCalculos.calcularVolumeSecaoPlena(vazaoLs, tempoFechamentoS, segundos)
-                : (2 / 3) * vazaoLs * tEfetivoS;
-            volumeM3Override = volTotalL / 1000;
-
-            const vazaoMediaLs = tEfetivoS > 0 ? (volTotalL / tEfetivoS) : 0;
-            const limitado = tEfetivoS < segundos;
-            const aviso = document.getElementById('aviso-secao-plena');
-            aviso.innerHTML = `Q&#x2080; = 0,82&times;A&times;&radic;(2gH) = <strong>${formatarBR(vazaoLs, 3)} L/s</strong>`
-                + ` | Tempo de vazamento: <strong>${formatarBR(tEfetivoS, 0)} s</strong>`
-                + (limitado ? ` <em>(limitado pelo fechamento da rede; ocorrência: ${formatarBR(segundos, 0)} s)</em>` : '')
-                + ` | Vazão média com decaimento de pressão: ${formatarBR(vazaoMediaLs, 3)} L/s`
-                + ` | <strong>V = ${formatarBR(volumeM3Override, 3)} m&sup3;</strong>`;
-            aviso.style.color = 'var(--sabesp-blue)';
+            const lados = parseInt(document.getElementById('lados-ruptura')?.value, 10) === 2 ? 2 : 1;
+            const r = window.SabespCalculos.avaliarSecaoPlena({ ...comum, lados });
+            vazaoLs = r.vazaoInicialLs;
+            volM3 = r.volumeM3;
+            renderizarMemoriaPlena(r, { pressao, segundos, diamMm });
+            document.getElementById('aviso-secao-plena').innerText = '';
         } else {
-            vazaoLs = 0;
-            erroSecaoPlena = (diamMm <= 0);
+            bloquear = (diamMm <= 0);
             const aviso = document.getElementById('aviso-secao-plena');
             if (pressao <= 0) { aviso.innerText = 'Informe a pressão da rede (mca).'; aviso.style.color = '#888'; }
             else { aviso.innerText = 'Diâmetro inválido.'; aviso.style.color = 'red'; }
+            const memoria = document.getElementById('memoria-calculo');
+            if (memoria) memoria.innerHTML = '';
         }
     }
 
-    alternarBotoesAcao(erroSecaoPlena);
+    alternarBotoesAcao(bloquear);
     document.getElementById('calc-vazao').innerText = formatarBR(vazaoLs, 3);
-
-    const volM3 = volumeM3Override !== null
-        ? volumeM3Override
-        : (window.SabespCalculos?.calcularPerdaAgua(vazaoLs, segundos, precoM3)?.volumeM3 ?? (vazaoLs * segundos) / 1000);
     document.getElementById('calc-vol').innerText = formatarBR(volM3);
 
     const totalAgua = volM3 * precoM3;
@@ -737,4 +818,57 @@ function calcularAgua() {
     document.getElementById('subtotal-1').innerText = formatarBR(totalAgua);
     estado.subtotalAgua = totalAgua;
     calcularGeral();
+}
+
+function textoLimitante(r) {
+    if (!r.capacidadeAtiva) return '';
+    const origem = r.limitante === 'atrito'
+        ? 'perda de carga na tubulação, por Hazen-Williams'
+        : `teto de velocidade de ${formatarBR(window.SabespCalculos.VELOCIDADE_MAX_RUPTURA, 0)} m/s`;
+    return ` &ndash; <em>vazão limitada pela capacidade da rede (${origem});`
+        + ` o orifício isolado indicaria ${formatarBR(r.vazaoOrificioLs, 3)} L/s</em>`;
+}
+
+function renderizarMemoriaPlena(r, ctx) {
+    const memoria = document.getElementById('memoria-calculo');
+    if (!memoria) return;
+    const origemPressao = document.getElementById('origem-pressao')?.value || '';
+    memoria.innerHTML =
+        `<strong>Memória de cálculo &ndash; Seção Plena.</strong> `
+        + `Tubo DN ${formatarBR(ctx.diamMm, 0)} mm, seção ${formatarBR(r.areaM2 * 1e4, 2)} cm². `
+        + `Pressão ${formatarBR(ctx.pressao, 2)} mca (${origemPressao}). `
+        + `Q&#x2080; = <strong>${formatarBR(r.vazaoInicialLs, 3)} L/s</strong>`
+        + (r.lados === 2 ? ' (alimentação pelos dois lados)' : ' (alimentação por um lado)')
+        + textoLimitante(r) + '. '
+        + `Tempo de vazamento ${formatarBR(r.tempoEfetivoS, 0)} s`
+        + (r.tempoLimitado ? ` <em>(limitado pelo fechamento; ocorrência: ${formatarBR(ctx.segundos, 0)} s)</em>` : '')
+        + '. '
+        + `Pressão decai de P&#x2080; a zero, logo V = &#8532;&middot;Q&#x2080;&middot;T, `
+        + `com vazão média de ${formatarBR(r.vazaoMediaLs, 3)} L/s. `
+        + `<strong>Volume = ${formatarBR(r.volumeM3, 3)} m³.</strong>`;
+}
+
+function renderizarMemoriaFuro(r, ctx) {
+    const memoria = document.getElementById('memoria-calculo');
+    if (!memoria) return;
+    const origemPressao = document.getElementById('origem-pressao')?.value || '';
+    let texto = `<strong>Memória de cálculo &ndash; Área do Furo.</strong> `
+        + `Abertura ${ctx.formato} (Cd = ${formatarBR(ctx.cd, 2)}), `
+        + `área ${formatarBR(r.areaEfetivaM2 * 1e4, 2)} cm²`;
+    if (r.excedeSecao) {
+        texto += ` <em>(a área informada, ${formatarBR(r.areaInformadaM2 * 1e4, 2)} cm², excede a seção do tubo`
+            + ` de ${formatarBR(r.areaTuboM2 * 1e4, 2)} cm² e foi limitada a ela &ndash; reavalie a classificação`
+            + ` como Seção Plena)</em>`;
+    }
+    if (ctx.expansao > 0) {
+        texto += `, expandida a ${formatarBR(r.areaExpandidaM2 * 1e4, 2)} cm² sob carga`
+            + ` (FAVAD, ${formatarBR(ctx.expansao * 100, 0)}% por 10 mca)`;
+    }
+    texto += `. Pressão ${formatarBR(ctx.pressao, 2)} mca (${origemPressao}). `
+        + `Q = <strong>${formatarBR(r.vazaoLs, 3)} L/s</strong>${textoLimitante(r)}. `
+        + `Tempo de vazamento ${formatarBR(r.tempoEfetivoS, 0)} s`
+        + (r.tempoLimitado ? ` <em>(limitado pelo fechamento; ocorrência: ${formatarBR(ctx.segundos, 0)} s)</em>` : '')
+        + `. Pressão mantida pela rede, logo V = Q&middot;T. `
+        + `<strong>Volume = ${formatarBR(r.volumeM3, 3)} m³.</strong>`;
+    memoria.innerHTML = texto;
 }

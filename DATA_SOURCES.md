@@ -17,6 +17,22 @@ Antes de liberar uma nova versao para usuarios:
 - Campos obrigatorios verificados: codigo, descricao, unidade e preco positivo.
 - Duplicidade bloqueante: mesma combinacao de codigo e descricao.
 
+## Valores com Vigencia Legal (PENDENTE)
+
+A UFESP e fixada anualmente pela SEFAZ-SP e a tarifa de agua pela ARSESP. O laudo
+deve usar o valor vigente NA DATA DA OCORRENCIA, nao o valor atual.
+
+- `calculos.js` expoe `TABELA_UFESP`, hoje **vazia de proposito**: os valores
+  oficiais por exercicio devem ser preenchidos a partir da publicacao da
+  SEFAZ-SP e nao devem ser estimados.
+- Enquanto o exercicio da ocorrencia nao constar da tabela, o aplicativo usa
+  `UFESP_REFERENCIA` (R$ 35,36, valor que ja vinha embutido) e exibe aviso na
+  tela para que o usuario confira a vigencia. O campo e editavel.
+- A tarifa por m3 (`valor-m3`, padrao R$ 20,52) tambem e editavel e deve ser
+  ajustada para a tarifa vigente na data da ocorrencia.
+
+Ao preencher a tabela, registrar abaixo a fonte e a data de cada exercicio.
+
 ## Historico de Importacoes
 
 | Data importacao | Referencia | Arquivo origem | Responsavel | Observacoes |

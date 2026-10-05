@@ -1,7 +1,12 @@
 window.SABESP_APP_INFO = Object.freeze({
-  version: '5.11.0',
-  displayVersion: 'v5.11',
+  version: '6.0.0',
+  displayVersion: 'v6.0',
   releaseNotes: [
+    {
+      version: '6.0.0',
+      displayVersion: 'v6.0',
+      summary: 'Revisao do calculo de agua perdida. A vazao passa a ser limitada pela capacidade hidraulica da tubulacao (teto de 6 m/s sempre, mais perda de carga por Hazen-Williams quando a distancia ate a fonte e informada), eliminando as velocidades implausiveis de 11 a 26 m/s do orificio puro. O tempo de fechamento dos registros agora limita o periodo faturavel tambem em Area do Furo, a area do furo nao pode exceder a secao do tubo e a pressao tem faixa de plausibilidade. Novos parametros: alimentacao da ruptura por um ou dois lados, expansao da abertura com a pressao (FAVAD) e origem da pressao informada. UFESP passa a ter vigencia por exercicio. Corrige defeito em que a cobranca de agua reaparecia em dano de esgoto. O documento impresso traz memoria de calculo completa.'
+    },
     {
       version: '5.11.0',
       displayVersion: 'v5.11',

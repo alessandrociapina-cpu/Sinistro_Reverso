@@ -104,6 +104,83 @@
     assert(window.SabespCalculos.calcularVolumeSecaoPlena(0, 3600, 12180) === 0,
         'calcularVolumeSecaoPlena: vazão zero → 0');
 
+    // ── Capacidade hidráulica da tubulação ──────────────────────────────────
+    const C = window.SabespCalculos;
+
+    // Teto de velocidade: Q = A · 6 m/s. DN 100 → A = 7,854e-3 m² → 47,1 L/s
+    const tetoDn100 = C.calcularVazaoMaximaRede(100, 20, 0, 'PVC');
+    assert(Math.abs(tetoDn100.vazaoLs - 47.12) < 0.1 && tetoDn100.limitante === 'velocidade',
+        `calcularVazaoMaximaRede: sem distância aplica teto de 6 m/s (obtido ${tetoDn100.vazaoLs.toFixed(2)} L/s)`);
+
+    // Com distância, o atrito pode ser mais restritivo que o teto
+    const atrito = C.calcularVazaoMaximaRede(300, 20, 1000, 'Fofo');
+    const tetoDn300 = C.calcularVazaoMaximaRede(300, 20, 0, 'Fofo');
+    assert(atrito.limitante === 'atrito' && atrito.vazaoLs < tetoDn300.vazaoLs,
+        'calcularVazaoMaximaRede: atrito prevalece quando mais restritivo que o teto');
+
+    // Material mais liso entrega mais vazão
+    assert(C.calcularVazaoMaximaRede(300, 20, 1000, 'PVC').vazaoLs
+         > C.calcularVazaoMaximaRede(300, 20, 1000, 'Fofo').vazaoLs,
+        'calcularVazaoMaximaRede: PVC (C=140) entrega mais que ferro fundido (C=100)');
+    assert(C.obterCoefHazenWilliams('Fofo') === 100 && C.obterCoefHazenWilliams('inexistente') === 120,
+        'obterCoefHazenWilliams: material conhecido e fallback');
+
+    // O limite de capacidade impede as velocidades implausíveis do orifício puro
+    const plena = C.avaliarSecaoPlena({
+        diamNominalMm: 300, pressaoMca: 20, tempoFechamentoS: 3600, totalIncidenteS: 3600
+    });
+    assert(plena.capacidadeAtiva && plena.vazaoInicialLs < plena.vazaoOrificioLs / 2,
+        `avaliarSecaoPlena: capacidade limita a vazão do orifício (${plena.vazaoOrificioLs.toFixed(0)} → ${plena.vazaoInicialLs.toFixed(0)} L/s)`);
+
+    // Alimentação pelos dois lados dobra a vazão
+    const umLado = C.avaliarSecaoPlena({ diamNominalMm: 150, pressaoMca: 20, tempoFechamentoS: 3600, totalIncidenteS: 3600, lados: 1 });
+    const doisLados = C.avaliarSecaoPlena({ diamNominalMm: 150, pressaoMca: 20, tempoFechamentoS: 3600, totalIncidenteS: 3600, lados: 2 });
+    assert(Math.abs(doisLados.vazaoInicialLs - 2 * umLado.vazaoInicialLs) < 1e-6,
+        'avaliarSecaoPlena: alimentação pelos dois lados dobra a vazão');
+
+    // ── Área do Furo ────────────────────────────────────────────────────────
+    // Furo pequeno: a capacidade não interfere, resultado igual ao orifício puro
+    const areaPequena = Math.PI * Math.pow(0.02 / 2, 2);
+    const furoPequeno = C.avaliarAreaFuro({
+        cd: 0.61, areaInformadaM2: areaPequena, diamNominalMm: 50,
+        pressaoMca: 20, tempoFechamentoS: 14400, totalIncidenteS: 14400
+    });
+    assert(!furoPequeno.capacidadeAtiva && !furoPequeno.excedeSecao
+        && Math.abs(furoPequeno.vazaoLs - C.calcularVazaoOrificio(0.61, areaPequena, 20)) < 1e-9,
+        'avaliarAreaFuro: furo pequeno não sofre limitação de capacidade');
+
+    // Área maior que a seção do tubo é limitada a ela
+    const furoAbsurdo = C.avaliarAreaFuro({
+        cd: 0.61, areaInformadaM2: Math.PI * Math.pow(0.30 / 2, 2), diamNominalMm: 50,
+        pressaoMca: 20, tempoFechamentoS: 14400, totalIncidenteS: 14400
+    });
+    assert(furoAbsurdo.excedeSecao && Math.abs(furoAbsurdo.areaEfetivaM2 - furoAbsurdo.areaTuboM2) < 1e-12,
+        'avaliarAreaFuro: área informada acima da seção do tubo é limitada à seção');
+
+    // O limitador de tempo agora vale também para Área do Furo
+    const furoLimitado = C.avaliarAreaFuro({
+        cd: 0.61, areaInformadaM2: areaPequena, diamNominalMm: 100,
+        pressaoMca: 20, tempoFechamentoS: 3600, totalIncidenteS: 21600
+    });
+    assert(furoLimitado.tempoEfetivoS === 3600 && furoLimitado.tempoLimitado,
+        'avaliarAreaFuro: fechamento dos registros limita o período faturável');
+
+    // FAVAD: expansão da abertura majora o volume; zero reproduz o rígido
+    const semExpansao = C.avaliarAreaFuro({ cd: 0.80, areaInformadaM2: 0.10 * 0.002, diamNominalMm: 100, pressaoMca: 30, tempoFechamentoS: 14400, totalIncidenteS: 14400, expansaoPor10Mca: 0 });
+    const comExpansao = C.avaliarAreaFuro({ cd: 0.80, areaInformadaM2: 0.10 * 0.002, diamNominalMm: 100, pressaoMca: 30, tempoFechamentoS: 14400, totalIncidenteS: 14400, expansaoPor10Mca: 0.10 });
+    assert(Math.abs(comExpansao.volumeM3 / semExpansao.volumeM3 - 1.30) < 0.01,
+        'avaliarAreaFuro: FAVAD a 10%/10mca sob 30 mca expande a área em 30%');
+    assert(C.calcularAreaExpandida(1e-4, 30, 0) === 1e-4,
+        'calcularAreaExpandida: expansão zero devolve a área original');
+
+    // ── UFESP com vigência ──────────────────────────────────────────────────
+    const ufespSemTabela = C.obterUfesp('2026-06-15');
+    assert(ufespSemTabela.ano === 2026 && !ufespSemTabela.oficial && ufespSemTabela.valor === C.UFESP_REFERENCIA,
+        'obterUfesp: exercício fora da tabela sinaliza oficial=false e usa a referência');
+    assert(C.obterUfesp('').ano === null, 'obterUfesp: data vazia → ano nulo');
+    assert(C.extrairAno('2024-03-01') === 2024 && C.extrairAno('xx') === null,
+        'extrairAno: extrai o ano de uma data ISO e rejeita texto inválido');
+
     registrarResultado();
 
     console.log(
