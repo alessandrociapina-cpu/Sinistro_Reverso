@@ -14,7 +14,9 @@ if ('serviceWorker' in navigator) {
 }
 
 const GRAVIDADE = window.SabespCalculos?.GRAVIDADE || 9.81;
-const VALOR_UFESP = 35.36;
+// Fallback caso calculos.js nao carregue; a fonte da verdade e
+// SabespCalculos.TABELA_UFESP, resolvida pela data da ocorrencia.
+const VALOR_UFESP = 38.42;
 const PRECO_M3_AGUA_PADRAO = 20.52;
 
 // Redes de distribuicao operam tipicamente entre 10 e 50 mca; a NBR 12218

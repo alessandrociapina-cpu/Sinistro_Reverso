@@ -253,18 +253,20 @@ window.SabespCalculos = Object.freeze({
   // Um laudo deve usar o valor vigente NA DATA DA OCORRENCIA, e nao o valor
   // atual: reemitir um caso antigo com a UFESP de hoje produz valor incorreto.
   //
-  // ATENCAO: esta tabela nasce vazia de proposito. Os valores oficiais por
-  // exercicio devem ser preenchidos pela equipe a partir da publicacao da
-  // SEFAZ-SP — nao devem ser estimados. Enquanto o ano da ocorrencia nao
-  // constar aqui, obterUfesp devolve oficial=false e a interface alerta o
-  // usuario para conferir a vigencia antes de emitir o documento.
+  // Os valores por exercicio devem vir da publicacao oficial da SEFAZ-SP e nao
+  // devem ser estimados. Enquanto o ano da ocorrencia nao constar aqui,
+  // obterUfesp devolve oficial=false e a interface alerta o usuario para
+  // conferir a vigencia antes de emitir o documento.
   //
-  // Formato:  { 2024: 35.36, 2025: 00.00, 2026: 00.00 }
-  TABELA_UFESP: Object.freeze({}),
+  // Exercicios anteriores a 2026 seguem pendentes de preenchimento: so devem
+  // ser acrescentados apos conferencia na publicacao da SEFAZ-SP.
+  TABELA_UFESP: Object.freeze({
+    2026: 38.42
+  }),
 
   // Valor de referencia usado enquanto o exercicio nao estiver na tabela.
-  // Corresponde ao valor que ja vinha embutido no aplicativo.
-  UFESP_REFERENCIA: 35.36,
+  // Mantido no ultimo exercicio conferido.
+  UFESP_REFERENCIA: 38.42,
 
   obterUfesp(dataOcorrencia) {
     const ano = this.extrairAno(dataOcorrencia);

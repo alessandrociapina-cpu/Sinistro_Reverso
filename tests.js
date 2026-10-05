@@ -174,8 +174,11 @@
         'calcularAreaExpandida: expansão zero devolve a área original');
 
     // ── UFESP com vigência ──────────────────────────────────────────────────
-    const ufespSemTabela = C.obterUfesp('2026-06-15');
-    assert(ufespSemTabela.ano === 2026 && !ufespSemTabela.oficial && ufespSemTabela.valor === C.UFESP_REFERENCIA,
+    const ufesp2026 = C.obterUfesp('2026-06-15');
+    assert(ufesp2026.ano === 2026 && ufesp2026.oficial && ufesp2026.valor === 38.42,
+        `obterUfesp: exercício 2026 usa o valor oficial de R$ 38,42 (obtido ${ufesp2026.valor})`);
+    const ufespSemTabela = C.obterUfesp('2019-06-15');
+    assert(!ufespSemTabela.oficial && ufespSemTabela.valor === C.UFESP_REFERENCIA,
         'obterUfesp: exercício fora da tabela sinaliza oficial=false e usa a referência');
     assert(C.obterUfesp('').ano === null, 'obterUfesp: data vazia → ano nulo');
     assert(C.extrairAno('2024-03-01') === 2024 && C.extrairAno('xx') === null,

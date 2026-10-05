@@ -1,7 +1,12 @@
 window.SABESP_APP_INFO = Object.freeze({
-  version: '6.0.0',
-  displayVersion: 'v6.0',
+  version: '6.0.1',
+  displayVersion: 'v6.0.1',
   releaseNotes: [
+    {
+      version: '6.0.1',
+      displayVersion: 'v6.0.1',
+      summary: 'UFESP do exercicio de 2026 preenchida na tabela oficial: R$ 38,42. Ocorrencias de 2026 passam a usar o valor vigente sem aviso de conferencia.'
+    },
     {
       version: '6.0.0',
       displayVersion: 'v6.0',
