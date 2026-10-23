@@ -1,7 +1,12 @@
 window.SABESP_APP_INFO = Object.freeze({
-  version: '6.0.1',
-  displayVersion: 'v6.0.1',
+  version: '6.1.0',
+  displayVersion: 'v6.1',
   releaseNotes: [
+    {
+      version: '6.1.0',
+      displayVersion: 'v6.1',
+      summary: 'Bases de servicos e materiais atualizadas para Sabesp SPO set/2026: 4.063 servicos e 4.358 insumos. Removidas 4.089 linhas SiiS (descricoes alternativas sem codigo) e 26 duplicatas exatas de servicos. O rotulo do banco de precos passa a Setembro/2026, com destaque em amarelo.'
+    },
     {
       version: '6.0.1',
       displayVersion: 'v6.0.1',

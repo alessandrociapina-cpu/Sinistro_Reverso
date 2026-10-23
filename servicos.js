@@ -3,24599 +3,28442 @@ const baseServicos =
  {
    "ITEM": 100000699,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "66,86"
+   "PREÇO": "67,56"
  },
  {
    "ITEM": 100000700,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "62,56"
+   "PREÇO": "63,26"
  },
  {
    "ITEM": 100000701,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "56,61"
+   "PREÇO": "57,29"
  },
  {
    "ITEM": 100000702,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "197,77"
+   "PREÇO": "199,83"
  },
  {
    "ITEM": 100000703,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "188,90"
+   "PREÇO": "190,94"
  },
  {
    "ITEM": 100000704,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "176,39"
+   "PREÇO": "178,30"
  },
  {
    "ITEM": 100000705,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "24,28"
+   "PREÇO": "24,42"
  },
  {
    "ITEM": 100000706,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "21,05"
+   "PREÇO": "21,19"
  },
  {
    "ITEM": 100000707,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "16,83"
+   "PREÇO": "16,93"
  },
  {
    "ITEM": 100000708,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "19,96"
+   "PREÇO": "20,00"
  },
  {
    "ITEM": 100000709,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "16,31"
+   "PREÇO": "16,35"
  },
  {
    "ITEM": 100000710,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "11,43"
+   "PREÇO": "11,44"
  },
  {
    "ITEM": 100000711,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "23,36"
+   "PREÇO": "23,40"
  },
  {
    "ITEM": 100000712,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "19,01"
+   "PREÇO": "19,04"
  },
  {
    "ITEM": 100000713,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "13,11"
+   "PREÇO": "13,12"
  },
  {
    "ITEM": 100000714,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "25,34"
+   "PREÇO": "25,38"
  },
  {
    "ITEM": 100000715,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "20,56"
+   "PREÇO": "20,60"
  },
  {
    "ITEM": 100000716,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "14,10"
  },
  {
    "ITEM": 100000717,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "29,61"
+   "PREÇO": "29,65"
  },
  {
    "ITEM": 100000718,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "23,75"
+   "PREÇO": "23,80"
  },
  {
    "ITEM": 100000719,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "16,24"
+   "PREÇO": "16,25"
  },
  {
    "ITEM": 100000720,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "34,26"
+   "PREÇO": "34,32"
  },
  {
    "ITEM": 100000721,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "27,82"
+   "PREÇO": "27,87"
  },
  {
    "ITEM": 100000722,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "18,97"
+   "PREÇO": "18,98"
  },
  {
    "ITEM": 100000723,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "38,00"
+   "PREÇO": "38,07"
  },
  {
    "ITEM": 100000724,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "32,15"
+   "PREÇO": "32,21"
  },
  {
    "ITEM": 100000725,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "22,00"
+   "PREÇO": "22,01"
  },
  {
    "ITEM": 100000726,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "17,97"
+   "PREÇO": "18,00"
  },
  {
    "ITEM": 100000727,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "14,71"
+   "PREÇO": "14,75"
  },
  {
    "ITEM": 100000728,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,39"
+   "PREÇO": "10,40"
  },
  {
    "ITEM": 100000729,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "18,64"
+   "PREÇO": "18,68"
  },
  {
    "ITEM": 100000730,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "15,19"
+   "PREÇO": "15,24"
  },
  {
    "ITEM": 100000731,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "10,74"
  },
  {
    "ITEM": 100000732,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "30,54"
+   "PREÇO": "30,57"
  },
  {
    "ITEM": 100000733,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "24,69"
+   "PREÇO": "24,74"
  },
  {
    "ITEM": 100000734,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 100 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "16,47"
+   "PREÇO": "16,48"
  },
  {
    "ITEM": 100000735,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "39,84"
+   "PREÇO": "39,88"
  },
  {
    "ITEM": 100000736,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "32,17"
+   "PREÇO": "32,21"
  },
  {
    "ITEM": 100000737,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 150 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "21,19"
+   "PREÇO": "21,20"
  },
  {
    "ITEM": 100000738,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "42,79"
+   "PREÇO": "42,84"
  },
  {
    "ITEM": 100000739,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "34,55"
+   "PREÇO": "34,59"
  },
  {
    "ITEM": 100000740,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 200 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "22,72"
+   "PREÇO": "22,73"
  },
  {
    "ITEM": 100000741,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "52,59"
+   "PREÇO": "52,65"
  },
  {
    "ITEM": 100000742,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "42,46"
+   "PREÇO": "42,54"
  },
  {
    "ITEM": 100000743,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 250 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "28,03"
+   "PREÇO": "28,04"
  },
  {
    "ITEM": 100000744,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "56,84"
+   "PREÇO": "56,92"
  },
  {
    "ITEM": 100000745,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "45,91"
+   "PREÇO": "46,00"
  },
  {
    "ITEM": 100000746,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 300 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "30,18"
+   "PREÇO": "30,20"
  },
  {
    "ITEM": 100000747,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "60,09"
+   "PREÇO": "60,20"
  },
  {
    "ITEM": 100000748,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "49,68"
+   "PREÇO": "49,77"
  },
  {
    "ITEM": 100000749,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 350 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "32,64"
+   "PREÇO": "32,69"
  },
  {
    "ITEM": 100000750,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 400 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "66,32"
+   "PREÇO": "66,44"
  },
  {
    "ITEM": 100000751,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 400 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "53,52"
+   "PREÇO": "53,63"
  },
  {
    "ITEM": 100000752,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 400 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "35,06"
+   "PREÇO": "35,10"
  },
  {
    "ITEM": 100000753,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 500 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "80,23"
+   "PREÇO": "80,40"
  },
  {
    "ITEM": 100000754,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 500 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "64,74"
+   "PREÇO": "64,89"
  },
  {
    "ITEM": 100000755,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 500 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "42,46"
+   "PREÇO": "42,52"
  },
  {
    "ITEM": 100000756,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 600 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "94,61"
+   "PREÇO": "94,81"
  },
  {
    "ITEM": 100000757,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 600 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "76,34"
+   "PREÇO": "76,51"
  },
  {
    "ITEM": 100000758,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 600 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "49,97"
+   "PREÇO": "50,05"
  },
  {
    "ITEM": 100000759,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 80 MM, EM FERRO FUNDIDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "26,07"
+   "PREÇO": "26,12"
  },
  {
    "ITEM": 100000760,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 80 MM, EM FERRO FUNDIDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "21,94"
+   "PREÇO": "22,00"
  },
  {
    "ITEM": 100000761,
    "DESCRIÇÃO": "ASSENTAMENTO PARA REDES DE ÁGUA, TUBOS E PEÇAS, DN 80 MM, EM FERRO FUNDIDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "14,77"
+   "PREÇO": "14,78"
  },
  {
    "ITEM": 100000786,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "52,26"
+   "PREÇO": "52,93"
  },
  {
    "ITEM": 100000787,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "50,60"
+   "PREÇO": "51,26"
  },
  {
    "ITEM": 100000788,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "48,01"
+   "PREÇO": "48,68"
  },
  {
    "ITEM": 100000789,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "178,09"
+   "PREÇO": "180,10"
  },
  {
    "ITEM": 100000790,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "172,80"
+   "PREÇO": "174,78"
  },
  {
    "ITEM": 100000791,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "164,88"
+   "PREÇO": "166,78"
  },
  {
    "ITEM": 100000792,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "11,75"
+   "PREÇO": "11,85"
  },
  {
    "ITEM": 100000793,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,76"
+   "PREÇO": "10,87"
  },
  {
    "ITEM": 100000794,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "9,41"
+   "PREÇO": "9,51"
  },
  {
    "ITEM": 100000795,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "4,31"
  },
  {
    "ITEM": 100000796,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "3,48"
  },
  {
    "ITEM": 100000797,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "2,19"
  },
  {
    "ITEM": 100000798,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "7,59"
  },
  {
    "ITEM": 100000799,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "6,07"
  },
  {
    "ITEM": 100000800,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "3,80"
  },
  {
    "ITEM": 100000801,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "8,68"
  },
  {
    "ITEM": 100000802,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "6,92"
  },
  {
    "ITEM": 100000803,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "4,31"
  },
  {
    "ITEM": 100000804,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "10,87"
  },
  {
    "ITEM": 100000805,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "8,68"
  },
  {
    "ITEM": 100000806,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "5,43"
  },
  {
    "ITEM": 100000807,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "12,99"
  },
  {
    "ITEM": 100000808,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "10,41"
  },
  {
    "ITEM": 100000809,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "6,52"
  },
  {
    "ITEM": 100000810,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "14,62"
  },
  {
    "ITEM": 100000811,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "11,69"
  },
  {
    "ITEM": 100000812,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "7,35"
  },
  {
    "ITEM": 100000813,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "16,26"
  },
  {
    "ITEM": 100000814,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "12,99"
  },
  {
    "ITEM": 100000815,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "8,10"
  },
  {
    "ITEM": 100000816,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 450 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "18,97"
  },
  {
    "ITEM": 100000817,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 450 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "15,18"
  },
  {
    "ITEM": 100000818,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 450 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "9,47"
  },
  {
    "ITEM": 100000819,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "2,69"
  },
  {
    "ITEM": 100000820,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "2,19"
  },
  {
    "ITEM": 100000821,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1,36"
  },
  {
    "ITEM": 100000822,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "3,24"
  },
  {
    "ITEM": 100000823,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "2,57"
  },
  {
    "ITEM": 100000824,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1,64"
  },
  {
    "ITEM": 100000825,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 1.000 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "162,14"
+   "PREÇO": "162,42"
  },
  {
    "ITEM": 100000826,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 1.000 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "129,89"
+   "PREÇO": "130,14"
  },
  {
    "ITEM": 100000827,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 1.000 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "81,57"
+   "PREÇO": "81,72"
  },
  {
    "ITEM": 100000828,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 1.200 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "169,43"
+   "PREÇO": "169,80"
  },
  {
    "ITEM": 100000829,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 1.200 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "135,90"
+   "PREÇO": "136,22"
  },
  {
    "ITEM": 100000830,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 1.200 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "85,53"
+   "PREÇO": "85,72"
  },
  {
    "ITEM": 100000831,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "17,86"
  },
  {
    "ITEM": 100000832,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "14,28"
+   "PREÇO": "14,30"
  },
  {
    "ITEM": 100000833,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 100 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "8,96"
  },
  {
    "ITEM": 100000834,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "26,74"
+   "PREÇO": "26,75"
  },
  {
    "ITEM": 100000835,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "21,43"
  },
  {
    "ITEM": 100000836,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 150 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "13,45"
  },
  {
    "ITEM": 100000837,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "29,15"
+   "PREÇO": "29,16"
  },
  {
    "ITEM": 100000838,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "23,36"
+   "PREÇO": "23,37"
  },
  {
    "ITEM": 100000839,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 200 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "14,66"
+   "PREÇO": "14,67"
  },
  {
    "ITEM": 100000840,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "34,18"
+   "PREÇO": "34,20"
  },
  {
    "ITEM": 100000841,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "27,39"
+   "PREÇO": "27,42"
  },
  {
    "ITEM": 100000842,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 250 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "17,22"
  },
  {
    "ITEM": 100000843,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "38,17"
+   "PREÇO": "38,20"
  },
  {
    "ITEM": 100000844,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "30,63"
+   "PREÇO": "30,66"
  },
  {
    "ITEM": 100000845,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 300 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "19,24"
+   "PREÇO": "19,25"
  },
  {
    "ITEM": 100000846,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "41,91"
+   "PREÇO": "41,95"
  },
  {
    "ITEM": 100000847,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "33,60"
+   "PREÇO": "33,63"
  },
  {
    "ITEM": 100000848,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 350 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "21,15"
+   "PREÇO": "21,18"
  },
  {
    "ITEM": 100000849,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "45,66"
+   "PREÇO": "45,72"
  },
  {
    "ITEM": 100000850,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "36,62"
+   "PREÇO": "36,67"
  },
  {
    "ITEM": 100000851,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 400 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "23,01"
+   "PREÇO": "23,04"
  },
  {
    "ITEM": 100000852,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 500 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "54,27"
+   "PREÇO": "54,36"
  },
  {
    "ITEM": 100000853,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 500 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "43,53"
+   "PREÇO": "43,60"
  },
  {
    "ITEM": 100000854,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 500 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "27,40"
+   "PREÇO": "27,44"
  },
  {
    "ITEM": 100000855,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 600 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "65,05"
- },
- {
-   "ITEM": 100000856,
-   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 600 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "52,21"
- },
- {
-   "ITEM": 100000857,
-   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 600 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "32,90"
- },
- {
-   "ITEM": 100000858,
-   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 700 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "81,29"
- },
- {
-   "ITEM": 100000859,
-   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 700 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "65,16"
  },
  {
+   "ITEM": 100000856,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 600 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "52,29"
+ },
+ {
+   "ITEM": 100000857,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 600 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "32,95"
+ },
+ {
+   "ITEM": 100000858,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 700 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "81,43"
+ },
+ {
+   "ITEM": 100000859,
+   "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 700 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "65,27"
+ },
+ {
    "ITEM": 100000860,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 700 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "41,02"
+   "PREÇO": "41,10"
  },
  {
    "ITEM": 100000861,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 80 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "14,39"
+   "PREÇO": "14,40"
  },
  {
    "ITEM": 100000862,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 80 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "11,53"
+   "PREÇO": "11,56"
  },
  {
    "ITEM": 100000863,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 80 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "7,26"
  },
  {
    "ITEM": 100000864,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 800 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "106,41"
+   "PREÇO": "106,60"
  },
  {
    "ITEM": 100000865,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 800 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "85,31"
+   "PREÇO": "85,47"
  },
  {
    "ITEM": 100000866,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 800 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "53,62"
+   "PREÇO": "53,71"
  },
  {
    "ITEM": 100000867,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 900 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "131,55"
+   "PREÇO": "131,78"
  },
  {
    "ITEM": 100000868,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 900 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "105,42"
+   "PREÇO": "105,61"
  },
  {
    "ITEM": 100000869,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DN 900 MM, EM FERRO FUNDIDO, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "66,20"
+   "PREÇO": "66,33"
  },
  {
    "ITEM": 100000874,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "90,89"
+   "PREÇO": "91,33"
  },
  {
    "ITEM": 100000875,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "82,42"
+   "PREÇO": "82,98"
  },
  {
    "ITEM": 100000876,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "66,14"
+   "PREÇO": "66,52"
  },
  {
    "ITEM": 100000877,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "101,82"
+   "PREÇO": "102,31"
  },
  {
    "ITEM": 100000878,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "92,31"
+   "PREÇO": "92,94"
  },
  {
    "ITEM": 100000879,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "73,96"
+   "PREÇO": "74,39"
  },
  {
    "ITEM": 100000880,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "134,50"
+   "PREÇO": "135,08"
  },
  {
    "ITEM": 100000881,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "120,96"
+   "PREÇO": "121,70"
  },
  {
    "ITEM": 100000882,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "96,27"
+   "PREÇO": "96,77"
  },
  {
    "ITEM": 100000883,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "184,52"
+   "PREÇO": "185,24"
  },
  {
    "ITEM": 100000884,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "165,03"
+   "PREÇO": "165,98"
  },
  {
    "ITEM": 100000885,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "131,29"
+   "PREÇO": "131,92"
  },
  {
    "ITEM": 100000886,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "232,73"
+   "PREÇO": "233,65"
  },
  {
    "ITEM": 100000887,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "208,33"
+   "PREÇO": "209,55"
  },
  {
    "ITEM": 100000888,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "232,73"
+   "PREÇO": "233,65"
  },
  {
    "ITEM": 100000889,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 200 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,83"
+   "PREÇO": "10,88"
  },
  {
    "ITEM": 100000890,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 200 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "9,57"
+   "PREÇO": "9,63"
  },
  {
    "ITEM": 100000891,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 200 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8,31"
+   "PREÇO": "8,36"
  },
  {
    "ITEM": 100000892,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "13,73"
+   "PREÇO": "13,84"
  },
  {
    "ITEM": 100000893,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "12,26"
+   "PREÇO": "12,36"
  },
  {
    "ITEM": 100000894,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,80"
+   "PREÇO": "10,91"
  },
  {
    "ITEM": 100000895,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "17,15"
+   "PREÇO": "17,28"
  },
  {
    "ITEM": 100000896,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "13,18"
+   "PREÇO": "13,27"
  },
  {
    "ITEM": 100000897,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "13,63"
+   "PREÇO": "13,76"
  },
  {
    "ITEM": 100000898,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "40,95"
+   "PREÇO": "41,18"
  },
  {
    "ITEM": 100000899,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "37,47"
+   "PREÇO": "37,76"
  },
  {
    "ITEM": 100000900,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "30,02"
+   "PREÇO": "30,21"
  },
  {
    "ITEM": 100000901,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "46,69"
+   "PREÇO": "46,95"
  },
  {
    "ITEM": 100000902,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "42,79"
+   "PREÇO": "43,11"
  },
  {
    "ITEM": 100000903,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "34,42"
+   "PREÇO": "34,65"
  },
  {
    "ITEM": 100000904,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "53,57"
+   "PREÇO": "53,88"
  },
  {
    "ITEM": 100000905,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "49,08"
+   "PREÇO": "49,46"
  },
  {
    "ITEM": 100000906,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "39,55"
+   "PREÇO": "39,83"
  },
  {
    "ITEM": 100000907,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "62,21"
+   "PREÇO": "62,55"
  },
  {
    "ITEM": 100000908,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "57,00"
+   "PREÇO": "57,45"
  },
  {
    "ITEM": 100000909,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "45,88"
+   "PREÇO": "46,20"
  },
  {
    "ITEM": 100000910,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JUNTA ARGAMASSADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "81,80"
+   "PREÇO": "82,20"
  },
  {
    "ITEM": 100000911,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JUNTA ARGAMASSADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "74,23"
+   "PREÇO": "74,73"
  },
  {
    "ITEM": 100000912,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JUNTA ARGAMASSADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "59,51"
+   "PREÇO": "59,85"
  },
  {
    "ITEM": 100000913,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "120,20"
+   "PREÇO": "120,33"
  },
  {
    "ITEM": 100000914,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "96,17"
+   "PREÇO": "96,27"
  },
  {
    "ITEM": 100000915,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.000 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "60,11"
+   "PREÇO": "60,17"
  },
  {
    "ITEM": 100000916,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "167,42"
+   "PREÇO": "167,55"
  },
  {
    "ITEM": 100000917,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "133,90"
+   "PREÇO": "134,00"
  },
  {
    "ITEM": 100000918,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.100 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "83,71"
+   "PREÇO": "83,78"
  },
  {
    "ITEM": 100000919,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "236,68"
+   "PREÇO": "236,86"
  },
  {
    "ITEM": 100000920,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "189,34"
+   "PREÇO": "189,48"
  },
  {
    "ITEM": 100000921,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.200 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "118,35"
+   "PREÇO": "118,44"
  },
  {
    "ITEM": 100000922,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "309,40"
+   "PREÇO": "309,64"
  },
  {
    "ITEM": 100000923,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "247,53"
+   "PREÇO": "247,72"
  },
  {
    "ITEM": 100000924,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 1.500 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "154,70"
+   "PREÇO": "154,82"
  },
  {
    "ITEM": 100000925,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "413,31"
+   "PREÇO": "413,66"
  },
  {
    "ITEM": 100000926,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "327,41"
+   "PREÇO": "327,68"
  },
  {
    "ITEM": 100000927,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 2.000 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "238,35"
+   "PREÇO": "238,52"
  },
  {
    "ITEM": 100000928,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "24,32"
+   "PREÇO": "24,33"
  },
  {
    "ITEM": 100000929,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "19,44"
+   "PREÇO": "19,46"
  },
  {
    "ITEM": 100000930,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 300 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "12,17"
+   "PREÇO": "12,19"
  },
  {
    "ITEM": 100000931,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "31,76"
+   "PREÇO": "31,78"
  },
  {
    "ITEM": 100000932,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "25,40"
+   "PREÇO": "25,41"
  },
  {
    "ITEM": 100000933,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 400 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "15,86"
+   "PREÇO": "15,87"
  },
  {
    "ITEM": 100000934,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "46,09"
+   "PREÇO": "46,11"
  },
  {
    "ITEM": 100000935,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "36,88"
+   "PREÇO": "36,89"
  },
  {
    "ITEM": 100000936,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 500 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "23,05"
+   "PREÇO": "23,07"
  },
  {
    "ITEM": 100000937,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "55,63"
+   "PREÇO": "55,67"
  },
  {
    "ITEM": 100000938,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "44,48"
+   "PREÇO": "44,51"
  },
  {
    "ITEM": 100000939,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 600 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "27,81"
+   "PREÇO": "27,83"
  },
  {
    "ITEM": 100000940,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "64,22"
+   "PREÇO": "64,27"
  },
  {
    "ITEM": 100000941,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "51,39"
+   "PREÇO": "51,42"
  },
  {
    "ITEM": 100000942,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 700 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "32,13"
+   "PREÇO": "32,14"
  },
  {
    "ITEM": 100000943,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "81,47"
+   "PREÇO": "81,52"
  },
  {
    "ITEM": 100000944,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "65,16"
+   "PREÇO": "65,20"
  },
  {
    "ITEM": 100000945,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 800 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "40,72"
+   "PREÇO": "40,76"
  },
  {
    "ITEM": 100000946,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JUNTA ELÁSTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "104,93"
+   "PREÇO": "105,04"
  },
  {
    "ITEM": 100000947,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JUNTA ELÁSTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "83,96"
+   "PREÇO": "84,03"
  },
  {
    "ITEM": 100000948,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS DE CONCRETO, DN 900 MM, JUNTA ELÁSTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "52,47"
+   "PREÇO": "52,52"
  },
  {
    "ITEM": 100000949,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.000 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "581,65"
+   "PREÇO": "581,49"
  },
  {
    "ITEM": 100000950,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.000 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "510,07"
+   "PREÇO": "510,18"
  },
  {
    "ITEM": 100000951,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.000 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "402,71"
+   "PREÇO": "403,24"
  },
  {
    "ITEM": 100000952,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.050 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "756,18"
+   "PREÇO": "754,06"
  },
  {
    "ITEM": 100000953,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.050 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "669,98"
+   "PREÇO": "668,53"
  },
  {
    "ITEM": 100000954,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.050 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "540,70"
+   "PREÇO": "540,26"
  },
  {
    "ITEM": 100000955,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.200 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "851,11"
+   "PREÇO": "849,40"
  },
  {
    "ITEM": 100000956,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.200 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "791,49"
+   "PREÇO": "790,20"
  },
  {
    "ITEM": 100000957,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.200 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "658,25"
+   "PREÇO": "658,08"
  },
  {
    "ITEM": 100000958,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.500 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.076,60"
+   "PREÇO": "1.073,93"
  },
  {
    "ITEM": 100000959,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.500 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "958,15"
+   "PREÇO": "956,66"
  },
  {
    "ITEM": 100000960,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.500 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "780,48"
+   "PREÇO": "780,75"
  },
  {
    "ITEM": 100000961,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.800 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.273,99"
+   "PREÇO": "1.273,14"
  },
  {
    "ITEM": 100000962,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.800 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.075,31"
+   "PREÇO": "1.075,94"
  },
  {
    "ITEM": 100000963,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 1.800 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "883,57"
+   "PREÇO": "886,12"
  },
  {
    "ITEM": 100000964,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.100 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.791,24"
+   "PREÇO": "1.788,35"
  },
  {
    "ITEM": 100000965,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.100 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.428,00"
+   "PREÇO": "1.429,41"
  },
  {
    "ITEM": 100000966,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.100 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.196,35"
+   "PREÇO": "1.199,82"
  },
  {
    "ITEM": 100000967,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.500 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.141,31"
+   "PREÇO": "2.143,40"
  },
  {
    "ITEM": 100000968,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.500 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.946,62"
+   "PREÇO": "1.950,18"
  },
  {
    "ITEM": 100000969,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.500 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.654,59"
+   "PREÇO": "1.660,35"
  },
  {
    "ITEM": 100000970,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.800 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.494,87"
+   "PREÇO": "2.498,51"
  },
  {
    "ITEM": 100000971,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.800 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.275,18"
+   "PREÇO": "2.280,39"
  },
  {
    "ITEM": 100000972,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 2.800 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.945,63"
+   "PREÇO": "1.953,19"
  },
  {
    "ITEM": 100000973,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 700 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "408,26"
+   "PREÇO": "407,22"
  },
  {
    "ITEM": 100000974,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 700 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "355,12"
+   "PREÇO": "354,28"
  },
  {
    "ITEM": 100000975,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 700 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "275,50"
+   "PREÇO": "274,92"
  },
  {
    "ITEM": 100000976,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 750 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "436,93"
+   "PREÇO": "436,55"
  },
  {
    "ITEM": 100000977,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 750 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "382,10"
+   "PREÇO": "381,92"
  },
  {
    "ITEM": 100000978,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 750 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "299,94"
+   "PREÇO": "300,04"
  },
  {
    "ITEM": 100000979,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 800 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "469,49"
+   "PREÇO": "469,04"
  },
  {
    "ITEM": 100000980,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 800 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "410,38"
+   "PREÇO": "410,12"
  },
  {
    "ITEM": 100000981,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 800 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "321,63"
+   "PREÇO": "321,70"
  },
  {
    "ITEM": 100000982,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 900 MM, JUNTA SOLDADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "528,05"
+   "PREÇO": "527,93"
  },
  {
    "ITEM": 100000983,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 900 MM, JUNTA SOLDADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "462,72"
+   "PREÇO": "462,85"
  },
  {
    "ITEM": 100000984,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS EM AÇO CARBONO, DN 900 MM, JUNTA SOLDADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "364,75"
+   "PREÇO": "365,24"
  },
  {
    "ITEM": 100001023,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 1.000 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.251,20"
+   "PREÇO": "4.258,96"
  },
  {
    "ITEM": 100001024,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 1.050 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.228,40"
+   "PREÇO": "6.217,03"
  },
  {
    "ITEM": 100001025,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 1.200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.503,92"
+   "PREÇO": "7.507,89"
  },
  {
    "ITEM": 100001026,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 1.500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.611,52"
+   "PREÇO": "9.618,21"
  },
  {
    "ITEM": 100001027,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 1.800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11.578,39"
+   "PREÇO": "11.593,82"
  },
  {
    "ITEM": 100001028,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 2.100 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "15.676,40"
+   "PREÇO": "15.660,51"
  },
  {
    "ITEM": 100001029,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 2.500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "21.455,98"
+   "PREÇO": "21.438,82"
  },
  {
    "ITEM": 100001030,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 2.800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "23.912,48"
+   "PREÇO": "23.894,74"
  },
  {
    "ITEM": 100001031,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 700 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.915,50"
+   "PREÇO": "2.919,15"
  },
  {
    "ITEM": 100001032,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 750 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.117,49"
+   "PREÇO": "3.122,12"
  },
  {
    "ITEM": 100001033,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.310,83"
+   "PREÇO": "3.315,83"
  },
  {
    "ITEM": 100001034,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 3º A 22º5', DN 900 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.680,60"
+   "PREÇO": "3.687,49"
  },
  {
    "ITEM": 100001035,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 1.000 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.541,60"
+   "PREÇO": "6.559,01"
  },
  {
    "ITEM": 100001036,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 1.050 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.718,69"
+   "PREÇO": "9.715,32"
  },
  {
    "ITEM": 100001037,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 1.200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.666,70"
+   "PREÇO": "12.646,90"
  },
  {
    "ITEM": 100001038,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 1.500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "17.439,88"
+   "PREÇO": "17.401,08"
  },
  {
    "ITEM": 100001039,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 1.800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "20.919,32"
+   "PREÇO": "20.880,78"
  },
  {
    "ITEM": 100001040,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 2.100 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "25.002,95"
+   "PREÇO": "24.948,44"
  },
  {
    "ITEM": 100001041,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 2.500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "34.453,32"
+   "PREÇO": "34.389,25"
  },
  {
    "ITEM": 100001042,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 2.800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "38.525,29"
+   "PREÇO": "38.454,23"
  },
  {
    "ITEM": 100001043,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 700 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.526,97"
+   "PREÇO": "4.535,79"
  },
  {
    "ITEM": 100001044,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 750 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.863,03"
+   "PREÇO": "4.873,65"
  },
  {
    "ITEM": 100001045,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.165,21"
+   "PREÇO": "5.175,32"
  },
  {
    "ITEM": 100001046,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 22º51’ A 45º, DN 900 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.882,88"
+   "PREÇO": "5.897,53"
  },
  {
    "ITEM": 100001047,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 1.000 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.768,52"
+   "PREÇO": "9.791,58"
  },
  {
    "ITEM": 100001048,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 1.050 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "14.686,98"
+   "PREÇO": "14.676,58"
  },
  {
    "ITEM": 100001049,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 1.200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "18.596,47"
+   "PREÇO": "18.567,43"
  },
  {
    "ITEM": 100001050,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 1.500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "26.029,70"
+   "PREÇO": "25.969,65"
  },
  {
    "ITEM": 100001051,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 1.800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "31.493,96"
+   "PREÇO": "31.429,74"
  },
  {
    "ITEM": 100001052,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 2.100 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "37.458,67"
+   "PREÇO": "37.373,76"
  },
  {
    "ITEM": 100001053,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 2.500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "51.592,83"
+   "PREÇO": "51.490,66"
  },
  {
    "ITEM": 100001054,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 2.800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "57.786,57"
+   "PREÇO": "57.672,08"
  },
  {
    "ITEM": 100001055,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 700 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.748,60"
+   "PREÇO": "6.758,86"
  },
  {
    "ITEM": 100001056,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 750 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.255,62"
+   "PREÇO": "7.268,84"
  },
  {
    "ITEM": 100001057,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.747,81"
+   "PREÇO": "7.762,95"
  },
  {
    "ITEM": 100001058,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 45º01' A 67º50', DN 900 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.770,55"
+   "PREÇO": "8.788,78"
  },
  {
    "ITEM": 100001059,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 1.000 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.974,44"
+   "PREÇO": "13.001,65"
  },
  {
    "ITEM": 100001060,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 1.050 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "19.525,36"
+   "PREÇO": "19.507,50"
  },
  {
    "ITEM": 100001061,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 1.200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "24.809,30"
+   "PREÇO": "24.761,97"
  },
  {
    "ITEM": 100001062,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 1.500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "35.035,62"
+   "PREÇO": "34.942,79"
  },
  {
    "ITEM": 100001063,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 1.800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "41.514,79"
+   "PREÇO": "41.415,14"
  },
  {
    "ITEM": 100001064,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 2.100 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "49.646,14"
+   "PREÇO": "49.512,14"
  },
  {
    "ITEM": 100001065,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 2.500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "68.405,96"
+   "PREÇO": "68.243,00"
  },
  {
    "ITEM": 100001066,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 2.800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "76.918,94"
+   "PREÇO": "76.732,19"
  },
  {
    "ITEM": 100001067,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 700 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.977,11"
+   "PREÇO": "8.989,31"
  },
  {
    "ITEM": 100001068,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 750 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.634,58"
+   "PREÇO": "9.649,48"
  },
  {
    "ITEM": 100001069,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 800 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10.290,85"
+   "PREÇO": "10.308,31"
  },
  {
    "ITEM": 100001070,
    "DESCRIÇÃO": "EXECUÇÃO DE CURVA DE AÇO DE 67º51’ A 90º, DN 900 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11.659,46"
+   "PREÇO": "11.681,35"
  },
  {
    "ITEM": 100001129,
    "DESCRIÇÃO": "DESMONTAGEM DE PEÇAS E TUBULAÇÕES EM AÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "8,15"
+   "PREÇO": "8,12"
  },
  {
    "ITEM": 100001130,
    "DESCRIÇÃO": "DESMONTAGEM DE PEÇAS E TUBULAÇÕES EM FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "3,17"
  },
  {
    "ITEM": 100001131,
    "DESCRIÇÃO": "EXECUÇÃO DE PEÇAS DE AÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "40,26"
+   "PREÇO": "40,61"
  },
  {
    "ITEM": 100001136,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "2.444,40"
+   "PREÇO": "2.426,64"
  },
  {
    "ITEM": 100001137,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "4.278,86"
+   "PREÇO": "4.247,81"
  },
  {
    "ITEM": 100001138,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "1.355,05"
+   "PREÇO": "1.345,18"
  },
  {
    "ITEM": 100001139,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "1.254,26"
+   "PREÇO": "1.245,15"
  },
  {
    "ITEM": 100001140,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "1.922,75"
+   "PREÇO": "1.908,86"
  },
  {
    "ITEM": 100001141,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "2.365,02"
+   "PREÇO": "2.347,93"
  },
  {
    "ITEM": 100001142,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "3.156,74"
+   "PREÇO": "3.133,95"
  },
  {
    "ITEM": 100001143,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "3.798,20"
+   "PREÇO": "3.770,85"
  },
  {
    "ITEM": 100001144,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "4.439,65"
+   "PREÇO": "4.407,76"
  },
  {
    "ITEM": 100001145,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 400 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "4.777,23"
+   "PREÇO": "4.743,05"
  },
  {
    "ITEM": 100001146,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 450 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "5.496,55"
+   "PREÇO": "5.456,46"
  },
  {
    "ITEM": 100001147,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "624,60"
+   "PREÇO": "620,04"
  },
  {
    "ITEM": 100001148,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "1.177,46"
+   "PREÇO": "1.168,92"
  },
  {
    "ITEM": 100001149,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DE 140 ATÉ 250 MM, EM PE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "17,93"
+   "PREÇO": "17,87"
  },
  {
    "ITEM": 100001150,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DE 280 ATÉ 400 MM, EM PE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "32,13"
+   "PREÇO": "32,03"
  },
  {
    "ITEM": 100001151,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DE 63 ATÉ 125 MM, EM PE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "13,56"
+   "PREÇO": "13,50"
  },
  {
    "ITEM": 100001152,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 100 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "19,83"
+   "PREÇO": "19,69"
  },
  {
    "ITEM": 100001153,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 150 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "29,09"
+   "PREÇO": "28,89"
  },
  {
    "ITEM": 100001154,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 200 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "39,68"
+   "PREÇO": "39,40"
  },
  {
    "ITEM": 100001155,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 250 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "56,59"
+   "PREÇO": "56,18"
  },
  {
    "ITEM": 100001156,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 300 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "80,46"
+   "PREÇO": "79,94"
  },
  {
    "ITEM": 100001157,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 350 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "112,61"
+   "PREÇO": "111,88"
  },
  {
    "ITEM": 100001158,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 400 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "135,17"
+   "PREÇO": "134,30"
  },
  {
    "ITEM": 100001159,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 450 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "168,92"
+   "PREÇO": "167,85"
  },
  {
    "ITEM": 100001160,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 50 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "5,80"
+   "PREÇO": "5,76"
  },
  {
    "ITEM": 100001161,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS, DN 75 MM, EM PVC RÍGIDO, RPVC E DEFOFO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "12,75"
+   "PREÇO": "12,66"
  },
  {
    "ITEM": 100001162,
    "DESCRIÇÃO": "CARGA E DESCARGA, DE TUBOS E PEÇAS EM FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TON",
-   "PREÇO": "155,48"
+   "PREÇO": "156,75"
  },
  {
    "ITEM": 100001163,
    "DESCRIÇÃO": "TRANSPORTE, DE TUBOS E PEÇAS EM FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TOK",
-   "PREÇO": "4,45"
+   "PREÇO": "4,42"
  },
  {
    "ITEM": 100001200,
    "DESCRIÇÃO": "CARGA E DESCARGA, DE TUBOS E PEÇAS EM CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TON",
-   "PREÇO": "168,41"
+   "PREÇO": "169,79"
  },
  {
    "ITEM": 100001201,
    "DESCRIÇÃO": "TRANSPORTE, DE TUBOS E PEÇAS EM CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TOK",
-   "PREÇO": "9,20"
+   "PREÇO": "9,14"
  },
  {
    "ITEM": 100001202,
    "DESCRIÇÃO": "CARGA E DESCARGA, DE TUBOS E PEÇAS EM AÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TON",
-   "PREÇO": "136,05"
+   "PREÇO": "137,16"
  },
  {
    "ITEM": 100001203,
    "DESCRIÇÃO": "TRANSPORTE, DE TUBOS E PEÇAS EM AÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TOK",
-   "PREÇO": "9,20"
+   "PREÇO": "9,14"
  },
  {
    "ITEM": 100012181,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 450 E 500 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "252,31"
+   "PREÇO": "254,82"
  },
  {
    "ITEM": 100012182,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 450 E 500 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "242,25"
+   "PREÇO": "244,70"
  },
  {
    "ITEM": 100012183,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 450 E 500 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "227,11"
+   "PREÇO": "229,44"
  },
  {
    "ITEM": 100012184,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 560 E 630 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "329,06"
+   "PREÇO": "331,55"
  },
  {
    "ITEM": 100012185,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 560 E 630 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "312,81"
+   "PREÇO": "315,17"
  },
  {
    "ITEM": 100012186,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 560 E 630 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "288,40"
+   "PREÇO": "290,59"
  },
  {
    "ITEM": 100012187,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 710 E 800 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "375,60"
+   "PREÇO": "378,42"
  },
  {
    "ITEM": 100012188,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 710 E 800 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "354,32"
+   "PREÇO": "356,99"
  },
  {
    "ITEM": 100012189,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 710 E 800 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "322,44"
+   "PREÇO": "324,88"
  },
  {
    "ITEM": 100012190,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 900 A 1200 MM, EM PEAD (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "538,15"
+   "PREÇO": "541,11"
  },
  {
    "ITEM": 100012191,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 900 A 1200 MM, EM PEAD (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "505,75"
+   "PREÇO": "508,48"
  },
  {
    "ITEM": 100012192,
    "DESCRIÇÃO": "ASSENTAMENTO SIMPLES DE TUBOS E PEÇAS, DE 900 A 1200 MM, EM PEAD (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "457,25"
+   "PREÇO": "459,62"
  },
  {
    "ITEM": 100011151,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/ LPB DO LEITO (C) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "359,12"
+   "PREÇO": "357,83"
  },
  {
    "ITEM": 100011152,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/ LPB DO LEITO (B) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "388,88"
+   "PREÇO": "388,95"
  },
  {
    "ITEM": 100011153,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/ LPB DO LEITO (A) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "413,33"
+   "PREÇO": "413,22"
  },
  {
    "ITEM": 100011154,
    "DESCRIÇÃO": "SONDAGEM (VALA SECA) S/ REPOS DO PAV - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "250,87"
+   "PREÇO": "249,20"
  },
  {
    "ITEM": 100011155,
    "DESCRIÇÃO": "SONDAGEM EM PASSEIO (VALA SECA) C/ REPOS DO PAV PASSEIO - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "324,71"
+   "PREÇO": "323,21"
  },
  {
    "ITEM": 100011156,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/ REPOS DO LEITO (C) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "419,93"
+   "PREÇO": "419,39"
  },
  {
    "ITEM": 100011157,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/ REPOS DO LEITO (B) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "543,53"
+   "PREÇO": "540,77"
  },
  {
    "ITEM": 100011158,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/ REPOS DO LEITO (A) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "567,98"
+   "PREÇO": "565,04"
  },
  {
    "ITEM": 100011159,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM EM LEITO (VALA SECA) - LEITO (C) - ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "70,80"
+   "PREÇO": "71,50"
  },
  {
    "ITEM": 100011160,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM EM LEITO (VALA SECA) - LEITO (B) - ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "164,64"
+   "PREÇO": "161,76"
  },
  {
    "ITEM": 100011161,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM EM LEITO (VALA SECA) - LEITO (A) - ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "164,64"
+   "PREÇO": "161,76"
  },
  {
    "ITEM": 100011162,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) C/ LPB LEITO (C) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "945,33"
+   "PREÇO": "937,85"
  },
  {
    "ITEM": 100011163,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) C/ LPB LEITO (B) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.015,29"
+   "PREÇO": "1.012,68"
  },
  {
    "ITEM": 100011164,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) C/ LPB LEITO (A) - AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.067,15"
+   "PREÇO": "1.064,25"
  },
  {
    "ITEM": 100011165,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) SEM PAVIMENTACAO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "628,97"
+   "PREÇO": "620,46"
  },
  {
    "ITEM": 100011166,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) C/ REPOS PASSEIO CIMENTADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "725,59"
+   "PREÇO": "717,68"
  },
  {
    "ITEM": 100011167,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) C/ REPOS PASSEIO ESPECIAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "918,57"
+   "PREÇO": "913,98"
  },
  {
    "ITEM": 100011168,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) C/ REPOS LEITO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.211,70"
+   "PREÇO": "1.205,18"
  },
  {
    "ITEM": 100011169,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) C/ REPOS LEITO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.464,54"
+   "PREÇO": "1.451,92"
  },
  {
    "ITEM": 100011170,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PECAS LOCALIZADAS (CAVAS) C/ REPOS LEITO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.516,40"
+   "PREÇO": "1.503,49"
  },
  {
    "ITEM": 100011174,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - PASSEIO ADJACENTE S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "583,08"
+   "PREÇO": "580,37"
  },
  {
    "ITEM": 100011175,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - EIXO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "937,17"
+   "PREÇO": "930,92"
  },
  {
    "ITEM": 100011176,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - TERCO ADJACENTE S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "783,54"
+   "PREÇO": "778,77"
  },
  {
    "ITEM": 100011177,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - TERCO OPOSTO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.147,22"
+   "PREÇO": "1.139,85"
  },
  {
    "ITEM": 100011178,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - PASSEIO OPOSTO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.303,07"
+   "PREÇO": "1.295,63"
  },
  {
    "ITEM": 100011179,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - PASSEIO ADJACENTE S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "139,91"
+   "PREÇO": "139,04"
  },
  {
    "ITEM": 100011180,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - TERCO ADJACENTE S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "349,56"
+   "PREÇO": "347,16"
  },
  {
    "ITEM": 100011181,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - EIXO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "463,79"
+   "PREÇO": "460,31"
  },
  {
    "ITEM": 100011182,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - TERCO OPOSTO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "647,59"
+   "PREÇO": "642,65"
  },
  {
    "ITEM": 100011183,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - PASSEIO OPOSTO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "772,32"
+   "PREÇO": "766,39"
  },
  {
    "ITEM": 100011184,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - PASSEIO ADJACENTE S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "454,15"
+   "PREÇO": "451,29"
  },
  {
    "ITEM": 100011185,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - TERCO ADJACENTE S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "625,84"
+   "PREÇO": "621,14"
  },
  {
    "ITEM": 100011186,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - EIXO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "745,98"
+   "PREÇO": "740,21"
  },
  {
    "ITEM": 100011187,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - TERCO OPOSTO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "948,17"
+   "PREÇO": "940,96"
  },
  {
    "ITEM": 100011188,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - PASSEIO OPOSTO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.267,61"
+   "PREÇO": "1.255,44"
  },
  {
    "ITEM": 100011189,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - PASSEIO ADJACENTE S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "652,86"
+   "PREÇO": "647,98"
  },
  {
    "ITEM": 100011190,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - TERCO ADJACENTE S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "880,81"
+   "PREÇO": "872,68"
  },
  {
    "ITEM": 100011191,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - EIXO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.050,99"
+   "PREÇO": "1.040,72"
  },
  {
    "ITEM": 100011192,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - TERCO OPOSTO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.300,09"
+   "PREÇO": "1.287,35"
  },
  {
    "ITEM": 100011193,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - PASSEIO OPOSTO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.467,07"
+   "PREÇO": "1.453,72"
  },
  {
    "ITEM": 100011194,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - MND - QQ PROF. - QQ DIST S/ REPOS PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "937,89"
+   "PREÇO": "925,44"
  },
  {
    "ITEM": 100011195,
    "DESCRIÇÃO": "LIGACAO AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - MND - QQ PROF - QQ DIST S/ REPOS PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "724,53"
+   "PREÇO": "714,75"
  },
  {
    "ITEM": 100011196,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO AGUA ATE 32MM - MND - QQ PROF. - QQ DIST S/ REPOS PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "938,36"
+   "PREÇO": "927,38"
  },
  {
    "ITEM": 100011197,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - MND A QQ PROF. - QQ DISTANCIA S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.236,19"
+   "PREÇO": "1.221,70"
  },
  {
    "ITEM": 100011198,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - PASSEIO ADJACENTE S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "400,44"
+   "PREÇO": "397,73"
  },
  {
    "ITEM": 100011199,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - TERCO ADJACENTE S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "584,28"
+   "PREÇO": "579,50"
  },
  {
    "ITEM": 100011200,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - EIXO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "717,37"
+   "PREÇO": "711,44"
  },
  {
    "ITEM": 100011201,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - TERCO OPOSTO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "932,31"
+   "PREÇO": "925,60"
  },
  {
    "ITEM": 100011202,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - PASSEIO OPOSTO S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.064,98"
+   "PREÇO": "1.057,55"
  },
  {
    "ITEM": 100011203,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - PASSEIO ADJACENTE S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "322,55"
+   "PREÇO": "321,68"
  },
  {
    "ITEM": 100011204,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - TERCO ADJACENTE S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "548,82"
+   "PREÇO": "546,42"
  },
  {
    "ITEM": 100011205,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - EIXO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "674,15"
+   "PREÇO": "670,68"
  },
  {
    "ITEM": 100011206,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - TERCO OPOSTO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "869,05"
+   "PREÇO": "864,11"
  },
  {
    "ITEM": 100011207,
    "DESCRIÇÃO": "LIGACAO DE AGUA SUCES / PASSAGEM DE LIGACAO DE AGUA - PASSEIO OPOSTO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.010,41"
+   "PREÇO": "1.004,48"
  },
  {
    "ITEM": 100011208,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - PASSEIO ADJACENTE S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "637,48"
+   "PREÇO": "634,62"
  },
  {
    "ITEM": 100011209,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - TERCO ADJACENTE S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "825,11"
+   "PREÇO": "820,40"
  },
  {
    "ITEM": 100011210,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - EIXO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "956,35"
+   "PREÇO": "950,57"
  },
  {
    "ITEM": 100011211,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - TERCO OPOSTO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.169,64"
+   "PREÇO": "1.162,42"
  },
  {
    "ITEM": 100011212,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO DE AGUA AVULSA ATE 32MM - PASSEIO OPOSTO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.320,16"
+   "PREÇO": "1.312,68"
  },
  {
    "ITEM": 100011213,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - PASSEIO ADJACENTE S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "835,50"
+   "PREÇO": "830,62"
  },
  {
    "ITEM": 100011214,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - TERCO ADJACENTE S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.080,08"
+   "PREÇO": "1.071,95"
  },
  {
    "ITEM": 100011215,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - EIXO S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.261,35"
+   "PREÇO": "1.251,08"
  },
  {
    "ITEM": 100011216,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - TERCO OPOSTO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.521,55"
+   "PREÇO": "1.508,81"
  },
  {
    "ITEM": 100011217,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - PASSEIO OPOSTO S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.705,15"
+   "PREÇO": "1.691,81"
  },
  {
    "ITEM": 100011218,
    "DESCRIÇÃO": "LIGACAO / SUBST LIGACAO AVULSA DE AGUA ATE 32MM - MND - QQ PROF. - QQ DIST S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.133,57"
+   "PREÇO": "1.121,56"
  },
  {
    "ITEM": 100011219,
    "DESCRIÇÃO": "LIGACAO AGUA SUCES/PASSAGEM DE LIGACAO DE AGUA - MND - QQ PROF - QQ DIST S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "945,99"
+   "PREÇO": "936,22"
  },
  {
    "ITEM": 100011220,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE LIGACAO AGUA ATE 32MM - MND - QQ PROF. - QQ DIST S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.159,83"
+   "PREÇO": "1.148,84"
  },
  {
    "ITEM": 100011221,
    "DESCRIÇÃO": "TROCA DE LIGACAO DE AGUA ATE 32MM - CORRETIVA - MND A QQ PROF. - QQ DISTANCIA S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.457,64"
+   "PREÇO": "1.443,16"
  },
  {
    "ITEM": 100011222,
    "DESCRIÇÃO": "LIGAÇÃO DE ÁGUA DN 50 - HIDRO 30 M3/H - SEM REPOS DE PAVIMENTOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.077,86"
+   "PREÇO": "2.071,99"
  },
  {
    "ITEM": 100011223,
    "DESCRIÇÃO": "LIGAÇÃO DE ÁGUA DN 50 - HIDRO 300 M3/DIA - SEM REPOS DE PAVIMENTOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.537,35"
+   "PREÇO": "2.531,36"
  },
  {
    "ITEM": 100011224,
    "DESCRIÇÃO": "LIGAÇÃO DE ÁGUA DN 80 - HIDRO 1100 M3/DIA - SEM REPOS DE PAVIMENTOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.342,77"
+   "PREÇO": "3.336,77"
  },
  {
    "ITEM": 100011225,
    "DESCRIÇÃO": "LIGAÇÃO DE ÁGUA DN 100 - HIDRO 1800 M3/DIA - SEM REPOS DE PAVIMENTOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.665,53"
+   "PREÇO": "3.659,53"
  },
  {
    "ITEM": 100011226,
    "DESCRIÇÃO": "RAMAL DE ÁGUA DN 50 A DN 100 - SEM REPOS DE PAVIMENTOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "66,49"
+   "PREÇO": "66,53"
  },
  {
    "ITEM": 100011227,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "111,79"
  },
  {
    "ITEM": 100011228,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "155,79"
+   "PREÇO": "156,54"
  },
  {
    "ITEM": 100011247,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "34,28"
+   "PREÇO": "34,34"
  },
  {
    "ITEM": 100011248,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "77,70"
+   "PREÇO": "78,51"
  },
  {
    "ITEM": 100011267,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - TROCA PREVENTIVA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "100,42"
+   "PREÇO": "100,59"
  },
  {
    "ITEM": 100011268,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - TROCA PREVENTIVA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "235,51"
+   "PREÇO": "238,00"
  },
  {
    "ITEM": 100011287,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - TROCA CORRETIVA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "219,07"
+   "PREÇO": "220,00"
  },
  {
    "ITEM": 100011288,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - TROCA CORRETIVA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "354,16"
+   "PREÇO": "357,41"
  },
  {
    "ITEM": 100011298,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - TROCA CORRETIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "221,06"
+   "PREÇO": "223,27"
  },
  {
    "ITEM": 100011299,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - TROCA CORRETIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "481,50"
+   "PREÇO": "474,12"
  },
  {
    "ITEM": 100011300,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - TROCA CORRETIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "481,50"
+   "PREÇO": "474,12"
  },
  {
    "ITEM": 100011301,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA CORRETIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "437,78"
+   "PREÇO": "442,16"
  },
  {
    "ITEM": 100011302,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA CORRETIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "911,05"
+   "PREÇO": "898,52"
  },
  {
    "ITEM": 100011303,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA CORRETIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "911,05"
+   "PREÇO": "898,52"
  },
  {
    "ITEM": 100011304,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - TROCA CORRETIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "654,50"
+   "PREÇO": "661,05"
  },
  {
    "ITEM": 100011305,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - TROCA CORRETIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.340,60"
+   "PREÇO": "1.322,94"
  },
  {
    "ITEM": 100011306,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - TROCA CORRETIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.340,60"
+   "PREÇO": "1.322,94"
  },
  {
    "ITEM": 100011307,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - EMBOQUE / DESEMBOQUE MND - LIGACAO / SUBSTITUICAO DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "124,06"
+   "PREÇO": "124,27"
  },
  {
    "ITEM": 100011308,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - EMBOQUE / DESEMBOQUE MND - LIGACAO / SUBSTITUICAO DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "272,58"
+   "PREÇO": "275,45"
  },
  {
    "ITEM": 100011315,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - DESEMBOQUE MND - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "117,02"
+   "PREÇO": "117,23"
  },
  {
    "ITEM": 100011316,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - DESEMBOQUE MND - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "271,40"
+   "PREÇO": "274,27"
  },
  {
    "ITEM": 100011323,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - EMBOQUE / DESEMBOQUE MND - TROCA PREVENTIVA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "101,46"
+   "PREÇO": "101,62"
  },
  {
    "ITEM": 100011324,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - EMBOQUE / DESEMBOQUE MND - TROCA PREVENTIVA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "228,83"
+   "PREÇO": "231,18"
  },
  {
    "ITEM": 100011331,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - EMBOQUE / DESEMBOQUE MND - TROCA CORRETIVA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "101,67"
+   "PREÇO": "101,99"
  },
  {
    "ITEM": 100011332,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - EMBOQUE / DESEMBOQUE MND - TROCA CORRETIVA DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "218,15"
+   "PREÇO": "220,48"
  },
  {
    "ITEM": 100011339,
    "DESCRIÇÃO": "REPARO DE RAMAL DE AGUA EM PEAD ATE 32MM - QUALQUER PROF., S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "492,24"
+   "PREÇO": "488,21"
  },
  {
    "ITEM": 100011340,
    "DESCRIÇÃO": "REPARO DE RAMAL DE AGUA EM PEAD ATE 32MM - QUALQUER PROF., S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "531,05"
+   "PREÇO": "527,02"
  },
  {
    "ITEM": 100011341,
    "DESCRIÇÃO": "REPARO DE RAMAL DE AGUA EM PEAD ATE 32MM - QUALQUER PROF., S/ REPOS DO PAV (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "703,26"
+   "PREÇO": "699,45"
  },
  {
    "ITEM": 100011342,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO DE RAMAL DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "191,57"
+   "PREÇO": "192,40"
  },
  {
    "ITEM": 100011343,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO DE RAMAL DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "308,05"
+   "PREÇO": "310,89"
  },
  {
    "ITEM": 100011350,
    "DESCRIÇÃO": "TROCA DE CAVALETE DOMICILIAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "422,46"
+   "PREÇO": "422,17"
  },
  {
    "ITEM": 100011351,
    "DESCRIÇÃO": "TROCA PREVENTIVA DE REGISTRO DE CAVALETE - DN 20MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "56,85"
+   "PREÇO": "57,02"
  },
  {
    "ITEM": 100011352,
    "DESCRIÇÃO": "REGULARIZACAO DE CAVALETE DOMICILIAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "365,20"
+   "PREÇO": "365,27"
  },
  {
    "ITEM": 100011353,
    "DESCRIÇÃO": "REPARO DE VAZAMENTO NO CAVALETE DOMICILIAR - PVC / FERRO GALVANIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "145,52"
+   "PREÇO": "145,58"
  },
  {
    "ITEM": 100011354,
    "DESCRIÇÃO": "REPARO DE VAZAMENTO NO CAVALETE DOMICILIAR - PVC / FERRO GALVANIZADO - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "167,22"
+   "PREÇO": "167,32"
  },
  {
    "ITEM": 100011355,
    "DESCRIÇÃO": "TRANSFORMACAO DE CAVALETE SIMPLES P/ MULTIPLO COM 2 HIDROMETROS C/ APROVEITAMENTO DO RAMAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "136,15"
+   "PREÇO": "136,97"
  },
  {
    "ITEM": 100011356,
    "DESCRIÇÃO": "INCLUSAO DE LIGACAO EM CAVALETE MULTIPLO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "275,42"
+   "PREÇO": "275,58"
  },
  {
    "ITEM": 100011357,
    "DESCRIÇÃO": "INCLUSÃO DE LIGAÇÃO EM UMA MÚLTIPLA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,98"
+   "PREÇO": "62,37"
  },
  {
    "ITEM": 100011358,
    "DESCRIÇÃO": "INSTALAÇÃO DE CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA - COM CONSTRUÇÃO DE MURETA EM ALVENARIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "762,71"
+   "PREÇO": "767,16"
  },
  {
    "ITEM": 100011359,
    "DESCRIÇÃO": "INSTALAÇÃO DE CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "299,58"
+   "PREÇO": "307,71"
  },
  {
    "ITEM": 100011360,
    "DESCRIÇÃO": "SUBSTITUIÇÃO DE CAVALETE POR UNIDADE DE MEDIÇÃO - S/ REPOS DE PAVIMENTOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "91,75"
+   "PREÇO": "92,33"
  },
  {
    "ITEM": 100011361,
    "DESCRIÇÃO": "SUBSTITUIÇÃO DE CAVALETE POR UNIDADE DE MEDIÇÃO - C/ REPOS DE PAVIMENTO DO PASSEIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "120,43"
+   "PREÇO": "122,72"
  },
  {
    "ITEM": 100011362,
    "DESCRIÇÃO": "INSTALAÇÃO DE CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA NO PASSEIO - UMAP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "287,76"
+   "PREÇO": "290,85"
  },
  {
    "ITEM": 100011363,
    "DESCRIÇÃO": "ADICIONAL DE PRECO P/ TROCA DE CAVALETE DOMICILIAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "377,22"
+   "PREÇO": "377,14"
  },
  {
    "ITEM": 100011364,
    "DESCRIÇÃO": "ADICIONAL PARA TROCA PREVENTIVA DE REGISTRO DE CAVALETE - DN 20MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "39,77"
+   "PREÇO": "39,97"
  },
  {
    "ITEM": 100011365,
    "DESCRIÇÃO": "ADICIONAL DE PRECO P/ REGULARIZACAO DE CAVALETE DOMICILIAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "325,93"
+   "PREÇO": "326,20"
  },
  {
    "ITEM": 100011366,
    "DESCRIÇÃO": "ADICIONAL DE PRECO P/ REPARO DE CAVALETE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "110,37"
+   "PREÇO": "110,49"
  },
  {
    "ITEM": 100011367,
    "DESCRIÇÃO": "ADICIONAL PARA INCLUSÃO DE LIGAÇÃO EM UMA MÚLTIPLA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "19,28"
+   "PREÇO": "19,52"
  },
  {
    "ITEM": 100011368,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALAÇÃO DE CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "199,05"
+   "PREÇO": "205,03"
  },
  {
    "ITEM": 100011369,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALAÇÃO DE CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA NO PASSEIO - UMAP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "244,12"
+   "PREÇO": "247,01"
  },
  {
    "ITEM": 100011370,
    "DESCRIÇÃO": "ADICIONAL DE PRECO P/ INSTALACAO DE CAVALETE DOMICILIAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "256,98"
+   "PREÇO": "256,54"
  },
  {
    "ITEM": 100011371,
    "DESCRIÇÃO": "ADICIONAL PARA TROCA PREVENTIVA DE PÉ ENTRADA DO CAVALETE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "116,38"
+   "PREÇO": "116,01"
  },
  {
    "ITEM": 100011372,
    "DESCRIÇÃO": "TROCA DE CAVALETE DOMICILIAR (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "254,08"
+   "PREÇO": "253,78"
  },
  {
    "ITEM": 100011373,
    "DESCRIÇÃO": "REGULARIZACAO DE CAVALETE DOMICILIAR (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "335,26"
+   "PREÇO": "335,21"
  },
  {
    "ITEM": 100011374,
    "DESCRIÇÃO": "TRANSFORMACAO DE CAVALETE SIMPLES P/ MULTIPLO COM 2 HIDROMETROS C/ APROVEITAMENTO DO RAMAL (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "118,51"
+   "PREÇO": "119,33"
  },
  {
    "ITEM": 100011375,
    "DESCRIÇÃO": "ADICIONAL DE PRECO P/ INSTALACAO DE CAVALETE DOMICILIAR (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "141,61"
+   "PREÇO": "141,12"
  },
  {
    "ITEM": 100011376,
    "DESCRIÇÃO": "ADICIONAL DE PRECO P/ TROCA DE CAVALETE DOMICILIAR (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "208,84"
+   "PREÇO": "208,75"
  },
  {
    "ITEM": 100011377,
    "DESCRIÇÃO": "ADICIONAL DE PRECO P/ REGULARIZACAO DE CAVALETE DOMICILIAR (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "295,99"
+   "PREÇO": "296,14"
  },
  {
    "ITEM": 100011378,
    "DESCRIÇÃO": "TROCA DE HIDROMETRO PREVENTIVA - CAPAC. ATE 10 M3 / H",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "55,11"
+   "PREÇO": "55,23"
  },
  {
    "ITEM": 100011379,
    "DESCRIÇÃO": "TROCA DE HIDROMETRO CORRETIVA - CAPAC. ATE 10 M3 / H",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "63,66"
+   "PREÇO": "63,76"
  },
  {
    "ITEM": 100011380,
    "DESCRIÇÃO": "TRANSPORTE DE HIDROMETRO P/ AFERICAO SABESP / ALMOXARIFADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "4,44"
+   "PREÇO": "4,47"
  },
  {
    "ITEM": 100011381,
    "DESCRIÇÃO": "LACRACAO DE HIDRÔMETRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "13,31"
+   "PREÇO": "13,33"
  },
  {
    "ITEM": 100011382,
    "DESCRIÇÃO": "DESINCLINACAO DE HIDRÔMETROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "14,14"
+   "PREÇO": "14,16"
  },
  {
    "ITEM": 100011383,
    "DESCRIÇÃO": "ADICIONAL DE PRECO P/ INSTALAÇÃO DE HIDRÔMETRO EM CAVALETE MULTIPLO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5,47"
+   "PREÇO": "5,50"
  },
  {
    "ITEM": 100011384,
    "DESCRIÇÃO": "SUPRESSAO DO FORNECIMENTO DE AGUA - NA TOMADA DE AGUA, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "467,71"
+   "PREÇO": "464,57"
  },
  {
    "ITEM": 100011385,
    "DESCRIÇÃO": "SUPRESSAO DO FORNECIMENTO DE AGUA - NO RAMAL DE AGUA, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "132,44"
+   "PREÇO": "132,80"
  },
  {
    "ITEM": 100011386,
    "DESCRIÇÃO": "SUPRESSAO / CORTE DO FORNECIMENTO DE AGUA - NO CAVALETE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "30,24"
+   "PREÇO": "30,33"
  },
  {
    "ITEM": 100011387,
    "DESCRIÇÃO": "SUPRESSAO DO FORNECIMENTO DE AGUA - NA TOMADA DE AGUA, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "473,06"
+   "PREÇO": "469,92"
  },
  {
    "ITEM": 100011388,
    "DESCRIÇÃO": "SUPRESSAO DO FORNECIMENTO DE AGUA - NO RAMAL DE AGUA, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "142,34"
+   "PREÇO": "142,70"
  },
  {
    "ITEM": 100011389,
    "DESCRIÇÃO": "ADICIONAL DE PREÇO P/ SUPRESSAO DE LIGACAO - TOMADA DE AGUA S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "168,27"
+   "PREÇO": "167,40"
  },
  {
    "ITEM": 100011390,
    "DESCRIÇÃO": "RELIGACAO DO FORNECIMENTO DE AGUA - NA TOMADA / RAMAL DE AGUA - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "184,37"
+   "PREÇO": "184,22"
  },
  {
    "ITEM": 100011391,
    "DESCRIÇÃO": "RELIGACAO / RESTABELECIMENTO DO FORNECIMENTO DE AGUA - NO CAVALETE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "47,06"
+   "PREÇO": "47,16"
  },
  {
    "ITEM": 100011394,
    "DESCRIÇÃO": "RELIGACAO DO FORNECIMENTO DE AGUA - NA TOMADA DE AGUA, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "476,30"
+   "PREÇO": "473,16"
  },
  {
    "ITEM": 100011395,
    "DESCRIÇÃO": "RELIGACAO DO FORNECIMENTO DE AGUA - NO RAMAL DE AGUA, S/ REPOS DO PAV (SFMH) - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "140,98"
+   "PREÇO": "140,85"
  },
  {
    "ITEM": 100011396,
    "DESCRIÇÃO": "RELIGACAO DO FORNECIMENTO DE AGUA - NA TOMADA DE AGUA, S/ REPOS DO PAV (SFMH) - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "551,69"
+   "PREÇO": "548,71"
  },
  {
    "ITEM": 100011397,
    "DESCRIÇÃO": "RELIGACAO / RESTABELECIMENTO DO FORNECIMENTO DE AGUA - NO CAVALETE - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "63,60"
+   "PREÇO": "63,75"
  },
  {
    "ITEM": 100011406,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FIBROCIMENTO / TROCA DE VALVULA DN 50 A 100MM, C/ LPB DO PAV LEITO (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.512,91"
+   "PREÇO": "2.508,03"
  },
  {
    "ITEM": 100011407,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FIBROCIMENTO DN 50 A 100MM, C/ LPB DO PAV DO LEITO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.113,41"
+   "PREÇO": "3.108,52"
  },
  {
    "ITEM": 100011408,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FIBROCIMENTO DN 50 A 100MM, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.204,31"
+   "PREÇO": "2.184,81"
  },
  {
    "ITEM": 100011409,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FIBROCIMENTO DN 50 A 100MM, C/ REPOS DO PAV DO PASSEIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.429,09"
+   "PREÇO": "3.420,28"
  },
  {
    "ITEM": 100011410,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FIBROCIMENTO DN 50 A 100MM, C/ REPOS DO PAV DO LEITO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.146,23"
+   "PREÇO": "4.173,64"
  },
  {
    "ITEM": 100011411,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FIBROCIMENTO / TROCA DE VALVULA DN 50 A 100MM, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.603,81"
+   "PREÇO": "1.584,31"
  },
  {
    "ITEM": 100011412,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FIBROCIMENTO / TROCA DE VALVULA DN 50 A 100MM, C/REPOS DO PASSEIO (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.828,59"
+   "PREÇO": "2.819,78"
  },
  {
    "ITEM": 100011413,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM DEFOFO / FIBROC / TROCA DE VALVULA DN 150 A 250MM, C/ LPB DO PAV LEITO (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.177,87"
+   "PREÇO": "3.165,39"
  },
  {
    "ITEM": 100011414,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM DEFOFO / FIBROC / TROCA DE VALVULA DN 300 A 400MM, C/ LPB DO PAV LEITO (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.700,68"
+   "PREÇO": "4.681,26"
  },
  {
    "ITEM": 100011415,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF / TROCA DE VALVULA DN 50 A 100MM, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "823,95"
+   "PREÇO": "816,13"
  },
  {
    "ITEM": 100011416,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF / TROCA DE VALVULA DN 150 A 250MM, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.086,69"
+   "PREÇO": "1.076,76"
  },
  {
    "ITEM": 100011417,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF / TROCA DE VALVULA DN 300 A 400MM, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.913,26"
+   "PREÇO": "1.884,37"
  },
  {
    "ITEM": 100011418,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF DN 200MM, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.789,06"
+   "PREÇO": "3.779,13"
  },
  {
    "ITEM": 100011419,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF DN 250MM, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.394,81"
+   "PREÇO": "5.384,88"
  },
  {
    "ITEM": 100011420,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF DN 300MM, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.147,77"
+   "PREÇO": "7.131,45"
  },
  {
    "ITEM": 100011421,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF DN 350MM, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.541,62"
+   "PREÇO": "9.522,24"
  },
  {
    "ITEM": 100011422,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF DN 400MM, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11.711,84"
+   "PREÇO": "11.681,77"
  },
  {
    "ITEM": 100011423,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM FF DN 50 A 150MM, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.042,85"
+   "PREÇO": "2.035,03"
  },
  {
    "ITEM": 100011424,
    "DESCRIÇÃO": "TROCA DE GAXETA DE VALVULAS - S/ REPOSICAO DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "506,09"
+   "PREÇO": "503,28"
  },
  {
    "ITEM": 100011425,
    "DESCRIÇÃO": "TROCA DE GAXETA DE VALVULAS - C/ LPB DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "700,92"
+   "PREÇO": "698,06"
  },
  {
    "ITEM": 100011426,
    "DESCRIÇÃO": "TROCA DE GAXETA DE VALVULAS - C/ REPOSICAO DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "710,17"
+   "PREÇO": "709,38"
  },
  {
    "ITEM": 100011427,
    "DESCRIÇÃO": "REPARO REDE AGUA EM PVC / TROCA DE VALV DN 50 A 100MM, S/ REP DO PAV (SFMH) - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.060,58"
+   "PREÇO": "1.053,69"
  },
  {
    "ITEM": 100011428,
    "DESCRIÇÃO": "REPARO REDE AGUA EM FF / TROCA DE VALV DN 50 A 100MM, S/ REP DO PAV (SFMH) - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.146,91"
+   "PREÇO": "1.139,36"
  },
  {
    "ITEM": 100011429,
    "DESCRIÇÃO": "REPARO REDE AGUA EM FF / TROCA DE VALV DN 150 A 250MM, S/ REP DO PAV (SFMH) - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.475,79"
+   "PREÇO": "1.465,97"
  },
  {
    "ITEM": 100011430,
    "DESCRIÇÃO": "REPARO REDE AGUA EM FF / TROCA DE VALV DN 300 A 400MM, S/REP DO PAV (SFMH) - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.331,44"
+   "PREÇO": "2.302,69"
  },
  {
    "ITEM": 100011431,
    "DESCRIÇÃO": "REPARO REDE AGUA EM FIBROC / TROCA DE VALV DN 50 A 100MM, S/ REP DO PAV (SFMH) - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.899,41"
+   "PREÇO": "1.884,72"
  },
  {
    "ITEM": 100011432,
    "DESCRIÇÃO": "REPARO REDE AGUA EM FIBROC / TROCA DE VALV DN 50 A 100MM, C/ REP DO PASSEIO (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.232,73"
+   "PREÇO": "3.224,03"
  },
  {
    "ITEM": 100011433,
    "DESCRIÇÃO": "REPARO REDE AGUA EM FIBROC / TROCA DE VALV DN 50 A 100MM, C/ LPB LEITO (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.933,72"
+   "PREÇO": "2.928,88"
  },
  {
    "ITEM": 100011434,
    "DESCRIÇÃO": "REPARO REDE AGUA EM FIBROC / TROCA DE VALV DN 50 A 100MM, C/ REP DO PAV LEITO (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.392,45"
+   "PREÇO": "3.402,98"
  },
  {
    "ITEM": 100011435,
    "DESCRIÇÃO": "REPARO REDE AGUA DEFOFO / FIBROC / TROCA DE VALV DN 150 A 250MM, S/ REP DO PAV (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.489,19"
+   "PREÇO": "2.464,50"
  },
  {
    "ITEM": 100011436,
    "DESCRIÇÃO": "REPARO REDE AGUA DEFOFO/FIBROC/TROCA DE VALV DN 150 A 250MM, C/LPB LEITO (SFMH)-PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.683,21"
+   "PREÇO": "3.669,67"
  },
  {
    "ITEM": 100011437,
    "DESCRIÇÃO": "REPARO REDE AGUA DEFOFO/FIBROC/TROCA DE VALV DN 150 A 250MM, C/REP DO PASSEIO (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.012,13"
+   "PREÇO": "3.993,39"
  },
  {
    "ITEM": 100011438,
    "DESCRIÇÃO": "REPARO REDE AGUA DEFOFO/FIBROC/TROCA DE VALV DN 150 A 250MM, C/REP DO PAV LEITO (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.723,20"
+   "PREÇO": "4.742,33"
  },
  {
    "ITEM": 100011439,
    "DESCRIÇÃO": "REPARO REDE AGUA DEFOFO/FIBROC/TROCA DE VALV DN 300 A 400MM, S/REP DO PAV (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.363,63"
+   "PREÇO": "3.329,87"
  },
  {
    "ITEM": 100011440,
    "DESCRIÇÃO": "REPARO REDE AGUA DEFOFO/FIBROC/TROCA DE VALV DN 300 A 400MM, C/LPB LEITO (SFMH)-PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.194,44"
+   "PREÇO": "5.175,04"
  },
  {
    "ITEM": 100011441,
    "DESCRIÇÃO": "REPARO REDE AGUA DEFOFO/FIBROC/TROCA DE VALV DN 300 A 400MM, C/REP DO PASSEIO (SFMH) - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.393,26"
+   "PREÇO": "5.373,86"
  },
  {
    "ITEM": 100011442,
    "DESCRIÇÃO": "REPARO REDE AGUA DEFOFO/FIBROC/TROCA DE VALV DN 300 A 400MM, C/REP DO PAV LEITO (SFMH)-PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.766,19"
+   "PREÇO": "5.765,53"
  },
  {
    "ITEM": 100011443,
    "DESCRIÇÃO": "TROCA DE GAXETA DE VALVULAS - S/REPOSICAO DO PAV - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "722,74"
+   "PREÇO": "719,79"
  },
  {
    "ITEM": 100011444,
    "DESCRIÇÃO": "TROCA DE GAXETA DE VALVULAS - C/ LPB DO PAV - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "941,77"
+   "PREÇO": "938,71"
  },
  {
    "ITEM": 100011445,
    "DESCRIÇÃO": "TROCA DE GAXETA DE VALVULAS - C/REPOSICAO DO PAV - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "950,62"
+   "PREÇO": "949,63"
  },
  {
    "ITEM": 100011446,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM PVC / TROCA DE VALVULA DN 50 A 100MM, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "747,86"
+   "PREÇO": "740,73"
  },
  {
    "ITEM": 100011447,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM PVC DN 50 A 100MM, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "929,53"
+   "PREÇO": "922,40"
  },
  {
    "ITEM": 100011448,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM POLIETILENO DE 63 A 125MM, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.040,27"
+   "PREÇO": "1.031,22"
  },
  {
    "ITEM": 100011449,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM POLIETILENO DE 140 A 250MM, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.396,99"
+   "PREÇO": "1.385,80"
  },
  {
    "ITEM": 100011450,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM POLIETILENO DE 280 A 400MM, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.298,61"
+   "PREÇO": "2.269,92"
  },
  {
    "ITEM": 100011451,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO DE REDE DE AGUA /TROCA DE VALVULA DN 50 A 100MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "342,58"
+   "PREÇO": "344,09"
  },
  {
    "ITEM": 100011452,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO DE REDE DE AGUA /TROCA DE VALVULA DN 150 A 250MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "550,09"
+   "PREÇO": "553,17"
  },
  {
    "ITEM": 100011453,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO DE REDE DE AGUA /TROCA DE VALVULA DN 300 A 400MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.166,62"
+   "PREÇO": "2.179,02"
  },
  {
    "ITEM": 100011454,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO DE REDE DE AGUA /TROCA DE VALVULA DN 50 A 100MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "497,65"
+   "PREÇO": "501,84"
  },
  {
    "ITEM": 100011455,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO DE REDE DE AGUA /TROCA DE VALVULA DN 150 A 250MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "782,36"
+   "PREÇO": "789,44"
  },
  {
    "ITEM": 100011456,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO DE REDE DE AGUA /TROCA DE VALVULA DN 300 A 400MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.939,23"
+   "PREÇO": "2.964,93"
  },
  {
    "ITEM": 100011475,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ÁGUA EM FIBROCIMENTO / TROCA DE VÁLVULA DN 50MM A 100MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "747,68"
+   "PREÇO": "755,18"
  },
  {
    "ITEM": 100011476,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ÁGUA EM DEFOFO / FIBROCIMENTO / TROCA DE VÁLVULA DN 150MM A 250MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "747,68"
+   "PREÇO": "755,18"
  },
  {
    "ITEM": 100011477,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ÁGUA EM DEFOFO / FIBROCIMENTO / TROCA DE VÁLVULA DN 300MM A 400MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "747,68"
+   "PREÇO": "755,18"
  },
  {
    "ITEM": 100011478,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ÁGUA EM FIBROCIMENTO DN 50MM A 100MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "747,68"
+   "PREÇO": "755,18"
  },
  {
    "ITEM": 100011483,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TROCA DE GAXETA DE VÁLVULAS - PRONTO ATENDIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "113,78"
+   "PREÇO": "114,92"
  },
  {
    "ITEM": 100011484,
    "DESCRIÇÃO": "NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA - S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "288,06"
+   "PREÇO": "286,09"
  },
  {
    "ITEM": 100011485,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE REGISTRO DE PARADA - S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "778,98"
+   "PREÇO": "776,55"
  },
  {
    "ITEM": 100011486,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - DETECCAO / NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "72,57"
  },
  {
    "ITEM": 100011487,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - DETECCAO / NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "142,04"
+   "PREÇO": "143,24"
  },
  {
    "ITEM": 100011494,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD 32MM - C/ LPB DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "160,45"
+   "PREÇO": "159,98"
  },
  {
    "ITEM": 100011495,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD 32MM - C/ LPB DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "179,28"
+   "PREÇO": "178,81"
  },
  {
    "ITEM": 100011496,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD 32MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "56,19"
+   "PREÇO": "55,82"
  },
  {
    "ITEM": 100011497,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD 32MM - C/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "124,42"
+   "PREÇO": "124,43"
  },
  {
    "ITEM": 100011498,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD 63 A 125MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "95,81"
+   "PREÇO": "95,04"
  },
  {
    "ITEM": 100011499,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD DE 140 A 250MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "143,62"
+   "PREÇO": "142,70"
  },
  {
    "ITEM": 100011500,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD DE 280 A 400MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "192,31"
+   "PREÇO": "191,29"
  },
  {
    "ITEM": 100011501,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD 32MM - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "72,06"
+   "PREÇO": "71,69"
  },
  {
    "ITEM": 100011502,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD 32MM - C/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "143,25"
+   "PREÇO": "143,26"
  },
  {
    "ITEM": 100011503,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PEAD DE 63 A 125MM - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "178,83"
+   "PREÇO": "177,92"
  },
  {
    "ITEM": 100011504,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PVC DE 50 A 100MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "112,35"
+   "PREÇO": "111,52"
  },
  {
    "ITEM": 100011505,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM PVC DE 50 A 100MM - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "201,15"
+   "PREÇO": "200,34"
  },
  {
    "ITEM": 100011506,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM FºFº DE 80 A 150MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "100,84"
+   "PREÇO": "100,24"
  },
  {
    "ITEM": 100011507,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM FºFº DE 200 A 250MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "137,57"
+   "PREÇO": "136,81"
  },
  {
    "ITEM": 100011508,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM FºFº DE 300 A 400MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "264,10"
+   "PREÇO": "260,52"
  },
  {
    "ITEM": 100011509,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM FºFº DE 80 A 150MM - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "631,32"
+   "PREÇO": "630,72"
  },
  {
    "ITEM": 100011510,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM FºFº DE 200 A 250MM - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "905,37"
+   "PREÇO": "904,60"
  },
  {
    "ITEM": 100011511,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE AGUA EM FºFº DE 300 A 400MM - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.377,69"
+   "PREÇO": "1.374,11"
  },
  {
    "ITEM": 100011512,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - ASSENTAMENTO DE REDE DE AGUA DN 50 A 150MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "91,83"
+   "PREÇO": "91,80"
  },
  {
    "ITEM": 100011513,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - ASSENTAMENTO DE REDE DE AGUA DN 200 A 250MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "102,46"
+   "PREÇO": "102,58"
  },
  {
    "ITEM": 100011514,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - ASSENTAMENTO DE REDE DE AGUA DN 300 A 400MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "114,91"
+   "PREÇO": "115,07"
  },
  {
    "ITEM": 100011515,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - ASSENTAMENTO DE REDE DE AGUA DN 50 A 150MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "188,32"
+   "PREÇO": "189,95"
  },
  {
    "ITEM": 100011516,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - ASSENTAMENTO DE REDE DE AGUA DN 200 A 250MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "218,25"
+   "PREÇO": "220,36"
  },
  {
    "ITEM": 100011517,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - ASSENTAMENTO DE REDE DE AGUA DN 300 A 400MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "250,00"
+   "PREÇO": "252,48"
  },
  {
    "ITEM": 100011536,
    "DESCRIÇÃO": "INTERLIGACAO EM REDE EXISTENTE DE PVC / PEAD / FF / FC DE 50 A 100MM QUALQUER PROF. S/REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.721,58"
+   "PREÇO": "1.720,67"
  },
  {
    "ITEM": 100011537,
    "DESCRIÇÃO": "INTERLIGACAO EM REDE EXISTENTE DE PVC / PEAD / FF / FC DE 150 A 250MM QUALQUER PROF. S/REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.867,45"
+   "PREÇO": "2.851,98"
  },
  {
    "ITEM": 100011538,
    "DESCRIÇÃO": "INTERLIGACAO EM REDE EXISTENTE DE PVC / PEAD / FF / FC DE 300 A 400MM QUALQUER PROF. S/REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.630,38"
+   "PREÇO": "3.643,47"
  },
  {
    "ITEM": 100011539,
    "DESCRIÇÃO": "INTERLIGAÇÃO ATRAVES DE CONEXÕES FLANGEADAS DN ENTRE 80 A 150 (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.606,29"
+   "PREÇO": "1.606,75"
  },
  {
    "ITEM": 100011540,
    "DESCRIÇÃO": "INTERLIGAÇÃO ATRAVES DE CONEXÕES FLANGEADAS DN ENTRE 200 A 400 (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.003,98"
+   "PREÇO": "4.000,13"
  },
  {
    "ITEM": 100011541,
    "DESCRIÇÃO": "ADICIONAL DE PRECO PARA FURAÇÃO EM CARGA DE REDES DE ÁGUA DN ATÉ 400 - INTERLIGAÇÕES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "348,47"
+   "PREÇO": "350,51"
  },
  {
    "ITEM": 100011542,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 50 A 100 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "322,81"
+   "PREÇO": "323,46"
  },
  {
    "ITEM": 100011543,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 150 A 250 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "717,37"
+   "PREÇO": "718,81"
  },
  {
    "ITEM": 100011544,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 300 A 400 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "896,70"
+   "PREÇO": "898,50"
  },
  {
    "ITEM": 100011545,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 50 A 100 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "757,02"
+   "PREÇO": "765,14"
  },
  {
    "ITEM": 100011546,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 150 A 250 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.682,27"
+   "PREÇO": "1.700,31"
  },
  {
    "ITEM": 100011547,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 300 A 400 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.102,83"
+   "PREÇO": "2.125,38"
  },
  {
    "ITEM": 100011566,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE SELAS ELETROSSOLDAVEIS PARA TUBOS DE 40 A 90 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "32,41"
+   "PREÇO": "32,60"
  },
  {
    "ITEM": 100011567,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE SELAS ELETROSSOLDAVEIS PARA TUBOS DE 110 A 125 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "38,98"
+   "PREÇO": "39,21"
  },
  {
    "ITEM": 100011568,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE SELAS ELETROSSOLDAVEIS PARA TUBOS DE 140 A 160 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,26"
+   "PREÇO": "61,63"
  },
  {
    "ITEM": 100011569,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE SELAS ELETROSSOLDAVEIS PARA TUBOS DE 180 A 315 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "77,63"
+   "PREÇO": "78,14"
  },
  {
    "ITEM": 100011570,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE LUVAS ELETROSSOLDAVEIS DE 20 A 32 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "20,01"
+   "PREÇO": "20,11"
  },
  {
    "ITEM": 100011571,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE LUVAS ELETROSSOLDAVEIS DE 40 A 90 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "41,79"
+   "PREÇO": "42,02"
  },
  {
    "ITEM": 100011572,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE LUVAS ELETROSSOLDAVEIS DE 110 A 125 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "67,88"
+   "PREÇO": "68,29"
  },
  {
    "ITEM": 100011573,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE LUVAS ELETROSSOLDAVEIS DE 140 A 160 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "94,60"
+   "PREÇO": "95,21"
  },
  {
    "ITEM": 100011574,
    "DESCRIÇÃO": "ADICIONAL PARA INSTALACAO DE LUVAS ELETROSSOLDAVEIS DE 180 A 315 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "114,69"
+   "PREÇO": "115,42"
  },
  {
    "ITEM": 100011575,
    "DESCRIÇÃO": "INSTALACAO DE VALVULA PVC DN 50 A 100MM, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "739,97"
+   "PREÇO": "737,06"
  },
  {
    "ITEM": 100011576,
    "DESCRIÇÃO": "INSTALACAO DE VALVULA FF DN 50 A 100MM, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "804,46"
+   "PREÇO": "801,22"
  },
  {
    "ITEM": 100011577,
    "DESCRIÇÃO": "INSTALACAO DE VALVULA FF DN 150 A 250MM, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.040,21"
+   "PREÇO": "1.035,47"
  },
  {
    "ITEM": 100011578,
    "DESCRIÇÃO": "INSTALACAO DE VALVULA FF DN 300 A 400MM, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.511,16"
+   "PREÇO": "1.498,33"
  },
  {
    "ITEM": 100011579,
    "DESCRIÇÃO": "INSTALACAO DE VALVULA FIBROCIMENTO DN 50 A 100MM, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.308,57"
+   "PREÇO": "1.299,93"
  },
  {
    "ITEM": 100011580,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - INSTALACAO DE VALVULA - QUALQUER DIAMETRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "219,27"
+   "PREÇO": "219,71"
  },
  {
    "ITEM": 100011581,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - INSTALACAO DE VALVULA - QUALQUER DIAMETRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "497,16"
+   "PREÇO": "502,38"
  },
  {
    "ITEM": 100011588,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE TACHA REFLETIVA MONODIRECIONAL PARA SINALIZAÇÃO HORIZONTAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "18,34"
+   "PREÇO": "21,44"
  },
  {
    "ITEM": 100011589,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE TACHA REFLETIVA BIDIRECIONAL PARA SINALIZAÇÃO HORIZONTAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "19,94"
+   "PREÇO": "19,88"
  },
  {
    "ITEM": 100011590,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE TACHÃO REFLETIVO MONODIRECIONAL PARA SINALIZAÇÃO HORIZONTAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "59,33"
+   "PREÇO": "59,12"
  },
  {
    "ITEM": 100011591,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE TACHÃO REFLETIVO BIDIRECIONAL PARA SINALIZAÇÃO HORIZONTAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "64,77"
+   "PREÇO": "64,56"
  },
  {
    "ITEM": 100011592,
    "DESCRIÇÃO": "MOBILIZAÇÃO E DESLOCAMENTO ENTRE FRENTES DE SERVIÇO PARA EQUIPE DE PINTURA HORIZONTAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "81,73"
+   "PREÇO": "81,82"
  },
  {
    "ITEM": 100011593,
    "DESCRIÇÃO": "RECOMPOSIÇÃO DE SINALIZAÇÃO HORIZONTAL - A FRIO - BASE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "109,47"
+   "PREÇO": "106,15"
  },
  {
    "ITEM": 100011594,
    "DESCRIÇÃO": "RECOMPOSIÇÃO DE SINALIZAÇÃO HORIZONTAL - A FRIO - BASE ACRILICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "112,92"
+   "PREÇO": "111,64"
  },
  {
    "ITEM": 100011595,
    "DESCRIÇÃO": "SINALIZAÇÃO HORIZONTAL VIÁRIA - A QUENTE - POR ASPERSÃO - ESP=1,5MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "71,55"
+   "PREÇO": "70,55"
  },
  {
    "ITEM": 100011596,
    "DESCRIÇÃO": "SINALIZAÇÃO HORIZONTAL VIÁRIA - A QUENTE - POR EXTRUSÃO - ESP=3,0MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "106,50"
+   "PREÇO": "110,78"
  },
  {
    "ITEM": 100011597,
    "DESCRIÇÃO": "CONSTRUCAO DE CAIXA EM ALVENARIA TIJOLOS / BLOCO DE CONCRETO - VOLUME ATÉ 5M3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.714,24"
+   "PREÇO": "3.814,21"
  },
  {
    "ITEM": 100011598,
    "DESCRIÇÃO": "CONSTRUCAO DE CAIXA EM ALVENARIA TIJOLOS / BLOCO DE CONCRETO - VOLUME ACIMA DE 5M3 ATÉ 10M3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.781,49"
+   "PREÇO": "2.861,37"
  },
  {
    "ITEM": 100011599,
    "DESCRIÇÃO": "CONSTRUCAO DE CAIXA EM ALVENARIA TIJOLOS / BLOCO DE CONCRETO - VOLUME ACIMA DE 10M3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.259,74"
+   "PREÇO": "2.328,18"
  },
  {
    "ITEM": 100011600,
    "DESCRIÇÃO": "CONSTRUCAO DE CAIXA EM CONCRETO ARMADO - VOLUME ATÉ 5M3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "4.381,66"
+   "PREÇO": "4.485,30"
  },
  {
    "ITEM": 100011601,
    "DESCRIÇÃO": "CONSTRUCAO DE CAIXA EM CONCRETO ARMADO - VOLUME ACIMA DE 5M3 ATÉ 10M3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.353,41"
+   "PREÇO": "3.439,23"
  },
  {
    "ITEM": 100011602,
    "DESCRIÇÃO": "CONSTRUCAO DE CAIXA EM CONCRETO ARMADO - VOLUME ACIMA DE 10M3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.724,15"
+   "PREÇO": "2.797,75"
  },
  {
    "ITEM": 100011603,
    "DESCRIÇÃO": "PRESERVACAO DE INTERFERENCIAS - SERVICOS DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "309,39"
+   "PREÇO": "308,23"
  },
  {
    "ITEM": 100011604,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/LPB DO LEITO (C) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "450,44"
+   "PREÇO": "449,17"
  },
  {
    "ITEM": 100011605,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/LPB DO LEITO (B) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "574,66"
+   "PREÇO": "568,45"
  },
  {
    "ITEM": 100011606,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/LPB DO LEITO (A) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "604,90"
+   "PREÇO": "599,19"
  },
  {
    "ITEM": 100011607,
    "DESCRIÇÃO": "SONDAGEM (VALA SECA) S/REPOS DO PAV - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "308,22"
+   "PREÇO": "306,55"
  },
  {
    "ITEM": 100011608,
    "DESCRIÇÃO": "SONDAGEM EM PASSEIO (VALA SECA) C/REPOS DO PAV PASSEIO - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "348,44"
+   "PREÇO": "346,78"
  },
  {
    "ITEM": 100011609,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/REPOS DO LEITO (C) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "490,46"
+   "PREÇO": "489,93"
  },
  {
    "ITEM": 100011610,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/REPOS DO LEITO (B) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "614,06"
+   "PREÇO": "611,31"
  },
  {
    "ITEM": 100011611,
    "DESCRIÇÃO": "SONDAGEM EM LEITO (VALA SECA) C/REPOS DO LEITO (A) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "638,51"
+   "PREÇO": "635,58"
  },
  {
    "ITEM": 100011612,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM EM LEITO (VALA SECA) (C) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "88,49"
+   "PREÇO": "89,38"
  },
  {
    "ITEM": 100011613,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM EM LEITO (VALA SECA) (B) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "88,49"
+   "PREÇO": "89,38"
  },
  {
    "ITEM": 100011614,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM EM LEITO (VALA SECA) (A) - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "88,49"
+   "PREÇO": "89,38"
  },
  {
    "ITEM": 100011615,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. ATE 2,00M)-PASSEIO ADJACENTE, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.053,15"
+   "PREÇO": "1.041,31"
  },
  {
    "ITEM": 100011616,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. ATE 2,00M) - TERCO ADJACENTE, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.560,87"
+   "PREÇO": "1.542,53"
  },
  {
    "ITEM": 100011617,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. ATE 2,00M) - NO EIXO, S/REPOS. DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.832,13"
+   "PREÇO": "1.809,23"
  },
  {
    "ITEM": 100011618,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. ATE 2,00M)-TERCO OPOSTO, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.209,82"
+   "PREÇO": "2.181,90"
  },
  {
    "ITEM": 100011619,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. ATE 2,00M) - NO PASSEIO OPOSTO, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.649,04"
+   "PREÇO": "2.613,91"
  },
  {
    "ITEM": 100011620,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. DE 2,01 A 4,00M)-PASSEIO ADJACENTE S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.703,94"
+   "PREÇO": "1.687,69"
  },
  {
    "ITEM": 100011621,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. DE 2,01 A 4,00M)-TERCO ADJACENTE S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.197,88"
+   "PREÇO": "2.177,79"
  },
  {
    "ITEM": 100011622,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. DE 2,01 A 4,00M)-NO EIXO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.698,50"
+   "PREÇO": "2.673,08"
  },
  {
    "ITEM": 100011623,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. DE 2,01 A 4,00M)-NO TERCO OPOSTO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.416,33"
+   "PREÇO": "3.384,80"
  },
  {
    "ITEM": 100011624,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA CERAMICO/PVC (PROF. DE 2,01 A 4,00M)-PASSEIO OPOSTO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.010,16"
+   "PREÇO": "3.971,29"
  },
  {
    "ITEM": 100011625,
    "DESCRIÇÃO": "COMPLEMENTO DE LIGACAO DE ESGOTO AVULSA EM CERAMICO/PVC - DN 100/150 MM - S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "432,66"
+   "PREÇO": "428,05"
  },
  {
    "ITEM": 100011626,
    "DESCRIÇÃO": "COMPLEMENTO DE LIGACAO DE ESGOTO AVULSA EM CERAMICO/PVC - DN 100/150 MM - C/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "690,67"
+   "PREÇO": "686,77"
  },
  {
    "ITEM": 100011627,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG CERAM/PVC NO PASSEIO ADJAC - COMPLETA S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "370,13"
+   "PREÇO": "367,74"
  },
  {
    "ITEM": 100011628,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG CERAM/PVC NO TERCO ADJAC - COMPLETA S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "745,14"
+   "PREÇO": "736,31"
  },
  {
    "ITEM": 100011629,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG CERAM/PVC NO EIXO - COMPLETA S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "961,56"
+   "PREÇO": "948,01"
  },
  {
    "ITEM": 100011630,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG CERAM/PVC NO TERCO OPOSTO - COMPLETA S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.211,64"
+   "PREÇO": "1.193,21"
  },
  {
    "ITEM": 100011631,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG CERAM/PVC NO PASSEIO OPOSTO - COMPLETA S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.555,32"
+   "PREÇO": "1.530,11"
  },
  {
    "ITEM": 100011632,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. ATE 2,00M)-PASSEIO ADJACENTE, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.214,44"
+   "PREÇO": "1.231,49"
  },
  {
    "ITEM": 100011633,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. ATE 2,00M)-TERCO ADJACENTE, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.905,13"
+   "PREÇO": "1.945,24"
  },
  {
    "ITEM": 100011634,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. ATE 2,00M) - NO EIXO, S/REPOS. DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.099,60"
+   "PREÇO": "2.143,75"
  },
  {
    "ITEM": 100011635,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. ATE 2,00M)-TERCO OPOSTO, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.834,16"
+   "PREÇO": "2.912,24"
  },
  {
    "ITEM": 100011636,
    "DESCRIÇÃO": "TROCA LIG ESGOTO CORRETIVA CERAMICO/PVC (PROF. ATE 2,00M) - NO PASSEIO OPOSTO, S/REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.471,76"
+   "PREÇO": "3.576,31"
  },
  {
    "ITEM": 100011637,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 2,01 A 3,00M)-PASSEIO ADJACENTE S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.885,22"
+   "PREÇO": "1.930,71"
  },
  {
    "ITEM": 100011638,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 2,01 A 3,00M)-TERCO ADJACENTE S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.647,93"
+   "PREÇO": "2.715,28"
  },
  {
    "ITEM": 100011639,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 2,01 A 3,00M)-NO EIXO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.202,20"
+   "PREÇO": "3.288,15"
  },
  {
    "ITEM": 100011640,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 2,01 A 3,00M)-NO TERCO OPOSTO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.904,07"
+   "PREÇO": "4.008,05"
  },
  {
    "ITEM": 100011641,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 2,01 A 3,00M)-PASSEIO OPOSTO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.609,04"
+   "PREÇO": "4.739,50"
  },
  {
    "ITEM": 100011642,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 3,01 A 4,00M)-PASSEIO ADJACENTE S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.066,64"
+   "PREÇO": "3.144,64"
  },
  {
    "ITEM": 100011643,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 3,01 A 4,00M)-TERCO ADJACENTE S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.049,56"
+   "PREÇO": "4.152,83"
  },
  {
    "ITEM": 100011644,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 3,01 A 4,00M)-NO EIXO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.748,76"
+   "PREÇO": "4.873,66"
  },
  {
    "ITEM": 100011645,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 3,01 A 4,00M)-NO TERCO OPOSTO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.665,19"
+   "PREÇO": "5.810,93"
  },
  {
    "ITEM": 100011646,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA CERAMICO/PVC (PROF. DE 3,01 A 4,00M)-PASSEIO OPOSTO S/ REPOS (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.541,07"
+   "PREÇO": "6.717,67"
  },
  {
    "ITEM": 100011647,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. ATE 2,00M) - NO PASSEIO ADJACENTE, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.413,22"
+   "PREÇO": "1.401,60"
  },
  {
    "ITEM": 100011648,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. ATE 2,00M) - NO TERCO ADJACENTE, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.013,55"
+   "PREÇO": "1.995,53"
  },
  {
    "ITEM": 100011649,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. ATE 2,00M) - NO EIXO, S/REPOS. DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.389,48"
+   "PREÇO": "2.366,85"
  },
  {
    "ITEM": 100011650,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. ATE 2,00M) - NO TERCO OPOSTO, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.862,17"
+   "PREÇO": "2.834,58"
  },
  {
    "ITEM": 100011651,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. ATE 2,00M) - NO PASSEIO OPOSTO, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.454,50"
+   "PREÇO": "3.419,74"
  },
  {
    "ITEM": 100011652,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. DE 2,01 A 4,00M) - NO PASSEIO ADJACENTE S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.099,62"
+   "PREÇO": "2.083,53"
  },
  {
    "ITEM": 100011653,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. DE 2,01 A 4,00M) - NO TERCO ADJACENTE S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.654,34"
+   "PREÇO": "2.634,61"
  },
  {
    "ITEM": 100011654,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. DE 2,01 A 4,00M) - NO EIXO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.235,34"
+   "PREÇO": "3.210,33"
  },
  {
    "ITEM": 100011655,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. DE 2,01 A 4,00M) - NO TERCO OPOSTO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.006,99"
+   "PREÇO": "3.976,04"
  },
  {
    "ITEM": 100011656,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO AVULSA PVC (PROF. DE 2,01 A 4,00M) - NO PASSEIO OPOSTO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.736,93"
+   "PREÇO": "4.698,72"
  },
  {
    "ITEM": 100011657,
    "DESCRIÇÃO": "COMPLEMENTO DE LIGACAO DE ESGOTO AVULSA EM PVC - DN 100/150 MM - S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "543,81"
+   "PREÇO": "539,19"
  },
  {
    "ITEM": 100011658,
    "DESCRIÇÃO": "COMPLEMENTO DE LIGACAO DE ESGOTO AVULSA EM PVC - DN 100/150 MM - C/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "801,82"
+   "PREÇO": "797,91"
  },
  {
    "ITEM": 100011659,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG EM PVC NO PASSEIO ADJACENTE - COMPLETA S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "761,16"
+   "PREÇO": "758,90"
  },
  {
    "ITEM": 100011660,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG EM PVC NO TERCO ADJACENTE - COMPLETA S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.241,30"
+   "PREÇO": "1.232,62"
  },
  {
    "ITEM": 100011661,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG EM PVC NO EIXO - COMPLETA S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.565,19"
+   "PREÇO": "1.551,80"
  },
  {
    "ITEM": 100011662,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG EM PVC NO TERCO OPOSTO - COMPLETA S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.918,25"
+   "PREÇO": "1.900,01"
  },
  {
    "ITEM": 100011663,
    "DESCRIÇÃO": "LIGACAO DE ESGOTO SUCES/PASSAGEM DE LIG EM PVC NO PASSEIO OPOSTO - COMPLETA S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.430,19"
+   "PREÇO": "2.405,17"
  },
  {
    "ITEM": 100011664,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. ATE 2,00M) - NO PASSEIO ADJACENTE, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.574,50"
+   "PREÇO": "1.591,77"
  },
  {
    "ITEM": 100011665,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. ATE 2,00M) - NO TERCO ADJACENTE, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.357,81"
+   "PREÇO": "2.398,24"
  },
  {
    "ITEM": 100011666,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. ATE 2,00M) - NO EIXO, S/REPOS. DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.873,77"
+   "PREÇO": "2.933,37"
  },
  {
    "ITEM": 100011667,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. ATE 2,00M) - NO TERCO OPOSTO, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.486,51"
+   "PREÇO": "3.564,92"
  },
  {
    "ITEM": 100011668,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. ATE 2,00M) - NO PASSEIO OPOSTO, S/REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.277,22"
+   "PREÇO": "4.382,14"
  },
  {
    "ITEM": 100011669,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 2,01 A 3,00M) - NO PASSEIO ADJACENTE S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.307,29"
+   "PREÇO": "2.352,93"
  },
  {
    "ITEM": 100011670,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 2,01 A 3,00M) - NO TERCO ADJACENTE S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.145,69"
+   "PREÇO": "3.213,32"
  },
  {
    "ITEM": 100011671,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 2,01 A 3,00M) - NO EIXO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.789,46"
+   "PREÇO": "3.875,72"
  },
  {
    "ITEM": 100011672,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 2,01 A 3,00M) - NO TERCO OPOSTO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.563,20"
+   "PREÇO": "4.667,60"
  },
  {
    "ITEM": 100011673,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 2,01 A 3,00M) - NO PASSEIO OPOSTO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.412,61"
+   "PREÇO": "5.543,56"
  },
  {
    "ITEM": 100011674,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 3,01 A 4,00M) - NO PASSEIO ADJACENTE S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.462,32"
+   "PREÇO": "3.540,47"
  },
  {
    "ITEM": 100011675,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 3,01 A 4,00M) - NO TERCO ADJACENTE S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.506,02"
+   "PREÇO": "4.609,65"
  },
  {
    "ITEM": 100011676,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 3,01 A 4,00M) - NO EIXO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.285,60"
+   "PREÇO": "5.410,91"
  },
  {
    "ITEM": 100011677,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 3,01 A 4,00M) - NO TERCO OPOSTO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.255,86"
+   "PREÇO": "6.402,17"
  },
  {
    "ITEM": 100011678,
    "DESCRIÇÃO": "TROCA LIG ESGOT CORRETIVA PVC (PROF. DE 3,01 A 4,00M) - NO PASSEIO OPOSTO S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.267,84"
+   "PREÇO": "7.445,10"
  },
  {
    "ITEM": 100011679,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "196,08"
+   "PREÇO": "196,70"
  },
  {
    "ITEM": 100011680,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,01M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "183,71"
+   "PREÇO": "184,38"
  },
  {
    "ITEM": 100011681,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "458,53"
+   "PREÇO": "463,67"
  },
  {
    "ITEM": 100011682,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,01M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "446,16"
+   "PREÇO": "451,35"
  },
  {
    "ITEM": 100011719,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - LIGACAO ESGOTO SUCES/PASSAGEM DE LIGACAO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "56,22"
+   "PREÇO": "56,40"
  },
  {
    "ITEM": 100011720,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - LIGACAO ESGOTO SUCES/PASSAGEM DE LIGACAO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "131,48"
+   "PREÇO": "132,96"
  },
  {
    "ITEM": 100011739,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - TROCA LIGAÇÃO ESGOT CORRETIVA PROF. ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "961,79"
+   "PREÇO": "1.025,87"
  },
  {
    "ITEM": 100011740,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.065,54"
+   "PREÇO": "2.213,01"
  },
  {
    "ITEM": 100011741,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.713,62"
+   "PREÇO": "3.987,48"
  },
  {
    "ITEM": 100011742,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.212,66"
+   "PREÇO": "1.281,06"
  },
  {
    "ITEM": 100011743,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.410,97"
+   "PREÇO": "2.564,39"
  },
  {
    "ITEM": 100011744,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.165,19"
+   "PREÇO": "4.446,83"
  },
  {
    "ITEM": 100011799,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO PVC/CERAMICO DN 100/150 MM - ATE 2,00M, S/REPOS PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "694,81"
+   "PREÇO": "705,32"
  },
  {
    "ITEM": 100011800,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO PVC/CERAMICO DN 100/150 MM-2,01M ATE 3,00M S/REPOS PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.114,44"
+   "PREÇO": "1.133,91"
  },
  {
    "ITEM": 100011801,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO PVC/CERAMICO DN 100/150 MM-3,01M ATE 4,00M S/REPOS PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.467,63"
+   "PREÇO": "1.497,83"
  },
  {
    "ITEM": 100011802,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO PVC DN 100/150 MM - PROF. ATE 2,00M, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "768,89"
+   "PREÇO": "779,40"
  },
  {
    "ITEM": 100011803,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO PVC DN 100/150 MM - 2,01M ATE 3,00 M S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.188,52"
+   "PREÇO": "1.207,99"
  },
  {
    "ITEM": 100011804,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO PVC DN 100/150 MM - 3,01M ATE 4,00 M S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.541,71"
+   "PREÇO": "1.571,91"
  },
  {
    "ITEM": 100011805,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO CERAMICO DN 100/150 MM - PROF. ATE 2,00M, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "791,73"
+   "PREÇO": "802,24"
  },
  {
    "ITEM": 100011806,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO CERAMICO DN 100/150 MM - 2,01M ATE 3,00 M S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.211,36"
+   "PREÇO": "1.230,83"
  },
  {
    "ITEM": 100011807,
    "DESCRIÇÃO": "REPARO/SUPRESSAO/RELIG DE RAMAL ESGOTO CERAMICO DN 100/150 MM - 3,01M ATE 4,00 M S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.564,55"
+   "PREÇO": "1.594,75"
  },
  {
    "ITEM": 100011808,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO/SUPRESSAO/RELIG DE RAMAL DE ESGOTO PROF. ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "498,14"
+   "PREÇO": "531,65"
  },
  {
    "ITEM": 100011809,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO/SUPRESSAO/RELIG DE RAMAL DE ESGOTO PROF. DE 2,01 A 3,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "934,78"
+   "PREÇO": "1.002,15"
  },
  {
    "ITEM": 100011810,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO/SUPRESSAO/RELIG DE RAMAL DE ESGOTO PROF. DE 3,01 A 4,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.288,43"
+   "PREÇO": "1.384,06"
  },
  {
    "ITEM": 100011811,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO/SUPRESSAO/RELIG DE RAMAL DE ESGOTO PROF. ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "613,93"
+   "PREÇO": "649,43"
  },
  {
    "ITEM": 100011812,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO/SUPRESSAO/RELIG DE RAMAL DE ESGOTO PROF. DE 2,01 A 3,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.069,87"
+   "PREÇO": "1.139,56"
  },
  {
    "ITEM": 100011813,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO/SUPRESSAO/RELIG DE RAMAL DE ESGOTO PROF. DE 3,01 A 4,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.423,52"
+   "PREÇO": "1.521,47"
  },
  {
    "ITEM": 100011832,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM FºFº DE 80 A 150MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "106,82"
+   "PREÇO": "106,17"
  },
  {
    "ITEM": 100011833,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM FºFº DE 200 A 250MM - S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "144,29"
+   "PREÇO": "143,39"
  },
  {
    "ITEM": 100011834,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 150MM - PROF. MEDIA ATE 1,50M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "275,84"
+   "PREÇO": "276,18"
  },
  {
    "ITEM": 100011835,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 150MM - PROF. MEDIA ATE 2,00M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "436,77"
+   "PREÇO": "434,53"
  },
  {
    "ITEM": 100011836,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 150MM - PROF. MEDIA ATE 2,70M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "786,10"
+   "PREÇO": "789,18"
  },
  {
    "ITEM": 100011837,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 150MM - PROF. MEDIA ATE 3,50M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.591,04"
+   "PREÇO": "1.613,61"
  },
  {
    "ITEM": 100011838,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 200MM - PROF. MEDIA ATE 1,50M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "317,81"
+   "PREÇO": "317,20"
  },
  {
    "ITEM": 100011839,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 200MM - PROF. MEDIA ATE 2,00M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "513,34"
+   "PREÇO": "509,06"
  },
  {
    "ITEM": 100011840,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 200MM - PROF. MEDIA ATE 2,70M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "885,90"
+   "PREÇO": "886,57"
  },
  {
    "ITEM": 100011841,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 200MM - PROF. MEDIA ATE 3,50M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.783,79"
+   "PREÇO": "1.802,46"
  },
  {
    "ITEM": 100011842,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 300MM - PROF. MEDIA ATE 1,50M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "387,81"
+   "PREÇO": "386,33"
  },
  {
    "ITEM": 100011843,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 300MM - PROF. MEDIA ATE 2,00M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "622,79"
+   "PREÇO": "616,92"
  },
  {
    "ITEM": 100011844,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 300MM - PROF. MEDIA ATE 2,70M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.006,87"
+   "PREÇO": "1.005,70"
  },
  {
    "ITEM": 100011845,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM CERAMICO / PVC DN 300MM - PROF. MEDIA ATE 3,50M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.983,23"
+   "PREÇO": "1.999,00"
  },
  {
    "ITEM": 100011846,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 400MM - PROF. MEDIA ATE 1,50M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "378,51"
+   "PREÇO": "377,04"
  },
  {
    "ITEM": 100011847,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 400MM - PROF. MEDIA ATE 2,00M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "592,23"
+   "PREÇO": "586,30"
  },
  {
    "ITEM": 100011848,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 400MM - PROF. MEDIA ATE 2,70M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.002,86"
+   "PREÇO": "1.001,65"
  },
  {
    "ITEM": 100011849,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 400MM - PROF. MEDIA ATE 3,50M S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.071,63"
+   "PREÇO": "2.087,02"
  },
  {
    "ITEM": 100011850,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 150MM - PROF. MEDIA ATE 1,50M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "407,50"
+   "PREÇO": "407,82"
  },
  {
    "ITEM": 100011851,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 150MM - PROF. MEDIA ATE 2,00M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "501,92"
+   "PREÇO": "499,77"
  },
  {
    "ITEM": 100011852,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 150MM - PROF. MEDIA ATE 2,70M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "795,13"
+   "PREÇO": "798,58"
  },
  {
    "ITEM": 100011853,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 150MM - PROF. MEDIA ATE 3,50M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.641,70"
+   "PREÇO": "1.664,41"
  },
  {
    "ITEM": 100011854,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 200MM - PROF. MEDIA ATE 1,50M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "481,03"
+   "PREÇO": "480,36"
  },
  {
    "ITEM": 100011855,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 200MM - PROF. MEDIA ATE 2,00M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "642,83"
+   "PREÇO": "638,62"
  },
  {
    "ITEM": 100011856,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 200MM - PROF. MEDIA ATE 2,70M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "984,78"
+   "PREÇO": "985,62"
  },
  {
    "ITEM": 100011857,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 200MM - PROF. MEDIA ATE 3,50M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.893,27"
+   "PREÇO": "1.912,09"
  },
  {
    "ITEM": 100011858,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 300MM - PROF. MEDIA ATE 1,50M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "831,43"
+   "PREÇO": "829,95"
  },
  {
    "ITEM": 100011859,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 300MM - PROF. MEDIA ATE 2,00M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.013,61"
+   "PREÇO": "1.007,95"
  },
  {
    "ITEM": 100011860,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 300MM - PROF. MEDIA ATE 2,70M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.431,31"
+   "PREÇO": "1.430,23"
  },
  {
    "ITEM": 100011861,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 300MM - PROF. MEDIA ATE 3,50M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.384,95"
+   "PREÇO": "2.400,91"
  },
  {
    "ITEM": 100011862,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 400MM - PROF. MEDIA ATE 1,50M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.135,06"
+   "PREÇO": "1.133,60"
  },
  {
    "ITEM": 100011863,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 400MM - PROF. MEDIA ATE 2,00M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.348,79"
+   "PREÇO": "1.342,85"
  },
  {
    "ITEM": 100011864,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 400MM - PROF. MEDIA ATE 2,70M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.759,42"
+   "PREÇO": "1.758,21"
  },
  {
    "ITEM": 100011865,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE COLETORA EM PVC DN 400MM - PROF. MEDIA ATE 3,50M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.828,19"
+   "PREÇO": "2.843,58"
  },
  {
    "ITEM": 100011891,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE VISITA AVULSA - DIÂMETRO 1M - PROF. ATE 2M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.095,09"
+   "PREÇO": "6.058,53"
  },
  {
    "ITEM": 100011892,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE VISITA AVULSA - DIÂMETRO 1M - PROF. DE 2 A 3M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.061,48"
+   "PREÇO": "8.004,38"
  },
  {
    "ITEM": 100011893,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE VISITA AVULSA - DIÂMETRO 1M - PROF. DE 3 A 4M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.784,63"
+   "PREÇO": "9.720,25"
  },
  {
    "ITEM": 100011894,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE VISITA AVULSA - DIÂMETRO 1M - PROF. DE 4 A 5M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.237,92"
+   "PREÇO": "12.187,80"
  },
  {
    "ITEM": 100011895,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE VISITA AVULSA - DIÂMETRO 1,20M - PROF. ATE 2M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.796,24"
+   "PREÇO": "6.843,53"
  },
  {
    "ITEM": 100011896,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE VISITA AVULSA – DIÂMETRO 1,20M - PROF. DE 2 A 3M - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.277,81"
+   "PREÇO": "9.218,93"
  },
  {
    "ITEM": 100011897,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE VISITA AVULSA - DIÂMETRO 1,20 M - PROF. DE 3 A 4M - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11.061,79"
+   "PREÇO": "10.995,57"
  },
  {
    "ITEM": 100011898,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE VISITA AVULSA - DIÂMETRO 1,20 M - PROF. DE 4 A 5M - S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "13.808,04"
+   "PREÇO": "13.756,01"
  },
  {
    "ITEM": 100011907,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE INSPECAO AVULSA PROF. ATE 2M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.613,64"
+   "PREÇO": "4.582,95"
  },
  {
    "ITEM": 100011908,
    "DESCRIÇÃO": "CONSTRUCAO DE POCO DE INSPECAO AVULSA PROF. DE 2 A 3M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.807,45"
+   "PREÇO": "5.756,84"
  },
  {
    "ITEM": 100011909,
    "DESCRIÇÃO": "RECONSTRUCAO DE POCO DE INSPECAO AVULSA PROF. ATE 2 M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.947,29"
+   "PREÇO": "6.018,41"
  },
  {
    "ITEM": 100011910,
    "DESCRIÇÃO": "RECONSTRUCAO DE POCO DE INSPECAO AVULSA PROF. DE 2 A 3 M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.018,49"
+   "PREÇO": "8.138,89"
  },
  {
    "ITEM": 100011911,
    "DESCRIÇÃO": "RECONSTRUCAO DE POCO DE VISITA AVULSA PROF. ATE 2 M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.707,73"
+   "PREÇO": "7.773,78"
  },
  {
    "ITEM": 100011912,
    "DESCRIÇÃO": "RECONSTRUCAO DE POCO DE VISITA AVULSA PROF. DE 2 A 3 M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10.338,65"
+   "PREÇO": "10.453,41"
  },
  {
    "ITEM": 100011913,
    "DESCRIÇÃO": "RECONSTRUCAO DE POCO DE VISITA AVULSA PROF. DE 3 A 4 M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.584,83"
+   "PREÇO": "12.780,05"
  },
  {
    "ITEM": 100011914,
    "DESCRIÇÃO": "RECONSTRUCAO DE POCO DE VISITA AVULSA PROF. DE 4 A 5 M S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "17.416,96"
+   "PREÇO": "17.779,09"
  },
  {
    "ITEM": 100011915,
    "DESCRIÇÃO": "SUBSTITUIÇÃO DE POÇO DE INSPEÇÃO POR PI PLASTICO PROF. ATÉ 2 M S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.280,20"
+   "PREÇO": "9.770,14"
  },
  {
    "ITEM": 100011916,
    "DESCRIÇÃO": "SUBSTITUIÇÃO DE POÇO DE VISITA POR PV PLASTICO PROF. ATÉ 2 M S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.197,06"
+   "PREÇO": "12.979,31"
  },
  {
    "ITEM": 100011917,
    "DESCRIÇÃO": "SUBSTITUIÇÃO DE POÇO DE VISITA POR PV PLASTICO PROF. DE 2 A 3 M S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "19.080,36"
+   "PREÇO": "20.926,58"
  },
  {
    "ITEM": 100011918,
    "DESCRIÇÃO": "SUBSTITUIÇÃO DE POÇO DE VISITA POR PV PLASTICO PROF. DE 3 A 4 M S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "26.916,36"
+   "PREÇO": "27.401,14"
  },
  {
    "ITEM": 100011927,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO/PVC DN 150/200 MM - PROF. ATE 2,00M, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "976,38"
+   "PREÇO": "987,81"
  },
  {
    "ITEM": 100011928,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO/PVC DN 150/200 MM - PROF. DE 2,01 A 3,00M, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.435,41"
+   "PREÇO": "1.461,25"
  },
  {
    "ITEM": 100011929,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO/PVC DN 150/200 MM - PROF. DE 3,01 A 4,00M, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.805,13"
+   "PREÇO": "1.846,05"
  },
  {
    "ITEM": 100011930,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO/PVC DN 250 A 300MM - PROF. ATE 2,00M, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.051,23"
+   "PREÇO": "1.062,43"
  },
  {
    "ITEM": 100011931,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO/PVC DN 250 A 300MM - PROF. DE 2,01 A 3,00M, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.688,35"
+   "PREÇO": "1.714,06"
  },
  {
    "ITEM": 100011932,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO/PVC DN 250 A 300MM - PROF. DE 3,01 A 4,00M, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.275,07"
+   "PREÇO": "2.318,04"
  },
  {
    "ITEM": 100011933,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO PVC DN 150/200 MM - PROF. ATE 2,00M, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.119,05"
+   "PREÇO": "1.130,48"
  },
  {
    "ITEM": 100011934,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO PVC DN 150/200 MM - PROF. DE 2,01 A 3,00M, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.493,66"
+   "PREÇO": "1.520,45"
  },
  {
    "ITEM": 100011935,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO PVC DN 150/200 MM - PROF. DE 3,01 A 4,00M, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.023,50"
+   "PREÇO": "2.062,67"
  },
  {
    "ITEM": 100011936,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO DN 150/200 MM - PROF. ATE 2,00M, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.255,19"
+   "PREÇO": "1.266,62"
  },
  {
    "ITEM": 100011937,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO DN 150/200 MM - PROF. DE 2,01 A 3,00M, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.629,80"
+   "PREÇO": "1.656,59"
  },
  {
    "ITEM": 100011938,
    "DESCRIÇÃO": "REPARO DE REDE DE ESGOTO CERAMICO DN 150/200 MM - PROF. DE 3,01 A 4,00M, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.159,64"
+   "PREÇO": "2.198,81"
  },
  {
    "ITEM": 100011939,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO DE REDE DE ESGOTO PROF. ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "656,46"
+   "PREÇO": "700,94"
  },
  {
    "ITEM": 100011940,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO DE REDE DE ESGOTO PROF. DE 2,01 A 3,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.312,48"
+   "PREÇO": "1.407,55"
  },
  {
    "ITEM": 100011941,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - REPARO DE REDE DE ESGOTO PROF. DE 3,01 A 4,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.825,71"
+   "PREÇO": "1.960,75"
  },
  {
    "ITEM": 100011942,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO DE REDE DE ESGOTO PROF. ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "810,84"
+   "PREÇO": "857,98"
  },
  {
    "ITEM": 100011943,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO DE REDE DE ESGOTO PROF. DE 2,01 A 3,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.503,53"
+   "PREÇO": "1.601,89"
  },
  {
    "ITEM": 100011944,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - REPARO DE REDE DE ESGOTO PROF. DE 3,01 A 4,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.003,69"
+   "PREÇO": "2.142,02"
  },
  {
    "ITEM": 100011963,
    "DESCRIÇÃO": "REPARO DE PV, PI E TL, EM QUALQUER PAVIMENTO, C/ LBP LEITO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.040,06"
+   "PREÇO": "1.044,70"
  },
  {
    "ITEM": 100011964,
    "DESCRIÇÃO": "REPARO DE PV, PI E TL, EM QUALQUER PAVIMENTO, C/ LBP LEITO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.399,66"
+   "PREÇO": "1.387,95"
  },
  {
    "ITEM": 100011965,
    "DESCRIÇÃO": "REPARO DE PV, PI E TL, EM QUALQUER PAVIMENTO, C/ LPB LEITO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.501,90"
+   "PREÇO": "1.490,02"
  },
  {
    "ITEM": 100011966,
    "DESCRIÇÃO": "REPARO DE PV, PI E TL, EM QUALQUER PAVIMENTO, S/ REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "773,05"
+   "PREÇO": "776,15"
  },
  {
    "ITEM": 100011967,
    "DESCRIÇÃO": "REPARO DE PV, PI E TL, EM QUALQUER PAVIMENTO, C/ REPOS PASSEIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.072,66"
+   "PREÇO": "1.076,36"
  },
  {
    "ITEM": 100011968,
    "DESCRIÇÃO": "REPARO DE PV, PI E TL, EM QUALQUER PAVIMENTO, C/ REPOS LEITO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.148,48"
+   "PREÇO": "1.158,48"
  },
  {
    "ITEM": 100011969,
    "DESCRIÇÃO": "REPARO DE PV, PI E TL, EM QUALQUER PAVIMENTO, C/ REPOS LEITO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.276,50"
+   "PREÇO": "1.288,85"
  },
  {
    "ITEM": 100011970,
    "DESCRIÇÃO": "REPARO DE PV, PI E TL, EM QUALQUER PAVIMENTO, C/ REPOS LEITO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.466,83"
+   "PREÇO": "1.469,05"
  },
  {
    "ITEM": 100011971,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE PV, PI E TL (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "305,21"
+   "PREÇO": "308,27"
  },
  {
    "ITEM": 100011972,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE PV, PI E TL (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "305,21"
+   "PREÇO": "308,27"
  },
  {
    "ITEM": 100011973,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE PV, PI E TL (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "305,21"
+   "PREÇO": "308,27"
  },
  {
    "ITEM": 100011974,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL, QUALQUER PAVIMENTO, C/LPB LEITO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.009,31"
+   "PREÇO": "1.010,82"
  },
  {
    "ITEM": 100011975,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL, QUALQUER PAVIMENTO, C/LPB LEITO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.083,47"
+   "PREÇO": "1.089,49"
  },
  {
    "ITEM": 100011976,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL, QUALQUER PAVIMENTO, C/LPB LEITO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.137,99"
+   "PREÇO": "1.143,68"
  },
  {
    "ITEM": 100011977,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL, QUALQUER PAVIMENTO, S/REPOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "720,45"
+   "PREÇO": "720,50"
  },
  {
    "ITEM": 100011978,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL, QUALQUER PAVIMENTO, C/REPOS PASSEIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "959,32"
+   "PREÇO": "959,71"
  },
  {
    "ITEM": 100011979,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL, QUALQUER PAVIMENTO, C/REPOS LEITO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.168,25"
+   "PREÇO": "1.171,85"
  },
  {
    "ITEM": 100011980,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL, QUALQUER PAVIMENTO, C/REPOS LEITO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.550,29"
+   "PREÇO": "1.546,93"
  },
  {
    "ITEM": 100011981,
    "DESCRIÇÃO": "DETECCAO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL, QUALQUER PAVIMENTO, C/REPOS LEITO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.604,81"
+   "PREÇO": "1.601,12"
  },
  {
    "ITEM": 100011982,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - DETECÇÃO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "305,21"
+   "PREÇO": "308,27"
  },
  {
    "ITEM": 100011983,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - DETECÇÃO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "305,21"
+   "PREÇO": "308,27"
  },
  {
    "ITEM": 100011984,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - DETECÇÃO, DESCOBRIMENTO E NIVELAMENTO DE PV, PI E TL (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "305,21"
+   "PREÇO": "308,27"
  },
  {
    "ITEM": 100011985,
    "DESCRIÇÃO": "PRESERVACAO DE INTERFERENCIAS - SERVICOS DE ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "485,85"
+   "PREÇO": "483,07"
  },
  {
    "ITEM": 100011986,
    "DESCRIÇÃO": "DESOBSTRUÇÃO DE RAMAL DOMICILIAR (FLEX CLEANER + MINI JET)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "281,83"
+   "PREÇO": "283,02"
  },
  {
    "ITEM": 100011987,
    "DESCRIÇÃO": "LAVAGEM POR HIDROJATEAMENTO DE ALTA PRESSÃO COM SUCÇÃO À VÁCUO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "19,93"
+   "PREÇO": "19,88"
  },
  {
    "ITEM": 100011988,
    "DESCRIÇÃO": "DIAGNÓSTICO DE REDES COLETORAS DE ESGOTO POR MEIO DE ONDAS ACÚSTICAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "48,35"
+   "PREÇO": "50,87"
  },
  {
    "ITEM": 100011990,
    "DESCRIÇÃO": "ADICIONAL NOTURNO PARA DESOBSTRUÇÃO POR HIDROJATEAMENTO DE ALTA PRESSÃO COM SUCÇÃO À VÁCUO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "36,70"
  },
  {
    "ITEM": 100011991,
    "DESCRIÇÃO": "LAVAGEM POR HIDROJATEAMENTO DE ALTA PRESSÃO COM SUCÇÃO À VÁCUO (NOTURNO)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "21,29"
+   "PREÇO": "21,24"
  },
  {
    "ITEM": 100011992,
    "DESCRIÇÃO": "ADICIONAL NOTURNO PARA DESOBSTRUÇÃO POR HIDROJATEAMENTO DE ALTA PRESSÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "31,07"
  },
  {
    "ITEM": 100011993,
    "DESCRIÇÃO": "DESOBSTRUÇÃO POR HIDROJATEAMENTO DE ALTA PRESSÃO COM SUCÇÃO À VÁCUO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "605,82"
+   "PREÇO": "604,85"
  },
  {
    "ITEM": 100011994,
    "DESCRIÇÃO": "DESOBSTRUÇÃO POR HIDROJATEAMENTO DE ALTA PRESSÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "509,71"
+   "PREÇO": "508,90"
  },
  {
    "ITEM": 100011995,
    "DESCRIÇÃO": "SUCÇÃO A ALTO VÁCUO EM REDE COLETORA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "559,26"
+   "PREÇO": "558,02"
  },
  {
    "ITEM": 100011996,
    "DESCRIÇÃO": "RETIRADA DE ENTULHO DE SERVIÇOS MOP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "258,63"
+   "PREÇO": "257,38"
  },
  {
    "ITEM": 100011997,
    "DESCRIÇÃO": "REATERRO DE VALA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "193,58"
+   "PREÇO": "194,20"
  },
  {
    "ITEM": 100011998,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO ASFALTICA - SERVIÇOS AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,24"
+   "PREÇO": "35,32"
  },
  {
    "ITEM": 100011999,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTACAO ASFALTICA - SERVIÇOS ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,24"
+   "PREÇO": "35,32"
  },
  {
    "ITEM": 100012000,
    "DESCRIÇÃO": "SUB BASE EM RACHÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "183,55"
+   "PREÇO": "178,97"
  },
  {
    "ITEM": 100012001,
    "DESCRIÇÃO": "SUB BASE EM BRITA GRADUADA - SERVICOS AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "350,55"
+   "PREÇO": "430,75"
  },
  {
    "ITEM": 100012002,
    "DESCRIÇÃO": "SUB BASE EM BRITA GRADUADA - SERVICOS ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "350,55"
+   "PREÇO": "430,75"
  },
  {
    "ITEM": 100012003,
    "DESCRIÇÃO": "PREPARO DE CAIXA - SERVICOS AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "16,77"
+   "PREÇO": "16,35"
  },
  {
    "ITEM": 100012004,
    "DESCRIÇÃO": "PREPARO DE CAIXA - SERVICOS ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "16,77"
+   "PREÇO": "16,35"
  },
  {
    "ITEM": 100012005,
    "DESCRIÇÃO": "SELAGEM DE BASE BGS - SERVIÇOS AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "30,33"
+   "PREÇO": "30,14"
  },
  {
    "ITEM": 100012006,
    "DESCRIÇÃO": "SELAGEM DE BASE BGS - SERVIÇOS ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "33,73"
+   "PREÇO": "33,57"
  },
  {
    "ITEM": 100012007,
    "DESCRIÇÃO": "BINDER - SERVICOS AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.279,75"
+   "PREÇO": "3.105,50"
  },
  {
    "ITEM": 100012008,
    "DESCRIÇÃO": "BINDER - SERVICOS ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.279,75"
+   "PREÇO": "3.105,50"
  },
  {
    "ITEM": 100012009,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "180,60"
+   "PREÇO": "182,41"
  },
  {
    "ITEM": 100012010,
    "DESCRIÇÃO": "CAPA DE CONCRETO ASFÁLTICO - SERVICOS ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.510,00"
+   "PREÇO": "3.614,50"
  },
  {
    "ITEM": 100012011,
    "DESCRIÇÃO": "CAPA DE CONCRETO ASFÁLTICO - SERVICOS ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.510,00"
+   "PREÇO": "3.614,50"
  },
  {
    "ITEM": 100012012,
    "DESCRIÇÃO": "ASSENTAMENTO DE GUIAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "73,48"
+   "PREÇO": "73,87"
  },
  {
    "ITEM": 100012013,
    "DESCRIÇÃO": "ASSENTAMENTO DE PARALELEPIPEDO / BLOCOS DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "192,89"
+   "PREÇO": "182,04"
  },
  {
    "ITEM": 100012014,
    "DESCRIÇÃO": "CONCRETO PARA FECHAMENTO DE VALAS - SERVICOS AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "821,32"
  },
  {
    "ITEM": 100012015,
    "DESCRIÇÃO": "CONCRETO PARA FECHAMENTO DE VALAS - SERVICOS ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "821,32"
  },
  {
    "ITEM": 100012016,
    "DESCRIÇÃO": "CONSTRUCAO DE SARJETAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "773,94"
+   "PREÇO": "776,36"
  },
  {
    "ITEM": 100012017,
    "DESCRIÇÃO": "EXECUCAO DE PASSEIO / PISO ESPECIAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "294,57"
+   "PREÇO": "296,81"
  },
  {
    "ITEM": 100012018,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS CIMENTADOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "135,55"
+   "PREÇO": "135,84"
  },
  {
    "ITEM": 100012019,
    "DESCRIÇÃO": "FRESAGEM E RECAPEAMENTO DE PAVIMENTO ASFÁLTICO CBUQ - ATÉ 100M²",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "256,47"
+   "PREÇO": "264,49"
  },
  {
    "ITEM": 100012020,
    "DESCRIÇÃO": "FRESAGEM E RECAPEAMENTO DE PAVIMENTO ASFÁLTICO CBUQ - ACIMA DE 100M²",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "147,35"
+   "PREÇO": "156,24"
  },
  {
    "ITEM": 100012021,
    "DESCRIÇÃO": "PAVIMENTAÇÃO ASFÁLTICA BÁSICA (TAPA-VALA BASE RAP ESPUMADO) - TRÁFEGO LEVE - COMPLETA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "238,85"
+   "PREÇO": "243,00"
  },
  {
    "ITEM": 100012022,
    "DESCRIÇÃO": "PAVIMENTAÇÃO ASFÁLTICA BÁSICA (TAPA-VALA BASE RAP ESPUMADO) - TRÁFEGO MÉDIO - COMPLETA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "519,93"
+   "PREÇO": "512,06"
  },
  {
    "ITEM": 100012023,
    "DESCRIÇÃO": "PAVIMENTAÇÃO ASFÁLTICA BÁSICA (TAPA-VALA BASE RAP ESPUMADO) - TRÁFEGO PESADO - COMPLETA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "529,79"
+   "PREÇO": "521,86"
  },
  {
    "ITEM": 100012024,
    "DESCRIÇÃO": "SUB BASE EM RAP ESPUMADO - SERVIÇOS ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "59,96"
+   "PREÇO": "59,37"
  },
  {
    "ITEM": 100012025,
    "DESCRIÇÃO": "SUB BASE EM RAP ESPUMADO - SERVIÇOS ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "59,96"
+   "PREÇO": "59,37"
  },
  {
    "ITEM": 100012026,
    "DESCRIÇÃO": "TRANSPORTE DE RAP-ESPUMADO - URBANO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TOK",
-   "PREÇO": "1,83"
+   "PREÇO": "1,82"
  },
  {
    "ITEM": 100012027,
    "DESCRIÇÃO": "TRANSPORTE DE RAP-ESPUMADO - RODOVIÁRIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TOK",
-   "PREÇO": "1,09"
+   "PREÇO": "1,08"
  },
  {
    "ITEM": 100012028,
    "DESCRIÇÃO": "FRESAGEM E RECAPEAMENTO DE PAVIMENTO ASFÁLTICO SMA - ATÉ 100M²",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "272,68"
+   "PREÇO": "266,09"
  },
  {
    "ITEM": 100012029,
    "DESCRIÇÃO": "FRESAGEM E RECAPEAMENTO DE PAVIMENTO ASFÁLTICO SMA - ACIMA DE 100M²",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "163,55"
+   "PREÇO": "157,84"
  },
  {
    "ITEM": 100012030,
    "DESCRIÇÃO": "FORNECIMENTO DE GUIAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "45,83"
+   "PREÇO": "45,35"
  },
  {
    "ITEM": 100012031,
    "DESCRIÇÃO": "FORNECIMENTO DE PARALELEPIPEDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "181,31"
+   "PREÇO": "159,00"
  },
  {
    "ITEM": 100012032,
    "DESCRIÇÃO": "FORNECIMENTO DE BLOCOS DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "83,70"
+   "PREÇO": "84,90"
  },
  {
    "ITEM": 100012033,
    "DESCRIÇÃO": "FORNECIMENTO DE LADRILHOS HIDRAULICOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "139,87"
+   "PREÇO": "120,13"
  },
  {
    "ITEM": 100012034,
    "DESCRIÇÃO": "FORNECIMENTO DE MOSAICOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "132,00"
+   "PREÇO": "136,80"
  },
  {
    "ITEM": 100012035,
    "DESCRIÇÃO": "FORNECIMENTO DE CACO CERAMICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "22,98"
+   "PREÇO": "24,30"
  },
  {
    "ITEM": 100012036,
    "DESCRIÇÃO": "FORNECIMENTO DE GRANITO TIPO PARALELEPIPEDO ( PEDRA MIRACEMA )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "88,08"
+   "PREÇO": "110,10"
  },
  {
    "ITEM": 100012037,
    "DESCRIÇÃO": "FORNECIMENTO DE ARDOSIA SERRADA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "37,44"
+   "PREÇO": "43,43"
  },
  {
    "ITEM": 100012038,
    "DESCRIÇÃO": "FORNECIMENTO DE PEDRA LUMINARIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "217,50"
+   "PREÇO": "227,10"
  },
  {
    "ITEM": 100012039,
    "DESCRIÇÃO": "FORNECIMENTO DE LAJOTAO COLONIAL CERAMICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "150,68"
  },
  {
    "ITEM": 100012040,
    "DESCRIÇÃO": "FORNECIMENTO DE SELAGEM DE BASE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TON",
    "PREÇO": "2.112,00"
  },
  {
    "ITEM": 100012041,
    "DESCRIÇÃO": "FORNECIMENTO DE CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA NO PASSEIO (UMAP) - NTS-333",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "237,43"
  },
  {
    "ITEM": 100012042,
    "DESCRIÇÃO": "FORNECIMENTO DE LAJE PRÉ-FABRICADA COM TAMPÃO ARTICULADO - 600MM OU 900MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.426,84"
+   "PREÇO": "1.496,27"
  },
  {
    "ITEM": 100012043,
    "DESCRIÇÃO": "COMPLEMENTO P/ ESCAVACAO DE CAVAS ACIMA DE 2,01M DE PROF. - SERVIÇOS DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "377,08"
+   "PREÇO": "375,36"
  },
  {
    "ITEM": 100012044,
    "DESCRIÇÃO": "COMPLEMENTO P/ ESCAVACAO DE CAVAS DE 4,01M ATE 6,00M DE PROF.",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "357,19"
+   "PREÇO": "351,16"
  },
  {
    "ITEM": 100012045,
    "DESCRIÇÃO": "MANUTENCAO DE AREAS VERDES - PLANTIO DE GRAMAS EM PLACA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "31,91"
+   "PREÇO": "32,43"
  },
  {
    "ITEM": 100012046,
    "DESCRIÇÃO": "DESMONTE DE ROCHA A FRIO PARA SERVIÇOS OPERACIONAIS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "600,94"
+   "PREÇO": "595,67"
  },
  {
    "ITEM": 100012047,
    "DESCRIÇÃO": "CONCRETO ARMADO PARA CONSTRUÇÃO DE PEÇAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.016,02"
+   "PREÇO": "3.176,76"
  },
  {
    "ITEM": 100012048,
    "DESCRIÇÃO": "ADICIONAL PARA SUBSTITUIÇÃO DE TOMADA DE ÁGUA (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "111,03"
+   "PREÇO": "110,45"
  },
  {
    "ITEM": 100012049,
    "DESCRIÇÃO": "ADICIONAL PARA SUBSTITUIÇÃO DE TOMADA DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "276,07"
+   "PREÇO": "275,49"
  },
  {
    "ITEM": 100012050,
    "DESCRIÇÃO": "ADICIONAL PARA EQUIPE ÁGUA EM PERÍODO NOTURNO - ART.73 CLT",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "426,62"
+   "PREÇO": "431,91"
  },
  {
    "ITEM": 100012051,
    "DESCRIÇÃO": "ADICIONAL PARA EQUIPE ESGOTO EM PERÍODO NOTURNO - ART.73 CLT",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "514,60"
+   "PREÇO": "519,88"
  },
  {
    "ITEM": 100012052,
    "DESCRIÇÃO": "EQUIPE L - EQUIPE DE GEORREFERENCIAMENTO (L1 E L2) - CADGEO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "1.637,43"
+   "PREÇO": "1.627,60"
  },
  {
    "ITEM": 100012053,
    "DESCRIÇÃO": "RODIZIO MUNICIPAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQM",
-   "PREÇO": "3.857,11"
+   "PREÇO": "3.855,71"
  },
  {
    "ITEM": 100012054,
    "DESCRIÇÃO": "APONTAMENTO DE IRREGULARIDADES EM LIGAÇÃO DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "51,13"
+   "PREÇO": "51,12"
  },
  {
    "ITEM": 100012055,
    "DESCRIÇÃO": "ENSAIO DCP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "31,87"
+   "PREÇO": "32,00"
  },
  {
    "ITEM": 100012056,
    "DESCRIÇÃO": "RETIRADA E TRANSPORTE DE DETRITOS ACUMULADOS NO CESTO DE E.E.E.",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "399,45"
+   "PREÇO": "400,13"
  },
  {
    "ITEM": 100012057,
    "DESCRIÇÃO": "ANCORAGEM DE SINGULARIDADES COM PERFIL \"I\" METÁLICO DE 4' POLEGADAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "520,47"
+   "PREÇO": "508,68"
  },
  {
    "ITEM": 100012058,
    "DESCRIÇÃO": "INSTALAÇÃO DE CAIXA DE INSPEÇÃO DE ESGOTO 45 X 45 X 60 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "584,79"
+   "PREÇO": "556,21"
  },
  {
    "ITEM": 100012059,
    "DESCRIÇÃO": "MANOBRA PARA INTERVENÇÕES EM REDES DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.407,76"
+   "PREÇO": "1.408,68"
  },
  {
    "ITEM": 100012060,
    "DESCRIÇÃO": "INSPEÇÃO DE FALTA DE ÁGUA LOCAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "46,38"
+   "PREÇO": "46,59"
  },
  {
    "ITEM": 100012086,
    "DESCRIÇÃO": "EQUIPE PARA SERVIÇOS ESPECIAIS - E + A - ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "2.246,78"
+   "PREÇO": "2.245,21"
  },
  {
    "ITEM": 100012087,
    "DESCRIÇÃO": "EQUIPE PARA SERVIÇOS ESPECIAIS - E + A + A - ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "2.758,17"
+   "PREÇO": "2.756,60"
  },
  {
    "ITEM": 100012088,
    "DESCRIÇÃO": "EQUIPE PARA SERVIÇOS DE TOPOGRAFIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "1.353,97"
+   "PREÇO": "1.366,45"
  },
  {
    "ITEM": 100012089,
    "DESCRIÇÃO": "EQUIPE PARA SERVIÇOS DE DESMONTE DE ROCHA - À FRIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "7.555,15"
+   "PREÇO": "7.468,04"
  },
  {
    "ITEM": 100012090,
    "DESCRIÇÃO": "EQUIPE PARA SERVIÇOS DE DESMONTE DE PAVIMENTO RÍGIDO - À FRIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "5.163,26"
+   "PREÇO": "5.141,40"
  },
  {
    "ITEM": 100012091,
    "DESCRIÇÃO": "EQUIPE PARA SERVIÇOS ESPECIAIS - EQUIPAMENTOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "2.875,70"
+   "PREÇO": "2.884,92"
  },
  {
    "ITEM": 100012093,
    "DESCRIÇÃO": "PAVIMENTACAO ASFALTICA BASICA (TAPA-VALA BASE BGS) - TRAFEGO LEVE - COMPLETA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "315,06"
+   "PREÇO": "318,42"
  },
  {
    "ITEM": 100012094,
    "DESCRIÇÃO": "PAVIMENTACAO ASFALTICA BASICA (TAPA-VALA BASE BGS) - TRAFEGO MEDIO - COMPLETA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "603,78"
+   "PREÇO": "601,15"
  },
  {
    "ITEM": 100012095,
    "DESCRIÇÃO": "PAVIMENTACAO ASFALTICA BASICA (TAPA-VALA BASE BGS) - TRAFEGO PESADO - COMPLETA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "622,45"
+   "PREÇO": "619,76"
  },
  {
    "ITEM": 100012121,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM DEFOFO / FIBROC / TROCA DE VALVULA DN 150 A 250MM, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.000,25"
+   "PREÇO": "1.976,62"
  },
  {
    "ITEM": 100012122,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM DEFOFO / FIBROC / TROCA DE VALVULA DN 150 A 250MM, C/ REPOS DO PASSEIO (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.544,69"
+   "PREÇO": "3.528,05"
  },
  {
    "ITEM": 100012123,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM DEFOFO / FIBROC / TROCA DE VALVULA DN 300 A 400MM, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.819,37"
+   "PREÇO": "2.788,63"
  },
  {
    "ITEM": 100012124,
    "DESCRIÇÃO": "REPARO DE REDE DE AGUA EM DEFOFO / FIBROC / TROCA DE VALVULA DN 300 A 400MM, C/ REPOS DO PASSEIO (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.114,78"
+   "PREÇO": "5.090,38"
  },
  {
    "ITEM": 100012132,
    "DESCRIÇÃO": "LAVAGEM POR HIDROJATEAMENTO DE ALTA PRESSÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8,55"
+   "PREÇO": "8,78"
  },
  {
    "ITEM": 100012133,
    "DESCRIÇÃO": "LAVAGEM POR HIDROJATEAMENTO DE ALTA PRESSÃO (NOTURNO)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "9,16"
+   "PREÇO": "9,40"
  },
  {
    "ITEM": 100012134,
    "DESCRIÇÃO": "SUCÇÃO A BAIXO VÁCUO EM REDE COLETORA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "401,37"
+   "PREÇO": "376,65"
  },
  {
    "ITEM": 100012135,
    "DESCRIÇÃO": "INSPEÇÃO EM LIGAÇÃO DE ESGOTO - VARREDURA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "82,92"
+   "PREÇO": "89,73"
  },
  {
    "ITEM": 100012136,
    "DESCRIÇÃO": "INSPEÇÃO EM LIGAÇÃO DE ESGOTO - AVULSA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "96,76"
+   "PREÇO": "100,62"
  },
  {
    "ITEM": 100012137,
    "DESCRIÇÃO": "INSPEÇÃO DE PV'S PARA GALERIA DE ÁGUAS PLUVIAIS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "163,76"
+   "PREÇO": "163,87"
  },
  {
    "ITEM": 100012138,
    "DESCRIÇÃO": "INSPEÇÃO EM REDE COLETORA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "1.111,50"
+   "PREÇO": "1.118,50"
  },
  {
    "ITEM": 100012139,
    "DESCRIÇÃO": "TELEVISIONAMENTO DE RAMAL DE ESGOTO - VARREDURA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "200,56"
+   "PREÇO": "193,72"
  },
  {
    "ITEM": 100012140,
    "DESCRIÇÃO": "TELEVISIONAMENTO DE REDES COLETORAS DE ESGOTOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "24,22"
+   "PREÇO": "23,77"
  },
  {
    "ITEM": 100012141,
    "DESCRIÇÃO": "TELEVISIONAMENTO DE REDES INTERCEPTORAS DE ESGOTOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "39,92"
+   "PREÇO": "38,78"
  },
  {
    "ITEM": 100012142,
    "DESCRIÇÃO": "TESTE DE FUMAÇA EM REDES COLETORAS E/OU INTERCEPTORES DE ESGOTO - EQP BR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6,75"
+   "PREÇO": "6,76"
  },
  {
    "ITEM": 100012143,
    "DESCRIÇÃO": "REABASTECIMENTO DOS COMBINADOS COM CAMINHÃO PIPA 10 M3 DE ÁGUA DE REUSO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "2.428,65"
+   "PREÇO": "2.403,49"
  },
  {
    "ITEM": 100012144,
    "DESCRIÇÃO": "LIMPEZA E/OU DESOBSTRUÇÃO MANUAL DE PV'S E PI'S (RETIRADA MANUAL DE MATERIAIS GRAÚDOS / ENTULHO)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "626,80"
+   "PREÇO": "629,00"
  },
  {
    "ITEM": 100012145,
    "DESCRIÇÃO": "DESASSOREAMENTO E LIMPEZA DE POÇOS DE SUCÇÃO, CAIXAS E TUBULAÇÕES DE ENTRADA DE ESTAÇÃO ELEVATÓRIA DE ESGOTOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "685,67"
+   "PREÇO": "683,14"
  },
  {
    "ITEM": 100012146,
    "DESCRIÇÃO": "RELATÓRIO DE DIAGNÓSTICO E PROGNÓSTICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
    "PREÇO": "814,88"
  },
  {
    "ITEM": 100012147,
    "DESCRIÇÃO": "APLICAÇÃO DE DESENGORDURANTE NA LAVAGEM DE REDES E RAMAIS DE ESGOTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6,03"
+   "PREÇO": "7,01"
  },
  {
    "ITEM": 100012148,
    "DESCRIÇÃO": "ADICIONAL PARA TROCA DE REGISTRO DE CAVALETE - DN 20mm (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "25,66"
+   "PREÇO": "25,86"
  },
  {
    "ITEM": 100012293,
    "DESCRIÇÃO": "ADICIONAL PARA SUPRESSÃO / CORTE DO FORNECIMENTO DE ÁGUA - NO CAVALETE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "18,30"
+   "PREÇO": "18,40"
  },
  {
    "ITEM": 100012294,
    "DESCRIÇÃO": "ADICIONAL DE SUPRESSÃO DO FORNECIMENTO DE ÁGUA - NO RAMAL DE ÁGUA, S/ REPOS DO PAV (SFMH)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "80,16"
+   "PREÇO": "80,44"
  },
  {
    "ITEM": 100012296,
    "DESCRIÇÃO": "VISTORIA DE SUSPEITA DE IRREGULARIDADE DE ÁGUA – IMPROCEDENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "36,55"
+   "PREÇO": "36,69"
  },
  {
    "ITEM": 100012297,
    "DESCRIÇÃO": "VISTORIA DE SUSPEITA DE IRREGULARIDADE DE ÁGUA – PROCEDENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "84,41"
+   "PREÇO": "84,88"
  },
  {
    "ITEM": 100012298,
    "DESCRIÇÃO": "ADICIONAL PARA SUBSTITUIÇÃO DE HIDRÔMETRO EM VISTORIA DE SUSPEITA DE IRREGULARIDADE DE ÁGUA – IMPROCEDENTE E PROCEDENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5,08"
+   "PREÇO": "5,12"
  },
  {
    "ITEM": 100012299,
    "DESCRIÇÃO": "PRESERVAÇÃO DO LOCAL – DIURNO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "150,04"
+   "PREÇO": "151,60"
  },
  {
    "ITEM": 100012300,
    "DESCRIÇÃO": "PRESERVAÇÃO DO LOCAL – NOTURNO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "200,00"
+   "PREÇO": "201,56"
  },
  {
    "ITEM": 100012301,
    "DESCRIÇÃO": "ABERTURA DE BOLETIM DE OCORRÊNCIA (B.O.)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "648,23"
+   "PREÇO": "656,92"
  },
  {
    "ITEM": 100012302,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM DE REDES E PEçAS LOCALIZADAS (CAVAS) - LEITO (C) - ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "208,05"
+   "PREÇO": "210,14"
  },
  {
    "ITEM": 100012303,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM DE REDES E PEçAS LOCALIZADAS (CAVAS) - LEITO (B) - ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "516,01"
+   "PREÇO": "505,95"
  },
  {
    "ITEM": 100012304,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SONDAGEM DE REDES E PEçAS LOCALIZADAS (CAVAS) - LEITO (A) - ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "516,01"
+   "PREÇO": "505,95"
  },
  {
    "ITEM": 100012305,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "232,97"
+   "PREÇO": "234,65"
  },
  {
    "ITEM": 100012306,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "282,10"
+   "PREÇO": "288,45"
  },
  {
    "ITEM": 100012307,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "327,82"
+   "PREÇO": "333,97"
  },
  {
    "ITEM": 100012308,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "342,80"
+   "PREÇO": "345,85"
  },
  {
    "ITEM": 100012309,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "276,48"
+   "PREÇO": "277,75"
  },
  {
    "ITEM": 100012310,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "354,03"
+   "PREÇO": "359,06"
  },
  {
    "ITEM": 100012311,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "438,18"
+   "PREÇO": "442,77"
  },
  {
    "ITEM": 100012312,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "453,65"
+   "PREÇO": "456,44"
  },
  {
    "ITEM": 100012313,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "554,95"
+   "PREÇO": "564,85"
  },
  {
    "ITEM": 100012314,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "696,99"
+   "PREÇO": "706,08"
  },
  {
    "ITEM": 100012315,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "630,80"
+   "PREÇO": "635,09"
  },
  {
    "ITEM": 100012316,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "768,79"
+   "PREÇO": "783,37"
  },
  {
    "ITEM": 100012317,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "955,84"
+   "PREÇO": "969,41"
  },
  {
    "ITEM": 100012318,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "186,38"
+   "PREÇO": "188,25"
  },
  {
    "ITEM": 100012319,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "438,16"
+   "PREÇO": "430,34"
  },
  {
    "ITEM": 100012320,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "438,16"
+   "PREÇO": "430,34"
  },
  {
    "ITEM": 100012321,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "330,86"
+   "PREÇO": "334,17"
  },
  {
    "ITEM": 100012322,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "777,41"
+   "PREÇO": "763,54"
  },
  {
    "ITEM": 100012323,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "777,41"
+   "PREÇO": "763,54"
  },
  {
    "ITEM": 100012324,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "475,34"
+   "PREÇO": "480,10"
  },
  {
    "ITEM": 100012325,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.116,66"
+   "PREÇO": "1.096,75"
  },
  {
    "ITEM": 100012326,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO / SUBST AVULSA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.116,66"
+   "PREÇO": "1.096,75"
  },
  {
    "ITEM": 100012327,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "123,07"
+   "PREÇO": "123,41"
  },
  {
    "ITEM": 100012328,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "138,53"
+   "PREÇO": "140,43"
  },
  {
    "ITEM": 100012329,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "163,00"
+   "PREÇO": "164,78"
  },
  {
    "ITEM": 100012330,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "420,36"
+   "PREÇO": "431,23"
  },
  {
    "ITEM": 100012331,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "478,68"
+   "PREÇO": "489,35"
  },
  {
    "ITEM": 100012332,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "78,02"
+   "PREÇO": "78,80"
  },
  {
    "ITEM": 100012333,
    "DESCRIÇÃO": "LPB - LEITO - SUPRESSAO / RELIGACAO DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "191,58"
+   "PREÇO": "194,96"
  },
  {
    "ITEM": 100012334,
    "DESCRIÇÃO": "LPB - LEITO - SUPRESSAO / RELIGACAO DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "242,81"
+   "PREÇO": "245,91"
  },
  {
    "ITEM": 100012335,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "176,86"
+   "PREÇO": "173,91"
  },
  {
    "ITEM": 100012336,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "176,86"
+   "PREÇO": "173,91"
  },
  {
    "ITEM": 100012337,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "222,50"
+   "PREÇO": "224,73"
  },
  {
    "ITEM": 100012338,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "516,11"
+   "PREÇO": "507,12"
  },
  {
    "ITEM": 100012339,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "516,11"
+   "PREÇO": "507,12"
  },
  {
    "ITEM": 100012340,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "366,98"
+   "PREÇO": "370,66"
  },
  {
    "ITEM": 100012341,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "855,35"
+   "PREÇO": "840,32"
  },
  {
    "ITEM": 100012342,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "855,35"
+   "PREÇO": "840,32"
  },
  {
    "ITEM": 100012343,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - TROCA PREVENTIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "230,76"
+   "PREÇO": "232,72"
  },
  {
    "ITEM": 100012344,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - TROCA PREVENTIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "290,22"
+   "PREÇO": "296,27"
  },
  {
    "ITEM": 100012345,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - TROCA PREVENTIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "362,03"
+   "PREÇO": "367,63"
  },
  {
    "ITEM": 100012346,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA PREVENTIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "417,59"
+   "PREÇO": "422,05"
  },
  {
    "ITEM": 100012347,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA PREVENTIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "516,82"
+   "PREÇO": "528,76"
  },
  {
    "ITEM": 100012348,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA PREVENTIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "632,92"
+   "PREÇO": "644,24"
  },
  {
    "ITEM": 100012349,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - TROCA PREVENTIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "604,41"
+   "PREÇO": "611,33"
  },
  {
    "ITEM": 100012350,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - TROCA PREVENTIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "742,73"
+   "PREÇO": "760,59"
  },
  {
    "ITEM": 100012351,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - TROCA PREVENTIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "901,80"
+   "PREÇO": "918,83"
  },
  {
    "ITEM": 100012352,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - TROCA PREVENTIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "221,06"
+   "PREÇO": "223,27"
  },
  {
    "ITEM": 100012353,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - TROCA PREVENTIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "481,50"
+   "PREÇO": "474,12"
  },
  {
    "ITEM": 100012354,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - TROCA PREVENTIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "481,50"
+   "PREÇO": "474,12"
  },
  {
    "ITEM": 100012355,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA PREVENTIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "437,78"
+   "PREÇO": "442,16"
  },
  {
    "ITEM": 100012356,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA PREVENTIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "911,05"
+   "PREÇO": "898,52"
  },
  {
    "ITEM": 100012357,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA PREVENTIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "911,05"
+   "PREÇO": "898,52"
  },
  {
    "ITEM": 100012358,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - TROCA PREVENTIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "654,50"
+   "PREÇO": "661,05"
  },
  {
    "ITEM": 100012359,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - TROCA PREVENTIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.340,60"
+   "PREÇO": "1.322,94"
  },
  {
    "ITEM": 100012360,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - TROCA PREVENTIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.340,60"
+   "PREÇO": "1.322,94"
  },
  {
    "ITEM": 100012361,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - TROCA CORRETIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "383,07"
+   "PREÇO": "386,62"
  },
  {
    "ITEM": 100012362,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - TROCA CORRETIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "414,28"
+   "PREÇO": "421,91"
  },
  {
    "ITEM": 100012363,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - TROCA CORRETIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "468,26"
+   "PREÇO": "475,49"
  },
  {
    "ITEM": 100012364,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA CORRETIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "632,56"
+   "PREÇO": "639,48"
  },
  {
    "ITEM": 100012365,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA CORRETIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "680,32"
+   "PREÇO": "694,75"
  },
  {
    "ITEM": 100012366,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA CORRETIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "766,17"
+   "PREÇO": "779,99"
  },
  {
    "ITEM": 100012367,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - TROCA CORRETIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "882,06"
+   "PREÇO": "892,31"
  },
  {
    "ITEM": 100012368,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - TROCA CORRETIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "946,49"
+   "PREÇO": "967,73"
  },
  {
    "ITEM": 100012369,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - TROCA CORRETIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.064,13"
+   "PREÇO": "1.084,54"
  },
  {
    "ITEM": 100012370,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - LIGACAO / SUBSTITUICAO DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "303,57"
+   "PREÇO": "304,48"
  },
  {
    "ITEM": 100012371,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - LIGACAO / SUBSTITUICAO DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "365,10"
+   "PREÇO": "369,52"
  },
  {
    "ITEM": 100012372,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - LIGACAO / SUBSTITUICAO DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "348,81"
+   "PREÇO": "353,32"
  },
  {
    "ITEM": 100012373,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - LIGACAO / SUBSTITUICAO DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "157,34"
+   "PREÇO": "158,92"
  },
  {
    "ITEM": 100012374,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "300,19"
+   "PREÇO": "304,15"
  },
  {
    "ITEM": 100012375,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "341,21"
+   "PREÇO": "345,46"
  },
  {
    "ITEM": 100012376,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - TROCA PREVENTIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "204,27"
+   "PREÇO": "205,41"
  },
  {
    "ITEM": 100012377,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - LIGACAO / SUBSTITUICAO DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "382,81"
+   "PREÇO": "375,58"
  },
  {
    "ITEM": 100012378,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - LIGACAO / SUBSTITUICAO DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "382,81"
+   "PREÇO": "375,58"
  },
  {
    "ITEM": 100012379,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "223,91"
+   "PREÇO": "225,00"
  },
  {
    "ITEM": 100012380,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "157,34"
+   "PREÇO": "158,92"
  },
  {
    "ITEM": 100012381,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "382,81"
+   "PREÇO": "375,58"
  },
  {
    "ITEM": 100012382,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - LIGACAO SUCES / PASSAGEM DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "382,81"
+   "PREÇO": "375,58"
  },
  {
    "ITEM": 100012383,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - TROCA PREVENTIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "260,66"
+   "PREÇO": "265,30"
  },
  {
    "ITEM": 100012384,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - TROCA PREVENTIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "267,92"
+   "PREÇO": "271,10"
  },
  {
    "ITEM": 100012385,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - TROCA PREVENTIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "157,34"
+   "PREÇO": "158,92"
  },
  {
    "ITEM": 100012386,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - TROCA PREVENTIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "382,81"
+   "PREÇO": "375,58"
  },
  {
    "ITEM": 100012387,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - TROCA PREVENTIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "382,81"
+   "PREÇO": "375,58"
  },
  {
    "ITEM": 100012388,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - TROCA CORRETIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "230,90"
+   "PREÇO": "232,66"
  },
  {
    "ITEM": 100012389,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - TROCA CORRETIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "269,24"
+   "PREÇO": "275,01"
  },
  {
    "ITEM": 100012390,
    "DESCRIÇÃO": "LPB - LEITO - EMBOQUE MND - TROCA CORRETIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "333,81"
+   "PREÇO": "338,96"
  },
  {
    "ITEM": 100012391,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - TROCA CORRETIVA DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "157,86"
+   "PREÇO": "159,45"
  },
  {
    "ITEM": 100012392,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - TROCA CORRETIVA DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "384,22"
+   "PREÇO": "376,96"
  },
  {
    "ITEM": 100012393,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EMBOQUE MND - TROCA CORRETIVA DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "384,22"
+   "PREÇO": "376,96"
  },
  {
    "ITEM": 100012394,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE RAMAL DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "190,00"
+   "PREÇO": "191,51"
  },
  {
    "ITEM": 100012395,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE RAMAL DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "213,34"
+   "PREÇO": "217,25"
  },
  {
    "ITEM": 100012396,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE RAMAL DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "251,70"
+   "PREÇO": "255,32"
  },
  {
    "ITEM": 100012397,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE RAMAL DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "111,77"
+   "PREÇO": "112,89"
  },
  {
    "ITEM": 100012398,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE RAMAL DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "267,39"
+   "PREÇO": "262,48"
  },
  {
    "ITEM": 100012399,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE RAMAL DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "267,39"
+   "PREÇO": "262,48"
  },
  {
    "ITEM": 100012400,
    "DESCRIÇÃO": "RELIGACAO DO FORNECIMENTO DE AGUA - NA TOMADA / RAMAL DE AGUA, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "190,21"
+   "PREÇO": "190,06"
  },
  {
    "ITEM": 100012401,
    "DESCRIÇÃO": "RELIGACAO DO FORNECIMENTO DE AGUA - NO RAMAL DE AGUA, S/ REPOS DO PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "145,28"
+   "PREÇO": "145,63"
  },
  {
    "ITEM": 100012402,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - SUPRESSAO / RELIGACAO DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "32,51"
+   "PREÇO": "32,63"
  },
  {
    "ITEM": 100012403,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - SUPRESSAO / RELIGACAO DE LIGACAO DE AGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "78,83"
+   "PREÇO": "79,74"
  },
  {
    "ITEM": 100012404,
    "DESCRIÇÃO": "LPB - LEITO - SUPRESSAO / RELIGACAO DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "148,57"
+   "PREÇO": "149,44"
  },
  {
    "ITEM": 100012405,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SUPRESSAO / RELIGACAO DE LIGACAO DE AGUA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "117,03"
+   "PREÇO": "118,20"
  },
  {
    "ITEM": 100012406,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SUPRESSAO / RELIGACAO DE LIGACAO DE AGUA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "281,67"
+   "PREÇO": "276,43"
  },
  {
    "ITEM": 100012407,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - SUPRESSAO / RELIGACAO DE LIGACAO DE AGUA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "281,67"
+   "PREÇO": "276,43"
  },
  {
    "ITEM": 100012408,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 50 A 100MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "332,91"
+   "PREÇO": "335,34"
  },
  {
    "ITEM": 100012409,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 50 A 100MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "359,73"
+   "PREÇO": "365,38"
  },
  {
    "ITEM": 100012410,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 50 A 100MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "390,17"
+   "PREÇO": "392,62"
  },
  {
    "ITEM": 100012411,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 150 A 250MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "534,85"
+   "PREÇO": "539,27"
  },
  {
    "ITEM": 100012412,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 150 A 250MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "568,58"
+   "PREÇO": "577,88"
  },
  {
    "ITEM": 100012413,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 150 A 250MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "632,42"
+   "PREÇO": "641,25"
  },
  {
    "ITEM": 100012414,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 300 A 400MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.112,14"
+   "PREÇO": "2.129,08"
  },
  {
    "ITEM": 100012415,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 300 A 400MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.194,35"
+   "PREÇO": "2.227,72"
  },
  {
    "ITEM": 100012416,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 300 A 400MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.377,02"
+   "PREÇO": "2.409,12"
  },
  {
    "ITEM": 100012417,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 50 A 100MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "143,56"
+   "PREÇO": "145,00"
  },
  {
    "ITEM": 100012418,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 50 A 100MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "349,42"
+   "PREÇO": "342,82"
  },
  {
    "ITEM": 100012419,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 50 A 100MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "349,42"
+   "PREÇO": "342,82"
  },
  {
    "ITEM": 100012420,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 150 A 250MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "208,57"
+   "PREÇO": "210,67"
  },
  {
    "ITEM": 100012421,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 150 A 250MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "515,31"
+   "PREÇO": "505,32"
  },
  {
    "ITEM": 100012422,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 150 A 250MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "515,31"
+   "PREÇO": "505,32"
  },
  {
    "ITEM": 100012423,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 300 A 400MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "637,68"
+   "PREÇO": "644,07"
  },
  {
    "ITEM": 100012424,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 300 A 400MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.643,98"
+   "PREÇO": "1.610,05"
  },
  {
    "ITEM": 100012425,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE AGUA / TROCA DE VALVULA DN 300 A 400MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.643,98"
+   "PREÇO": "1.610,05"
  },
  {
    "ITEM": 100012426,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TROCA DE GAXETA DE VÁLVULAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "113,78"
+   "PREÇO": "114,92"
  },
  {
    "ITEM": 100012427,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO REDE ÁGUA DEFOFO / FIBROC / TROCA DE VALV DN 50MM A 100MM - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "747,68"
+   "PREÇO": "755,18"
  },
  {
    "ITEM": 100012428,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO REDE ÁGUA DEFOFO / FIBROC / TROCA DE VALV DN 150MM A 250 MM - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "747,68"
+   "PREÇO": "755,18"
  },
  {
    "ITEM": 100012429,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO REDE ÁGUA DEFOFO / FIBROC / TROCA DE VALV DN 300MM A 400MM - PRONTO ATEND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "913,84"
+   "PREÇO": "922,99"
  },
  {
    "ITEM": 100012430,
    "DESCRIÇÃO": "LPB - LEITO - DETECCAO / NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "84,25"
+   "PREÇO": "84,76"
  },
  {
    "ITEM": 100012431,
    "DESCRIÇÃO": "LPB - LEITO - DETECCAO / NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "114,01"
+   "PREÇO": "115,90"
  },
  {
    "ITEM": 100012432,
    "DESCRIÇÃO": "LPB - LEITO - DETECCAO / NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "125,08"
+   "PREÇO": "126,29"
  },
  {
    "ITEM": 100012433,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - DETECCAO / NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "70,80"
+   "PREÇO": "71,50"
  },
  {
    "ITEM": 100012434,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - DETECCAO / NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "164,64"
+   "PREÇO": "161,76"
  },
  {
    "ITEM": 100012435,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - DETECCAO / NIVELAMENTO DE CAIXA DE REGISTRO DE PARADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "164,64"
+   "PREÇO": "161,76"
  },
  {
    "ITEM": 100012436,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 50 A 150MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "116,42"
+   "PREÇO": "117,10"
  },
  {
    "ITEM": 100012437,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 50 A 150MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "152,82"
+   "PREÇO": "155,45"
  },
  {
    "ITEM": 100012438,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 50 A 150MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "195,63"
+   "PREÇO": "198,02"
  },
  {
    "ITEM": 100012439,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 200 A 250MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "139,39"
+   "PREÇO": "140,21"
  },
  {
    "ITEM": 100012440,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 200 A 250MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "180,49"
+   "PREÇO": "183,69"
  },
  {
    "ITEM": 100012441,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 200 A 250MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "231,45"
+   "PREÇO": "234,21"
  },
  {
    "ITEM": 100012442,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 300 A 400MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "162,38"
+   "PREÇO": "163,33"
  },
  {
    "ITEM": 100012443,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 300 A 400MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "208,22"
+   "PREÇO": "211,95"
  },
  {
    "ITEM": 100012444,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE DE AGUA DN 300 A 400MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "263,08"
+   "PREÇO": "266,47"
  },
  {
    "ITEM": 100012445,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 50 A 150MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "95,36"
+   "PREÇO": "96,31"
  },
  {
    "ITEM": 100012446,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 50 A 150MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "224,97"
+   "PREÇO": "220,92"
  },
  {
    "ITEM": 100012447,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 50 A 150MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "224,97"
+   "PREÇO": "220,92"
  },
  {
    "ITEM": 100012448,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 200 A 250MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "111,25"
+   "PREÇO": "112,36"
  },
  {
    "ITEM": 100012449,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 200 A 250MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "265,98"
+   "PREÇO": "261,10"
  },
  {
    "ITEM": 100012450,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 50 A 100 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "518,50"
+   "PREÇO": "521,58"
  },
  {
    "ITEM": 100012451,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 200 A 250MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "265,98"
+   "PREÇO": "261,10"
  },
  {
    "ITEM": 100012452,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 300 A 400MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "127,14"
+   "PREÇO": "128,42"
  },
  {
    "ITEM": 100012453,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 300 A 400MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "307,00"
+   "PREÇO": "301,26"
  },
  {
    "ITEM": 100012454,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE DE AGUA DN 300 A 400MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "307,00"
+   "PREÇO": "301,26"
  },
  {
    "ITEM": 100012455,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 50 A 100 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "637,57"
+   "PREÇO": "649,80"
  },
  {
    "ITEM": 100012456,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 50 A 100 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "785,46"
+   "PREÇO": "796,91"
  },
  {
    "ITEM": 100012457,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 150 A 250 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.150,38"
+   "PREÇO": "1.157,21"
  },
  {
    "ITEM": 100012458,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 150 A 250 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.399,29"
+   "PREÇO": "1.426,60"
  },
  {
    "ITEM": 100012459,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 150 A 250 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.712,33"
+   "PREÇO": "1.738,03"
  },
  {
    "ITEM": 100012460,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 300 A 400 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.437,58"
+   "PREÇO": "1.446,14"
  },
  {
    "ITEM": 100012461,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 300 A 400 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.745,56"
+   "PREÇO": "1.779,73"
  },
  {
    "ITEM": 100012462,
    "DESCRIÇÃO": "LPB - LEITO - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 300 A 400 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.133,64"
+   "PREÇO": "2.165,83"
  },
  {
    "ITEM": 100012463,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 50 A 100 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "369,87"
+   "PREÇO": "373,58"
  },
  {
    "ITEM": 100012464,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 50 A 100 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "938,28"
+   "PREÇO": "919,36"
  },
  {
    "ITEM": 100012465,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 50 A 100 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "938,28"
+   "PREÇO": "919,36"
  },
  {
    "ITEM": 100012466,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 150 A 250 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "788,86"
+   "PREÇO": "796,77"
  },
  {
    "ITEM": 100012467,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 150 A 250 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.043,73"
+   "PREÇO": "2.001,26"
  },
  {
    "ITEM": 100012468,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 150 A 250 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.043,73"
+   "PREÇO": "2.001,26"
  },
  {
    "ITEM": 100012469,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 300 A 400 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "976,68"
+   "PREÇO": "986,47"
  },
  {
    "ITEM": 100012470,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 300 A 400 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.542,92"
+   "PREÇO": "2.489,72"
  },
  {
    "ITEM": 100012471,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INTERLIGACAO DE REDE DE AGUA EXISTENTE DE 300 A 400 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.542,92"
+   "PREÇO": "2.489,72"
  },
  {
    "ITEM": 100012472,
    "DESCRIÇÃO": "LPB - LEITO - INSTALACAO DE VALVULA - QUALQUER DIAMETRO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "332,38"
+   "PREÇO": "334,34"
  },
  {
    "ITEM": 100012473,
    "DESCRIÇÃO": "LPB - LEITO - INSTALACAO DE VALVULA - QUALQUER DIAMETRO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "413,17"
+   "PREÇO": "420,95"
  },
  {
    "ITEM": 100012474,
    "DESCRIÇÃO": "LPB - LEITO - INSTALACAO DE VALVULA - QUALQUER DIAMETRO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "512,45"
+   "PREÇO": "519,69"
  },
  {
    "ITEM": 100012475,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INSTALACAO DE VALVULA - QUALQUER DIAMETRO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "244,17"
+   "PREÇO": "246,62"
  },
  {
    "ITEM": 100012476,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INSTALACAO DE VALVULA - QUALQUER DIAMETRO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "609,81"
+   "PREÇO": "597,80"
  },
  {
    "ITEM": 100012477,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - INSTALACAO DE VALVULA - QUALQUER DIAMETRO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "609,81"
+   "PREÇO": "597,80"
  },
  {
    "ITEM": 100012478,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.053,72"
+   "PREÇO": "1.073,55"
  },
  {
    "ITEM": 100012479,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "927,96"
+   "PREÇO": "950,84"
  },
  {
    "ITEM": 100012480,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.154,17"
+   "PREÇO": "1.176,29"
  },
  {
    "ITEM": 100012481,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ACIMA DE 2,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "226,67"
+   "PREÇO": "231,66"
  },
  {
    "ITEM": 100012482,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ACIMA DE 2,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "289,85"
+   "PREÇO": "294,59"
  },
  {
    "ITEM": 100012483,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 63MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "117,59"
+   "PREÇO": "116,66"
  },
  {
    "ITEM": 100012484,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 90MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "121,46"
+   "PREÇO": "120,48"
  },
  {
    "ITEM": 100012485,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 110MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "124,08"
+   "PREÇO": "123,07"
  },
  {
    "ITEM": 100012486,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 160MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "167,58"
+   "PREÇO": "166,58"
  },
  {
    "ITEM": 100012487,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "431,00"
+   "PREÇO": "435,25"
  },
  {
    "ITEM": 100012488,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "522,34"
+   "PREÇO": "534,73"
  },
  {
    "ITEM": 100012489,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "654,77"
+   "PREÇO": "666,68"
  },
  {
    "ITEM": 100012490,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "704,27"
+   "PREÇO": "711,42"
  },
  {
    "ITEM": 100012491,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "845,73"
+   "PREÇO": "866,27"
  },
  {
    "ITEM": 100012492,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.053,72"
+   "PREÇO": "1.073,55"
  },
  {
    "ITEM": 100012493,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "977,56"
+   "PREÇO": "987,62"
  },
  {
    "ITEM": 100012494,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.169,13"
+   "PREÇO": "1.197,83"
  },
  {
    "ITEM": 100012495,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.646,36"
+   "PREÇO": "1.672,99"
  },
  {
    "ITEM": 100012496,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "704,27"
+   "PREÇO": "711,42"
  },
  {
    "ITEM": 100012497,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "845,73"
+   "PREÇO": "866,27"
  },
  {
    "ITEM": 100012498,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "431,00"
+   "PREÇO": "435,25"
  },
  {
    "ITEM": 100012499,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "522,34"
+   "PREÇO": "534,73"
  },
  {
    "ITEM": 100012500,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "654,77"
+   "PREÇO": "666,68"
  },
  {
    "ITEM": 100012501,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,01 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "977,56"
+   "PREÇO": "987,62"
  },
  {
    "ITEM": 100012502,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,01 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.169,13"
+   "PREÇO": "1.197,83"
  },
  {
    "ITEM": 100012503,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,01 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.452,68"
+   "PREÇO": "1.480,43"
  },
  {
    "ITEM": 100012504,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "336,64"
+   "PREÇO": "340,01"
  },
  {
    "ITEM": 100012505,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "822,71"
+   "PREÇO": "807,03"
  },
  {
    "ITEM": 100012506,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "822,71"
+   "PREÇO": "807,03"
  },
  {
    "ITEM": 100012507,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "538,91"
+   "PREÇO": "544,31"
  },
  {
    "ITEM": 100012508,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.329,38"
+   "PREÇO": "1.303,68"
  },
  {
    "ITEM": 100012509,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.329,38"
+   "PREÇO": "1.303,68"
  },
  {
    "ITEM": 100012510,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "741,18"
+   "PREÇO": "748,61"
  },
  {
    "ITEM": 100012511,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.836,06"
+   "PREÇO": "1.800,33"
  },
  {
    "ITEM": 100012512,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.836,06"
+   "PREÇO": "1.800,33"
  },
  {
    "ITEM": 100012513,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 200MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "170,61"
+   "PREÇO": "169,58"
  },
  {
    "ITEM": 100012514,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 250MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "172,84"
+   "PREÇO": "171,82"
  },
  {
    "ITEM": 100012515,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 315MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "212,12"
+   "PREÇO": "211,18"
  },
  {
    "ITEM": 100012516,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "336,64"
+   "PREÇO": "340,01"
  },
  {
    "ITEM": 100012517,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "822,71"
+   "PREÇO": "807,03"
  },
  {
    "ITEM": 100012518,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "822,71"
+   "PREÇO": "807,03"
  },
  {
    "ITEM": 100012519,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "538,91"
+   "PREÇO": "544,31"
  },
  {
    "ITEM": 100012520,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.329,38"
+   "PREÇO": "1.303,68"
  },
  {
    "ITEM": 100012521,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.329,38"
+   "PREÇO": "1.303,68"
  },
  {
    "ITEM": 100012522,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "741,18"
+   "PREÇO": "748,61"
  },
  {
    "ITEM": 100012523,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.836,06"
+   "PREÇO": "1.800,33"
  },
  {
    "ITEM": 100012524,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO DE ESGOTO AVULSA PROF. ACIMA DE 2,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.836,06"
+   "PREÇO": "1.800,33"
  },
  {
    "ITEM": 100012525,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "226,97"
+   "PREÇO": "229,36"
  },
  {
    "ITEM": 100012526,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "281,15"
+   "PREÇO": "287,77"
  },
  {
    "ITEM": 100012527,
    "DESCRIÇÃO": "LPB - LEITO - TERCO ADJACENTE - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "356,27"
+   "PREÇO": "362,58"
  },
  {
    "ITEM": 100012528,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "500,25"
+   "PREÇO": "505,54"
  },
  {
    "ITEM": 100012529,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "604,57"
+   "PREÇO": "619,32"
  },
  {
    "ITEM": 100012530,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "755,23"
+   "PREÇO": "769,46"
  },
  {
    "ITEM": 100012531,
    "DESCRIÇÃO": "LPB - LEITO - TERCO OPOSTO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "773,52"
+   "PREÇO": "781,70"
  },
  {
    "ITEM": 100012532,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "176,99"
+   "PREÇO": "178,76"
  },
  {
    "ITEM": 100012533,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "430,65"
+   "PREÇO": "422,50"
  },
  {
    "ITEM": 100012534,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO ADJACENTE - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "430,65"
+   "PREÇO": "422,50"
  },
  {
    "ITEM": 100012535,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "379,26"
+   "PREÇO": "383,06"
  },
  {
    "ITEM": 100012536,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "937,33"
+   "PREÇO": "919,15"
  },
  {
    "ITEM": 100012537,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "937,33"
+   "PREÇO": "919,15"
  },
  {
    "ITEM": 100012538,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "581,53"
+   "PREÇO": "587,36"
  },
  {
    "ITEM": 100012539,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.444,01"
+   "PREÇO": "1.415,79"
  },
  {
    "ITEM": 100012540,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERCO OPOSTO - LIGACAO ESGOTO SUCES / PASSAGEM DE LIGACAO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.444,01"
+   "PREÇO": "1.415,79"
  },
  {
    "ITEM": 100012541,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.993,20"
+   "PREÇO": "2.099,99"
  },
  {
    "ITEM": 100012542,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.974,20"
+   "PREÇO": "2.079,20"
  },
  {
    "ITEM": 100012543,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.088,81"
+   "PREÇO": "2.184,28"
  },
  {
    "ITEM": 100012544,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.280,90"
+   "PREÇO": "1.351,04"
  },
  {
    "ITEM": 100012545,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.274,20"
+   "PREÇO": "1.343,21"
  },
  {
    "ITEM": 100012546,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.349,39"
+   "PREÇO": "1.412,52"
  },
  {
    "ITEM": 100012547,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.323,74"
+   "PREÇO": "2.469,98"
  },
  {
    "ITEM": 100012548,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.312,73"
+   "PREÇO": "2.457,60"
  },
  {
    "ITEM": 100012549,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.402,01"
+   "PREÇO": "2.539,69"
  },
  {
    "ITEM": 100012550,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.995,41"
+   "PREÇO": "4.264,49"
  },
  {
    "ITEM": 100012551,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.977,83"
+   "PREÇO": "4.245,18"
  },
  {
    "ITEM": 100012552,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.088,17"
+   "PREÇO": "4.346,39"
  },
  {
    "ITEM": 100012553,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.036,03"
+   "PREÇO": "3.218,91"
  },
  {
    "ITEM": 100012554,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.012,72"
+   "PREÇO": "3.193,57"
  },
  {
    "ITEM": 100012555,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.141,43"
+   "PREÇO": "3.311,45"
  },
  {
    "ITEM": 100012556,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.826,42"
+   "PREÇO": "5.138,24"
  },
  {
    "ITEM": 100012557,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.794,52"
+   "PREÇO": "5.103,85"
  },
  {
    "ITEM": 100012558,
    "DESCRIÇÃO": "LPB - LEITO - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.950,80"
+   "PREÇO": "5.246,77"
  },
  {
    "ITEM": 100012559,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.705,50"
+   "PREÇO": "2.848,94"
  },
  {
    "ITEM": 100012560,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ATE 2,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "200,16"
+   "PREÇO": "204,51"
  },
  {
    "ITEM": 100012561,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ATE 2,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "257,04"
+   "PREÇO": "261,14"
  },
  {
    "ITEM": 100012562,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ACIMA DE 2,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "181,12"
+   "PREÇO": "182,80"
  },
  {
    "ITEM": 100012563,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.674,21"
+   "PREÇO": "2.815,20"
  },
  {
    "ITEM": 100012564,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.828,20"
+   "PREÇO": "2.956,03"
  },
  {
    "ITEM": 100012565,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.748,33"
+   "PREÇO": "3.967,86"
  },
  {
    "ITEM": 100012566,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.712,74"
+   "PREÇO": "3.929,58"
  },
  {
    "ITEM": 100012567,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.880,81"
+   "PREÇO": "4.083,19"
  },
  {
    "ITEM": 100012568,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.657,44"
+   "PREÇO": "6.012,03"
  },
  {
    "ITEM": 100012569,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.611,20"
+   "PREÇO": "5.962,52"
  },
  {
    "ITEM": 100012570,
    "DESCRIÇÃO": "LPB - LEITO - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.813,45"
+   "PREÇO": "6.147,16"
  },
  {
    "ITEM": 100012571,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "336,64"
+   "PREÇO": "340,01"
  },
  {
    "ITEM": 100012572,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "822,71"
+   "PREÇO": "807,03"
  },
  {
    "ITEM": 100012573,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "822,71"
+   "PREÇO": "807,03"
  },
  {
    "ITEM": 100012574,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "404,55"
+   "PREÇO": "408,60"
  },
  {
    "ITEM": 100012575,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "998,55"
+   "PREÇO": "979,22"
  },
  {
    "ITEM": 100012576,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "998,55"
+   "PREÇO": "979,22"
  },
  {
    "ITEM": 100012577,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "242,16"
+   "PREÇO": "244,80"
  },
  {
    "ITEM": 100012578,
    "DESCRIÇÃO": "LPB - LEITO - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ATE 2,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "158,69"
+   "PREÇO": "160,16"
  },
  {
    "ITEM": 100012579,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "504,23"
+   "PREÇO": "509,29"
  },
  {
    "ITEM": 100012580,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.258,55"
+   "PREÇO": "1.233,76"
  },
  {
    "ITEM": 100012581,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO ADJACENTE - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.258,55"
+   "PREÇO": "1.233,76"
  },
  {
    "ITEM": 100012582,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "538,91"
+   "PREÇO": "544,31"
  },
  {
    "ITEM": 100012583,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.329,38"
+   "PREÇO": "1.303,68"
  },
  {
    "ITEM": 100012584,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.329,38"
+   "PREÇO": "1.303,68"
  },
  {
    "ITEM": 100012585,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "606,82"
+   "PREÇO": "612,90"
  },
  {
    "ITEM": 100012586,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.505,22"
+   "PREÇO": "1.475,87"
  },
  {
    "ITEM": 100012587,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.505,22"
+   "PREÇO": "1.475,87"
  },
  {
    "ITEM": 100012588,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "735,40"
+   "PREÇO": "742,77"
  },
  {
    "ITEM": 100012589,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.843,65"
+   "PREÇO": "1.807,11"
  },
  {
    "ITEM": 100012590,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - EIXO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.843,65"
+   "PREÇO": "1.807,11"
  },
  {
    "ITEM": 100012591,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "741,18"
+   "PREÇO": "748,61"
  },
  {
    "ITEM": 100012592,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.836,06"
+   "PREÇO": "1.800,33"
  },
  {
    "ITEM": 100012593,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 355MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "210,95"
+   "PREÇO": "210,03"
  },
  {
    "ITEM": 100012594,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE DE ESGOTO EM PEAD 400MM - S/ REPOS PAV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "208,18"
+   "PREÇO": "207,30"
  },
  {
    "ITEM": 100012595,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.836,06"
+   "PREÇO": "1.800,33"
  },
  {
    "ITEM": 100012596,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "809,09"
+   "PREÇO": "817,20"
  },
  {
    "ITEM": 100012597,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.011,90"
+   "PREÇO": "1.972,52"
  },
  {
    "ITEM": 100012598,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.011,90"
+   "PREÇO": "1.972,52"
  },
  {
    "ITEM": 100012599,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "966,57"
+   "PREÇO": "976,26"
  },
  {
    "ITEM": 100012600,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.428,75"
+   "PREÇO": "2.380,45"
  },
  {
    "ITEM": 100012601,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - TERÇO OPOSTO - TROCA LIGAÇÃO ESGOTO CORRETIVA PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.428,75"
+   "PREÇO": "2.380,45"
  },
  {
    "ITEM": 100012602,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - CONSTRUCAO DE PV - DIÂMETRO 1,20M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "531,70"
+   "PREÇO": "533,91"
  },
  {
    "ITEM": 100012603,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "451,55"
+   "PREÇO": "477,15"
  },
  {
    "ITEM": 100012604,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "458,17"
+   "PREÇO": "483,34"
  },
  {
    "ITEM": 100012605,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "501,25"
+   "PREÇO": "524,49"
  },
  {
    "ITEM": 100012606,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "880,37"
+   "PREÇO": "938,52"
  },
  {
    "ITEM": 100012607,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "885,97"
+   "PREÇO": "943,63"
  },
  {
    "ITEM": 100012608,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "934,09"
+   "PREÇO": "989,50"
  },
  {
    "ITEM": 100012609,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - CONSTRUCAO DE PV - DIÂMETRO 1,20M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.303,62"
+   "PREÇO": "1.319,11"
  },
  {
    "ITEM": 100012610,
    "DESCRIÇÃO": "LPB - LEITO - CONSTRUCAO DE PV - DIÂMETRO 1,20M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "707,96"
+   "PREÇO": "716,64"
  },
  {
    "ITEM": 100012611,
    "DESCRIÇÃO": "LPB - LEITO - CONSTRUCAO DE PV - DIÂMETRO 1,20M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "992,95"
+   "PREÇO": "1.018,14"
  },
  {
    "ITEM": 100012612,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.234,01"
+   "PREÇO": "1.320,43"
  },
  {
    "ITEM": 100012613,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.239,61"
+   "PREÇO": "1.325,54"
  },
  {
    "ITEM": 100012614,
    "DESCRIÇÃO": "LPB - LEITO - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO - PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.306,21"
+   "PREÇO": "1.389,89"
  },
  {
    "ITEM": 100012615,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "111,25"
+   "PREÇO": "112,36"
  },
  {
    "ITEM": 100012616,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "265,98"
+   "PREÇO": "261,10"
  },
  {
    "ITEM": 100012617,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "265,98"
+   "PREÇO": "261,10"
  },
  {
    "ITEM": 100012618,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "127,14"
+   "PREÇO": "128,42"
  },
  {
    "ITEM": 100012619,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "307,00"
+   "PREÇO": "301,26"
  },
  {
    "ITEM": 100012620,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "307,00"
+   "PREÇO": "301,26"
  },
  {
    "ITEM": 100012621,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "127,14"
+   "PREÇO": "128,42"
  },
  {
    "ITEM": 100012622,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "307,00"
+   "PREÇO": "301,26"
  },
  {
    "ITEM": 100012623,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO / SUPRESSAO / RELIG DE RAMAL DE ESGOTO PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "307,00"
+   "PREÇO": "301,26"
  },
  {
    "ITEM": 100012624,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ATE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "107,07"
+   "PREÇO": "107,39"
  },
  {
    "ITEM": 100012625,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ACIMA DE 2,00M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "122,39"
+   "PREÇO": "122,76"
  },
  {
    "ITEM": 100012626,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ACIMA DE 2,01M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "276,77"
+   "PREÇO": "279,80"
  },
  {
    "ITEM": 100012627,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ATE 2,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "127,14"
+   "PREÇO": "128,42"
  },
  {
    "ITEM": 100012628,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ATE 2,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "307,00"
+   "PREÇO": "301,26"
  },
  {
    "ITEM": 100012629,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ATE 2,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "307,00"
+   "PREÇO": "301,26"
  },
  {
    "ITEM": 100012630,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ACIMA DE 2,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "143,04"
+   "PREÇO": "144,47"
  },
  {
    "ITEM": 100012631,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ACIMA DE 2,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "348,01"
+   "PREÇO": "341,44"
  },
  {
    "ITEM": 100012632,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - ASSENTAMENTO DE REDE COLETORA PROF. MEDIA ACIMA DE 2,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "348,01"
+   "PREÇO": "341,44"
  },
  {
    "ITEM": 100012633,
    "DESCRIÇÃO": "LPB - LEITO - CONSTRUCAO DE PV - DIÂMETRO 1,20M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.243,65"
+   "PREÇO": "1.269,07"
  },
  {
    "ITEM": 100012634,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - CONSTRUCAO DE PV - DIÂMETRO 1,20M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "523,69"
+   "PREÇO": "528,93"
  },
  {
    "ITEM": 100012635,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - CONSTRUCAO DE PV - DIÂMETRO 1,20M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.334,60"
+   "PREÇO": "1.307,50"
  },
  {
    "ITEM": 100012636,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - CONSTRUCAO DE PV - DIÂMETRO 1,20M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.642,57"
+   "PREÇO": "1.608,67"
  },
  {
    "ITEM": 100012637,
    "DESCRIÇÃO": "LRP - PASSEIO CIMENTADO - CONSTRUCAO PV E PI - DIAM ATE 1M / RECONSTRUCAO / SUBSTITUIÇÃO DE PV / PI",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "615,88"
+   "PREÇO": "616,61"
  },
  {
    "ITEM": 100012638,
    "DESCRIÇÃO": "LRP - PASSEIO ESPECIAL - CONSTRUCAO PV E PI - DIAM ATE 1M / RECONSTRUCAO / SUBSTITUIÇÃO DE PV / PI",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.329,11"
+   "PREÇO": "1.342,22"
  },
  {
    "ITEM": 100012639,
    "DESCRIÇÃO": "LPB - LEITO - CONSTRUCAO PV E PI - DIAM ATE 1M / RECONSTRUCAO / SUBSTITUIÇÃO DE PV / PI (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "944,22"
+   "PREÇO": "951,84"
  },
  {
    "ITEM": 100012640,
    "DESCRIÇÃO": "LPB - LEITO - CONSTRUCAO PV E PI - DIAM ATE 1M / RECONSTRUCAO / SUBSTITUIÇÃO DE PV / PI (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.057,40"
+   "PREÇO": "1.080,92"
  },
  {
    "ITEM": 100012641,
    "DESCRIÇÃO": "LPB - LEITO - CONSTRUCAO PV E PI - DIAM ATE 1M / RECONSTRUCAO / SUBSTITUIÇÃO DE PV / PI (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.318,33"
+   "PREÇO": "1.340,94"
  },
  {
    "ITEM": 100012642,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - CONSTRUCAO PV E PI - DIAM ATE 1M / RECONSTRUCAO / SUBSTITUIÇÃO DE PV / PI (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "596,31"
+   "PREÇO": "602,28"
  },
  {
    "ITEM": 100012643,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - CONSTRUCAO PV E PI - DIAM ATE 1M / RECONSTRUCAO / SUBSTITUIÇÃO DE PV / PI (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.531,69"
+   "PREÇO": "1.500,24"
  },
  {
    "ITEM": 100012644,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - CONSTRUCAO PV E PI - DIAM ATE 1M / RECONSTRUCAO / SUBSTITUIÇÃO DE PV / PI (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.531,69"
+   "PREÇO": "1.500,24"
  },
  {
    "ITEM": 100012645,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "594,13"
+   "PREÇO": "628,11"
  },
  {
    "ITEM": 100012646,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "598,72"
+   "PREÇO": "632,13"
  },
  {
    "ITEM": 100012647,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "637,80"
+   "PREÇO": "668,68"
  },
  {
    "ITEM": 100012648,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.235,27"
+   "PREÇO": "1.317,31"
  },
  {
    "ITEM": 100012649,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.237,97"
+   "PREÇO": "1.319,36"
  },
  {
    "ITEM": 100012650,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.283,27"
+   "PREÇO": "1.361,53"
  },
  {
    "ITEM": 100012651,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.735,42"
+   "PREÇO": "1.857,43"
  },
  {
    "ITEM": 100012652,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.738,12"
+   "PREÇO": "1.859,48"
  },
  {
    "ITEM": 100012653,
    "DESCRIÇÃO": "LPB - LEITO - REPARO DE REDE DE ESGOTO - PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.783,43"
+   "PREÇO": "1.901,66"
  },
  {
    "ITEM": 100012654,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. ATE 2,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "143,04"
+   "PREÇO": "144,47"
  },
  {
    "ITEM": 100012655,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. ATE 2,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "348,01"
+   "PREÇO": "341,44"
  },
  {
    "ITEM": 100012656,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. ATE 2,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "348,01"
+   "PREÇO": "341,44"
  },
  {
    "ITEM": 100012657,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. DE 2,01 A 3,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "173,38"
+   "PREÇO": "175,11"
  },
  {
    "ITEM": 100012658,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. DE 2,01 A 3,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "426,13"
+   "PREÇO": "417,94"
  },
  {
    "ITEM": 100012659,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. DE 2,01 A 3,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "426,13"
+   "PREÇO": "417,94"
  },
  {
    "ITEM": 100012660,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. DE 3,01 A 4,00M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "173,38"
+   "PREÇO": "175,11"
  },
  {
    "ITEM": 100012661,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. DE 3,01 A 4,00M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "426,13"
+   "PREÇO": "417,94"
  },
  {
    "ITEM": 100012662,
    "DESCRIÇÃO": "REPOSIÇÃO DE CAPA ASFÁLTICA CBUQ - REPARO DE REDE DE ESGOTO PROF. DE 3,01 A 4,00M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "426,13"
+   "PREÇO": "417,94"
  },
  {
    "ITEM": 100012670,
    "DESCRIÇÃO": "VISITA PARA COMUNICAÇÃO AO CLIENTE PARA PAGAMENTO E NEGOCIAÇÃO DE DÉBITOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "19,67"
+   "PREÇO": "19,78"
  },
  {
    "ITEM": 100012671,
    "DESCRIÇÃO": "ADICIONAL DE SUPRESSÃO / CORTE DO FORNECIMENTO DE ÁGUA – NO CAVALETE (EXCLUSIVO PARA TROCA DE HIDRÔMETROS)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "4,94"
  },
  {
+   "ITEM": 100021864,
+   "DESCRIÇÃO": "ADICIONAL DA MURETA PRÉ-FABRICADA COM CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA - SFMH",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "343,80"
+ },
+ {
+   "ITEM": 100021865,
+   "DESCRIÇÃO": "ADICIONAL DA MURETA PRÉ-FABRICADA COM CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.531,00"
+ },
+ {
+   "ITEM": 100021866,
+   "DESCRIÇÃO": "INSTALAÇÃO DE MURETA PRÉ-FABRICADA COM CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA (SFMH)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "377,51"
+ },
+ {
+   "ITEM": 100021867,
+   "DESCRIÇÃO": "INSTALAÇÃO DE MURETA PRÉ-FABRICADA COM CAIXA PARA UNIDADE DE MEDIÇÃO DE ÁGUA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.564,71"
+ },
+ {
+   "ITEM": 100003431,
+   "DESCRIÇÃO": "ADMINISTRADOR DE BANCO DE DADOS - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "135,90"
+ },
+ {
+   "ITEM": 100003432,
+   "DESCRIÇÃO": "ADMINISTRADOR DE BANCO DE DADOS - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "195,25"
+ },
+ {
+   "ITEM": 100003433,
+   "DESCRIÇÃO": "ADMINISTRADOR DE BANCO DE DADOS - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "250,05"
+ },
+ {
+   "ITEM": 100003434,
+   "DESCRIÇÃO": "ADMINISTRADOR DE EMPRESAS",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "307,64"
+ },
+ {
+   "ITEM": 100003435,
+   "DESCRIÇÃO": "ADMINISTRADOR DE REDES",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "184,35"
+ },
+ {
+   "ITEM": 100003436,
+   "DESCRIÇÃO": "ADVOGADO - JÚNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "174,72"
+ },
+ {
+   "ITEM": 100003437,
+   "DESCRIÇÃO": "ADVOGADO - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "196,92"
+ },
+ {
+   "ITEM": 100003438,
+   "DESCRIÇÃO": "ADVOGADO - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "288,81"
+ },
+ {
+   "ITEM": 100003439,
+   "DESCRIÇÃO": "AGRÔNOMO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "227,42"
+ },
+ {
+   "ITEM": 100003440,
+   "DESCRIÇÃO": "ANALISTA CONTÁBIL - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "116,61"
+ },
+ {
+   "ITEM": 100003441,
+   "DESCRIÇÃO": "ANALISTA CONTÁBIL - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "139,14"
+ },
+ {
+   "ITEM": 100003442,
+   "DESCRIÇÃO": "ANALISTA CONTÁBIL - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "217,42"
+ },
+ {
+   "ITEM": 100003443,
+   "DESCRIÇÃO": "ANALISTA DE LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "144,32"
+ },
+ {
+   "ITEM": 100003444,
+   "DESCRIÇÃO": "ANALISTA DE MARKETING",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "163,43"
+ },
+ {
+   "ITEM": 100003445,
+   "DESCRIÇÃO": "ANALISTA DE MERCADO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "189,97"
+ },
+ {
+   "ITEM": 100003446,
+   "DESCRIÇÃO": "ANALISTA DE RECURSOS HUMANOS - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "129,14"
+ },
+ {
+   "ITEM": 100003447,
+   "DESCRIÇÃO": "ANALISTA DE RECURSOS HUMANOS - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "166,17"
+ },
+ {
+   "ITEM": 100003448,
+   "DESCRIÇÃO": "ANALISTA DE RECURSOS HUMANOS - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "220,03"
+ },
+ {
+   "ITEM": 100003449,
+   "DESCRIÇÃO": "ANALISTA DE SISTEMAS - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "156,86"
+ },
+ {
+   "ITEM": 100003450,
+   "DESCRIÇÃO": "ANALISTA DE SISTEMAS - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "195,93"
+ },
+ {
+   "ITEM": 100003451,
+   "DESCRIÇÃO": "ANALISTA DE SISTEMAS - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "280,61"
+ },
+ {
+   "ITEM": 100003452,
+   "DESCRIÇÃO": "ANALISTA DE SUPORTE TÉCNICO - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "118,36"
+ },
+ {
+   "ITEM": 100003453,
+   "DESCRIÇÃO": "ANALISTA DE SUPORTE TÉCNICO - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "218,77"
+ },
+ {
+   "ITEM": 100003454,
+   "DESCRIÇÃO": "ANALISTA DE SUPORTE TÉCNICO - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "177,63"
+ },
+ {
+   "ITEM": 100003455,
+   "DESCRIÇÃO": "ANALISTA ECONÔMICO FINANCEIRO - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "111,66"
+ },
+ {
+   "ITEM": 100003456,
+   "DESCRIÇÃO": "ANALISTA ECONÔMICO FINANCEIRO - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "177,41"
+ },
+ {
+   "ITEM": 100003457,
+   "DESCRIÇÃO": "ANALISTA ECONÔMICO FINANCEIRO - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "240,91"
+ },
+ {
+   "ITEM": 100003458,
+   "DESCRIÇÃO": "ARQUEÓLOGO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "211,09"
+ },
+ {
+   "ITEM": 100003459,
+   "DESCRIÇÃO": "ARQUITETO - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "205,01"
+ },
+ {
+   "ITEM": 100003460,
+   "DESCRIÇÃO": "ARQUITETO - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "223,69"
+ },
+ {
+   "ITEM": 100003461,
+   "DESCRIÇÃO": "ARQUITETO - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "295,65"
+ },
+ {
+   "ITEM": 100003462,
+   "DESCRIÇÃO": "ASSISTENTE ADMINISTRATIVO E FINANCEIRO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "92,56"
+ },
+ {
+   "ITEM": 100003463,
+   "DESCRIÇÃO": "ASSISTENTE SOCIAL",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "155,13"
+ },
+ {
+   "ITEM": 100003464,
+   "DESCRIÇÃO": "AUDITOR - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "167,20"
+ },
+ {
+   "ITEM": 100003465,
+   "DESCRIÇÃO": "AUDITOR - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "221,06"
+ },
+ {
+   "ITEM": 100003466,
+   "DESCRIÇÃO": "AUDITOR - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "303,80"
+ },
+ {
+   "ITEM": 100003467,
+   "DESCRIÇÃO": "AUXILIAR ADMINISTRATIVO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "50,69"
+ },
+ {
+   "ITEM": 100003468,
+   "DESCRIÇÃO": "AUXILIAR DE LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "40,13"
+ },
+ {
+   "ITEM": 100003469,
+   "DESCRIÇÃO": "AUXILIAR DE TOPOGRAFIA",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "44,45"
+ },
+ {
+   "ITEM": 100003470,
+   "DESCRIÇÃO": "AUXILIAR TÉCNICO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "77,08"
+ },
+ {
+   "ITEM": 100003471,
+   "DESCRIÇÃO": "BIÓLOGO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "191,59"
+ },
+ {
+   "ITEM": 100003472,
+   "DESCRIÇÃO": "BIOQUÍMICO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "191,24"
+ },
+ {
+   "ITEM": 100003473,
+   "DESCRIÇÃO": "BOTÂNICO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "201,17"
+ },
+ {
+   "ITEM": 100003474,
+   "DESCRIÇÃO": "DESENHISTA TÉCNICO (CADISTA)",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "82,72"
+ },
+ {
+   "ITEM": 100003476,
+   "DESCRIÇÃO": "CONTADOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "285,26"
+ },
+ {
+   "ITEM": 100003477,
+   "DESCRIÇÃO": "COORDENADOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "545,87"
+ },
+ {
+   "ITEM": 100003478,
+   "DESCRIÇÃO": "DIGITADOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "63,30"
+ },
+ {
+   "ITEM": 100003479,
+   "DESCRIÇÃO": "ENGENHEIRO - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "233,84"
+ },
+ {
+   "ITEM": 100003480,
+   "DESCRIÇÃO": "ENGENHEIRO - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "248,97"
+ },
+ {
+   "ITEM": 100003481,
+   "DESCRIÇÃO": "ENGENHEIRO - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "373,62"
+ },
+ {
+   "ITEM": 100003482,
+   "DESCRIÇÃO": "ENGENHEIRO DE SEGURANÇA DO TRABALHO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "240,00"
+ },
+ {
+   "ITEM": 100003483,
+   "DESCRIÇÃO": "FISCAL DE OBRAS",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "84,32"
+ },
+ {
+   "ITEM": 100003484,
+   "DESCRIÇÃO": "GEÓGRAFO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "198,89"
+ },
+ {
+   "ITEM": 100003485,
+   "DESCRIÇÃO": "GEÓLOGO - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "215,12"
+ },
+ {
+   "ITEM": 100003486,
+   "DESCRIÇÃO": "GEÓLOGO - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "243,94"
+ },
+ {
+   "ITEM": 100003487,
+   "DESCRIÇÃO": "GEÓLOGO - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "353,90"
+ },
+ {
+   "ITEM": 100003488,
+   "DESCRIÇÃO": "PESQUISADOR CIENTÍFICO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "184,78"
+ },
+ {
+   "ITEM": 100003489,
+   "DESCRIÇÃO": "PESQUISADOR NÍVEL MÉDIO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "91,09"
+ },
+ {
+   "ITEM": 100003490,
+   "DESCRIÇÃO": "PROGRAMADOR - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "120,26"
+ },
+ {
+   "ITEM": 100003491,
+   "DESCRIÇÃO": "PROGRAMADOR - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "157,36"
+ },
+ {
+   "ITEM": 100003492,
+   "DESCRIÇÃO": "PROGRAMADOR - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "226,70"
+ },
+ {
+   "ITEM": 100003493,
+   "DESCRIÇÃO": "PROJETISTA - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "129,50"
+ },
+ {
+   "ITEM": 100003494,
+   "DESCRIÇÃO": "PROJETISTA - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "168,97"
+ },
+ {
+   "ITEM": 100003495,
+   "DESCRIÇÃO": "PROJETISTA - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "224,63"
+ },
+ {
+   "ITEM": 100003496,
+   "DESCRIÇÃO": "PSICÓLOGO DO TRABALHO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "166,70"
+ },
+ {
+   "ITEM": 100003497,
+   "DESCRIÇÃO": "QUÍMICO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "199,68"
+ },
+ {
+   "ITEM": 100003498,
+   "DESCRIÇÃO": "SECRETÁRIA PLENA - NÍVEL SUPERIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "126,55"
+ },
+ {
+   "ITEM": 100003499,
+   "DESCRIÇÃO": "SOCIÓLOGO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "193,11"
+ },
+ {
+   "ITEM": 100003500,
+   "DESCRIÇÃO": "TÉCNICO DE NIVEL MÉDIO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "103,38"
+ },
+ {
+   "ITEM": 100003501,
+   "DESCRIÇÃO": "TÉCNICO DE SEGURANÇA DO TRABALHO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "101,12"
+ },
+ {
+   "ITEM": 100003502,
+   "DESCRIÇÃO": "TÉCNICO QUÍMICO - NÍVEL MÉDIO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "112,24"
+ },
+ {
+   "ITEM": 100003503,
+   "DESCRIÇÃO": "TECNÓLOGO - JUNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "126,86"
+ },
+ {
+   "ITEM": 100003504,
+   "DESCRIÇÃO": "TECNÓLOGO - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "155,19"
+ },
+ {
+   "ITEM": 100003505,
+   "DESCRIÇÃO": "TECNÓLOGO - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "242,03"
+ },
+ {
+   "ITEM": 100003506,
+   "DESCRIÇÃO": "TOPÓGRAFO - JÚNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "71,95"
+ },
+ {
+   "ITEM": 100003507,
+   "DESCRIÇÃO": "TOPÓGRAFO - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "97,54"
+ },
+ {
+   "ITEM": 100003508,
+   "DESCRIÇÃO": "TOPÓGRAFO - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "128,72"
+ },
+ {
+   "ITEM": 100003509,
+   "DESCRIÇÃO": "WEB DESIGNER",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "150,29"
+ },
+ {
+   "ITEM": 100003510,
+   "DESCRIÇÃO": "CONSULTOR EXTERNO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "474,16"
+ },
+ {
+   "ITEM": 100003522,
+   "DESCRIÇÃO": "CÓPIA XEROGRÁFICA TAMANHO A4",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "0,30"
+ },
+ {
+   "ITEM": 100003523,
+   "DESCRIÇÃO": "CÓPIA XEROGRÁFICA TAMANHO A4 COLORIDA (90% NITIDEZ)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1,78"
+ },
+ {
+   "ITEM": 100003524,
+   "DESCRIÇÃO": "DIÁRIA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "330,00"
+ },
+ {
+   "ITEM": 100003525,
+   "DESCRIÇÃO": "ENCADERNAÇÃO COM ESPIRAL COM CAPA PLÁSTICA TRANSPARENTE E CONTRA-CAPA PLÁSTICA OPACA ACIMA DE 100 FOLHAS",
+   "DATA I0": "set/26",
+   "UNID": "VOL",
+   "PREÇO": "9,83"
+ },
+ {
+   "ITEM": 100003526,
+   "DESCRIÇÃO": "ENCADERNAÇÃO COM ESPIRAL COM CAPA PLÁSTICA TRANSPARENTE E CONTRA-CAPA PLÁSTICA OPACA ATÉ 100 FOLHAS",
+   "DATA I0": "set/26",
+   "UNID": "VOL",
+   "PREÇO": "8,17"
+ },
+ {
+   "ITEM": 100003527,
+   "DESCRIÇÃO": "IMPRESSÃO DE FOTOS EM PAPEL A4 COMUM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2,17"
+ },
+ {
+   "ITEM": 100003528,
+   "DESCRIÇÃO": "IMPRESSÃO DE FOTOS EM PAPEL A4 COUCHÊ ESPESSURA 115MM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2,82"
+ },
+ {
+   "ITEM": 100003529,
+   "DESCRIÇÃO": "IMPRESSÃO DE FOTOS EM PAPEL A4 COUCHÊ ESPESSURA 170MM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "3,77"
+ },
+ {
+   "ITEM": 100003530,
+   "DESCRIÇÃO": "IMPRESSÃO DE FOTOS EM PAPEL A4 COUCHÊ ESPESSURA 230MM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "4,20"
+ },
+ {
+   "ITEM": 100003533,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE COLORIDO A0",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "16,75"
+ },
+ {
+   "ITEM": 100003534,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE COLORIDO A1",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "13,00"
+ },
+ {
+   "ITEM": 100003535,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE COLORIDO A2",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "8,50"
+ },
+ {
+   "ITEM": 100003536,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE COLORIDO A3",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5,22"
+ },
+ {
+   "ITEM": 100003537,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE COLORIDO A4",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2,82"
+ },
+ {
+   "ITEM": 100003538,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE PRETO E BRANCO A0",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "12,10"
+ },
+ {
+   "ITEM": 100003539,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE PRETO E BRANCO A1",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "9,60"
+ },
+ {
+   "ITEM": 100003540,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE PRETO E BRANCO A2",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "6,87"
+ },
+ {
+   "ITEM": 100003541,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE PRETO E BRANCO A3",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "3,27"
+ },
+ {
+   "ITEM": 100003542,
+   "DESCRIÇÃO": "PLOTAGEM SULFITE PRETO E BRANCO A4",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2,03"
+ },
+ {
+   "ITEM": 100003553,
+   "DESCRIÇÃO": "REFEIÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "55,00"
+ },
+ {
+   "ITEM": 100003555,
+   "DESCRIÇÃO": "ABERTURA DE PICADAS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "4,02"
+ },
+ {
+   "ITEM": 100003556,
+   "DESCRIÇÃO": "CADASTRO DE INSTALAÇÕES EXISTENTES",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "2.888,99"
+ },
+ {
+   "ITEM": 100003557,
+   "DESCRIÇÃO": "CADASTRO DE INTERFERÊNCIAS SUBTERRÂNEAS",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "5.699,96"
+ },
+ {
+   "ITEM": 100003558,
+   "DESCRIÇÃO": "CADASTRO DE PROPRIEDADE COM SERVIÇOS TOPOGRÁFICOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.286,75"
+ },
+ {
+   "ITEM": 100003559,
+   "DESCRIÇÃO": "CADASTRO DE PROPRIEDADES",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "4.042,76"
+ },
+ {
+   "ITEM": 100003560,
+   "DESCRIÇÃO": "CADASTRO DE PVE, PVA, BL, PI, TL E OUTROS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "193,46"
+ },
+ {
+   "ITEM": 100003561,
+   "DESCRIÇÃO": "DETECÇÃO ELETROMAGNÉTICA DE INTERFERÊNCIAS",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "4.284,86"
+ },
+ {
+   "ITEM": 100003562,
+   "DESCRIÇÃO": "EQUIPE DE TOPOGRAFIA (SERVIÇOS DE IMPLANTAÇÃO DE PONTOS DE COORDENADAS COM A UTILIZAÇÃO DE SISTEMAS DE POSICIONAMENTO GLOBAL POR SATÉLITES-GPS).",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "2.913,05"
+ },
+ {
+   "ITEM": 100003563,
+   "DESCRIÇÃO": "EQUIPE DE TOPOGRAFIA (SERVIÇOS PLANIALTIMÉTRICOS)",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "3.135,91"
+ },
+ {
+   "ITEM": 100003564,
+   "DESCRIÇÃO": "EQUIPE DE TOPOGRAFIA (SERVIÇOS PLANIMÉTRICOS",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "2.892,57"
+ },
+ {
+   "ITEM": 100003565,
+   "DESCRIÇÃO": "FORNECIMENTO DE MARCO DE CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "146,20"
+ },
+ {
+   "ITEM": 100003566,
+   "DESCRIÇÃO": "IDENTIFICAÇÃO DE PROPRIEDADES",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.892,06"
+ },
+ {
+   "ITEM": 100003567,
+   "DESCRIÇÃO": "LAUDO DE AVALIAÇÃO DE IMÓVEIS PARA ÁREAS CONTIGUAS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.514,55"
+ },
+ {
+   "ITEM": 100003568,
+   "DESCRIÇÃO": "LAUDO DE AVALIAÇÃO DE IMÓVEIS PARA ÁREAS DISPERSAS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "3.868,53"
+ },
+ {
+   "ITEM": 100003569,
+   "DESCRIÇÃO": "LEVANTAMENTO BATIMÉTRICO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "3.372,95"
+ },
+ {
+   "ITEM": 100003570,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS ACIMA DE 100.000 M2 .",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "2.981,31"
+ },
+ {
+   "ITEM": 100003571,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS ATÉ 3.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.203,60"
+ },
+ {
+   "ITEM": 100003572,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS DE 10.001M2 ATÉ 20.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "3.898,66"
+ },
+ {
+   "ITEM": 100003573,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS DE 20.001 M2 ATÉ 50.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "3.620,16"
+ },
+ {
+   "ITEM": 100003574,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS DE 3.001 M2 ATÉ 10.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "4.223,53"
+ },
+ {
+   "ITEM": 100003575,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS DE 50.001 M2 ATÉ 100.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "3.378,84"
+ },
+ {
+   "ITEM": 100003576,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE FAIXAS ACIMA DE 60 M",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "3.896,18"
+ },
+ {
+   "ITEM": 100003577,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE FAIXAS ATÉ 30 M",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "6.331,29"
+ },
+ {
+   "ITEM": 100003578,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E CADASTRAL DE FAIXAS DE 31 ATÉ 60 M",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "8.441,70"
+ },
+ {
+   "ITEM": 100003579,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIALTIMÉTRICO E SEMI-CADASTRAL DE RUAS NOVAS",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "6.261,31"
+ },
+ {
+   "ITEM": 100003580,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO DE LINHA",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "3.352,73"
+ },
+ {
+   "ITEM": 100003581,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS ACIMA DE 100.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "2.958,27"
+ },
+ {
+   "ITEM": 100003582,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS ATÉ 3.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.295,56"
+ },
+ {
+   "ITEM": 100003583,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS DE 10.001 M2 ATÉ 20.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "3.868,53"
+ },
+ {
+   "ITEM": 100003584,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS DE 20.001 M2 ATÉ 50.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "3.592,18"
+ },
+ {
+   "ITEM": 100003585,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS DE 3.001 M2 ATÉ 10.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "4.190,89"
+ },
+ {
+   "ITEM": 100003586,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE ÁREAS ESPECIAIS DE 50.001 M2 ATÉ 100.000 M2",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "3.352,73"
+ },
+ {
+   "ITEM": 100003587,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE FAIXAS ATÉ 30 M",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "6.286,36"
+ },
+ {
+   "ITEM": 100003588,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE FAIXAS DE 31 M ATÉ 60 M",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "8.381,80"
+ },
+ {
+   "ITEM": 100003589,
+   "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO E CADASTRAL DE FAIXAS DE ACIMA DE 60 M",
+   "DATA I0": "set/26",
+   "UNID": "HA",
+   "PREÇO": "3.592,18"
+ },
+ {
+   "ITEM": 100003590,
+   "DESCRIÇÃO": "LEVANTAMENTO, NIVELAMENTO E LOCAÇÃO DE FUROS DE SONDAGEM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "148,85"
+ },
+ {
+   "ITEM": 100003591,
+   "DESCRIÇÃO": "LOCAÇÃO DE LINHAS",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "4.190,89"
+ },
+ {
+   "ITEM": 100003592,
+   "DESCRIÇÃO": "LOCAÇÃO E LEVANTAMENTO PLANIALTIMÉTRICO DE SEÇÕES TOPOGRÁFICAS TRANSVERSAIS",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "6.400,99"
+ },
+ {
+   "ITEM": 100003593,
+   "DESCRIÇÃO": "LOCAÇÃO E NIVELAMENTO DE SOLEIRAS BAIXAS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "246,48"
+ },
+ {
+   "ITEM": 100003594,
+   "DESCRIÇÃO": "LOCAÇÃO, NIVELAMENTO, ESTAQUEAMENTO E AMARRAÇÃO DE PONTOS REPRESENTATIVOS PARA O PROJETO EXECUTIVO DE REDE COLETORA DE ESGOTOS E DE REDE DE ABASTECIMENTO DE ÁGUA",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "6.161,37"
+ },
+ {
+   "ITEM": 100003595,
+   "DESCRIÇÃO": "NIVELAMENTO GEOMÉTRICO DE CRUZAMENTO DE RUAS, PONTOS DE MUDANÇA DE GREIDE E PONTOS DE MUDANÇA DE DIREÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "2.594,25"
+ },
+ {
+   "ITEM": 100003596,
+   "DESCRIÇÃO": "TRANSPORTE DE COORDENADAS - CLASSE I",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "2.165,53"
+ },
+ {
+   "ITEM": 100003597,
+   "DESCRIÇÃO": "TRANSPORTE DE COORDENADAS - CLASSE II",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "2.220,62"
+ },
+ {
+   "ITEM": 100003598,
+   "DESCRIÇÃO": "TRANSPORTE DE COTAS",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "1.650,09"
+ },
+ {
+   "ITEM": 100003599,
+   "DESCRIÇÃO": "TRANSPORTE DE REFERÊNCIA DE NÍVEL (NIVELAMENTO GEOMÉTRICO DE PRECISÃO)",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "2.154,68"
+ },
+ {
+   "ITEM": 100003601,
+   "DESCRIÇÃO": "MOBILIZAÇÃO/DESMOBILIZAÇÃO - DISTÂNCIAS ENTRE 151 ATÉ 300 KM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.735,59"
+ },
+ {
+   "ITEM": 100003602,
+   "DESCRIÇÃO": "MOBILIZAÇÃO/DESMOBILIZAÇÃO - DISTÂNCIAS ENTRE 301 ATÉ 600 KM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "4.255,36"
+ },
+ {
+   "ITEM": 100003603,
+   "DESCRIÇÃO": "MOBILIZAÇÃO/DESMOBILIZAÇÃO - DISTÂNCIAS ENTRE 61 ATÉ 150 KM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.823,72"
+ },
+ {
+   "ITEM": 100003908,
+   "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "12,77"
+ },
+ {
+   "ITEM": 100003909,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE POÇOS ACIMA DE 200 METROS - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "252,60"
+ },
+ {
+   "ITEM": 100003910,
+   "DESCRIÇÃO": "DESMONTE EM SOLO DE ALTERAÇÃO DE ROCHA, UTILIZANDO ROMPEDOR DE AR COMPRIMIDO - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "1.791,50"
+ },
+ {
+   "ITEM": 100003911,
+   "DESCRIÇÃO": "EXECUÇÃO DE ESCORAMENTO COM FORNECIMENTO DE MATERIAL - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "M2",
+   "PREÇO": "471,50"
+ },
+ {
+   "ITEM": 100003912,
+   "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO, POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60 KM - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.222,00"
+ },
+ {
+   "ITEM": 100003913,
+   "DESCRIÇÃO": "PERFURAÇÃO EM SOLO - FURO COM PROFUNDIDADE ACIMA DE 5 METROS ATÉ 10 METROS - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "922,00"
+ },
+ {
+   "ITEM": 100003914,
+   "DESCRIÇÃO": "PERFURAÇÃO EM SOLO - FURO COM PROFUNDIDADE ATÉ 5 METROS - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "806,50"
+ },
+ {
+   "ITEM": 100003915,
+   "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM PROFUNDIDADE ACIMA DOS 10 METROS INICIAIS - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "1.149,75"
+ },
+ {
+   "ITEM": 100003916,
+   "DESCRIÇÃO": "RETIRADA E ACONDICIONAMENTO DE AMOSTRA INDEFORMADA POR BLOCO APROVEITÁVEL - POÇOS DE INSPEÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.095,46"
+ },
+ {
+   "ITEM": 100003917,
+   "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "6,02"
+ },
+ {
+   "ITEM": 100003918,
+   "DESCRIÇÃO": "COLETA DE AMOSTRA E ACONDICIONAMENTO EM RECIPIENTE COM TAMPA HERMÉTICA PARA CARACTERIZAÇÃO TÁCTIL-VISUAL - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "24,14"
+ },
+ {
+   "ITEM": 100003919,
+   "DESCRIÇÃO": "COLETA DE AMOSTRA (20KG) E ACONDICIONAMENTO EM SACO DE LONA PARA ENSAIOS DE CARACTERIZAÇÃO DE SOLOS - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "40,37"
+ },
+ {
+   "ITEM": 100003920,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 100 METROS ATÉ 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "157,29"
+ },
+ {
+   "ITEM": 100003921,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 200 METROS - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "183,51"
+ },
+ {
+   "ITEM": 100003922,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 50 METROS ATÉ 100 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "131,14"
+ },
+ {
+   "ITEM": 100003923,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ATÉ 50 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "104,87"
+ },
+ {
+   "ITEM": 100003924,
+   "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO, POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60 KM - SONDAGEM ATRADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.800,02"
+ },
+ {
+   "ITEM": 100003925,
+   "DESCRIÇÃO": "PERFURAÇÃO DE FURO COM PROFUNDIDADE ACIMA DE 5 METROS ATÉ 10 METROS - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "234,50"
+ },
+ {
+   "ITEM": 100003926,
+   "DESCRIÇÃO": "PERFURAÇÃO DE FURO COM PROFUNDIDADE ACIMA DOS 10 METROS INICIAIS - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "275,71"
+ },
+ {
+   "ITEM": 100003927,
+   "DESCRIÇÃO": "PERFURAÇÃO DE FURO COM PROFUNDIDADE ATÉ 5 METROS - SONDAGEM A TRADO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "187,56"
+ },
+ {
+   "ITEM": 100003928,
+   "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "7,97"
+ },
+ {
+   "ITEM": 100003929,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 100 METROS ATÉ 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "365,91"
+ },
+ {
+   "ITEM": 100003930,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 50 METROS ATÉ 100 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "334,56"
+ },
+ {
+   "ITEM": 100003931,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DOS 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "294,39"
+ },
+ {
+   "ITEM": 100003932,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ATÉ 50 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "323,26"
+ },
+ {
+   "ITEM": 100003933,
+   "DESCRIÇÃO": "ENSAIO DE PENETRAÇÃO SPT - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "140,52"
+ },
+ {
+   "ITEM": 100003934,
+   "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60KM - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.728,34"
+ },
+ {
+   "ITEM": 100003935,
+   "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MANUAL (SEM ENSAIO SPT) - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "137,75"
+ },
+ {
+   "ITEM": 100003936,
+   "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MANUAL, DIÂMETRO 2 ½ POLEGADAS: FURO COM UM ENSAIO DE PENETRAÇÃO SPT A CADA METRO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "247,98"
+ },
+ {
+   "ITEM": 100003937,
+   "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "8,81"
+ },
+ {
+   "ITEM": 100003938,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 100 METROS ATÉ 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "577,50"
+ },
+ {
+   "ITEM": 100003939,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 50 METROS ATÉ 100 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "519,75"
+ },
+ {
+   "ITEM": 100003940,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DOS 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "866,25"
+ },
+ {
+   "ITEM": 100003941,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ATÉ 50 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "404,25"
+ },
+ {
+   "ITEM": 100003942,
+   "DESCRIÇÃO": "ENSAIO DE PENETRAÇÃO SPT - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "231,07"
+ },
+ {
+   "ITEM": 100003943,
+   "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60KM - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.637,50"
+ },
+ {
+   "ITEM": 100003944,
+   "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MECANIZADA, DIÂMETRO 70MM (INT.) E 156MM (EXT.) COM ENSAIO SPT A CADA METRO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "312,68"
+ },
+ {
+   "ITEM": 100003945,
+   "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MECANIZADA, DIÂMETRO 70MM (INT.) E 156MM (EXT.) SEM ENSAIO SPT - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "247,48"
+ },
+ {
+   "ITEM": 100003946,
+   "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MECANIZADA, DIÂMETRO 95MM (INT.) E 181MM (EXT.) COM ENSAIO SPT A CADA METRO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "359,51"
+ },
+ {
+   "ITEM": 100003947,
+   "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MECANIZADA, DIÂMETRO 95MM (INT.) E 181MM (EXT.) SEM ENSAIO SPT - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "311,03"
+ },
+ {
+   "ITEM": 100003948,
+   "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "34,99"
+ },
+ {
+   "ITEM": 100003949,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 100 METROS ATÉ 200 METROS, INCLUSIVE DESMONTAGEM E REINSTALAÇÃO - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.839,36"
+ },
+ {
+   "ITEM": 100003950,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 50 METROS ATÉ 100 METROS, INCLUSIVE DESMONTAGEM E REINSTALAÇÃO - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.679,03"
+ },
+ {
+   "ITEM": 100003951,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DOS 200 METROS, INCLUSIVE DESMONTAGEM E REINSTALAÇÃO - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.999,67"
+ },
+ {
+   "ITEM": 100003952,
+   "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ATÉ 50 METROS, INCLUSIVE DESMONTAGEM E REINSTALAÇÃO - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.475,00"
+ },
+ {
+   "ITEM": 100003953,
+   "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60KM - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "8.329,34"
+ },
+ {
+   "ITEM": 100003954,
+   "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA COM COROA DE DIAMANTE, BARRILETE DUPLO LIVRE, FURO INCLINADO DE 11 GR A 90 GR COM A VERTICAL, DIÂMETRO HW OU EQUIVALENTE, INCLUSIVE AMOSTRAGEM - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "1.587,26"
+ },
+ {
+   "ITEM": 100003955,
+   "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA COM COROA DE DIAMANTE, BARRILETE DUPLO LIVRE, FURO INCLINADO DE 11 GR A 90 GR COM A VERTICAL, DIÂMETRO NW OU EQUIVALENTE, INCLUSIVE AMOSTRAGEM - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "1.352,07"
+ },
+ {
+   "ITEM": 100003956,
+   "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA COM COROA DE DIAMANTE, BARRILETE DUPLO LIVRE, FURO VERTICAL OU INCLINADO ATÉ 10GR COM A VERTICAL, DIÂMETRO HW OU EQUIVALENTE, INCLUSIVE AMOSTRAGEM - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "1.326,57"
+ },
+ {
+   "ITEM": 100003957,
+   "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA COM COROA DE DIAMANTE, BARRILETE DUPLO LIVRE, FURO VERTICAL OU INCLINADO ATÉ 10GR COM A VERTICAL, DIÂMETRO NW OU EQUIVALENTE, INCLUSIVE AMOSTRAGEM - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "1.203,64"
+ },
+ {
+   "ITEM": 100003958,
+   "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM COROA DE WIDIA, FURO INCLINADO DE 11 GR A 90 GR COM A VERTICAL, DIÂMETRO HW (INCLUSO AMOSTRAGEM) - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "780,15"
+ },
+ {
+   "ITEM": 100003959,
+   "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM COROA DE WIDIA, FURO INCLINADO DE 11 GR A 90 GR COM A VERTICAL, DIÂMETRO NW (INCLUSO AMOSTRAGEM)- SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "680,85"
+ },
+ {
+   "ITEM": 100003960,
+   "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM COROA DE WIDIA, FURO VERTICAL OU INCLINADO ATÉ 10 GR COM A VERTICAL, DIÂMETRO HW (INCLUSO AMOSTRAGEM) - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "635,12"
+ },
+ {
+   "ITEM": 100003961,
+   "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM COROA DE WIDIA, FURO VERTICAL OU INCLINADO ATÉ 10 GR COM A VERTICAL, DIÂMETRO NW (INCLUSO AMOSTRAGEM) - SONDAGEM ROTATIVA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "556,00"
+ },
+ {
+   "ITEM": 100003971,
+   "DESCRIÇÃO": "DESLOCAMENTO DE PLATAFORMA FLUTUANTE AO LONGO DO RIO COM EQUIPAMENTO MONTADO - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "136,85"
+ },
+ {
+   "ITEM": 100003972,
+   "DESCRIÇÃO": "DESLOCAMENTO DE PLATAFORMA FLUTUANTE EM ÁREA MARÍTIMA COSTEIRA - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "153,85"
+ },
+ {
+   "ITEM": 100003973,
+   "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA COM DIMENSÃO MÍNIMA DE 5X5M EM TERRENO ALAGADO COM LÂMINA DÁGUA ATÉ 40CM - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.887,50"
+ },
+ {
+   "ITEM": 100003974,
+   "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA COM DIMENSÃO MÍNIMA DE 5X5M EM TERRENO SECO COM ATÉ 10GR DE INCLINAÇÃO - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.585,54"
+ },
+ {
+   "ITEM": 100003975,
+   "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA COM DIMENSÃO MÍNIMA DE 5X5M EM TERRENO SECO COM MAIS DE 10GR DE INCLINAÇÃO - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.915,00"
+ },
+ {
+   "ITEM": 100003976,
+   "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA FLUTUANTE COM DIMENSÃO MÍNIMA DE 5X5M, EM TERRENO ALAGADO OU TRECHO DE RIO COM LÂMINA D´ÁGUA SUPERIOR A 40 CM - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "4.951,51"
+ },
+ {
+   "ITEM": 100003977,
+   "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA FLUTUANTE EM ÁREA MARÍTIMA COSTEIRA - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "19.179,60"
+ },
+ {
+   "ITEM": 100003978,
+   "DESCRIÇÃO": "APLICAÇÃO DE BENTONITA POR GRAVIDADE OU COM BOMBA MANUAL E CONTROLE DE PRESSÃO PARA OBTURAR FUROS - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS",
+   "DATA I0": "set/26",
+   "UNID": "KG",
+   "PREÇO": "15,36"
+ },
+ {
+   "ITEM": 100003979,
+   "DESCRIÇÃO": "CIMENTO APLICADO POR GRAVIDADE OU COM BOMBA MANUAL E CONTROLE DE PRESSÃO PARA OBTURAÇÃO DOS FUROS - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS",
+   "DATA I0": "set/26",
+   "UNID": "KG",
+   "PREÇO": "6,42"
+ },
+ {
+   "ITEM": 100003980,
+   "DESCRIÇÃO": "DETERMINAÇÃO DE INCLINAÇÃO DO FURO DE SONDAGEM COM ÁCIDO FLUORIDRÍCO - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.861,05"
+ },
+ {
+   "ITEM": 100003981,
+   "DESCRIÇÃO": "ENSAIO DE INFILTRAÇÃO PELO MÉTODO USBR OU SIMILAR - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "771,50"
+ },
+ {
+   "ITEM": 100003982,
+   "DESCRIÇÃO": "ENSAIO DE LAVAGEM POR TEMPO DE ATÉ 30 MINUTOS DE DURAÇÃO - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "267,64"
+ },
+ {
+   "ITEM": 100003983,
+   "DESCRIÇÃO": "ENSAIOS DE PERDA D’ÁGUA COM 5 ESTÁGIOS DE PRESSÃO DE 10 MINUTOS COM OBTURADOR DE BORRACHA DUPLO - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.150,74"
+ },
+ {
+   "ITEM": 100003984,
+   "DESCRIÇÃO": "ENSAIOS DE PERDA D’ÁGUA COM 5 ESTÁGIOS DE PRESSÃO DE 10 MINUTOS COM OBTURADOR DE BORRACHA SIMPLES - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.103,90"
+ },
+ {
+   "ITEM": 100004006,
+   "DESCRIÇÃO": "EQUIPAMENTO DE ENSAIO À DISPOSIÇÃO - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR",
+   "DATA I0": "set/26",
+   "UNID": "DIA",
+   "PREÇO": "4.500,00"
+ },
+ {
+   "ITEM": 100004007,
+   "DESCRIÇÃO": "EXECUÇÃO DE PROVA DE CARGA ACIMA DE 30 TONELADAS ATÉ 60 TONELADAS - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "13.520,00"
+ },
+ {
+   "ITEM": 100004008,
+   "DESCRIÇÃO": "EXECUÇÃO DE PROVA DE CARGA ACIMA DE 60 TONELADAS ATÉ 90 TONELADAS - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "13.520,00"
+ },
+ {
+   "ITEM": 100004009,
+   "DESCRIÇÃO": "EXECUÇÃO DE PROVA DE CARGA ACIMA DE 90 TONELADAS - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "13.520,00"
+ },
+ {
+   "ITEM": 100004010,
+   "DESCRIÇÃO": "EXECUÇÃO DE PROVA DE CARGA ATÉ 30 TONELADAS - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "13.520,00"
+ },
+ {
+   "ITEM": 100004011,
+   "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO POR EQUIPE/EQUIPAMENTO - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "8.812,99"
+ },
+ {
+   "ITEM": 100004012,
+   "DESCRIÇÃO": "ADENSAMENTO EDOMÉTRICO POR CICLO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.345,11"
+ },
+ {
+   "ITEM": 100004013,
+   "DESCRIÇÃO": "SOLOS - ANÁLISE GRANULOMÉTRICA POR PENEIRAMENTO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "214,49"
+ },
+ {
+   "ITEM": 100004014,
+   "DESCRIÇÃO": "SOLOS - ANÁLISE GRANULOMÉTRICA SEDIMENTAÇÃO E PENEIRAMENTO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "438,00"
+ },
+ {
+   "ITEM": 100004015,
+   "DESCRIÇÃO": "COMPRESSÃO TRIAXIAL ADENSADO RÁPIDO COM MEDIDA DA PRESSÃO NEUTRA E C/ RUPTURA DE 3 CP - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.234,07"
+ },
+ {
+   "ITEM": 100004016,
+   "DESCRIÇÃO": "COMPRESSÃO TRIAXIAL LENTO COM RUPTURA DE 3 CP - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.501,29"
+ },
+ {
+   "ITEM": 100004017,
+   "DESCRIÇÃO": "ENSAIO CBR (5 PONTOS) - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "650,00"
+ },
+ {
+   "ITEM": 100004018,
+   "DESCRIÇÃO": "ENSAIO DE ADENSAMENTO - DETERMINAÇÃO DE K E CV EM 3 PONTOS - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "342,10"
+ },
+ {
+   "ITEM": 100004019,
+   "DESCRIÇÃO": "ENSAIO DE PERMEABILIDADE - CARGA CONSTANTE - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "755,23"
+ },
+ {
+   "ITEM": 100004020,
+   "DESCRIÇÃO": "ENSAIO DE PERMEABILIDADE - CARGA VARIÁVEL - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "572,49"
+ },
+ {
+   "ITEM": 100004021,
+   "DESCRIÇÃO": "ENSAIOS DE COMPACTAÇÃO PROCTOR NORMAL - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "249,61"
+ },
+ {
+   "ITEM": 100004022,
+   "DESCRIÇÃO": "SOLOS - LIMITE DE CONTRAÇÃO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "272,09"
+ },
+ {
+   "ITEM": 100004023,
+   "DESCRIÇÃO": "SOLOS - LIMITES DE ATTERBERG - LIMITE DE LIQUIDEZ E LIMITE DE PLASTICIDADE - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "268,50"
+ },
+ {
+   "ITEM": 100004024,
+   "DESCRIÇÃO": "SOLOS - MASSA ESPECÍFICA APARENTE NATURAL - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "99,24"
+ },
+ {
+   "ITEM": 100004025,
+   "DESCRIÇÃO": "SOLOS - MASSA ESPECÍFICA REAL DOS GRÃOS - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "112,67"
+ },
+ {
+   "ITEM": 100004026,
+   "DESCRIÇÃO": "RETIRADA E PREPARAÇÃO DE CORPO DE PROVA INDEFORMADO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "696,72"
+ },
+ {
+   "ITEM": 100004027,
+   "DESCRIÇÃO": "SOLOS - UMIDADE NATURAL - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "89,50"
+ },
+ {
+   "ITEM": 100004028,
+   "DESCRIÇÃO": "EQUIPE DE LEITURA DE INSTRUMENTAÇÃO GEOTÉCNICA TIPO A (PIEZÔMETRO, PINOS DE RECALQUE, MRS, TASSÔMETRO, CONVERGÊNCIA E RNP) - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "2.728,02"
+ },
+ {
+   "ITEM": 100004029,
+   "DESCRIÇÃO": "EQUIPE DE LEITURA DE INSTRUMENTAÇÃO GEOTÉCNICA TIPO B ( INCLINÔMETRO, PIEZÔMETRO, PINOS DE RECALQUE, MRS, TASSÔMETRO, CONVERGÊNCIA E RNP) - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "3.355,21"
+ },
+ {
+   "ITEM": 100004030,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE ARANHA MAGNÉTICA COM TUBULAÇÃO NO INTERIOR DA PERFURAÇÃO (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "1.213,75"
+ },
+ {
+   "ITEM": 100004031,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE CAIXA DE PROTEÇÃO DA CABEÇA DE INSTRUMENTO TUBULAR - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "607,23"
+ },
+ {
+   "ITEM": 100004032,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE INCLINÔMETRO (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "805,00"
+ },
+ {
+   "ITEM": 100004033,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE MARCO DE DESLOCAMENTO COM PRISMA FIXO - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "281,78"
+ },
+ {
+   "ITEM": 100004034,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PERFILÔMETRO (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "921,69"
+ },
+ {
+   "ITEM": 100004035,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PIEZÔMETRO OU MNA (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "309,80"
+ },
+ {
+   "ITEM": 100004036,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PINO DE CONVERGÊNCIA - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "259,63"
+ },
+ {
+   "ITEM": 100004037,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PINO DE RECALQUE - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "172,98"
+ },
+ {
+   "ITEM": 100004038,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PLACA DE RECALQUE SUPERFICIAL - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "760,23"
+ },
+ {
+   "ITEM": 100004039,
+   "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE TASSÔMETRO OU RNP (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "438,90"
+ },
+ {
+   "ITEM": 100004040,
+   "DESCRIÇÃO": "ABSORÇÃO D'ÁGUA POR CAPILARIDADE - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "329,54"
+ },
+ {
+   "ITEM": 100004041,
+   "DESCRIÇÃO": "ABSORÇÃO D'ÁGUA POR IMERSÃO E FERVURA, ÍNDICE DE VAZIOS E MASSA ESPECÍFICA - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "474,97"
+ },
+ {
+   "ITEM": 100004042,
+   "DESCRIÇÃO": "ÁGUA PARA AMASSAMENTO E CURA DE ARGAMASSA E CONCRETO - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.636,42"
+ },
+ {
+   "ITEM": 100004043,
+   "DESCRIÇÃO": "AVALIAÇÃO DA DUREZA SUPERFICIAL DE CONCRETO POR ESCLERÔMETRO DE REFLEXÃO - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.180,00"
+ },
+ {
+   "ITEM": 100004044,
+   "DESCRIÇÃO": "COMPRESSÃO AXIAL EM CP's CILINDRICOS, INCLUSO CAPEAMENTO E RUPTURA - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "36,57"
+ },
+ {
+   "ITEM": 100004045,
+   "DESCRIÇÃO": "DETERMINAÇÃO DO COBRIMENTO DA ARMADURA COM EMPREGO DE PACÔMETRO - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.288,07"
+ },
+ {
+   "ITEM": 100004046,
+   "DESCRIÇÃO": "EXTRAÇÃO DE CP NO CAMPO (DIÂM. 50, 75 ou 100 mm), INCLUSO CAPEAMENTO E RUPTURA - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "775,89"
+ },
+ {
+   "ITEM": 100004047,
+   "DESCRIÇÃO": "EXTRAÇÃO DE CP NO LABORATÓRIO (DIÂM. 50, 75 ou 100 mm), INCLUSO CAPEAMENTO E RUPTURA - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "619,34"
+ },
+ {
+   "ITEM": 100004048,
+   "DESCRIÇÃO": "MÓDULO DE DEFORMAÇÃO SECANTE ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "761,54"
+ },
+ {
+   "ITEM": 100004049,
+   "DESCRIÇÃO": "PENETRAÇÃO D'ÁGUA SOB PRESSÃO - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "969,61"
+ },
+ {
+   "ITEM": 100004050,
+   "DESCRIÇÃO": "RECONSTITUIÇÃO DE TRAÇO PARA CONCRETO ENDURECIDO - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "3.536,89"
+ },
+ {
+   "ITEM": 100004051,
+   "DESCRIÇÃO": "RECONSTITUIÇÃO DE TRAÇO PARA CONCRETO FRESCO - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "3.256,87"
+ },
+ {
+   "ITEM": 100004052,
+   "DESCRIÇÃO": "VERIFICAÇÃO DA COMPACIDADE DO CONCRETO POR MEIO DE ULTRASSOM - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "3.519,61"
+ },
+ {
+   "ITEM": 100004053,
+   "DESCRIÇÃO": "VERIFICAÇÃO DE DOSAGEM DE CONCRETO OU ARGAMASSA CONVENCIONAL OU BOMBEÁVEL - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.842,09"
+ },
+ {
+   "ITEM": 100004054,
+   "DESCRIÇÃO": "VERIFICAÇÃO DE DOSAGEM DE CONCRETO OU ARGAMASSA CONVENCIONAL OU BOMBEÁVEL, POR TRAÇO ADICIONAL NA MESMA OCASIÃO - ENSAIOS EM CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.446,69"
+ },
+ {
+   "ITEM": 100004055,
+   "DESCRIÇÃO": "ÍNDICE DE REFLEXÃO EM PLACA - ENSAIOS EM CONCRETO PROJETADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "473,69"
+ },
+ {
+   "ITEM": 100004056,
+   "DESCRIÇÃO": "ÍNDICE DE REFLEXÃO POR MEDIÇÃO DIRETA - ENSAIOS EM CONCRETO PROJETADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "481,20"
+ },
+ {
+   "ITEM": 100004057,
+   "DESCRIÇÃO": "RESISTÊNCIA À COMPRESSÃO POR MEIO DA AGULHA DE MAYNADIER - ENSAIOS EM CONCRETO PROJETADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "473,21"
+ },
+ {
+   "ITEM": 100004058,
+   "DESCRIÇÃO": "RESISTÊNCIA À COMPRESSÃO POR PENETRÔMETRO DE PROFUNDIDADE CONSTANTE - ENSAIOS EM CONCRETO PROJETADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "468,32"
+ },
+ {
+   "ITEM": 100004059,
+   "DESCRIÇÃO": "VERIFICAÇÃO DE TRAÇO DE CONCRETO PROJETADO - ENSAIOS EM CONCRETO PROJETADO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.253,52"
+ },
+ {
+   "ITEM": 100004060,
+   "DESCRIÇÃO": "COMPATIBILIDADE CIMENTO ADITIVO ACELERADOR DE PEGA COM EMPREGO DA AGULHA DE GUILLMORE - ENSAIOS EM ADITIVOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "2.068,00"
+ },
+ {
+   "ITEM": 100004061,
+   "DESCRIÇÃO": "ENSAIO DE VERIFICAÇÃO DE DESEMPENHO DE ADITIVO PARA CONCRETO CONVENCIONAL - ENSAIOS EM ADITIVOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "3.230,84"
+ },
+ {
+   "ITEM": 100004062,
+   "DESCRIÇÃO": "ENSAIOS DE UNIFORMIDADE DE ADITIVO PARA CONCRETO - ENSAIOS EM ADITIVOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.663,70"
+ },
+ {
+   "ITEM": 100004063,
+   "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP I – COMUM - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.486,15"
+ },
+ {
+   "ITEM": 100004064,
+   "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP II E - COMPOSTO COM ESCÓRIA - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.486,15"
+ },
+ {
+   "ITEM": 100004065,
+   "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP II F - COMPOSTO COM FILLER - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.486,15"
+ },
+ {
+   "ITEM": 100004066,
+   "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP II Z - COMPOSTO COM POZOLANA - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.486,15"
+ },
+ {
+   "ITEM": 100004067,
+   "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP III - ALTO FORNO - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.486,15"
+ },
+ {
+   "ITEM": 100004068,
+   "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP IV – POZOLÂNICO - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.486,15"
+ },
+ {
+   "ITEM": 100004069,
+   "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP RS – RESISTENTE A SULFATOS - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.486,15"
+ },
+ {
+   "ITEM": 100004070,
+   "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP V - ALTA RESISTÊNCIA INICIAL - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "5.486,15"
+ },
+ {
+   "ITEM": 100004071,
+   "DESCRIÇÃO": "ÁREA ESPECÍFICA BLAINE - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "692,06"
+ },
+ {
+   "ITEM": 100004072,
+   "DESCRIÇÃO": "ENSAIOS DE CONTROLE DE RECEBIMENTO, INCLUSO ENSAIOS DE FINURA, ÁREA ESPECÍFICA, TEMPOS DE PEGA E RESISTÊNCIA A COMPRESSÃO AOS 03, 07 E 28 DIAS - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.559,00"
+ },
+ {
+   "ITEM": 100004073,
+   "DESCRIÇÃO": "EXPANSIBILIDADE \"LE CHATELLIER\" Á QUENTE OU Á FRIO - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "536,66"
+ },
+ {
+   "ITEM": 100004074,
+   "DESCRIÇÃO": "FINURA POR MEIO DA PENEIRA # 200 - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "212,06"
+ },
+ {
+   "ITEM": 100004075,
+   "DESCRIÇÃO": "MASSA ESPECÍFICA - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "303,83"
+ },
+ {
+   "ITEM": 100004076,
+   "DESCRIÇÃO": "RESISTÊNCIA Ä COMPRESSÃO - POR IDADE ADICIONAL - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "290,50"
+ },
+ {
+   "ITEM": 100004077,
+   "DESCRIÇÃO": "RESISTÊNCIA A COMPRESSÃO AXIAL AOS 03, 07 E 28 DIAS OU 24 HORAS, 03 E 07 DIAS - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "814,65"
+ },
+ {
+   "ITEM": 100004078,
+   "DESCRIÇÃO": "TEMPOS DE PEGA - ENSAIOS EM CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "360,57"
+ },
+ {
+   "ITEM": 100004079,
+   "DESCRIÇÃO": "EXSUDAÇÃO E EXPANSÃO - ENSAIOS EM CALDA DE CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "217,78"
+ },
+ {
+   "ITEM": 100004080,
+   "DESCRIÇÃO": "ÍNDICE DE FLUIDEZ - ENSAIOS EM CALDA DE CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "348,38"
+ },
+ {
+   "ITEM": 100004081,
+   "DESCRIÇÃO": "RESISTÊNCIA À COMPRESSÃO AXIAL - ENSAIOS EM CALDA DE CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "191,50"
+ },
+ {
+   "ITEM": 100004082,
+   "DESCRIÇÃO": "VERIFICAÇÃO OU DETERMINAÇÃO DE DOSAGEM DE CALDA DE CIMENTO PARA INJEÇÃO - ENSAIOS EM CALDA DE CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "3.216,38"
+ },
+ {
+   "ITEM": 100004083,
+   "DESCRIÇÃO": "VIDA ÚTIL - ENSAIOS EM CALDA DE CIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "437,72"
+ },
+ {
+   "ITEM": 100004084,
+   "DESCRIÇÃO": "ANÁLISE MINERALÓGICA E PETROGRÁFICA - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "4.334,11"
+ },
+ {
+   "ITEM": 100004085,
+   "DESCRIÇÃO": "AVALIAÇÃO DAS IMPUREZAS ORGÂNICAS - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "239,80"
+ },
+ {
+   "ITEM": 100004086,
+   "DESCRIÇÃO": "COMPOSIÇÃO GRANULOMÉTRICA DE AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "298,75"
+ },
+ {
+   "ITEM": 100004087,
+   "DESCRIÇÃO": "COMPOSIÇÃO GRANULOMÉTRICA DE AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "298,75"
+ },
+ {
+   "ITEM": 100004088,
+   "DESCRIÇÃO": "ENSAIOS DE RECEBIMENTO DE AGREGADO GRAÚDO, INCLUSO OS ENSAIOS DE GRANULOMETRIA, TEOR DE ARGILA, MATERIAIS PULVERULENTOS, PARTÍCULAS LEVES - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.756,58"
+ },
+ {
+   "ITEM": 100004089,
+   "DESCRIÇÃO": "ENSAIOS DE RECEBIMENTO DE AGREGADO MIÚDO, INCLUSO OS ENSAIOS DE GRANULOMETRIA, TEOR DE ARGILA, MATERIAIS PULVERULENTOS, PARTÍCULAS LEVES, IMPUREZAS ORGÂNICAS E UMIDADE SUPERFICIAL - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "1.836,58"
+ },
+ {
+   "ITEM": 100004090,
+   "DESCRIÇÃO": "MASSA ESPECÍFICA DE AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "212,16"
+ },
+ {
+   "ITEM": 100004091,
+   "DESCRIÇÃO": "MASSA ESPECÍFICA DE AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "212,16"
+ },
+ {
+   "ITEM": 100004092,
+   "DESCRIÇÃO": "MASSA UNITÁRIA PARA AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "212,89"
+ },
+ {
+   "ITEM": 100004093,
+   "DESCRIÇÃO": "MASSA UNITÁRIA PARA AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "212,16"
+ },
+ {
+   "ITEM": 100004094,
+   "DESCRIÇÃO": "MATERIAL PULVERULENTO DE AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "313,19"
+ },
+ {
+   "ITEM": 100004095,
+   "DESCRIÇÃO": "MATERIAL PULVERULENTO DE AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "313,19"
+ },
+ {
+   "ITEM": 100004096,
+   "DESCRIÇÃO": "REATIVIDADE POTENCIAL ÁLCALIS-AGREGADO PELO MÉTODO ACELERADO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "4.183,77"
+ },
+ {
+   "ITEM": 100004097,
+   "DESCRIÇÃO": "REATIVIDADE POTENCIAL ÁLCALIS-AGREGADO PELO MÉTODO DAS BARRAS NAS IDADES DE 4, 8, 16, 28 E 56 SEMANAS - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "4.983,77"
+ },
+ {
+   "ITEM": 100004098,
+   "DESCRIÇÃO": "REATIVIDADE POTENCIAL ÁLCALIS-AGREGADO PELO MÉTODO QUÍMICO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "4.783,77"
+ },
+ {
+   "ITEM": 100004099,
+   "DESCRIÇÃO": "TEOR DE ARGILA EM TORRÕES DE AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "306,49"
+ },
+ {
+   "ITEM": 100004100,
+   "DESCRIÇÃO": "TEOR DE ARGILA EM TORRÕES DE AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "306,49"
+ },
+ {
+   "ITEM": 100004101,
+   "DESCRIÇÃO": "TEOR DE PARTÍCULAS LEVES - ENSAIOS EM AGREGADOS PARA CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "487,19"
+ },
+ {
+   "ITEM": 100004102,
+   "DESCRIÇÃO": "DOBRAMENTO - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,77"
+ },
+ {
+   "ITEM": 100004103,
+   "DESCRIÇÃO": "RESISTÊNCIA AO CISALHAMENTO EM TELA DE AÇO - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "645,74"
+ },
+ {
+   "ITEM": 100004104,
+   "DESCRIÇÃO": "TRAÇÃO DE BARRAS OU FIOS TIPO A E/OU CA 50 - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "190,58"
+ },
+ {
+   "ITEM": 100004105,
+   "DESCRIÇÃO": "TRAÇÃO DE CORDOALHA COM LIMITE DE ESCOAMENTO, DIAGRAMA E MÓDULO DE ELASTICIDADE - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "818,86"
+ },
+ {
+   "ITEM": 100004106,
+   "DESCRIÇÃO": "TRAÇÃO EM BARRA DE AÇO COM EMENDA MECÂNICA OU POR SOLDA - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "285,58"
+ },
+ {
+   "ITEM": 100004107,
+   "DESCRIÇÃO": "TRAÇÃO EM BARRAS OU FIOS TIPO B E/OU CA 60 - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "141,29"
+ },
+ {
+   "ITEM": 100004108,
+   "DESCRIÇÃO": "TRAÇÃO EM TELA DE AÇO - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "259,96"
+ },
+ {
+   "ITEM": 100004109,
+   "DESCRIÇÃO": "VERIFICAÇÃO DE BITOLA - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "56,69"
+ },
+ {
+   "ITEM": 100004110,
+   "DESCRIÇÃO": "DETERMINAÇÃO DA ESPESSURA DAS DIVERSAS CAMADAS DE PAVIMENTO POR BROQUEAMENTO - ENSAIOS EM PAVIMENTOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "763,28"
+ },
+ {
+   "ITEM": 100004111,
+   "DESCRIÇÃO": "DETERMINAÇÃO DA ESPESSURA DAS DIVERSAS CAMADAS DE PAVIMENTO POR TALHADEIRA - ENSAIOS EM PAVIMENTOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "565,18"
+ },
+ {
+   "ITEM": 100004112,
+   "DESCRIÇÃO": "ENSAIOS DEFLECTOMÉTRICO COM EMPREGO DE VIGA BENKELMAN - ENSAIOS EM PAVIMENTOS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "800,64"
+ },
+ {
+   "ITEM": 100004113,
+   "DESCRIÇÃO": "ESTUDO DE INVENTÁRIO DO ESTADO DE SUPERFÍCIE DOS PAVIMENTOS - ENSAIOS EM PAVIMENTOS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "85,91"
+ },
+ {
+   "ITEM": 100004114,
+   "DESCRIÇÃO": "ESTUDO DEFLECTOMÉTRICO COM DEFINIÇÃO DE SEGMENTOS HOMOGÊNEOS E CÁLCULO DE REFORÇO DE PAVIMENTO - ENSAIOS EM PAVIMENTOS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "118,96"
+ },
+ {
+   "ITEM": 100004115,
+   "DESCRIÇÃO": "EXTRAÇÃO DE CORPO-DE-PROVA BROQUEADO EM PAVIMENTO PARA TESTEMUNHO DE DIÂM. 100 MM - ENSAIOS EM PAVIMENTOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "498,23"
+ },
+ {
+   "ITEM": 100004121,
+   "DESCRIÇÃO": "ABRASÃO \"LOS ANGELES\" DOS AGREGADOS -ENSAIOS EM MISTURAS BETUMINOSAS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "861,99"
+ },
+ {
+   "ITEM": 100004122,
+   "DESCRIÇÃO": "DENSIDADE APARENTE EM CP EXTRAÍDO DE PISTA OU MOLDADO - ENSAIOS EM MISTURAS BETUMINOSAS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "288,65"
+ },
+ {
+   "ITEM": 100004123,
+   "DESCRIÇÃO": "DETERMINAÇÃO DA ESTABILIDADE MARSHALL - ENSAIOS EM MISTURAS BETUMINOSAS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "621,25"
+ },
+ {
+   "ITEM": 100004124,
+   "DESCRIÇÃO": "TEOR DE BETUME E GRANULOMETRIA - ENSAIOS EM MISTURAS BETUMINOSAS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "412,17"
+ },
+ {
+   "ITEM": 100004125,
+   "DESCRIÇÃO": "ENSAIO DE COMPRESSÃO AXIAL DE CP BROQUEADO - BASE DE CONCRETO PARA PAVIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "110,47"
+ },
+ {
+   "ITEM": 100004126,
+   "DESCRIÇÃO": "ENSAIO DE COMPRESSÃO AXIAL DE CP MOLDADO - BASE DE CONCRETO PARA PAVIMENTO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "78,91"
+ },
+ {
+   "ITEM": 100004127,
+   "DESCRIÇÃO": "CONTRAÇÃO - ENSAIOS MINIATURIZADOS DE SOLOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "226,06"
+ },
+ {
+   "ITEM": 100004128,
+   "DESCRIÇÃO": "MINI CBR - ENSAIOS MINIATURIZADOS DE SOLOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "567,94"
+ },
+ {
+   "ITEM": 100004129,
+   "DESCRIÇÃO": "MINI PROCTOR - ENSAIOS MINIATURIZADOS DE SOLOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "564,90"
+ },
+ {
+   "ITEM": 100004130,
+   "DESCRIÇÃO": "PENETRAÇÃO DE ÁGUA E SUCÇÃO CAPILAR - ENSAIOS MINIATURIZADOS DE SOLOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "355,07"
+ },
+ {
+   "ITEM": 100004131,
+   "DESCRIÇÃO": "PENETRAÇÃO EM IMPRIMADURA BETUMINOSA - ENSAIOS MINIATURIZADOS DE SOLOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "184,04"
+ },
+ {
+   "ITEM": 100004132,
+   "DESCRIÇÃO": "PERDA DE MASSA POR IMERSÃO - ENSAIOS MINIATURIZADOS DE SOLOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "297,24"
+ },
+ {
+   "ITEM": 100004145,
+   "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÀO TIPO A, COM LABORATÓRIO DE CAMPO NA REGIÃO DO INTERIOR OU LITORAL DO ESTADO DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "2.973,32"
+ },
+ {
+   "ITEM": 100004146,
+   "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO TIPO A, COM LABORATÓRIO DE CAMPO NA REGIÃO METROPOLITANA DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "2.900,59"
+ },
+ {
+   "ITEM": 100004147,
+   "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÀO TIPO B, COM LABORATÓRIO DE CAMPO NA REGIÃO DO INTERIOR OU LITORAL DO ESTADO DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "3.294,36"
+ },
+ {
+   "ITEM": 100004148,
+   "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO TIPO B, COM LABORATÓRIO DE CAMPO NA REGIÃO METROPOLITANA DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "3.221,63"
+ },
+ {
+   "ITEM": 100004149,
+   "DESCRIÇÃO": "RELATÓRIO MENSAL - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO",
+   "DATA I0": "set/26",
+   "UNID": "MES",
+   "PREÇO": "1.950,24"
+ },
+ {
+   "ITEM": 100004150,
+   "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO TIPO A, COM LABORATÓRIO DE CAMPO NA REGIÃO DO INTERIOR OU LITORAL DO ESTADO DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "2.966,04"
+ },
+ {
+   "ITEM": 100004151,
+   "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO TIPO A, COM LABORATÓRIO DE CAMPO NA REGIÃO METROPOLITANA DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "2.900,59"
+ },
+ {
+   "ITEM": 100004152,
+   "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO TIPO B, COM LABORATÓRIO DE CAMPO NA REGIÃO DO INTERIOR OU LITORAL DO ESTADO DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "3.287,08"
+ },
+ {
+   "ITEM": 100004153,
+   "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO TIPO B, COM LABORATÓRIO DE CAMPO NA REGIÃO METROPOLITANA DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "3.221,63"
+ },
+ {
+   "ITEM": 100004154,
+   "DESCRIÇÃO": "RELATÓRIO MENSAL - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO",
+   "DATA I0": "set/26",
+   "UNID": "MES",
+   "PREÇO": "1.950,24"
+ },
+ {
+   "ITEM": 100004155,
+   "DESCRIÇÃO": "EQUIPE DE INSPEÇÃO EM REVESTIMENTO ANTI-CORROSIVO - INSPEÇÃO DE JUNTAS SOLDADAS E REVESTIMENTOS DE TUBOS DE AÇO POR MEIO DE ENSAIOS NÃO DESTRUTIVOS",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "1.500,00"
+ },
+ {
+   "ITEM": 100004157,
+   "DESCRIÇÃO": "EQUIPE DE INSPEÇÃO EM SOLDA COM ULTRA SOM - INSPEÇÃO DE JUNTAS SOLDADAS E REVESTIMENTOS DE TUBOS DE AÇO POR MEIO DE ENSAIOS NÃO DESTRUTIVOS",
+   "DATA I0": "set/26",
+   "UNID": "EQD",
+   "PREÇO": "1.830,00"
+ },
+ {
+   "ITEM": 100009791,
+   "DESCRIÇÃO": "7 METAIS (ALUMÍNIO, BÁRIO, CROMO, COBALTO, FERRO, MAGNÉSIO, MANGANÊS)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "283,58"
+ },
+ {
+   "ITEM": 100009792,
+   "DESCRIÇÃO": "9 METAIS (ALUMÍNIO, BÁRIO, CROMO, COBALTO, FERRO, MAGNÉSIO, MANGANÊS, NIQUEL, CHUMBO, ZINCO)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "328,90"
+ },
+ {
+   "ITEM": 100009793,
+   "DESCRIÇÃO": "ACIDEZ (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,13"
+ },
+ {
+   "ITEM": 100009794,
+   "DESCRIÇÃO": "ALCALINIDADE (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "47,36"
+ },
+ {
+   "ITEM": 100009795,
+   "DESCRIÇÃO": "ALUMÍNIO (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009796,
+   "DESCRIÇÃO": "ALUMÍNIO (B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009797,
+   "DESCRIÇÃO": "ARSÊNIO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009798,
+   "DESCRIÇÃO": "BÁRIO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009799,
+   "DESCRIÇÃO": "BIOCIDAS CLORADOS (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "130,00"
+ },
+ {
+   "ITEM": 100009800,
+   "DESCRIÇÃO": "BIOCIDAS CLORADOS (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "130,00"
+ },
+ {
+   "ITEM": 100009801,
+   "DESCRIÇÃO": "BIOCIDAS CLORADOS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "130,00"
+ },
+ {
+   "ITEM": 100009802,
+   "DESCRIÇÃO": "BORO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009803,
+   "DESCRIÇÃO": "CÁDMIO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009804,
+   "DESCRIÇÃO": "CÁLCIO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "78,51"
+ },
+ {
+   "ITEM": 100009805,
+   "DESCRIÇÃO": "CHUMBO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009806,
+   "DESCRIÇÃO": "CIANETO (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009807,
+   "DESCRIÇÃO": "CIANETO (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009808,
+   "DESCRIÇÃO": "CIANETO (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009809,
+   "DESCRIÇÃO": "CLORETO (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "75,86"
+ },
+ {
+   "ITEM": 100009810,
+   "DESCRIÇÃO": "CLORETO (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "75,86"
+ },
+ {
+   "ITEM": 100009811,
+   "DESCRIÇÃO": "CLOROFILA / FEOFTINA (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "163,68"
+ },
+ {
+   "ITEM": 100009812,
+   "DESCRIÇÃO": "COBRE (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009813,
+   "DESCRIÇÃO": "CONDUTIVIDADE ESPECÍFICA (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "28,73"
+ },
+ {
+   "ITEM": 100009814,
+   "DESCRIÇÃO": "COR (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "26,86"
+ },
+ {
+   "ITEM": 100009815,
+   "DESCRIÇÃO": "CROMO HEXAVALENTE (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "52,47"
+ },
+ {
+   "ITEM": 100009816,
+   "DESCRIÇÃO": "CROMO TOTAL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "52,47"
+ },
+ {
+   "ITEM": 100009817,
+   "DESCRIÇÃO": "DEMANDA BIOQUÍMICA DE OXIGÊNIO - DBO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "115,26"
+ },
+ {
+   "ITEM": 100009818,
+   "DESCRIÇÃO": "DEMANDA QUÍMICA DE OXIGÊNIO - DQO (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "100,12"
+ },
+ {
+   "ITEM": 100009819,
+   "DESCRIÇÃO": "DEMANDA QUÍMICA DE OXIGÊNIO - DQO (B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "100,12"
+ },
+ {
+   "ITEM": 100009820,
+   "DESCRIÇÃO": "DENSIDADE (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "66,50"
+ },
+ {
+   "ITEM": 100009821,
+   "DESCRIÇÃO": "DUREZA TOTAL (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "61,16"
+ },
+ {
+   "ITEM": 100009822,
+   "DESCRIÇÃO": "DUREZA TOTAL (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "61,16"
+ },
+ {
+   "ITEM": 100009823,
+   "DESCRIÇÃO": "ESTANHO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009824,
+   "DESCRIÇÃO": "FENÓIS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "117,29"
+ },
+ {
+   "ITEM": 100009825,
+   "DESCRIÇÃO": "FERRO SOLÚVEL (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009826,
+   "DESCRIÇÃO": "FERRO SOLÚVEL (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009827,
+   "DESCRIÇÃO": "FERRO TOTAL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009828,
+   "DESCRIÇÃO": "FLUORETO SOLÚVEL (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "66,56"
+ },
+ {
+   "ITEM": 100009829,
+   "DESCRIÇÃO": "FLUORETO SOLÚVEL (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "66,56"
+ },
+ {
+   "ITEM": 100009830,
+   "DESCRIÇÃO": "FOSFATO ORGÂNICO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "66,50"
+ },
+ {
+   "ITEM": 100009831,
+   "DESCRIÇÃO": "FOSFATO TOTAL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "51,50"
+ },
+ {
+   "ITEM": 100009832,
+   "DESCRIÇÃO": "GÁS CARBÔNICO LIVRE (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "73,10"
+ },
+ {
+   "ITEM": 100009833,
+   "DESCRIÇÃO": "MANGANÊS SOLÚVEL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009834,
+   "DESCRIÇÃO": "MAGNÉSIO SOLÚVEL (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009835,
+   "DESCRIÇÃO": "MAGNÉSIO SOLÚVEL (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009836,
+   "DESCRIÇÃO": "MERCÚRIO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009837,
+   "DESCRIÇÃO": "NÍQUEL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009838,
+   "DESCRIÇÃO": "NITROGÊNIO AMONIACAL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "79,63"
+ },
+ {
+   "ITEM": 100009839,
+   "DESCRIÇÃO": "NITROGÊNIO KJELDAHL TOTAL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "75,75"
+ },
+ {
+   "ITEM": 100009840,
+   "DESCRIÇÃO": "NITROGÊNIO NITRATO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "53,04"
+ },
+ {
+   "ITEM": 100009841,
+   "DESCRIÇÃO": "NITROGÊNIO NITRITO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "53,04"
+ },
+ {
+   "ITEM": 100009842,
+   "DESCRIÇÃO": "NITROGÊNIO TOTAL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "79,63"
+ },
+ {
+   "ITEM": 100009843,
+   "DESCRIÇÃO": "ÓLEOS E GRAXAS (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "82,56"
+ },
+ {
+   "ITEM": 100009844,
+   "DESCRIÇÃO": "ÓLEOS E GRAXAS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "82,56"
+ },
+ {
+   "ITEM": 100009845,
+   "DESCRIÇÃO": "ORTOFOSFATO SOLÚVEL (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "72,00"
+ },
+ {
+   "ITEM": 100009846,
+   "DESCRIÇÃO": "OXIGÊNIO CONSUMIDO (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "66,50"
+ },
+ {
+   "ITEM": 100009847,
+   "DESCRIÇÃO": "OXIGÊNIO DISSOLVIDO - OD (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "28,91"
+ },
+ {
+   "ITEM": 100009848,
+   "DESCRIÇÃO": "PH (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "28,91"
+ },
+ {
+   "ITEM": 100009849,
+   "DESCRIÇÃO": "PRATA (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009850,
+   "DESCRIÇÃO": "SELÊNIO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009851,
+   "DESCRIÇÃO": "SÍLICA (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "48,00"
+ },
+ {
+   "ITEM": 100009852,
+   "DESCRIÇÃO": "SÓDIO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009853,
+   "DESCRIÇÃO": "SULFATO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "53,04"
+ },
+ {
+   "ITEM": 100009854,
+   "DESCRIÇÃO": "SURFACTANTES (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "48,05"
+ },
+ {
+   "ITEM": 100009855,
+   "DESCRIÇÃO": "TESTE DE TOXIDADE CRÔNICA COM CERIODAPHINA (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "304,00"
+ },
+ {
+   "ITEM": 100009856,
+   "DESCRIÇÃO": "TESTE DE TOXIDADE SEDIMENTO COM HYALELLA (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "304,00"
+ },
+ {
+   "ITEM": 100009857,
+   "DESCRIÇÃO": "TURBIDEZ (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "28,07"
+ },
+ {
+   "ITEM": 100009858,
+   "DESCRIÇÃO": "ZINCO (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009859,
+   "DESCRIÇÃO": "CLORO RESIDUAL TOTAL (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "46,64"
+ },
+ {
+   "ITEM": 100009860,
+   "DESCRIÇÃO": "CROMO III",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "34,81"
+ },
+ {
+   "ITEM": 100009861,
+   "DESCRIÇÃO": "CROMO IV",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "52,58"
+ },
+ {
+   "ITEM": 100009862,
+   "DESCRIÇÃO": "SÓLIDOS DISSOLVIDOS TOTAIS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "75,47"
+ },
+ {
+   "ITEM": 100009863,
+   "DESCRIÇÃO": "SÓLIDOS DISSOLVIDOS FIXOS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "75,47"
+ },
+ {
+   "ITEM": 100009864,
+   "DESCRIÇÃO": "SÓLIDOS DISSOLVIDOS VOLÁTEIS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "87,13"
+ },
+ {
+   "ITEM": 100009865,
+   "DESCRIÇÃO": "SÓLIDOS EM SUSPENSÃO TOTAIS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "75,29"
+ },
+ {
+   "ITEM": 100009866,
+   "DESCRIÇÃO": "SÓLIDOS EM SUSPENSÃO FIXOS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "87,13"
+ },
+ {
+   "ITEM": 100009867,
+   "DESCRIÇÃO": "SÓLIDOS EM SUSPENSÃO VOLÁTEIS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "55,00"
+ },
+ {
+   "ITEM": 100009868,
+   "DESCRIÇÃO": "SÓLIDOS TOTAIS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "56,65"
+ },
+ {
+   "ITEM": 100009869,
+   "DESCRIÇÃO": "SÓLIDOS TOTAIS FIXOS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "56,65"
+ },
+ {
+   "ITEM": 100009870,
+   "DESCRIÇÃO": "SÓLIDOS TOTAIS VOLÁTEIS (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "56,65"
+ },
+ {
+   "ITEM": 100009871,
+   "DESCRIÇÃO": "SÓLIDOS SEDIMENTÁVEIS (B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "56,65"
+ },
+ {
+   "ITEM": 100009872,
+   "DESCRIÇÃO": "CARBONO ORGÂNICO TOTAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "87,75"
+ },
+ {
+   "ITEM": 100009873,
+   "DESCRIÇÃO": "ENTEROCOCOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "96,79"
+ },
+ {
+   "ITEM": 100009874,
+   "DESCRIÇÃO": "FOSFATO SOLÚVEL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "51,50"
+ },
+ {
+   "ITEM": 100009875,
+   "DESCRIÇÃO": "FÓSFORO TOTAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "53,30"
+ },
+ {
+   "ITEM": 100009876,
+   "DESCRIÇÃO": "ÓLEOS E GRAXAS MINERAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "82,56"
+ },
+ {
+   "ITEM": 100009877,
+   "DESCRIÇÃO": "SULFETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "57,82"
+ },
+ {
+   "ITEM": 100009878,
+   "DESCRIÇÃO": "TEMPERATURA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "28,91"
+ },
+ {
+   "ITEM": 100009879,
+   "DESCRIÇÃO": "TOXICIDADE CRÔNICA COM LYTECHINUS VARIEGATUS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "324,00"
+ },
+ {
+   "ITEM": 100009880,
+   "DESCRIÇÃO": "7 METAIS (ALUMÍNIO, BÁRIO, CROMO, COBALTO, FERRO, MAGNÉSIO, MANGANÊS)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "283,58"
+ },
+ {
+   "ITEM": 100009881,
+   "DESCRIÇÃO": "9 METAIS (ALUMÍNIO, BÁRIO, CROMO, COBALTO, FERRO, MAGNÉSIO, MANGANÊS, NÍQUEL, CHUMBO, ZINCO)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "328,90"
+ },
+ {
+   "ITEM": 100009882,
+   "DESCRIÇÃO": "ALUMÍNIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009883,
+   "DESCRIÇÃO": "ARSÊNIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009884,
+   "DESCRIÇÃO": "BÁRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009885,
+   "DESCRIÇÃO": "BIOCIDAS CLORADOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "130,00"
+ },
+ {
+   "ITEM": 100009886,
+   "DESCRIÇÃO": "CÁDMIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009887,
+   "DESCRIÇÃO": "CHUMBO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009888,
+   "DESCRIÇÃO": "CIANETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009889,
+   "DESCRIÇÃO": "CLORETO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "75,86"
+ },
+ {
+   "ITEM": 100009890,
+   "DESCRIÇÃO": "COBRE",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009891,
+   "DESCRIÇÃO": "CONDUTIVIDADE ESPECÍFICA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "28,73"
+ },
+ {
+   "ITEM": 100009892,
+   "DESCRIÇÃO": "COR",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "42,19"
+ },
+ {
+   "ITEM": 100009893,
+   "DESCRIÇÃO": "CROMO HEXAVALENTE",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "52,47"
+ },
+ {
+   "ITEM": 100009894,
+   "DESCRIÇÃO": "CROMO TOTAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "52,47"
+ },
+ {
+   "ITEM": 100009895,
+   "DESCRIÇÃO": "DEMANDA BIOQUÍMICA DE OXIGÊNIO - DBO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "115,26"
+ },
+ {
+   "ITEM": 100009896,
+   "DESCRIÇÃO": "DEMANDA QUÍMICA DE OXIGÊNIO - DQO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "62,06"
+ },
+ {
+   "ITEM": 100009897,
+   "DESCRIÇÃO": "DUREZA TOTAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "61,16"
+ },
+ {
+   "ITEM": 100009898,
+   "DESCRIÇÃO": "ESTANHO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009899,
+   "DESCRIÇÃO": "FENÓIS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "89,09"
+ },
+ {
+   "ITEM": 100009900,
+   "DESCRIÇÃO": "FERRO TOTAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009901,
+   "DESCRIÇÃO": "FOSFATO ORGÂNICO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "76,05"
+ },
+ {
+   "ITEM": 100009902,
+   "DESCRIÇÃO": "FOSFATO TOTAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "32,75"
+ },
+ {
+   "ITEM": 100009903,
+   "DESCRIÇÃO": "GRANULOMETRIA SEDIMENTO LODO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "142,48"
+ },
+ {
+   "ITEM": 100009904,
+   "DESCRIÇÃO": "MERCÚRIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009905,
+   "DESCRIÇÃO": "NÍQUEL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009906,
+   "DESCRIÇÃO": "NITROGÊNIO AMONIACAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "79,63"
+ },
+ {
+   "ITEM": 100009907,
+   "DESCRIÇÃO": "NITROGÊNIO KJELDAHL TOTAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "78,33"
+ },
+ {
+   "ITEM": 100009908,
+   "DESCRIÇÃO": "NITROGÊNIO NITRATO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "53,04"
+ },
+ {
+   "ITEM": 100009909,
+   "DESCRIÇÃO": "NITROGÊNIO NITRITO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "53,04"
+ },
+ {
+   "ITEM": 100009910,
+   "DESCRIÇÃO": "NITROGÊNIO TOTAL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "79,63"
+ },
+ {
+   "ITEM": 100009911,
+   "DESCRIÇÃO": "ÓLEOS E GRAXAS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "82,56"
+ },
+ {
+   "ITEM": 100009912,
+   "DESCRIÇÃO": "PH",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "28,91"
+ },
+ {
+   "ITEM": 100009913,
+   "DESCRIÇÃO": "PRATA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009914,
+   "DESCRIÇÃO": "SELÊNIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009915,
+   "DESCRIÇÃO": "SÍLICA",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "48,00"
+ },
+ {
+   "ITEM": 100009916,
+   "DESCRIÇÃO": "SÓDIO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009917,
+   "DESCRIÇÃO": "SULFATO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "53,04"
+ },
+ {
+   "ITEM": 100009918,
+   "DESCRIÇÃO": "SURFACTANTES",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "48,05"
+ },
+ {
+   "ITEM": 100009919,
+   "DESCRIÇÃO": "UMIDADE",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "37,36"
+ },
+ {
+   "ITEM": 100009920,
+   "DESCRIÇÃO": "ZINCO",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009921,
+   "DESCRIÇÃO": "SÓLIDOS TOTAIS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "35,35"
+ },
+ {
+   "ITEM": 100009922,
+   "DESCRIÇÃO": "SÓLIDOS TOTAIS FIXOS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "35,35"
+ },
+ {
+   "ITEM": 100009923,
+   "DESCRIÇÃO": "SÓLIDOS TOTAIS VOLÁTEIS",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "35,35"
+ },
+ {
+   "ITEM": 100009924,
+   "DESCRIÇÃO": "ACTINOMICETOS (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "100,00"
+ },
+ {
+   "ITEM": 100009925,
+   "DESCRIÇÃO": "ACTINOMICETOS (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "100,00"
+ },
+ {
+   "ITEM": 100009926,
+   "DESCRIÇÃO": "ACTINOMICETOS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "100,00"
+ },
+ {
+   "ITEM": 100009927,
+   "DESCRIÇÃO": "ACTINOMICETOS (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "100,00"
+ },
+ {
+   "ITEM": 100009928,
+   "DESCRIÇÃO": "CLOSTRÍDIOS SULFITO-REDUTORES (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "71,02"
+ },
+ {
+   "ITEM": 100009929,
+   "DESCRIÇÃO": "CLOSTRÍDIOS SULFITO-REDUTORES (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "71,02"
+ },
+ {
+   "ITEM": 100009930,
+   "DESCRIÇÃO": "CLOSTRÍDIOS SULFITO-REDUTORES (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "71,02"
+ },
+ {
+   "ITEM": 100009931,
+   "DESCRIÇÃO": "CLOSTRÍDIOS SULFITO-REDUTORES (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "71,02"
+ },
+ {
+   "ITEM": 100009932,
+   "DESCRIÇÃO": "COLIFAGOS (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "270,00"
+ },
+ {
+   "ITEM": 100009933,
+   "DESCRIÇÃO": "COLIFAGOS (B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "434,00"
+ },
+ {
+   "ITEM": 100009934,
+   "DESCRIÇÃO": "COLIFAGOS (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "564,00"
+ },
+ {
+   "ITEM": 100009935,
+   "DESCRIÇÃO": "COLIFORMES FECAIS (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "65,60"
+ },
+ {
+   "ITEM": 100009936,
+   "DESCRIÇÃO": "COLIFORMES FECAIS (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "65,60"
+ },
+ {
+   "ITEM": 100009937,
+   "DESCRIÇÃO": "COLIFORMES FECAIS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "65,60"
+ },
+ {
+   "ITEM": 100009938,
+   "DESCRIÇÃO": "COLIFORMES TOTAIS (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "65,60"
+ },
+ {
+   "ITEM": 100009939,
+   "DESCRIÇÃO": "COLIFORMES TOTAIS (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "65,60"
+ },
+ {
+   "ITEM": 100009940,
+   "DESCRIÇÃO": "COLIFORMES TOTAIS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "65,60"
+ },
+ {
+   "ITEM": 100009941,
+   "DESCRIÇÃO": "CONTAGEM PADRÃO DE BACTÉRIAS (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "68,11"
+ },
+ {
+   "ITEM": 100009942,
+   "DESCRIÇÃO": "CONTAGEM PADRÃO DE BACTÉRIAS (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "68,11"
+ },
+ {
+   "ITEM": 100009943,
+   "DESCRIÇÃO": "CONTAGEM PADRÃO DE BACTÉRIAS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "68,11"
+ },
+ {
+   "ITEM": 100009944,
+   "DESCRIÇÃO": "CONTAGEM PADRÃO DE BACTÉRIAS (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "68,11"
+ },
+ {
+   "ITEM": 100009945,
+   "DESCRIÇÃO": "ESTREPTOCOCOS FECAIS (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009946,
+   "DESCRIÇÃO": "ESTREPTOCOCOS FECAIS (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009947,
+   "DESCRIÇÃO": "ESTREPTOCOCOS FECAIS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009948,
+   "DESCRIÇÃO": "ESTREPTOCOCOS FECAIS (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009949,
+   "DESCRIÇÃO": "ENTEROTOXINAS VÍBRIOS ESCHERICHIA ECOLI (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "46,64"
+ },
+ {
+   "ITEM": 100009950,
+   "DESCRIÇÃO": "SALMONELLA (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009951,
+   "DESCRIÇÃO": "SALMONELLA (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009952,
+   "DESCRIÇÃO": "SALMONELLA (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "58,30"
+ },
+ {
+   "ITEM": 100009953,
+   "DESCRIÇÃO": "TESTE DE TOXIDADE AGUDA - MICROTOX (A / B / C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "360,00"
+ },
+ {
+   "ITEM": 100009954,
+   "DESCRIÇÃO": "COMPOSTOS ORGANOFOSFORADOS (A/B/C/D) - AZIMPHOS-ETIL",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "177,54"
+ },
+ {
+   "ITEM": 100009955,
+   "DESCRIÇÃO": "COMPOSTOS ORGANOCLORADOS (A / B / C / D) - ALDRIN, BHC, CLORDANO, DDD",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "360,45"
+ },
+ {
+   "ITEM": 100009956,
+   "DESCRIÇÃO": "2,4,6-TCP (TRICHOROPHENOL) (A / B / C / D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "150,00"
+ },
+ {
+   "ITEM": 100009957,
+   "DESCRIÇÃO": "BENTOS AGUA DOCE (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "84,50"
+ },
+ {
+   "ITEM": 100009958,
+   "DESCRIÇÃO": "BENZO A PIRENO (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "93,67"
+ },
+ {
+   "ITEM": 100009959,
+   "DESCRIÇÃO": "BTX (BENZENO, TOLUENO, XILENO) (A / B / C / D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "169,79"
+ },
+ {
+   "ITEM": 100009960,
+   "DESCRIÇÃO": "CARBAMATOS TOTAIS (A)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "198,22"
+ },
+ {
+   "ITEM": 100009961,
+   "DESCRIÇÃO": "CARBAMATOS TOTAIS (B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "198,22"
+ },
+ {
+   "ITEM": 100009962,
+   "DESCRIÇÃO": "CARBAMATOS TOTAIS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "198,22"
+ },
+ {
+   "ITEM": 100009963,
+   "DESCRIÇÃO": "CARBAMATOS TOTAIS (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "198,22"
+ },
+ {
+   "ITEM": 100009964,
+   "DESCRIÇÃO": "FOSFORADOS TOTAIS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "181,84"
+ },
+ {
+   "ITEM": 100009965,
+   "DESCRIÇÃO": "HERBICIDAS FENOXIACIDOS (2,4-D,2,4,5-T,2,4,5-TP) (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "174,07"
+ },
+ {
+   "ITEM": 100009966,
+   "DESCRIÇÃO": "HERBICIDAS FENOXIÁCIDOS (2,4-D, 2,4,5-T, 2,4,5-TP) (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "174,07"
+ },
+ {
+   "ITEM": 100009967,
+   "DESCRIÇÃO": "PCB'S (A / B / C / D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "174,07"
+ },
+ {
+   "ITEM": 100009968,
+   "DESCRIÇÃO": "SOLVENTES HALOGENADOS (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "59,15"
+ },
+ {
+   "ITEM": 100009969,
+   "DESCRIÇÃO": "SOLVENTES HALOGENADOS (C)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "59,15"
+ },
+ {
+   "ITEM": 100009970,
+   "DESCRIÇÃO": "SOLVENTES HALOGENADOS (D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "59,15"
+ },
+ {
+   "ITEM": 100009971,
+   "DESCRIÇÃO": "TRIHALOMETANO - THM (A / B)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "139,92"
+ },
+ {
+   "ITEM": 100009972,
+   "DESCRIÇÃO": "TRIHALOMETANO - THM (C / D)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "139,92"
+ },
+ {
+   "ITEM": 100010867,
+   "DESCRIÇÃO": "ALUGUEL DE VEÍCULO DO GRUPO S-1 HATCH DE 1.0 A 1.6",
+   "DATA I0": "set/26",
+   "UNID": "MES",
+   "PREÇO": "2.778,85"
+ },
+ {
+   "ITEM": 100010868,
+   "DESCRIÇÃO": "ALUGUEL DE VEÍCULO DO GRUPO S-2 - CAMINHONETES COM TRAÇÃO 4X2 - CABINE SIMPLES – CAPACIDADE ATÉ 770 KG",
+   "DATA I0": "set/26",
+   "UNID": "MES",
+   "PREÇO": "3.873,05"
+ },
+ {
+   "ITEM": 100010869,
+   "DESCRIÇÃO": "ALUGUEL DE VEÍCULO DO GRUPO S-2 - CAMINHONETES COM TRAÇÃO 4X2 - CABINE SIMPLES – CAPACIDADE DE 771 ATÉ 2.000 KG",
+   "DATA I0": "set/26",
+   "UNID": "MES",
+   "PREÇO": "7.075,13"
+ },
+ {
+   "ITEM": 100010870,
+   "DESCRIÇÃO": "TRANSPORTE EM VEÍCULO DO GRUPO S-1 HATCH DE 1.0 A 1.6",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "0,82"
+ },
+ {
+   "ITEM": 100010871,
+   "DESCRIÇÃO": "TRANSPORTE EM VEÍCULO DO GRUPO S-2 - CAMINHONETES COM TRAÇÃO 4X2 - CABINE SIMPLES – CAPACIDADE ATÉ 770 KG",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "1,00"
+ },
+ {
+   "ITEM": 100010872,
+   "DESCRIÇÃO": "TRANSPORTE EM VEÍCULO DO GRUPO S-2 - CAMINHONETES COM TRAÇÃO 4X2 - CABINE SIMPLES – CAPACIDADE DE 771 ATÉ 2.000 KG",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "1,31"
+ },
+ {
+   "ITEM": 100010975,
+   "DESCRIÇÃO": "ALUGUEL DE VEÍCULO DO GRUPO S-2 - CAMINHONETES COM TRAÇÃO 4X4 - CABINE SIMPLES – CAPACIDADE DE 771 ATÉ 2.000 KG",
+   "DATA I0": "set/26",
+   "UNID": "MES",
+   "PREÇO": "7.661,24"
+ },
+ {
+   "ITEM": 100010976,
+   "DESCRIÇÃO": "ALUGUEL DE VEÍCULO DO GRUPO S-2 - CAMINHONETES COM TRAÇÃO 4X4 - CABINE DUPLA – CAPACIDADE DE 650 ATÉ 2.000 KG",
+   "DATA I0": "set/26",
+   "UNID": "MES",
+   "PREÇO": "6.480,66"
+ },
+ {
+   "ITEM": 100010977,
+   "DESCRIÇÃO": "TRANSPORTE EM VEÍCULO DO GRUPO S-2 - CAMINHONETES - TRAÇÃO 4X4 - CABINE SIMPLES - CAPACIDADE DE 771 a 2.000 KG",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "1,25"
+ },
+ {
+   "ITEM": 100010978,
+   "DESCRIÇÃO": "TRANSPORTE EM VEÍCULO DO GRUPO S-2 - CAMINHONETES - TRAÇÃO 4X4 - CABINE DUPLA - CAPACIDADE DE 650 a 2.000 KG",
+   "DATA I0": "set/26",
+   "UNID": "KM",
+   "PREÇO": "1,21"
+ },
+ {
+   "ITEM": 100010979,
+   "DESCRIÇÃO": "PERNOITE",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "234,86"
+ },
+ {
+   "ITEM": 100012129,
+   "DESCRIÇÃO": "COORDENADOR DE MODELAGEM BIM - JÚNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "205,01"
+ },
+ {
+   "ITEM": 100012130,
+   "DESCRIÇÃO": "COORDENADOR DE MODELAGEM BIM - PLENO",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "223,69"
+ },
+ {
+   "ITEM": 100012131,
+   "DESCRIÇÃO": "COORDENADOR DE MODELAGEM BIM - SÊNIOR",
+   "DATA I0": "set/26",
+   "UNID": "H",
+   "PREÇO": "295,65"
+ },
+ {
    "ITEM": 100004168,
    "DESCRIÇÃO": "ABERTURA DE PICADAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4,77"
+   "PREÇO": "4,78"
  },
  {
    "ITEM": 100004169,
    "DESCRIÇÃO": "CADASTRO DE INSTALAÇÕES EXISTENTES - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.438,18"
+   "PREÇO": "3.437,90"
  },
  {
    "ITEM": 100004170,
    "DESCRIÇÃO": "CADASTRO DE INTERFERÊNCIAS SUBTERRÂNEAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "6.725,45"
+   "PREÇO": "6.782,95"
  },
  {
    "ITEM": 100004171,
    "DESCRIÇÃO": "CADASTRO DE PROPRIEDADE COM SERVIÇOS TOPOGRÁFICOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.289,52"
+   "PREÇO": "6.291,23"
  },
  {
    "ITEM": 100004172,
    "DESCRIÇÃO": "CADASTRO DE PROPRIEDADES - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.809,56"
+   "PREÇO": "4.810,88"
  },
  {
    "ITEM": 100004173,
    "DESCRIÇÃO": "CADASTRO DE PVE, PVA, BL, PI E TL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "230,16"
+   "PREÇO": "230,22"
  },
  {
    "ITEM": 100004174,
    "DESCRIÇÃO": "DETECÇÃO ELETROMAGNÉTICA DE INTERFERÊNCIAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "5.084,43"
+   "PREÇO": "5.098,98"
  },
  {
    "ITEM": 100004175,
    "DESCRIÇÃO": "EQUIPE DE TOPOGRAFIA (SERVIÇOS DE IMPLANTAÇÃO DE PONTOS DE COORDENADAS COM A UTILIZAÇÃO DE SISTEMAS DE POSICIONAMENTO GLOBAL POR SATÉLITES-GPS) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.464,38"
+   "PREÇO": "3.466,53"
  },
  {
    "ITEM": 100004176,
    "DESCRIÇÃO": "EQUIPE DE TOPOGRAFIA (SERVIÇOS PLANIALTIMÉTRICOS) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.730,96"
+   "PREÇO": "3.731,73"
  },
  {
    "ITEM": 100004177,
    "DESCRIÇÃO": "EQUIPE DE TOPOGRAFIA (SERVIÇOS PLANIMÉTRICOS) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.441,84"
+   "PREÇO": "3.442,16"
  },
  {
    "ITEM": 100004178,
    "DESCRIÇÃO": "FORNECIMENTO DE MARCO DE CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "172,00"
+   "PREÇO": "173,98"
  },
  {
    "ITEM": 100004179,
    "DESCRIÇÃO": "IDENTIFICAÇÃO DE PROPRIEDADES - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.249,75"
+   "PREÇO": "2.251,55"
  },
  {
    "ITEM": 100004180,
    "DESCRIÇÃO": "LAUDO DE AVALIAÇÃO DE IMÓVEIS PARA ÁREAS CONTIGUAS TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.991,67"
+   "PREÇO": "2.992,31"
  },
  {
    "ITEM": 100004181,
    "DESCRIÇÃO": "LAUDO DE AVALIAÇÃO DE IMÓVEIS PARA ÁREAS DISPERSAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.602,57"
+   "PREÇO": "4.603,55"
  },
  {
    "ITEM": 100004182,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE ÁREAS ESPECIAIS ACIMA DE 100.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "3.544,75"
+   "PREÇO": "3.547,76"
  },
  {
    "ITEM": 100004183,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE ÁREAS ESPECIAIS ATÉ 3.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.620,02"
+   "PREÇO": "2.622,28"
  },
  {
    "ITEM": 100004184,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE ÁREAS ESPECIAIS DE 10.001 ATÉ 20.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "4.635,48"
+   "PREÇO": "4.639,41"
  },
  {
    "ITEM": 100004185,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE ÁREAS ESPECIAIS DE 20.001 ATÉ 50.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "4.304,33"
+   "PREÇO": "4.307,99"
  },
  {
    "ITEM": 100004186,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE ÁREAS ESPECIAIS DE 3.001 ATÉ 10.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "5.021,73"
+   "PREÇO": "5.026,00"
  },
  {
    "ITEM": 100004187,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE ÁREAS ESPECIAIS DE 50.001 ATÉ 100.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "4.017,40"
+   "PREÇO": "4.020,82"
  },
  {
    "ITEM": 100004188,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE FAIXAS ACIMA DE 60 M - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "4.633,37"
+   "PREÇO": "4.636,45"
  },
  {
    "ITEM": 100004189,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE FAIXAS ATÉ 30 M - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "7.529,23"
+   "PREÇO": "7.534,24"
  },
  {
    "ITEM": 100004190,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E CADAST. DE FAIXAS DE 31 ATÉ 60 M - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "10.038,92"
+   "PREÇO": "10.045,62"
  },
  {
    "ITEM": 100004191,
    "DESCRIÇÃO": "LEVANT. PLANIALTIMÉTR. E SEMI-CADAST. DE RUAS NOVAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "7.440,46"
+   "PREÇO": "7.450,96"
  },
  {
    "ITEM": 100004192,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE ÁREAS ESPECIAIS ACIMA DE 100.000 M² -TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "3.519,58"
+   "PREÇO": "3.520,34"
  },
  {
    "ITEM": 100004193,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE ÁREAS ESPECIAIS ATÉ 3.000 M²-TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.730,26"
+   "PREÇO": "2.731,72"
  },
  {
    "ITEM": 100004194,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE ÁREAS ESPECIAIS DE 10.001 ATÉ 20.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "4.602,57"
+   "PREÇO": "4.603,55"
  },
  {
    "ITEM": 100004195,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE ÁREAS ESPECIAIS DE 20.001 ATÉ 50.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "4.273,78"
+   "PREÇO": "4.274,69"
  },
  {
    "ITEM": 100004196,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE ÁREAS ESPECIAIS DE 3.001 ATÉ 10.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "4.986,09"
+   "PREÇO": "4.987,16"
  },
  {
    "ITEM": 100004197,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE ÁREAS ESPECIAIS DE 50.001 ATÉ 100.000 M² - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "3.988,89"
+   "PREÇO": "3.989,75"
  },
  {
    "ITEM": 100004198,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE FAIXAS ACIMA DE 60 M - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HA",
-   "PREÇO": "4.273,78"
+   "PREÇO": "4.274,69"
  },
  {
    "ITEM": 100004199,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE FAIXAS ATÉ 30 M - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "7.479,17"
+   "PREÇO": "7.480,77"
  },
  {
    "ITEM": 100004200,
    "DESCRIÇÃO": "LEVANT. PLANIMÉTR. E CADAST. DE FAIXAS DE 30 ATÉ 60 M - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "9.972,21"
+   "PREÇO": "9.974,34"
  },
  {
    "ITEM": 100004201,
    "DESCRIÇÃO": "LEVANTAMENTO BATIMÉTRICO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.986,38"
+   "PREÇO": "4.013,81"
  },
  {
    "ITEM": 100004202,
    "DESCRIÇÃO": "LEVANTAMENTO PLANIMÉTRICO DE LINHA -TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "3.988,89"
+   "PREÇO": "3.989,75"
  },
  {
    "ITEM": 100004203,
    "DESCRIÇÃO": "LEVANTAMENTO, NIVELAMENTO E LOCAÇÃO DE FUROS DE SONDAGEM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "176,87"
+   "PREÇO": "177,13"
  },
  {
    "ITEM": 100004204,
    "DESCRIÇÃO": "LOCAÇÃO DE LINHAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "4.986,09"
+   "PREÇO": "4.987,16"
  },
  {
    "ITEM": 100004205,
    "DESCRIÇÃO": "LOCACÃO E LEVANT. PLANIALTIM. DE SEÇÕES TOPOGRÁFICAS TRANSVERSAIS -TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "7.610,79"
+   "PREÇO": "7.617,18"
  },
  {
    "ITEM": 100004206,
    "DESCRIÇÃO": "LOCAÇÃO E NIVELAMENTO DE SOLEIRAS BAIXAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "293,04"
+   "PREÇO": "293,31"
  },
  {
    "ITEM": 100004207,
    "DESCRIÇÃO": "LOCAÇÃO, NIVELAMENTO, ESTAQUEAMENTO E AMARRAÇÃO DE PONTOS REPRESENTATIVOS PARA O PROJETO EXECUTIVO DE REDE COLETORA DE ESGOTOS E DE REDE DE ABASTECIMENTO DE ÁGUA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "7.325,29"
+   "PREÇO": "7.332,03"
  },
  {
    "ITEM": 100004208,
    "DESCRIÇÃO": "NIVELAMENTO GEOMÉTRICO DE CRUZAMENTO DE RUAS, PONTOS DE MUDANÇA DE GREIDE E PONTOS DE MUDANÇA DE DIREÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "3.084,34"
+   "PREÇO": "3.087,16"
  },
  {
    "ITEM": 100004209,
    "DESCRIÇÃO": "TRANSPORTE DE COORDENADAS CLASSE I - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "2.574,15"
+   "PREÇO": "2.576,98"
  },
  {
    "ITEM": 100004210,
    "DESCRIÇÃO": "TRANSPORTE DE COORDENADAS CLASSE II - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "2.639,48"
+   "PREÇO": "2.642,54"
  },
  {
    "ITEM": 100004211,
    "DESCRIÇÃO": "TRANSPORTE DE COTAS -TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "1.961,17"
+   "PREÇO": "1.963,61"
  },
  {
    "ITEM": 100004212,
    "DESCRIÇÃO": "TRANSPORTE DE REFERÊNCIA DE NÍVEL (NIVELAMENTO GEOMÉTRICO DE PRECISÃO) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "2.559,45"
+   "PREÇO": "2.564,07"
  },
  {
    "ITEM": 100004214,
    "DESCRIÇÃO": "MOBILIZAÇÃO/DESMOBILIZAÇÃO - DISTÂNCIAS ENTRE 151 ATÉ 300 KM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.259,33"
+   "PREÇO": "3.255,35"
  },
  {
    "ITEM": 100004215,
    "DESCRIÇÃO": "MOBILIZAÇÃO/DESMOBILIZAÇÃO - DISTÂNCIAS ENTRE 301 ATÉ 600 KM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.070,07"
+   "PREÇO": "5.063,88"
  },
  {
    "ITEM": 100004216,
    "DESCRIÇÃO": "MOBILIZAÇÃO/DESMOBILIZAÇÃO - DISTÂNCIAS ENTRE 61 ATÉ 150 KM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.172,88"
+   "PREÇO": "2.170,23"
  },
  {
    "ITEM": 100004521,
    "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "16,72"
+   "PREÇO": "15,20"
  },
  {
    "ITEM": 100004522,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE POÇOS ACIMA DE 200 METROS - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "300,59"
  },
  {
    "ITEM": 100004523,
    "DESCRIÇÃO": "DESMONTE EM SOLO DE ALTERAÇÃO DE ROCHA, UTILIZANDO ROMPEDOR DE AR COMPRIMIDO - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "2.131,89"
  },
  {
    "ITEM": 100004524,
    "DESCRIÇÃO": "EXECUÇÃO DE ESCORAMENTO COM FORNECIMENTO DE MATERIAL - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "561,09"
  },
  {
    "ITEM": 100004525,
    "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO, POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60 KM - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.644,18"
  },
  {
    "ITEM": 100004526,
    "DESCRIÇÃO": "PERFURAÇÃO EM SOLO - FURO COM PROFUNDIDADE ACIMA DE 5 METROS ATÉ 10 METROS - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1.097,18"
  },
  {
    "ITEM": 100004527,
    "DESCRIÇÃO": "PERFURAÇÃO EM SOLO - FURO COM PROFUNDIDADE ATÉ 5 METROS - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "959,74"
  },
  {
    "ITEM": 100004528,
    "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM PROFUNDIDADE ACIMA DOS 10 METROS INICIAIS - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1.368,20"
  },
  {
    "ITEM": 100004529,
    "DESCRIÇÃO": "RETIRADA E ACONDICIONAMENTO DE AMOSTRA INDEFORMADA POR BLOCO APROVEITÁVEL - POÇOS DE INSPEÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.303,60"
  },
  {
    "ITEM": 100004530,
    "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - SONDAGEM A TRADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "7,89"
+   "PREÇO": "7,16"
  },
  {
    "ITEM": 100004531,
    "DESCRIÇÃO": "COLETA DE AMOSTRA E ACONDICIONAMENTO EM RECIPIENTE COM TAMPA HERMÉTICA PARA CARACTERIZAÇÃO TÁCTIL-VISUAL - SONDAGEM A TRADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "28,73"
  },
  {
    "ITEM": 100004532,
    "DESCRIÇÃO": "COLETA DE AMOSTRA (20KG) E ACONDICIONAMENTO EM SACO DE LONA PARA ENSAIOS DE CARACTERIZAÇÃO DE SOLOS - SONDAGEM A TRADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "48,04"
  },
  {
    "ITEM": 100004533,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 100 METROS ATÉ 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A TRADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "187,18"
  },
  {
    "ITEM": 100004534,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 200 METROS - SONDAGEM A TRADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "218,38"
  },
  {
    "ITEM": 100004535,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 50 METROS ATÉ 100 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A TRADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "156,06"
  },
  {
    "ITEM": 100004536,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ATÉ 50 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A TRADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "124,80"
  },
  {
    "ITEM": 100004537,
    "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO, POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60 KM - SONDAGEM ATRADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "3.332,02"
  },
  {
    "ITEM": 100004538,
    "DESCRIÇÃO": "PERFURAÇÃO DE FURO COM PROFUNDIDADE ACIMA DE 5 METROS ATÉ 10 METROS - SONDAGEM A TRADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "279,06"
  },
  {
    "ITEM": 100004539,
    "DESCRIÇÃO": "PERFURAÇÃO DE FURO COM PROFUNDIDADE ACIMA DOS 10 METROS INICIAIS - SONDAGEM A TRADO – TERCEIRIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "328,09"
  },
  {
    "ITEM": 100004540,
    "DESCRIÇÃO": "PERFURAÇÃO DE FURO COM PROFUNDIDADE ATÉ 5 METROS - SONDAGEM A TRADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "223,20"
  },
  {
    "ITEM": 100004541,
    "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "10,39"
+   "PREÇO": "9,48"
  },
  {
    "ITEM": 100004542,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 100 METROS ATÉ 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "435,43"
  },
  {
    "ITEM": 100004543,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 50 METROS ATÉ 100 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "398,13"
  },
  {
    "ITEM": 100004544,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DOS 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "350,32"
  },
  {
    "ITEM": 100004545,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ATÉ 50 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "384,68"
  },
  {
    "ITEM": 100004546,
    "DESCRIÇÃO": "ENSAIO DE PENETRAÇÃO SPT - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "167,22"
  },
  {
    "ITEM": 100004547,
    "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60KM - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "3.246,72"
  },
  {
    "ITEM": 100004548,
    "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MANUAL (SEM ENSAIO SPT) - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "163,92"
  },
  {
    "ITEM": 100004549,
    "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MANUAL, DIÂMETRO 2 ½ POLEGADAS: FURO COM UM ENSAIO DE PENETRAÇÃO SPT A CADA METRO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MANUAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "295,10"
  },
  {
    "ITEM": 100004550,
    "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "11,53"
+   "PREÇO": "10,48"
  },
  {
    "ITEM": 100004551,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 100 METROS ATÉ 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "687,23"
  },
  {
    "ITEM": 100004552,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 50 METROS ATÉ 100 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "618,50"
  },
  {
    "ITEM": 100004553,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DOS 200 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.030,84"
  },
  {
    "ITEM": 100004554,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ATÉ 50 METROS, INCLUSIVE REINSTALAÇÃO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "481,06"
  },
  {
    "ITEM": 100004555,
    "DESCRIÇÃO": "ENSAIO DE PENETRAÇÃO SPT - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "274,97"
  },
  {
    "ITEM": 100004556,
    "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60KM - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "6.708,63"
  },
  {
    "ITEM": 100004557,
    "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MECANIZADA, DIÂMETRO 70MM (INT.) E 156MM (EXT.) COM ENSAIO SPT A CADA METRO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "372,09"
  },
  {
    "ITEM": 100004558,
    "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MECANIZADA, DIÂMETRO 70MM (INT.) E 156MM (EXT.) SEM ENSAIO SPT - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "294,50"
  },
  {
    "ITEM": 100004559,
    "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MECANIZADA, DIÂMETRO 95MM (INT.) E 181MM (EXT.) COM ENSAIO SPT A CADA METRO - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "427,82"
  },
  {
    "ITEM": 100004560,
    "DESCRIÇÃO": "PERFURAÇÃO COM EQUIPAMENTO DE SONDAGEM MECANIZADA, DIÂMETRO 95MM (INT.) E 181MM (EXT.) SEM ENSAIO SPT - SONDAGEM A PERCUSSÃO COM EQUIPAMENTO MECANIZADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "370,13"
  },
  {
    "ITEM": 100004561,
    "DESCRIÇÃO": "ACRÉSCIMO DO TRANSPORTE PARA DISTÂNCIA ACIMA DE 60KM - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
    "PREÇO": "41,64"
  },
  {
    "ITEM": 100004562,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 100 METROS ATÉ 200 METROS, INCLUSIVE DESMONTAGEM E REINSTALAÇÃO - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.188,84"
  },
  {
    "ITEM": 100004563,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DE 50 METROS ATÉ 100 METROS, INCLUSIVE DESMONTAGEM E REINSTALAÇÃO - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.998,05"
  },
  {
    "ITEM": 100004564,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ACIMA DOS 200 METROS, INCLUSIVE DESMONTAGEM E REINSTALAÇÃO - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.379,61"
  },
  {
    "ITEM": 100004565,
    "DESCRIÇÃO": "DESLOCAMENTO DE EQUIPAMENTO ENTRE FUROS ATÉ 50 METROS, INCLUSIVE DESMONTAGEM E REINSTALAÇÃO - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.755,25"
  },
  {
    "ITEM": 100004566,
    "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO POR EQUIPE / EQUIPAMENTO, INCLUSIVE TRANSPORTE ATÉ 60KM - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "9.911,91"
  },
  {
    "ITEM": 100004567,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA COM COROA DE DIAMANTE, BARRILETE DUPLO LIVRE, FURO INCLINADO DE 11 GR A 90 GR COM A VERTICAL, DIÂMETRO HW OU EQUIVALENTE, INCLUSIVE AMOSTRAGEM - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1.888,84"
  },
  {
    "ITEM": 100004568,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA COM COROA DE DIAMANTE, BARRILETE DUPLO LIVRE, FURO INCLINADO DE 11 GR A 90 GR COM A VERTICAL, DIÂMETRO NW OU EQUIVALENTE, INCLUSIVE AMOSTRAGEM - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1.608,96"
  },
  {
    "ITEM": 100004569,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA COM COROA DE DIAMANTE, BARRILETE DUPLO LIVRE, FURO VERTICAL OU INCLINADO ATÉ 10GR COM A VERTICAL, DIÂMETRO HW OU EQUIVALENTE, INCLUSIVE AMOSTRAGEM - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1.578,62"
  },
  {
    "ITEM": 100004570,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA COM COROA DE DIAMANTE, BARRILETE DUPLO LIVRE, FURO VERTICAL OU INCLINADO ATÉ 10GR COM A VERTICAL, DIÂMETRO NW OU EQUIVALENTE, INCLUSIVE AMOSTRAGEM - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1.432,33"
  },
  {
    "ITEM": 100004571,
    "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM COROA DE WIDIA, FURO INCLINADO DE 11 GR A 90 GR COM A VERTICAL, DIÂMETRO HW (INCLUSO AMOSTRAGEM) - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "928,38"
  },
  {
    "ITEM": 100004572,
    "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM COROA DE WIDIA, FURO INCLINADO DE 11 GR A 90 GR COM A VERTICAL, DIÂMETRO NW (INCLUSO AMOSTRAGEM)- SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "810,21"
  },
  {
    "ITEM": 100004573,
    "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM COROA DE WIDIA, FURO VERTICAL OU INCLINADO ATÉ 10 GR COM A VERTICAL, DIÂMETRO HW (INCLUSO AMOSTRAGEM) - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "755,79"
  },
  {
    "ITEM": 100004574,
    "DESCRIÇÃO": "PERFURAÇÃO EM SOLO COM COROA DE WIDIA, FURO VERTICAL OU INCLINADO ATÉ 10 GR COM A VERTICAL, DIÂMETRO NW (INCLUSO AMOSTRAGEM) - SONDAGEM ROTATIVA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "661,64"
  },
  {
    "ITEM": 100004584,
    "DESCRIÇÃO": "DESLOCAMENTO DE PLATAFORMA FLUTUANTE AO LONGO DO RIO COM EQUIPAMENTO MONTADO - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "162,85"
  },
  {
    "ITEM": 100004585,
    "DESCRIÇÃO": "DESLOCAMENTO DE PLATAFORMA FLUTUANTE EM ÁREA MARÍTIMA COSTEIRA - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "183,08"
  },
  {
    "ITEM": 100004586,
    "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA COM DIMENSÃO MÍNIMA DE 5X5M EM TERRENO ALAGADO COM LÂMINA DÁGUA ATÉ 40CM - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "3.436,13"
  },
  {
    "ITEM": 100004587,
    "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA COM DIMENSÃO MÍNIMA DE 5X5M EM TERRENO SECO COM ATÉ 10GR DE INCLINAÇÃO - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.886,79"
  },
  {
    "ITEM": 100004588,
    "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA COM DIMENSÃO MÍNIMA DE 5X5M EM TERRENO SECO COM MAIS DE 10GR DE INCLINAÇÃO - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.278,85"
  },
  {
    "ITEM": 100004589,
    "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA FLUTUANTE COM DIMENSÃO MÍNIMA DE 5X5M, EM TERRENO ALAGADO OU TRECHO DE RIO COM LÂMINA D´ÁGUA SUPERIOR A 40 CM - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "5.892,30"
  },
  {
    "ITEM": 100004590,
    "DESCRIÇÃO": "EXECUÇÃO DE PLATAFORMA FLUTUANTE EM ÁREA MARÍTIMA COSTEIRA - PLATAFORMAS PARA INSTALAÇÃO DE EQUIPAMENTOS DE PERFURAÇÃO OU SONDAGEM - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "22.823,72"
  },
  {
    "ITEM": 100004591,
    "DESCRIÇÃO": "APLICAÇÃO DE BENTONITA POR GRAVIDADE OU COM BOMBA MANUAL E CONTROLE DE PRESSÃO PARA OBTURAR FUROS - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "18,28"
  },
  {
    "ITEM": 100004592,
    "DESCRIÇÃO": "CIMENTO APLICADO POR GRAVIDADE OU COM BOMBA MANUAL E CONTROLE DE PRESSÃO PARA OBTURAÇÃO DOS FUROS - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "7,64"
  },
  {
    "ITEM": 100004593,
    "DESCRIÇÃO": "DETERMINAÇÃO DE INCLINAÇÃO DO FURO DE SONDAGEM COM ÁCIDO FLUORIDRÍCO - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "3.404,65"
  },
  {
    "ITEM": 100004594,
    "DESCRIÇÃO": "ENSAIO DE INFILTRAÇÃO PELO MÉTODO USBR OU SIMILAR - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS – TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "918,09"
  },
  {
    "ITEM": 100004595,
    "DESCRIÇÃO": "ENSAIO DE LAVAGEM POR TEMPO DE ATÉ 30 MINUTOS DE DURAÇÃO - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "318,49"
  },
  {
    "ITEM": 100004596,
    "DESCRIÇÃO": "ENSAIOS DE PERDA D’ÁGUA COM 5 ESTÁGIOS DE PRESSÃO DE 10 MINUTOS COM OBTURADOR DE BORRACHA DUPLO - LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.369,38"
  },
  {
    "ITEM": 100004597,
    "DESCRIÇÃO": "ENSAIOS DE PERDA D’ÁGUA COM 5 ESTÁGIOS DE PRESSÃO DE 10 MINUTOS COM OBTURADOR DE BORRACHA SIMPLES – LAVAGEM, INFILTRAÇÃO E OBTURAÇÃO DE FUROS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.313,64"
  },
  {
    "ITEM": 100004619,
    "DESCRIÇÃO": "EQUIPAMENTO DE ENSAIO À DISPOSIÇÃO - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "DIA",
    "PREÇO": "5.355,00"
  },
  {
    "ITEM": 100004620,
    "DESCRIÇÃO": "EXECUÇÃO DE PROVA DE CARGA ACIMA DE 30 TONELADAS ATÉ 60 TONELADAS - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "16.088,80"
  },
  {
    "ITEM": 100004621,
    "DESCRIÇÃO": "EXECUÇÃO DE PROVA DE CARGA ACIMA DE 60 TONELADAS ATÉ 90 TONELADAS - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "16.088,80"
  },
  {
    "ITEM": 100004622,
    "DESCRIÇÃO": "EXECUÇÃO DE PROVA DE CARGA ACIMA DE 90 TONELADAS - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "16.088,80"
  },
  {
    "ITEM": 100004623,
    "DESCRIÇÃO": "EXECUÇÃO DE PROVA DE CARGA ATÉ 30 TONELADAS - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "16.088,80"
  },
  {
    "ITEM": 100004624,
    "DESCRIÇÃO": "MOBILIZAÇÃO, INSTALAÇÃO E DESMOBILIZAÇÃO POR EQUIPE/EQUIPAMENTO - PROVA DE CARGA SOBRE TERRENO OU ESTACAS PRÉ-MOLDADAS, MOLDADAS “IN LOCO” OU SIMILAR - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "10.487,46"
  },
  {
    "ITEM": 100004625,
    "DESCRIÇÃO": "ADENSAMENTO EDOMÉTRICO POR CICLO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.600,68"
  },
  {
    "ITEM": 100004626,
    "DESCRIÇÃO": "ANÁLISE GRANULOMÉTRICA POR PENEIRAMENTO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "319,52"
+   "PREÇO": "255,24"
  },
  {
    "ITEM": 100004627,
    "DESCRIÇÃO": "ANÁLISE GRANULOMÉTRICA SEDIMENTAÇÃO E PENEIRAMENTO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "544,54"
+   "PREÇO": "521,22"
  },
  {
    "ITEM": 100004628,
    "DESCRIÇÃO": "COMPRESSÃO TRIAXIAL ADENSADO RÁPIDO COM MEDIDA DA PRESSÃO NEUTRA E C/ RUPTURA DE 3 CP - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "6.228,54"
  },
  {
    "ITEM": 100004629,
    "DESCRIÇÃO": "COMPRESSÃO TRIAXIAL LENTO COM RUPTURA DE 3 CP - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "6.546,54"
  },
  {
    "ITEM": 100004630,
    "DESCRIÇÃO": "ENSAIO CBR (5 PONTOS) - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "773,50"
  },
  {
    "ITEM": 100004631,
    "DESCRIÇÃO": "ENSAIO DE ADENSAMENTO - DETERMINAÇÃO DE K E CV EM 3 PONTOS - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "407,10"
  },
  {
    "ITEM": 100004632,
    "DESCRIÇÃO": "ENSAIO DE PERMEABILIDADE - CARGA CONSTANTE - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "898,72"
  },
  {
    "ITEM": 100004633,
    "DESCRIÇÃO": "ENSAIO DE PERMEABILIDADE - CARGA VARIÁVEL - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "681,26"
  },
  {
    "ITEM": 100004634,
    "DESCRIÇÃO": "ENSAIOS DE COMPACTAÇÃO PROCTOR NORMAL - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "297,04"
  },
  {
    "ITEM": 100004635,
    "DESCRIÇÃO": "LIMITE DE CONTRAÇÃO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "323,79"
  },
  {
    "ITEM": 100004636,
    "DESCRIÇÃO": "LIMITES DE ATTERBERG - LIMITE DE LIQUIDEZ E LIMITE DE PLASTICIDADE - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "319,52"
  },
  {
    "ITEM": 100004637,
    "DESCRIÇÃO": "MASSA ESPECÍFICA APARENTE NATURAL - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "118,10"
  },
  {
    "ITEM": 100004638,
    "DESCRIÇÃO": "MASSA ESPECÍFICA REAL DOS GRÃOS - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "134,08"
  },
  {
    "ITEM": 100004639,
    "DESCRIÇÃO": "RETIRADA E PREPARAÇÃO DE CORPO DE PROVA INDEFORMADO - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "829,10"
  },
  {
    "ITEM": 100004640,
    "DESCRIÇÃO": "UMIDADE NATURAL - ENSAIOS GEOTÉCNICOS EM LABORATÓRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "106,51"
  },
  {
    "ITEM": 100004641,
    "DESCRIÇÃO": "EQUIPE DE LEITURA DE INSTRUMENTAÇÃO GEOTÉCNICA TIPO A (PIEZÔMETRO, PINOS DE RECALQUE, MRS, TASSÔMETRO, CONVERGÊNCIA E RNP) - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
    "PREÇO": "3.246,34"
  },
  {
    "ITEM": 100004642,
    "DESCRIÇÃO": "EQUIPE DE LEITURA DE INSTRUMENTAÇÃO GEOTÉCNICA TIPO B ( INCLINÔMETRO, PIEZÔMETRO, PINOS DE RECALQUE, MRS, TASSÔMETRO, CONVERGÊNCIA E RNP) - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
    "PREÇO": "3.992,70"
  },
  {
    "ITEM": 100004643,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE ARANHA MAGNÉTICA COM TUBULAÇÃO NO INTERIOR DA PERFURAÇÃO (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1.444,36"
  },
  {
    "ITEM": 100004644,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE CAIXA DE PROTEÇÃO DA CABEÇA DE INSTRUMENTO TUBULAR - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "722,60"
  },
  {
    "ITEM": 100004645,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE INCLINÔMETRO (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "957,95"
  },
  {
    "ITEM": 100004646,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE MARCO DE DESLOCAMENTO COM PRISMA FIXO - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "335,32"
  },
  {
    "ITEM": 100004647,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PERFILÔMETRO (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1.096,81"
  },
  {
    "ITEM": 100004648,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PIEZÔMETRO OU MNA (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "368,66"
  },
  {
    "ITEM": 100004649,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PINO DE CONVERGÊNCIA - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "308,96"
  },
  {
    "ITEM": 100004650,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PINO DE RECALQUE - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "205,85"
  },
  {
    "ITEM": 100004651,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE PLACA DE RECALQUE SUPERFICIAL - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "904,67"
  },
  {
    "ITEM": 100004652,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE TASSÔMETRO OU RNP (EXCETO PERFURAÇÃO) - INSTRUMENTAÇÃO GEOTÉCNICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "522,29"
  },
  {
    "ITEM": 100004653,
    "DESCRIÇÃO": "ABSORÇÃO D'ÁGUA POR CAPILARIDADE - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "431,38"
+   "PREÇO": "392,15"
  },
  {
    "ITEM": 100004654,
    "DESCRIÇÃO": "ABSORÇÃO D'ÁGUA POR IMERSÃO E FERVURA, ÍNDICE DE VAZIOS E MASSA ESPECÍFICA - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "621,75"
+   "PREÇO": "565,21"
  },
  {
    "ITEM": 100004655,
    "DESCRIÇÃO": "ÁGUA PARA AMASSAMENTO E CURA DE ARGAMASSA E CONCRETO - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.142,08"
+   "PREÇO": "1.947,34"
  },
  {
    "ITEM": 100004656,
    "DESCRIÇÃO": "AVALIAÇÃO DA DUREZA SUPERFICIAL DE CONCRETO POR ESCLERÔMETRO DE REFLEXÃO - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.404,20"
  },
  {
    "ITEM": 100004657,
    "DESCRIÇÃO": "COMPRESSÃO AXIAL EM CP's CILINDRICOS, INCLUSO CAPEAMENTO E RUPTURA - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "43,52"
  },
  {
    "ITEM": 100004658,
    "DESCRIÇÃO": "DETERMINAÇÃO DO COBRIMENTO DA ARMADURA COM EMPREGO DE PACÔMETRO - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.722,80"
  },
  {
    "ITEM": 100004659,
    "DESCRIÇÃO": "EXTRAÇÃO DE CP NO CAMPO (DIÂM. 50, 75 ou 100 mm), INCLUSO CAPEAMENTO E RUPTURA - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "923,31"
  },
  {
    "ITEM": 100004660,
    "DESCRIÇÃO": "EXTRAÇÃO DE CP NO LABORATÓRIO (DIÂM. 50, 75 ou 100 mm), INCLUSO CAPEAMENTO E RUPTURA - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "737,01"
  },
  {
    "ITEM": 100004661,
    "DESCRIÇÃO": "MÓDULO DE DEFORMAÇÃO SECANTE ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "906,23"
  },
  {
    "ITEM": 100004662,
    "DESCRIÇÃO": "PENETRAÇÃO D'ÁGUA SOB PRESSÃO - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.153,84"
  },
  {
    "ITEM": 100004663,
    "DESCRIÇÃO": "RECONSTITUIÇÃO DE TRAÇO PARA CONCRETO ENDURECIDO - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "4.208,90"
  },
  {
    "ITEM": 100004664,
    "DESCRIÇÃO": "RECONSTITUIÇÃO DE TRAÇO PARA CONCRETO FRESCO - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "3.875,68"
  },
  {
    "ITEM": 100004665,
    "DESCRIÇÃO": "VERIFICAÇÃO DA COMPACIDADE DO CONCRETO POR MEIO DE ULTRASSOM - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "4.188,34"
  },
  {
    "ITEM": 100004666,
    "DESCRIÇÃO": "VERIFICAÇÃO DE DOSAGEM DE CONCRETO OU ARGAMASSA CONVENCIONAL OU BOMBEÁVEL - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "3.382,09"
  },
  {
    "ITEM": 100004667,
    "DESCRIÇÃO": "VERIFICAÇÃO DE DOSAGEM DE CONCRETO OU ARGAMASSA CONVENCIONAL OU BOMBEÁVEL, POR TRAÇO ADICIONAL NA MESMA OCASIÃO - ENSAIOS EM CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.721,56"
  },
  {
    "ITEM": 100004668,
    "DESCRIÇÃO": "ÍNDICE DE REFLEXÃO EM PLACA - ENSAIOS EM CONCRETO PROJETADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "563,69"
  },
  {
    "ITEM": 100004669,
    "DESCRIÇÃO": "ÍNDICE DE REFLEXÃO POR MEDIÇÃO DIRETA - ENSAIOS EM CONCRETO PROJETADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "572,63"
  },
  {
    "ITEM": 100004670,
    "DESCRIÇÃO": "RESISTÊNCIA À COMPRESSÃO POR MEIO DA AGULHA DE MAYNADIER - ENSAIOS EM CONCRETO PROJETADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "563,12"
  },
  {
    "ITEM": 100004671,
    "DESCRIÇÃO": "RESISTÊNCIA À COMPRESSÃO POR PENETRÔMETRO DE PROFUNDIDADE CONSTANTE - ENSAIOS EM CONCRETO PROJETADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "557,30"
  },
  {
    "ITEM": 100004672,
    "DESCRIÇÃO": "VERIFICAÇÃO DE TRAÇO DE CONCRETO PROJETADO - ENSAIOS EM CONCRETO PROJETADO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.681,69"
  },
  {
    "ITEM": 100004673,
    "DESCRIÇÃO": "COMPATIBILIDADE CIMENTO ADITIVO ACELERADOR DE PEGA COM EMPREGO DA AGULHA DE GUILLMORE - ENSAIOS EM ADITIVOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.460,92"
  },
  {
    "ITEM": 100004674,
    "DESCRIÇÃO": "ENSAIO DE VERIFICAÇÃO DE DESEMPENHO DE ADITIVO PARA CONCRETO CONVENCIONAL - ENSAIOS EM ADITIVOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "3.844,70"
  },
  {
    "ITEM": 100004675,
    "DESCRIÇÃO": "ENSAIOS DE UNIFORMIDADE DE ADITIVO PARA CONCRETO - ENSAIOS EM ADITIVOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.979,80"
  },
  {
    "ITEM": 100004676,
    "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP I – COMUM - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.181,38"
+   "PREÇO": "6.528,52"
  },
  {
    "ITEM": 100004677,
    "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP II E - COMPOSTO COM ESCÓRIA - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.181,38"
+   "PREÇO": "6.528,52"
  },
  {
    "ITEM": 100004678,
    "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP II F - COMPOSTO COM FILLER - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.181,38"
+   "PREÇO": "6.528,52"
  },
  {
    "ITEM": 100004679,
    "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP II Z - COMPOSTO COM POZOLANA - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.181,38"
+   "PREÇO": "6.528,52"
  },
  {
    "ITEM": 100004680,
    "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP III - ALTO FORNO - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.181,38"
+   "PREÇO": "6.528,52"
  },
  {
    "ITEM": 100004681,
    "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP IV – POZOLÂNICO - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.181,38"
+   "PREÇO": "6.528,52"
  },
  {
    "ITEM": 100004682,
    "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP RS – RESISTENTE A SULFATOS - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.181,38"
+   "PREÇO": "6.528,52"
  },
  {
    "ITEM": 100004683,
    "DESCRIÇÃO": "ANÁLISE QUÍMICA COMPLETA PARA CP V - ALTA RESISTÊNCIA INICIAL - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.181,38"
+   "PREÇO": "6.528,52"
  },
  {
    "ITEM": 100004684,
    "DESCRIÇÃO": "ÁREA ESPECÍFICA BLAINE - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "823,55"
  },
  {
    "ITEM": 100004685,
    "DESCRIÇÃO": "ENSAIOS DE CONTROLE DE RECEBIMENTO, INCLUSO ENSAIOS DE FINURA, ÁREA ESPECÍFICA, TEMPOS DE PEGA E RESISTÊNCIA A COMPRESSÃO AOS 03, 07 E 28 DIAS - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "1.855,21"
  },
  {
    "ITEM": 100004686,
    "DESCRIÇÃO": "EXPANSIBILIDADE \"LE CHATELLIER\" Á QUENTE OU Á FRIO - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "638,63"
  },
  {
    "ITEM": 100004687,
    "DESCRIÇÃO": "FINURA POR MEIO DA PENEIRA # 200 - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "252,35"
  },
  {
    "ITEM": 100004688,
    "DESCRIÇÃO": "MASSA ESPECÍFICA - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "361,56"
  },
  {
    "ITEM": 100004689,
    "DESCRIÇÃO": "RESISTÊNCIA Ä COMPRESSÃO - POR IDADE ADICIONAL - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "345,70"
  },
  {
    "ITEM": 100004690,
    "DESCRIÇÃO": "RESISTÊNCIA A COMPRESSÃO AXIAL AOS 03, 07 E 28 DIAS OU 24 HORAS, 03 E 07 DIAS - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "969,43"
  },
  {
    "ITEM": 100004691,
    "DESCRIÇÃO": "TEMPOS DE PEGA - ENSAIOS EM CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "429,08"
  },
  {
    "ITEM": 100004692,
    "DESCRIÇÃO": "EXSUDAÇÃO E EXPANSÃO - ENSAIOS EM CALDA DE CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "259,16"
  },
  {
    "ITEM": 100004693,
    "DESCRIÇÃO": "ÍNDICE DE FLUIDEZ - ENSAIOS EM CALDA DE CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "414,57"
  },
  {
    "ITEM": 100004694,
    "DESCRIÇÃO": "RESISTÊNCIA À COMPRESSÃO AXIAL - ENSAIOS EM CALDA DE CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "227,89"
  },
  {
    "ITEM": 100004695,
    "DESCRIÇÃO": "VERIFICAÇÃO OU DETERMINAÇÃO DE DOSAGEM DE CALDA DE CIMENTO PARA INJEÇÃO - ENSAIOS EM CALDA DE CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "3.827,49"
  },
  {
    "ITEM": 100004696,
    "DESCRIÇÃO": "VIDA ÚTIL - ENSAIOS EM CALDA DE CIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "520,89"
  },
  {
    "ITEM": 100004697,
    "DESCRIÇÃO": "ANÁLISE MINERALÓGICA E PETROGRÁFICA - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.673,36"
+   "PREÇO": "5.157,59"
  },
  {
    "ITEM": 100004698,
    "DESCRIÇÃO": "AVALIAÇÃO DAS IMPUREZAS ORGÂNICAS - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "285,36"
  },
  {
    "ITEM": 100004699,
    "DESCRIÇÃO": "COMPOSIÇÃO GRANULOMÉTRICA DE AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "355,51"
  },
  {
    "ITEM": 100004700,
    "DESCRIÇÃO": "COMPOSIÇÃO GRANULOMÉTRICA DE AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "355,51"
  },
  {
    "ITEM": 100004701,
    "DESCRIÇÃO": "ENSAIOS DE RECEBIMENTO DE AGREGADO GRAÚDO, INCLUSO OS ENSAIOS DE GRANULOMETRIA, TEOR DE ARGILA, MATERIAIS PULVERULENTOS, PARTÍCULAS LEVES - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.090,33"
  },
  {
    "ITEM": 100004702,
    "DESCRIÇÃO": "ENSAIOS DE RECEBIMENTO DE AGREGADO MIÚDO, INCLUSO OS ENSAIOS DE GRANULOMETRIA, TEOR DE ARGILA, MATERIAIS PULVERULENTOS, PARTÍCULAS LEVES, IMPUREZAS ORGÂNICAS E UMIDADE SUPERFICIAL - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "2.185,53"
  },
  {
    "ITEM": 100004703,
    "DESCRIÇÃO": "MASSA ESPECÍFICA DE AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "252,47"
  },
  {
    "ITEM": 100004704,
    "DESCRIÇÃO": "MASSA ESPECÍFICA DE AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "252,47"
  },
  {
    "ITEM": 100004705,
    "DESCRIÇÃO": "MASSA UNITÁRIA PARA AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "253,34"
  },
  {
    "ITEM": 100004706,
    "DESCRIÇÃO": "MASSA UNITÁRIA PARA AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "252,47"
  },
  {
    "ITEM": 100004707,
    "DESCRIÇÃO": "MATERIAL PULVERULENTO DE AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "372,70"
  },
  {
    "ITEM": 100004708,
    "DESCRIÇÃO": "MATERIAL PULVERULENTO DE AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "372,70"
  },
  {
    "ITEM": 100004709,
    "DESCRIÇÃO": "REATIVIDADE POTENCIAL ÁLCALIS-AGREGADO PELO MÉTODO ACELERADO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "4.978,69"
  },
  {
    "ITEM": 100004710,
    "DESCRIÇÃO": "REATIVIDADE POTENCIAL ÁLCALIS-AGREGADO PELO MÉTODO DAS BARRAS NAS IDADES DE 4, 8, 16, 28 E 56 SEMANAS - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "5.930,69"
  },
  {
    "ITEM": 100004711,
    "DESCRIÇÃO": "REATIVIDADE POTENCIAL ÁLCALIS-AGREGADO PELO MÉTODO QUÍMICO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "5.692,69"
  },
  {
    "ITEM": 100004712,
    "DESCRIÇÃO": "TEOR DE ARGILA EM TORRÕES DE AGREGADO GRAÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "364,72"
  },
  {
    "ITEM": 100004713,
    "DESCRIÇÃO": "TEOR DE ARGILA EM TORRÕES DE AGREGADO MIÚDO - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "364,72"
  },
  {
    "ITEM": 100004714,
    "DESCRIÇÃO": "TEOR DE PARTÍCULAS LEVES - ENSAIOS EM AGREGADOS PARA CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "579,76"
  },
  {
    "ITEM": 100004715,
    "DESCRIÇÃO": "DOBRAMENTO - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "69,94"
  },
  {
    "ITEM": 100004716,
    "DESCRIÇÃO": "RESISTÊNCIA AO CISALHAMENTO EM TELA DE AÇO - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "768,43"
  },
  {
    "ITEM": 100004717,
    "DESCRIÇÃO": "TRAÇÃO DE BARRAS OU FIOS TIPO A E/OU CA 50 - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "226,79"
  },
  {
    "ITEM": 100004718,
    "DESCRIÇÃO": "TRAÇÃO DE CORDOALHA COM LIMITE DE ESCOAMENTO, DIAGRAMA E MÓDULO DE ELASTICIDADE - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "974,44"
  },
  {
    "ITEM": 100004719,
    "DESCRIÇÃO": "TRAÇÃO EM BARRA DE AÇO COM EMENDA MECÂNICA OU POR SOLDA - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "339,84"
  },
  {
    "ITEM": 100004720,
    "DESCRIÇÃO": "TRAÇÃO EM BARRAS OU FIOS TIPO B E/OU CA 60 - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "168,14"
  },
  {
    "ITEM": 100004721,
    "DESCRIÇÃO": "TRAÇÃO EM TELA DE AÇO - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "309,35"
  },
  {
    "ITEM": 100004722,
    "DESCRIÇÃO": "VERIFICAÇÃO DE BITOLA - ENSAIOS EM AÇO PARA CONCRETO ARMADO E PROTENDIDO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "67,46"
  },
  {
    "ITEM": 100004723,
    "DESCRIÇÃO": "DETERMINAÇÃO DA ESPESSURA DAS DIVERSAS CAMADAS DE PAVIMENTO POR BROQUEAMENTO - ENSAIOS EM PAVIMENTOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "908,30"
  },
  {
    "ITEM": 100004724,
    "DESCRIÇÃO": "DETERMINAÇÃO DA ESPESSURA DAS DIVERSAS CAMADAS DE PAVIMENTO POR TALHADEIRA - ENSAIOS EM PAVIMENTOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "672,56"
  },
  {
    "ITEM": 100004725,
    "DESCRIÇÃO": "ENSAIOS DEFLECTOMÉTRICO COM EMPREGO DE VIGA BENKELMAN - ENSAIOS EM PAVIMENTOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "952,76"
  },
  {
    "ITEM": 100004726,
    "DESCRIÇÃO": "ESTUDO DE INVENTÁRIO DO ESTADO DE SUPERFÍCIE DOS PAVIMENTOS - ENSAIOS EM PAVIMENTOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "102,23"
  },
  {
    "ITEM": 100004727,
    "DESCRIÇÃO": "ESTUDO DEFLECTOMÉTRICO COM DEFINIÇÃO DE SEGMENTOS HOMOGÊNEOS E CÁLCULO DE REFORÇO DE PAVIMENTO - ENSAIOS EM PAVIMENTOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "141,56"
  },
  {
    "ITEM": 100004728,
    "DESCRIÇÃO": "EXTRAÇÃO DE CORPO-DE-PROVA BROQUEADO EM PAVIMENTO PARA TESTEMUNHO DE DIÂM. 100 MM - ENSAIOS EM PAVIMENTOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "592,89"
  },
  {
    "ITEM": 100004734,
    "DESCRIÇÃO": "ABRASÃO \"LOS ANGELES\" DOS AGREGADOS -ENSAIOS EM MISTURAS BETUMINOSAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "932,51"
+   "PREÇO": "1.025,77"
  },
  {
    "ITEM": 100004735,
    "DESCRIÇÃO": "DENSIDADE APARENTE EM CP EXTRAÍDO DE PISTA OU MOLDADO - ENSAIOS EM MISTURAS BETUMINOSAS – TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "343,49"
  },
  {
    "ITEM": 100004736,
    "DESCRIÇÃO": "DETERMINAÇÃO DA ESTABILIDADE MARSHALL - ENSAIOS EM MISTURAS BETUMINOSAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "739,29"
  },
  {
    "ITEM": 100004737,
    "DESCRIÇÃO": "TEOR DE BETUME E GRANULOMETRIA - ENSAIOS EM MISTURAS BETUMINOSAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "490,48"
  },
  {
    "ITEM": 100004738,
    "DESCRIÇÃO": "ENSAIO DE COMPRESSÃO AXIAL DE CP BROQUEADO - BASE DE CONCRETO PARA PAVIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "131,46"
  },
  {
    "ITEM": 100004739,
    "DESCRIÇÃO": "ENSAIO DE COMPRESSÃO AXIAL DE CP MOLDADO - BASE DE CONCRETO PARA PAVIMENTO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "93,90"
  },
  {
    "ITEM": 100004740,
    "DESCRIÇÃO": "CONTRAÇÃO - ENSAIOS MINIATURIZADOS DE SOLOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "269,01"
  },
  {
    "ITEM": 100004741,
    "DESCRIÇÃO": "MINI CBR - ENSAIOS MINIATURIZADOS DE SOLOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "675,85"
  },
  {
    "ITEM": 100004742,
    "DESCRIÇÃO": "MINI PROCTOR - ENSAIOS MINIATURIZADOS DE SOLOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "672,23"
  },
  {
    "ITEM": 100004743,
    "DESCRIÇÃO": "PENETRAÇÃO DE ÁGUA E SUCÇÃO CAPILAR - ENSAIOS MINIATURIZADOS DE SOLOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "422,53"
  },
  {
    "ITEM": 100004744,
    "DESCRIÇÃO": "PENETRAÇÃO EM IMPRIMADURA BETUMINOSA - ENSAIOS MINIATURIZADOS DE SOLOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "219,01"
  },
  {
    "ITEM": 100004745,
    "DESCRIÇÃO": "PERDA DE MASSA POR IMERSÃO - ENSAIOS MINIATURIZADOS DE SOLOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "353,72"
  },
  {
    "ITEM": 100004758,
    "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÀO TIPO A, COM LABORATÓRIO DE CAMPO NA REGIÃO DO INTERIOR OU LITORAL DO ESTADO DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.521,92"
+   "PREÇO": "3.538,25"
  },
  {
    "ITEM": 100004759,
    "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO TIPO A, COM LABORATÓRIO DE CAMPO NA REGIÃO METROPOLITANA DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.435,76"
+   "PREÇO": "3.451,70"
  },
  {
    "ITEM": 100004760,
    "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÀO TIPO B, COM LABORATÓRIO DE CAMPO NA REGIÃO DO INTERIOR OU LITORAL DO ESTADO DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.903,96"
+   "PREÇO": "3.920,29"
  },
  {
    "ITEM": 100004761,
    "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO TIPO B, COM LABORATÓRIO DE CAMPO NA REGIÃO METROPOLITANA DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.817,79"
+   "PREÇO": "3.833,74"
  },
  {
    "ITEM": 100004762,
    "DESCRIÇÃO": "RELATÓRIO MENSAL - CONTROLE TECNOLÓGICO DE OBRAS DE SOLOS/PAVIMENTAÇÃO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
    "PREÇO": "2.320,79"
  },
  {
    "ITEM": 100004763,
    "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO TIPO A, COM LABORATÓRIO DE CAMPO NA REGIÃO DO INTERIOR OU LITORAL DO ESTADO DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.513,26"
+   "PREÇO": "3.529,59"
  },
  {
    "ITEM": 100004764,
    "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO TIPO A, COM LABORATÓRIO DE CAMPO NA REGIÃO METROPOLITANA DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO- TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.435,76"
+   "PREÇO": "3.451,70"
  },
  {
    "ITEM": 100004765,
    "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO TIPO B, COM LABORATÓRIO DE CAMPO NA REGIÃO DO INTERIOR OU LITORAL DO ESTADO DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.895,30"
+   "PREÇO": "3.911,63"
  },
  {
    "ITEM": 100004766,
    "DESCRIÇÃO": "EQUIPE DE CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO TIPO B, COM LABORATÓRIO DE CAMPO NA REGIÃO METROPOLITANA DE SÃO PAULO - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "3.817,79"
+   "PREÇO": "3.833,74"
  },
  {
    "ITEM": 100004767,
    "DESCRIÇÃO": "RELATÓRIO MENSAL - CONTROLE TECNOLÓGICO DE OBRAS DE CONCRETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
    "PREÇO": "2.320,79"
  },
  {
    "ITEM": 100004768,
    "DESCRIÇÃO": "EQUIPE DE INSPEÇÃO EM REVESTIMENTO ANTI-CORROSIVO - INSPEÇÃO DE JUNTAS SOLDADAS E REVESTIMENTOS DE TUBOS DE AÇO POR MEIO DE ENSAIOS NÃO DESTRUTIVOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
    "PREÇO": "1.785,00"
  },
  {
    "ITEM": 100004770,
    "DESCRIÇÃO": "EQUIPE DE INSPEÇÃO EM SOLDA COM ULTRA SOM - INSPEÇÃO DE JUNTAS SOLDADAS E REVESTIMENTOS DE TUBOS DE AÇO POR MEIO DE ENSAIOS NÃO DESTRUTIVOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
    "PREÇO": "2.177,70"
  },
  {
    "ITEM": 100009973,
    "DESCRIÇÃO": "7 METAIS (ALUMÍNIO, BÁRIO, CROMO, COBALTO, FERRO, MAGNÉSIO, MANGANÊS) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "327,64"
+   "PREÇO": "337,46"
  },
  {
    "ITEM": 100009974,
    "DESCRIÇÃO": "9 METAIS (ALUMÍNIO, BÁRIO, CROMO, COBALTO, FERRO, MAGNÉSIO, MANGANÊS, NIQUEL, CHUMBO, ZINCO) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "380,00"
+   "PREÇO": "391,39"
  },
  {
    "ITEM": 100009975,
    "DESCRIÇÃO": "ACIDEZ (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "69,17"
  },
  {
    "ITEM": 100009976,
    "DESCRIÇÃO": "ALCALINIDADE (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "54,60"
+   "PREÇO": "56,36"
  },
  {
    "ITEM": 100009977,
    "DESCRIÇÃO": "ALUMÍNIO (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009978,
    "DESCRIÇÃO": "ALUMÍNIO (B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009979,
    "DESCRIÇÃO": "ARSÊNIO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009980,
    "DESCRIÇÃO": "BÁRIO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009981,
    "DESCRIÇÃO": "BIOCIDAS CLORADOS (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "154,70"
  },
  {
    "ITEM": 100009982,
    "DESCRIÇÃO": "BIOCIDAS CLORADOS (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "154,70"
  },
  {
    "ITEM": 100009983,
    "DESCRIÇÃO": "BIOCIDAS CLORADOS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "154,70"
  },
  {
    "ITEM": 100009984,
    "DESCRIÇÃO": "BORO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009985,
    "DESCRIÇÃO": "CÁDMIO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009986,
    "DESCRIÇÃO": "CÁLCIO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,44"
+   "PREÇO": "93,43"
  },
  {
    "ITEM": 100009987,
    "DESCRIÇÃO": "CHUMBO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009988,
    "DESCRIÇÃO": "CIANETO (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009989,
    "DESCRIÇÃO": "CIANETO (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009990,
    "DESCRIÇÃO": "CIANETO (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009991,
    "DESCRIÇÃO": "CLORETO (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "87,52"
+   "PREÇO": "90,27"
  },
  {
    "ITEM": 100009992,
    "DESCRIÇÃO": "CLORETO (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "87,52"
+   "PREÇO": "90,27"
  },
  {
    "ITEM": 100009993,
    "DESCRIÇÃO": "CLOROFILA / FEOFTINA (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "188,89"
+   "PREÇO": "194,78"
  },
  {
    "ITEM": 100009994,
    "DESCRIÇÃO": "COBRE (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100009995,
    "DESCRIÇÃO": "CONDUTIVIDADE ESPECÍFICA (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "28,13"
+   "PREÇO": "34,19"
  },
  {
    "ITEM": 100009996,
    "DESCRIÇÃO": "COR (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "31,04"
+   "PREÇO": "31,96"
  },
  {
    "ITEM": 100009997,
    "DESCRIÇÃO": "CROMO HEXAVALENTE (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "58,01"
+   "PREÇO": "62,44"
  },
  {
    "ITEM": 100009998,
    "DESCRIÇÃO": "CROMO TOTAL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "58,01"
+   "PREÇO": "62,44"
  },
  {
    "ITEM": 100009999,
    "DESCRIÇÃO": "DEMANDA BIOQUÍMICA DE OXIGÊNIO - DBO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "153,75"
+   "PREÇO": "137,16"
  },
  {
    "ITEM": 100010000,
    "DESCRIÇÃO": "DEMANDA QUÍMICA DE OXIGÊNIO - DQO (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "99,25"
+   "PREÇO": "119,14"
  },
  {
    "ITEM": 100010001,
    "DESCRIÇÃO": "DEMANDA QUÍMICA DE OXIGÊNIO - DQO (B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "99,25"
+   "PREÇO": "119,14"
  },
  {
    "ITEM": 100010002,
    "DESCRIÇÃO": "DENSIDADE (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "79,14"
  },
  {
    "ITEM": 100010003,
    "DESCRIÇÃO": "DUREZA TOTAL (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "58,91"
+   "PREÇO": "72,78"
  },
  {
    "ITEM": 100010004,
    "DESCRIÇÃO": "DUREZA TOTAL (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "58,91"
+   "PREÇO": "72,78"
  },
  {
    "ITEM": 100010005,
    "DESCRIÇÃO": "ESTANHO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010006,
    "DESCRIÇÃO": "FENÓIS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "135,52"
+   "PREÇO": "139,58"
  },
  {
    "ITEM": 100010007,
    "DESCRIÇÃO": "FERRO SOLÚVEL (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010008,
    "DESCRIÇÃO": "FERRO SOLÚVEL (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010009,
    "DESCRIÇÃO": "FERRO TOTAL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010010,
    "DESCRIÇÃO": "FLUORETO SOLÚVEL (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,29"
+   "PREÇO": "79,21"
  },
  {
    "ITEM": 100010011,
    "DESCRIÇÃO": "FLUORETO SOLÚVEL (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,29"
+   "PREÇO": "79,21"
  },
  {
    "ITEM": 100010012,
    "DESCRIÇÃO": "FOSFATO ORGÂNICO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "79,14"
  },
  {
    "ITEM": 100010013,
    "DESCRIÇÃO": "FOSFATO TOTAL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "61,29"
  },
  {
    "ITEM": 100010014,
    "DESCRIÇÃO": "GÁS CARBÔNICO LIVRE (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "86,99"
  },
  {
    "ITEM": 100010015,
    "DESCRIÇÃO": "MANGANÊS SOLÚVEL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010016,
    "DESCRIÇÃO": "MAGNÉSIO SOLÚVEL (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010017,
    "DESCRIÇÃO": "MAGNÉSIO SOLÚVEL (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010018,
    "DESCRIÇÃO": "MERCÚRIO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010019,
    "DESCRIÇÃO": "NÍQUEL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010020,
    "DESCRIÇÃO": "NITROGÊNIO AMONIACAL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "87,52"
+   "PREÇO": "94,76"
  },
  {
    "ITEM": 100010021,
    "DESCRIÇÃO": "NITROGÊNIO KJELDAHL TOTAL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "87,52"
+   "PREÇO": "90,14"
  },
  {
    "ITEM": 100010022,
    "DESCRIÇÃO": "NITROGÊNIO NITRATO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,29"
+   "PREÇO": "63,12"
  },
  {
    "ITEM": 100010023,
    "DESCRIÇÃO": "NITROGÊNIO NITRITO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,29"
+   "PREÇO": "63,12"
  },
  {
    "ITEM": 100010024,
    "DESCRIÇÃO": "NITROGÊNIO TOTAL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "85,68"
+   "PREÇO": "94,76"
  },
  {
    "ITEM": 100010025,
    "DESCRIÇÃO": "ÓLEOS E GRAXAS (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "95,39"
+   "PREÇO": "98,25"
  },
  {
    "ITEM": 100010026,
    "DESCRIÇÃO": "ÓLEOS E GRAXAS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "95,39"
+   "PREÇO": "98,25"
  },
  {
    "ITEM": 100010027,
    "DESCRIÇÃO": "ORTOFOSFATO SOLÚVEL (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "85,68"
  },
  {
    "ITEM": 100010028,
    "DESCRIÇÃO": "OXIGÊNIO CONSUMIDO (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "79,14"
  },
  {
    "ITEM": 100010029,
    "DESCRIÇÃO": "OXIGÊNIO DISSOLVIDO - OD (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "33,40"
+   "PREÇO": "34,40"
  },
  {
    "ITEM": 100010030,
    "DESCRIÇÃO": "PH (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "33,40"
+   "PREÇO": "34,40"
  },
  {
    "ITEM": 100010031,
    "DESCRIÇÃO": "PRATA (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010032,
    "DESCRIÇÃO": "SELÊNIO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010033,
    "DESCRIÇÃO": "SÍLICA (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "57,12"
  },
  {
    "ITEM": 100010034,
    "DESCRIÇÃO": "SÓDIO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010035,
    "DESCRIÇÃO": "SULFATO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,29"
+   "PREÇO": "63,12"
  },
  {
    "ITEM": 100010036,
    "DESCRIÇÃO": "SURFACTANTES (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "55,53"
+   "PREÇO": "57,18"
  },
  {
    "ITEM": 100010037,
    "DESCRIÇÃO": "TESTE DE TOXIDADE CRÔNICA COM CERIODAPHINA (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "361,76"
  },
  {
    "ITEM": 100010038,
    "DESCRIÇÃO": "TESTE DE TOXIDADE SEDIMENTO COM HYALELLA (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "361,76"
  },
  {
    "ITEM": 100010039,
    "DESCRIÇÃO": "TURBIDEZ (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "34,37"
+   "PREÇO": "33,40"
  },
  {
    "ITEM": 100010040,
    "DESCRIÇÃO": "ZINCO (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010041,
    "DESCRIÇÃO": "CLORO RESIDUAL TOTAL (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "50,28"
+   "PREÇO": "55,50"
  },
  {
    "ITEM": 100010042,
    "DESCRIÇÃO": "CROMO III - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "40,22"
+   "PREÇO": "41,42"
  },
  {
    "ITEM": 100010043,
    "DESCRIÇÃO": "CROMO IV - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "62,57"
  },
  {
    "ITEM": 100010044,
    "DESCRIÇÃO": "SÓLIDOS DISSOLVIDOS TOTAIS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,14"
+   "PREÇO": "89,81"
  },
  {
    "ITEM": 100010045,
    "DESCRIÇÃO": "SÓLIDOS DISSOLVIDOS FIXOS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,14"
+   "PREÇO": "89,81"
  },
  {
    "ITEM": 100010046,
    "DESCRIÇÃO": "SÓLIDOS DISSOLVIDOS VOLÁTEIS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "91,57"
+   "PREÇO": "103,68"
  },
  {
    "ITEM": 100010047,
    "DESCRIÇÃO": "SÓLIDOS EM SUSPENSÃO TOTAIS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "86,99"
+   "PREÇO": "89,60"
  },
  {
    "ITEM": 100010048,
    "DESCRIÇÃO": "SÓLIDOS EM SUSPENSÃO FIXOS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "91,57"
+   "PREÇO": "103,68"
  },
  {
    "ITEM": 100010049,
    "DESCRIÇÃO": "SÓLIDOS EM SUSPENSÃO VOLÁTEIS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "65,45"
  },
  {
    "ITEM": 100010050,
    "DESCRIÇÃO": "SÓLIDOS TOTAIS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "67,41"
  },
  {
    "ITEM": 100010051,
    "DESCRIÇÃO": "SÓLIDOS TOTAIS FIXOS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "67,41"
  },
  {
    "ITEM": 100010052,
    "DESCRIÇÃO": "SÓLIDOS TOTAIS VOLÁTEIS (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "67,41"
  },
  {
    "ITEM": 100010053,
    "DESCRIÇÃO": "SÓLIDOS SEDIMENTÁVEIS (B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "67,41"
  },
  {
    "ITEM": 100010054,
    "DESCRIÇÃO": "CARBONO ORGÂNICO TOTAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "80,33"
+   "PREÇO": "104,42"
  },
  {
    "ITEM": 100010055,
    "DESCRIÇÃO": "ENTEROCOCOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "113,22"
+   "PREÇO": "115,18"
  },
  {
    "ITEM": 100010056,
    "DESCRIÇÃO": "FOSFATO SOLÚVEL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "61,29"
  },
  {
    "ITEM": 100010057,
    "DESCRIÇÃO": "FÓSFORO TOTAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "48,79"
+   "PREÇO": "63,43"
  },
  {
    "ITEM": 100010058,
    "DESCRIÇÃO": "ÓLEOS E GRAXAS MINERAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "95,39"
+   "PREÇO": "98,25"
  },
  {
    "ITEM": 100010059,
    "DESCRIÇÃO": "SULFETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "72,00"
+   "PREÇO": "68,81"
  },
  {
    "ITEM": 100010060,
    "DESCRIÇÃO": "TEMPERATURA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "33,40"
+   "PREÇO": "34,40"
  },
  {
    "ITEM": 100010061,
    "DESCRIÇÃO": "TOXICIDADE CRÔNICA COM LYTECHINUS VARIEGATUS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "385,56"
  },
  {
    "ITEM": 100010062,
    "DESCRIÇÃO": "7 METAIS (ALUMÍNIO, BÁRIO, CROMO, COBALTO, FERRO, MAGNÉSIO, MANGANÊS) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "327,64"
+   "PREÇO": "337,46"
  },
  {
    "ITEM": 100010063,
    "DESCRIÇÃO": "9 METAIS (ALUMÍNIO, BÁRIO, CROMO, COBALTO, FERRO, MAGNÉSIO, MANGANÊS, NÍQUEL, CHUMBO, ZINCO) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "380,00"
+   "PREÇO": "391,39"
  },
  {
    "ITEM": 100010064,
    "DESCRIÇÃO": "ALUMÍNIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010065,
    "DESCRIÇÃO": "ARSÊNIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010066,
    "DESCRIÇÃO": "BÁRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010067,
    "DESCRIÇÃO": "BIOCIDAS CLORADOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "154,70"
  },
  {
    "ITEM": 100010068,
    "DESCRIÇÃO": "CÁDMIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010069,
    "DESCRIÇÃO": "CHUMBO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010070,
    "DESCRIÇÃO": "CIANETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010071,
    "DESCRIÇÃO": "CLORETO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "87,52"
+   "PREÇO": "90,27"
  },
  {
    "ITEM": 100010072,
    "DESCRIÇÃO": "COBRE - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010073,
    "DESCRIÇÃO": "CONDUTIVIDADE ESPECÍFICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "34,16"
+   "PREÇO": "34,19"
  },
  {
    "ITEM": 100010074,
    "DESCRIÇÃO": "COR - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "48,24"
+   "PREÇO": "50,21"
  },
  {
    "ITEM": 100010075,
    "DESCRIÇÃO": "CROMO HEXAVALENTE - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "58,01"
+   "PREÇO": "62,44"
  },
  {
    "ITEM": 100010076,
    "DESCRIÇÃO": "CROMO TOTAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "58,01"
+   "PREÇO": "62,44"
  },
  {
    "ITEM": 100010077,
    "DESCRIÇÃO": "DEMANDA BIOQUÍMICA DE OXIGÊNIO - DBO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "107,80"
+   "PREÇO": "137,16"
  },
  {
    "ITEM": 100010078,
    "DESCRIÇÃO": "DEMANDA QUÍMICA DE OXIGÊNIO - DQO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "71,78"
+   "PREÇO": "73,85"
  },
  {
    "ITEM": 100010079,
    "DESCRIÇÃO": "DUREZA TOTAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "58,91"
+   "PREÇO": "72,78"
  },
  {
    "ITEM": 100010080,
    "DESCRIÇÃO": "ESTANHO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010081,
    "DESCRIÇÃO": "FENÓIS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "92,70"
+   "PREÇO": "106,02"
  },
  {
    "ITEM": 100010082,
    "DESCRIÇÃO": "FERRO TOTAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010083,
    "DESCRIÇÃO": "FOSFATO ORGÂNICO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "90,50"
  },
  {
    "ITEM": 100010084,
    "DESCRIÇÃO": "FOSFATO TOTAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "38,97"
  },
  {
    "ITEM": 100010085,
    "DESCRIÇÃO": "GRANULOMETRIA SEDIMENTO LODO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "169,55"
  },
  {
    "ITEM": 100010086,
    "DESCRIÇÃO": "MERCÚRIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010087,
    "DESCRIÇÃO": "NÍQUEL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010088,
    "DESCRIÇÃO": "NITROGÊNIO AMONIACAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "90,50"
+   "PREÇO": "94,76"
  },
  {
    "ITEM": 100010089,
    "DESCRIÇÃO": "NITROGÊNIO KJELDAHL TOTAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "90,50"
+   "PREÇO": "93,21"
  },
  {
    "ITEM": 100010090,
    "DESCRIÇÃO": "NITROGÊNIO NITRATO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,29"
+   "PREÇO": "63,12"
  },
  {
    "ITEM": 100010091,
    "DESCRIÇÃO": "NITROGÊNIO NITRITO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,29"
+   "PREÇO": "63,12"
  },
  {
    "ITEM": 100010092,
    "DESCRIÇÃO": "NITROGÊNIO TOTAL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "85,68"
+   "PREÇO": "94,76"
  },
  {
    "ITEM": 100010093,
    "DESCRIÇÃO": "ÓLEOS E GRAXAS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "95,39"
+   "PREÇO": "98,25"
  },
  {
    "ITEM": 100010094,
    "DESCRIÇÃO": "PH - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "33,40"
+   "PREÇO": "34,40"
  },
  {
    "ITEM": 100010095,
    "DESCRIÇÃO": "PRATA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010096,
    "DESCRIÇÃO": "SELÊNIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010097,
    "DESCRIÇÃO": "SÍLICA - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "57,12"
  },
  {
    "ITEM": 100010098,
    "DESCRIÇÃO": "SÓDIO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010099,
    "DESCRIÇÃO": "SULFATO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,29"
+   "PREÇO": "63,12"
  },
  {
    "ITEM": 100010100,
    "DESCRIÇÃO": "SURFACTANTES - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "55,53"
+   "PREÇO": "57,18"
  },
  {
    "ITEM": 100010101,
    "DESCRIÇÃO": "UMIDADE - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "43,36"
+   "PREÇO": "44,46"
  },
  {
    "ITEM": 100010102,
    "DESCRIÇÃO": "ZINCO - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,88"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010103,
    "DESCRIÇÃO": "SÓLIDOS TOTAIS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "40,85"
+   "PREÇO": "42,07"
  },
  {
    "ITEM": 100010104,
    "DESCRIÇÃO": "SÓLIDOS TOTAIS FIXOS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "40,85"
+   "PREÇO": "42,07"
  },
  {
    "ITEM": 100010105,
    "DESCRIÇÃO": "SÓLIDOS TOTAIS VOLÁTEIS - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "40,85"
+   "PREÇO": "42,07"
  },
  {
    "ITEM": 100010106,
    "DESCRIÇÃO": "ACTINOMICETOS (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "119,00"
  },
  {
    "ITEM": 100010107,
    "DESCRIÇÃO": "ACTINOMICETOS (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "119,00"
  },
  {
    "ITEM": 100010108,
    "DESCRIÇÃO": "ACTINOMICETOS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "119,00"
  },
  {
    "ITEM": 100010109,
    "DESCRIÇÃO": "ACTINOMICETOS (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "119,00"
  },
  {
    "ITEM": 100010110,
    "DESCRIÇÃO": "CLOSTRÍDIOS SULFITO-REDUTORES (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,73"
+   "PREÇO": "84,51"
  },
  {
    "ITEM": 100010111,
    "DESCRIÇÃO": "CLOSTRÍDIOS SULFITO-REDUTORES (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,73"
+   "PREÇO": "84,51"
  },
  {
    "ITEM": 100010112,
    "DESCRIÇÃO": "CLOSTRÍDIOS SULFITO-REDUTORES (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,73"
+   "PREÇO": "84,51"
  },
  {
    "ITEM": 100010113,
    "DESCRIÇÃO": "CLOSTRÍDIOS SULFITO-REDUTORES (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,73"
+   "PREÇO": "84,51"
  },
  {
    "ITEM": 100010114,
    "DESCRIÇÃO": "COLIFAGOS (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "260,61"
+   "PREÇO": "321,30"
  },
  {
    "ITEM": 100010115,
    "DESCRIÇÃO": "COLIFAGOS (B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "441,49"
+   "PREÇO": "516,46"
  },
  {
    "ITEM": 100010116,
    "DESCRIÇÃO": "COLIFAGOS (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "671,16"
  },
  {
    "ITEM": 100010117,
    "DESCRIÇÃO": "COLIFORMES FECAIS (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "76,49"
+   "PREÇO": "78,06"
  },
  {
    "ITEM": 100010118,
    "DESCRIÇÃO": "COLIFORMES FECAIS (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "76,49"
+   "PREÇO": "78,06"
  },
  {
    "ITEM": 100010119,
    "DESCRIÇÃO": "COLIFORMES FECAIS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "76,49"
+   "PREÇO": "78,06"
  },
  {
    "ITEM": 100010120,
    "DESCRIÇÃO": "COLIFORMES TOTAIS (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "76,49"
+   "PREÇO": "78,06"
  },
  {
    "ITEM": 100010121,
    "DESCRIÇÃO": "COLIFORMES TOTAIS (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "76,49"
+   "PREÇO": "78,06"
  },
  {
    "ITEM": 100010122,
    "DESCRIÇÃO": "COLIFORMES TOTAIS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "76,49"
+   "PREÇO": "78,06"
  },
  {
    "ITEM": 100010123,
    "DESCRIÇÃO": "CONTAGEM PADRÃO DE BACTÉRIAS (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,48"
+   "PREÇO": "81,05"
  },
  {
    "ITEM": 100010124,
    "DESCRIÇÃO": "CONTAGEM PADRÃO DE BACTÉRIAS (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,48"
+   "PREÇO": "81,05"
  },
  {
    "ITEM": 100010125,
    "DESCRIÇÃO": "CONTAGEM PADRÃO DE BACTÉRIAS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,48"
+   "PREÇO": "81,05"
  },
  {
    "ITEM": 100010126,
    "DESCRIÇÃO": "CONTAGEM PADRÃO DE BACTÉRIAS (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "79,48"
+   "PREÇO": "81,05"
  },
  {
    "ITEM": 100010127,
    "DESCRIÇÃO": "ESTREPTOCOCOS FECAIS (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010128,
    "DESCRIÇÃO": "ESTREPTOCOCOS FECAIS (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010129,
    "DESCRIÇÃO": "ESTREPTOCOCOS FECAIS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010130,
    "DESCRIÇÃO": "ESTREPTOCOCOS FECAIS (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010131,
    "DESCRIÇÃO": "ENTEROTOXINAS VÍBRIOS ESCHERICHIA ECOLI (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "52,36"
+   "PREÇO": "55,50"
  },
  {
    "ITEM": 100010132,
    "DESCRIÇÃO": "SALMONELLA (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010133,
    "DESCRIÇÃO": "SALMONELLA (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010134,
    "DESCRIÇÃO": "SALMONELLA (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "65,45"
+   "PREÇO": "69,38"
  },
  {
    "ITEM": 100010135,
    "DESCRIÇÃO": "TESTE DE TOXIDADE AGUDA - MICROTOX (A / B / C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "428,40"
  },
  {
    "ITEM": 100010136,
    "DESCRIÇÃO": "COMPOSTOS ORGANOFOSFORADOS (A/B/C/D) - AZIMPHOS-ETIL - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "162,52"
+   "PREÇO": "211,27"
  },
  {
    "ITEM": 100010137,
    "DESCRIÇÃO": "COMPOSTOS ORGANOCLORADOS (A / B / C / D) - ALDRIN, BHC, CLORDANO, DDD - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "392,70"
+   "PREÇO": "428,94"
  },
  {
    "ITEM": 100010138,
    "DESCRIÇÃO": "2,4,6-TCP (TRICHOROPHENOL) (A / B / C / D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "178,50"
  },
  {
    "ITEM": 100010139,
    "DESCRIÇÃO": "BENTOS AGUA DOCE (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "77,35"
+   "PREÇO": "100,56"
  },
  {
    "ITEM": 100010140,
    "DESCRIÇÃO": "BENZO A PIRENO (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "103,73"
+   "PREÇO": "111,47"
  },
  {
    "ITEM": 100010141,
    "DESCRIÇÃO": "BTX (BENZENO, TOLUENO, XILENO) (A / B / C / D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "190,70"
+   "PREÇO": "202,05"
  },
  {
    "ITEM": 100010142,
    "DESCRIÇÃO": "CARBAMATOS TOTAIS (A) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "222,53"
+   "PREÇO": "235,88"
  },
  {
    "ITEM": 100010143,
    "DESCRIÇÃO": "CARBAMATOS TOTAIS (B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "222,53"
+   "PREÇO": "235,88"
  },
  {
    "ITEM": 100010144,
    "DESCRIÇÃO": "CARBAMATOS TOTAIS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "222,53"
+   "PREÇO": "235,88"
  },
  {
    "ITEM": 100010145,
    "DESCRIÇÃO": "CARBAMATOS TOTAIS (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "222,53"
+   "PREÇO": "235,88"
  },
  {
    "ITEM": 100010146,
    "DESCRIÇÃO": "FOSFORADOS TOTAIS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "216,39"
  },
  {
    "ITEM": 100010147,
    "DESCRIÇÃO": "HERBICIDAS FENOXIACIDOS (2,4-D,2,4,5-T,2,4,5-TP) (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "201,11"
+   "PREÇO": "207,14"
  },
  {
    "ITEM": 100010148,
    "DESCRIÇÃO": "HERBICIDAS FENOXIÁCIDOS (2,4-D, 2,4,5-T, 2,4,5-TP) (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "201,11"
+   "PREÇO": "207,14"
  },
  {
    "ITEM": 100010149,
    "DESCRIÇÃO": "PCB'S (A / B / C / D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "201,11"
+   "PREÇO": "207,14"
  },
  {
    "ITEM": 100010150,
    "DESCRIÇÃO": "SOLVENTES HALOGENADOS (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "70,39"
  },
  {
    "ITEM": 100010151,
    "DESCRIÇÃO": "SOLVENTES HALOGENADOS (C) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "70,39"
  },
  {
    "ITEM": 100010152,
    "DESCRIÇÃO": "SOLVENTES HALOGENADOS (D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "70,39"
  },
  {
    "ITEM": 100010153,
    "DESCRIÇÃO": "TRIHALOMETANO - THM (A / B) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "157,08"
+   "PREÇO": "166,50"
  },
  {
    "ITEM": 100010154,
    "DESCRIÇÃO": "TRIHALOMETANO - THM (C / D) - TERCEIRIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "157,08"
+   "PREÇO": "166,50"
  },
  {
    "ITEM": 100000001,
    "DESCRIÇÃO": "PLACA DE IDENTIFICAÇÃO DE OBRAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "794,04"
+   "PREÇO": "872,51"
  },
  {
    "ITEM": 100000190,
    "DESCRIÇÃO": "ESCORAMENTO CONTÍNUO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "62,11"
+   "PREÇO": "59,64"
  },
  {
    "ITEM": 100000191,
    "DESCRIÇÃO": "ESCORAMENTO CONTÍNUO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "58,83"
+   "PREÇO": "56,36"
  },
  {
    "ITEM": 100000192,
    "DESCRIÇÃO": "ESCORAMENTO CONTÍNUO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "55,51"
+   "PREÇO": "53,04"
  },
  {
    "ITEM": 100000193,
    "DESCRIÇÃO": "ESCORAMENTO DESCONTÍNUO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "42,82"
+   "PREÇO": "40,74"
  },
  {
    "ITEM": 100000194,
    "DESCRIÇÃO": "ESCORAMENTO DESCONTÍNUO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "40,67"
+   "PREÇO": "38,59"
  },
  {
    "ITEM": 100000195,
    "DESCRIÇÃO": "ESCORAMENTO DESCONTÍNUO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "38,44"
+   "PREÇO": "36,36"
  },
  {
    "ITEM": 100000196,
    "DESCRIÇÃO": "ESCORAMENTO ESPECIAL (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "89,04"
+   "PREÇO": "86,26"
  },
  {
    "ITEM": 100000197,
    "DESCRIÇÃO": "ESCORAMENTO ESPECIAL (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "85,17"
+   "PREÇO": "82,39"
  },
  {
    "ITEM": 100000198,
    "DESCRIÇÃO": "ESCORAMENTO ESPECIAL (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "81,34"
+   "PREÇO": "78,57"
  },
  {
    "ITEM": 100000199,
    "DESCRIÇÃO": "PONTALETEAMENTO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "18,23"
+   "PREÇO": "17,15"
  },
  {
    "ITEM": 100000200,
    "DESCRIÇÃO": "PONTALETEAMENTO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "17,46"
+   "PREÇO": "16,38"
  },
  {
    "ITEM": 100000201,
    "DESCRIÇÃO": "PONTALETEAMENTO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "16,72"
+   "PREÇO": "15,64"
  },
  {
    "ITEM": 100000220,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 4,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "545,06"
+   "PREÇO": "545,80"
  },
  {
    "ITEM": 100000221,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 4,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "494,76"
+   "PREÇO": "495,53"
  },
  {
    "ITEM": 100000222,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 4,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "444,39"
+   "PREÇO": "445,20"
  },
  {
    "ITEM": 100000223,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 6,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "604,34"
+   "PREÇO": "604,93"
  },
  {
    "ITEM": 100000224,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 6,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "541,41"
+   "PREÇO": "542,04"
  },
  {
    "ITEM": 100000225,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 6,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "478,50"
+   "PREÇO": "479,18"
  },
  {
    "ITEM": 100000226,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 8,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "675,29"
+   "PREÇO": "675,76"
  },
  {
    "ITEM": 100000227,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 8,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "599,73"
+   "PREÇO": "600,28"
  },
  {
    "ITEM": 100000228,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 8,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "524,20"
+   "PREÇO": "524,81"
  },
  {
    "ITEM": 100000229,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 4,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "427,28"
+   "PREÇO": "423,81"
  },
  {
    "ITEM": 100000230,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 4,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "370,05"
+   "PREÇO": "366,67"
  },
  {
    "ITEM": 100000231,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 4,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "312,86"
+   "PREÇO": "309,54"
  },
  {
    "ITEM": 100000232,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 6,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "494,08"
+   "PREÇO": "490,56"
  },
  {
    "ITEM": 100000233,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 6,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "426,79"
+   "PREÇO": "423,36"
  },
  {
    "ITEM": 100000234,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 6,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "359,49"
+   "PREÇO": "356,19"
  },
  {
    "ITEM": 100000235,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 8,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "522,11"
+   "PREÇO": "518,55"
  },
  {
    "ITEM": 100000236,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 8,00 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "449,40"
+   "PREÇO": "445,95"
  },
  {
    "ITEM": 100000237,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 8,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "376,64"
+   "PREÇO": "373,30"
  },
  {
    "ITEM": 100000241,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "740,45"
+   "PREÇO": "741,13"
  },
  {
    "ITEM": 100000242,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "810,64"
+   "PREÇO": "811,14"
  },
  {
    "ITEM": 100000243,
    "DESCRIÇÃO": "ESCORAMENTO COM ESTACAS PRANCHAS METÁLICAS - PROFUNDIDADE ATÉ 8,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "898,20"
+   "PREÇO": "898,60"
  },
  {
    "ITEM": 100000244,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "518,36"
+   "PREÇO": "511,76"
  },
  {
    "ITEM": 100000245,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "589,86"
+   "PREÇO": "583,69"
  },
  {
    "ITEM": 100000246,
    "DESCRIÇÃO": "ESCORAMENTO METÁLICO-MADEIRA COM LONGARINAS E ESTRONCAS - PROFUNDIDADE ATÉ 8,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "615,48"
+   "PREÇO": "609,28"
  },
  {
    "ITEM": 100000247,
    "DESCRIÇÃO": "MATERIAL PERDIDO - ESTRONCA DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "31,05"
+   "PREÇO": "27,08"
  },
  {
    "ITEM": 100000248,
    "DESCRIÇÃO": "MATERIAL PERDIDO - MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "1.963,43"
  },
  {
    "ITEM": 100000249,
    "DESCRIÇÃO": "MATERIAL PERDIDO - METÁLICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "3,14"
  },
  {
    "ITEM": 100000250,
    "DESCRIÇÃO": "CIMBRAMENTO DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "107,02"
+   "PREÇO": "106,64"
  },
  {
    "ITEM": 100000251,
    "DESCRIÇÃO": "CIMBRAMENTO TUBULAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3M",
    "PREÇO": "46,98"
  },
  {
    "ITEM": 100000252,
    "DESCRIÇÃO": "ESGOTAMENTO COM BOMBAS DE SUPERFÍCIE OU SUBMERSAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HPH",
-   "PREÇO": "3,84"
+   "PREÇO": "3,78"
  },
  {
    "ITEM": 100000253,
    "DESCRIÇÃO": "MOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA REBAIXAMENTO DE PONTEIRAS FILTRANTES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "10.880,00"
  },
  {
    "ITEM": 100000254,
    "DESCRIÇÃO": "REBAIXAMENTO DE LENÇOL FREÁTICO POR CONJUNTO DE PONTEIRAS ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "355,00"
+   "PREÇO": "354,71"
  },
  {
    "ITEM": 100000255,
    "DESCRIÇÃO": "REBAIXAMENTO DE LENÇOL FREÁTICO POR CONJUNTO DE PONTEIRAS ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "485,47"
+   "PREÇO": "485,00"
  },
  {
    "ITEM": 100000256,
    "DESCRIÇÃO": "REBAIXAMENTO DE LENÇOL FREÁTICO POR CONJUNTO DE PONTEIRAS ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "728,42"
+   "PREÇO": "727,72"
  },
  {
    "ITEM": 100000257,
    "DESCRIÇÃO": "MEIA-CANA DE CONCRETO DIÂMETRO 200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "57,52"
+   "PREÇO": "53,34"
  },
  {
    "ITEM": 100000258,
    "DESCRIÇÃO": "MEIA-CANA DE CONCRETO DIÂMETRO 300 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "80,81"
+   "PREÇO": "80,82"
  },
  {
    "ITEM": 100000259,
    "DESCRIÇÃO": "MEIA-CANA DE CONCRETO DIÂMETRO 400 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "92,86"
+   "PREÇO": "92,90"
  },
  {
    "ITEM": 100000260,
    "DESCRIÇÃO": "MEIA-CANA DE CONCRETO DIÂMETRO 500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "140,40"
+   "PREÇO": "140,42"
  },
  {
    "ITEM": 100000261,
    "DESCRIÇÃO": "MEIA-CANA DE CONCRETO DIÂMETRO 600 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "166,80"
+   "PREÇO": "166,81"
  },
  {
    "ITEM": 100000264,
    "DESCRIÇÃO": "DRENAGEM COM MANTA NÃO-TECIDA DE POLIÉSTER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "12,04"
  },
  {
    "ITEM": 100000266,
    "DESCRIÇÃO": "DRENAGEM COM TUBOS DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "155,05"
+   "PREÇO": "162,03"
  },
  {
    "ITEM": 100000267,
    "DESCRIÇÃO": "DRENAGEM COM TUBOS DE PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "122,97"
+   "PREÇO": "127,43"
  },
  {
    "ITEM": 100000269,
    "DESCRIÇÃO": "DRENO VERTICAL DE PEDRISCO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "47,90"
+   "PREÇO": "48,20"
  },
  {
    "ITEM": 100010881,
    "DESCRIÇÃO": "ADICIONAL PARA EXECUÇÃO DE SEGUNDA LINHA DE REBAIXAMENTO DE LENÇOL FREÁTICO POR CONJUNTO DE PONTEIRAS ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "286,58"
+   "PREÇO": "286,40"
  },
  {
    "ITEM": 100010882,
    "DESCRIÇÃO": "ADICIONAL PARA EXECUÇÃO DE SEGUNDA LINHA DE REBAIXAMENTO DE LENÇOL FREÁTICO POR CONJUNTO DE PONTEIRAS ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "358,16"
+   "PREÇO": "357,93"
  },
  {
    "ITEM": 100010883,
    "DESCRIÇÃO": "ADICIONAL PARA EXECUÇÃO DE SEGUNDA LINHA DE REBAIXAMENTO DE LENÇOL FREÁTICO POR CONJUNTO DE PONTEIRAS ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "475,98"
+   "PREÇO": "475,67"
  },
  {
    "ITEM": 100010987,
    "DESCRIÇÃO": "INSTALAÇÃO DE PONTEIRAS FILTRANTES PARA REBAIXAMENTO DE LENÇOL FREÁTICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "636,16"
  },
  {
    "ITEM": 100012295,
    "DESCRIÇÃO": "OPERAÇÃO E MANUTENÇÃO DO SISTEMA DE REBAIXAMENTO COM PONTEIRAS FILTRANTES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJD",
-   "PREÇO": "1.386,25"
+   "PREÇO": "1.376,93"
  },
  {
    "ITEM": 100001370,
    "DESCRIÇÃO": "ALVENARIA COM ELEMENTO VAZADO - CERÂMICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "359,60"
+   "PREÇO": "340,53"
  },
  {
    "ITEM": 100001371,
    "DESCRIÇÃO": "ALVENARIA COM ELEMENTO VAZADO - CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "468,07"
+   "PREÇO": "487,63"
  },
  {
    "ITEM": 100001372,
    "DESCRIÇÃO": "ALVENARIA COM ELEMENTO VAZADO - VENEZIANA DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "720,92"
+   "PREÇO": "751,27"
  },
  {
    "ITEM": 100001373,
    "DESCRIÇÃO": "ALVENARIA COM ELEMENTO VAZADO - VIDRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.661,13"
+   "PREÇO": "1.591,49"
  },
  {
    "ITEM": 100001374,
    "DESCRIÇÃO": "ALVENARIA DE BLOCOS DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.100,03"
+   "PREÇO": "1.129,91"
  },
  {
    "ITEM": 100001375,
    "DESCRIÇÃO": "ALVENARIA DE BLOCOS ESTRUTURAIS CERÂMICOS 19 X 19 X 39 CM, COM ARMAÇÃO E GROUT",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "279,31"
+   "PREÇO": "296,70"
  },
  {
    "ITEM": 100001376,
    "DESCRIÇÃO": "ALVENARIA DE BLOCOS ESTRUTURAIS DE CONCRETO 19 X 19 X 39 CM, COM ARMAÇÃO E GROUT",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "323,96"
+   "PREÇO": "331,92"
  },
  {
    "ITEM": 100001377,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, 1 TIJOLO À VISTA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "740,63"
+   "PREÇO": "670,35"
  },
  {
    "ITEM": 100001378,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, 1 TIJOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "440,96"
+   "PREÇO": "466,01"
  },
  {
    "ITEM": 100001379,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, 1.1/2 TIJOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "616,92"
+   "PREÇO": "654,77"
  },
  {
    "ITEM": 100001380,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, 1/2 TIJOLO À VISTA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "399,83"
+   "PREÇO": "363,74"
  },
  {
    "ITEM": 100001381,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, 1/2 TIJOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "246,27"
+   "PREÇO": "260,40"
  },
  {
    "ITEM": 100001382,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, BLOCOS DE CONCRETO 14 X 19 X 39 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "143,05"
+   "PREÇO": "147,28"
  },
  {
    "ITEM": 100001383,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, BLOCOS DE CONCRETO 19 X 19 X 39 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "177,19"
+   "PREÇO": "178,01"
  },
  {
    "ITEM": 100001384,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, BLOCOS DE CONCRETO 9 X 19 X 39 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "106,23"
+   "PREÇO": "115,19"
  },
  {
    "ITEM": 100001385,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, BLOCOS DE CONCRETO APARENTE 14 X 19 X 39 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "193,98"
+   "PREÇO": "194,19"
  },
  {
    "ITEM": 100001386,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, BLOCOS DE CONCRETO APARENTE 19X19X39CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "235,46"
+   "PREÇO": "240,32"
  },
  {
    "ITEM": 100001387,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, BLOCOS DE CONCRETO APARENTE 9 X 19 X 39 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "149,38"
+   "PREÇO": "140,74"
  },
  {
    "ITEM": 100001388,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, EM CUTELO DE TIJOLO A VISTA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "203,38"
+   "PREÇO": "185,51"
  },
  {
    "ITEM": 100001389,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, EM CUTELO DE TIJOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "135,00"
+   "PREÇO": "142,98"
  },
  {
    "ITEM": 100001390,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, TIJOLO CERÂMICO 8 FUROS, CHATO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "243,47"
+   "PREÇO": "243,55"
  },
  {
    "ITEM": 100001391,
    "DESCRIÇÃO": "ALVENARIA DE ELEVAÇÃO, TIJOLO CERÂMICO 8 FUROS, ESPELHO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "134,20"
+   "PREÇO": "134,53"
  },
  {
    "ITEM": 100001392,
    "DESCRIÇÃO": "ALVENARIA DE TIJOLOS BAIANOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "923,07"
+   "PREÇO": "930,71"
  },
  {
    "ITEM": 100001393,
    "DESCRIÇÃO": "ALVENARIA DE TIJOLOS COMUNS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.770,09"
+   "PREÇO": "1.909,59"
  },
  {
    "ITEM": 100001394,
    "DESCRIÇÃO": "ALVENARIA EM BLOCO DE VIDRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "840,60"
+   "PREÇO": "809,72"
  },
  {
    "ITEM": 100001395,
    "DESCRIÇÃO": "COLOCAÇÃO DE TIJOLO COMUM NO LEITO DE SECAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "46,52"
+   "PREÇO": "52,25"
  },
  {
    "ITEM": 100001397,
    "DESCRIÇÃO": "CALHA OU ÁGUA-FURTADA EM CHAPA GALVANIZADA Nº 24",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "282,79"
+   "PREÇO": "293,53"
  },
  {
    "ITEM": 100001398,
    "DESCRIÇÃO": "COBERTURA EM TELHA CERÂMICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "501,88"
+   "PREÇO": "521,87"
  },
  {
    "ITEM": 100001399,
    "DESCRIÇÃO": "COBERTURA EM TELHA DE FIBROCIMENTO ESTRUTURAL, L = 49 CM - SEM AMIANTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "323,11"
+   "PREÇO": "364,93"
  },
  {
    "ITEM": 100001400,
    "DESCRIÇÃO": "COBERTURA EM TELHA DE FIBROCIMENTO ESTRUTURAL, L = 90 CM - SEM AMIANTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "221,16"
+   "PREÇO": "245,81"
  },
  {
    "ITEM": 100001401,
    "DESCRIÇÃO": "COBERTURA EM TELHA DE FIBROCIMENTO ONDULADA, 6 MM - SEM AMIANTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "138,07"
+   "PREÇO": "140,75"
  },
  {
    "ITEM": 100001402,
    "DESCRIÇÃO": "COBERTURA EM TELHA DE FIBROCIMENTO ONDULADA, 8 MM - SEM AMIANTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "173,63"
+   "PREÇO": "178,25"
  },
  {
    "ITEM": 100001403,
    "DESCRIÇÃO": "COBERTURA EM TELHA FRANCESA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "484,01"
+   "PREÇO": "471,44"
  },
  {
    "ITEM": 100001404,
    "DESCRIÇÃO": "CONDUTOR EM CHAPA GALVANIZADA N. 24 - DESENVOLVIMENTO 0,25 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "118,90"
+   "PREÇO": "119,23"
  },
  {
    "ITEM": 100001405,
    "DESCRIÇÃO": "CONDUTOR EM CHAPA GALVANIZADA N. 24 - DESENVOLVIMENTO 0,33 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "147,24"
+   "PREÇO": "147,06"
  },
  {
    "ITEM": 100001406,
    "DESCRIÇÃO": "RUFO EM CHAPA GALVANIZADA Nº 24",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "407,19"
+   "PREÇO": "383,41"
  },
  {
    "ITEM": 100001411,
    "DESCRIÇÃO": "ALÇAPÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.365,20"
+   "PREÇO": "1.561,92"
  },
  {
    "ITEM": 100001412,
    "DESCRIÇÃO": "BATENTE DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "134,36"
+   "PREÇO": "159,42"
  },
  {
    "ITEM": 100001414,
    "DESCRIÇÃO": "PORTA EXTERNA DE CEDRO, 1 FOLHA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "944,73"
+   "PREÇO": "1.040,26"
  },
  {
    "ITEM": 100001415,
    "DESCRIÇÃO": "PORTA EXTERNA DE CEDRO, 2 FOLHAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "799,40"
+   "PREÇO": "851,29"
  },
  {
    "ITEM": 100001416,
    "DESCRIÇÃO": "PORTA EXTERNA DE CEDRO, EXCETO O BATENTE, 1 FOLHA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "584,27"
+   "PREÇO": "607,50"
  },
  {
    "ITEM": 100001417,
    "DESCRIÇÃO": "PORTA EXTERNA DE CEDRO, EXCETO O BATENTE, 2 FOLHAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "646,53"
+   "PREÇO": "654,25"
  },
  {
    "ITEM": 100001418,
    "DESCRIÇÃO": "PORTA INTERNA DE CEDRO, EXCETO O BATENTE, 1 FOLHA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "606,77"
+   "PREÇO": "617,96"
  },
  {
    "ITEM": 100001419,
    "DESCRIÇÃO": "PORTA INTERNA DE CEDRO, EXCETO O BATENTE, 2 FOLHAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "590,66"
+   "PREÇO": "633,22"
  },
  {
    "ITEM": 100001420,
    "DESCRIÇÃO": "PORTA INTERNA DE CEDRO, 1 FOLHA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "904,20"
+   "PREÇO": "992,05"
  },
  {
    "ITEM": 100001421,
    "DESCRIÇÃO": "PORTA INTERNA DE CEDRO, 2 FOLHAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "778,09"
+   "PREÇO": "864,74"
  },
  {
    "ITEM": 100001422,
    "DESCRIÇÃO": "JANELA BASCULANTE DE ALUMÍNIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.013,15"
+   "PREÇO": "1.012,67"
  },
  {
    "ITEM": 100001423,
    "DESCRIÇÃO": "JANELA BASCULANTE DE FERRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "423,32"
+   "PREÇO": "469,02"
  },
  {
    "ITEM": 100001424,
    "DESCRIÇÃO": "JANELA DE CORRER OU MAXIM-AR DE ALUMÍNIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.052,48"
+   "PREÇO": "1.051,99"
  },
  {
    "ITEM": 100001425,
    "DESCRIÇÃO": "JANELA DE CORRER OU MAXIM-AR DE FERRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "805,09"
+   "PREÇO": "762,70"
  },
  {
    "ITEM": 100001426,
    "DESCRIÇÃO": "PORTA DE ALUMÍNIO TIPO VENEZIANA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "944,24"
+   "PREÇO": "1.141,18"
  },
  {
    "ITEM": 100001427,
    "DESCRIÇÃO": "PORTA DE ALUMÍNIO, COM 1 FOLHA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.099,96"
+   "PREÇO": "1.099,83"
  },
  {
    "ITEM": 100001428,
    "DESCRIÇÃO": "PORTA DE ALUMÍNIO, COM 2 FOLHAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.070,94"
+   "PREÇO": "970,38"
  },
  {
    "ITEM": 100001429,
    "DESCRIÇÃO": "PORTA DE ALUMÍNIO, DE CORRER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.329,47"
+   "PREÇO": "1.082,52"
  },
  {
    "ITEM": 100001430,
    "DESCRIÇÃO": "PORTA DE ENROLAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "839,60"
+   "PREÇO": "839,39"
  },
  {
    "ITEM": 100001432,
    "DESCRIÇÃO": "PORTA METÁLICA COM VIDRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "938,88"
+   "PREÇO": "798,67"
  },
  {
    "ITEM": 100001434,
    "DESCRIÇÃO": "PORTA METÁLICA, 1 FOLHA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.010,70"
+   "PREÇO": "1.057,27"
  },
  {
    "ITEM": 100001435,
    "DESCRIÇÃO": "PORTINHOLA DE ACESSO PARA PORTA OU GRADE METÁLICA DE ENROLAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "1.640,18"
  },
  {
    "ITEM": 100001440,
    "DESCRIÇÃO": "VIDRO COMUM TRANSPARENTE 3 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "269,82"
+   "PREÇO": "251,16"
  },
  {
    "ITEM": 100001441,
    "DESCRIÇÃO": "VIDRO COMUM TRANSPARENTE 4 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "291,46"
+   "PREÇO": "257,89"
  },
  {
    "ITEM": 100001442,
    "DESCRIÇÃO": "VIDRO COMUM TRANSPARENTE 5 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "349,04"
+   "PREÇO": "297,43"
  },
  {
    "ITEM": 100001443,
    "DESCRIÇÃO": "VIDRO COMUM TRANSPARENTE 6 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "463,92"
+   "PREÇO": "397,98"
  },
  {
    "ITEM": 100001444,
    "DESCRIÇÃO": "VIDRO LAMINADO TRANSPARENTE 10 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "893,03"
+   "PREÇO": "985,09"
  },
  {
    "ITEM": 100001446,
    "DESCRIÇÃO": "VIDRO LAMINADO TRANSPARENTE 6 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "721,64"
+   "PREÇO": "668,86"
  },
  {
    "ITEM": 100001447,
    "DESCRIÇÃO": "VIDRO LAMINADO TRANSPARENTE 8 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "777,46"
+   "PREÇO": "741,56"
  },
  {
    "ITEM": 100001456,
    "DESCRIÇÃO": "VIDRO TEMPERADO INCOLOR 10 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "771,93"
+   "PREÇO": "770,59"
  },
  {
    "ITEM": 100001457,
    "DESCRIÇÃO": "VIDRO TEMPERADO INCOLOR 6 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "545,16"
+   "PREÇO": "544,50"
  },
  {
    "ITEM": 100001458,
    "DESCRIÇÃO": "VIDRO TEMPERADO INCOLOR 8 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "622,76"
+   "PREÇO": "627,08"
  },
  {
    "ITEM": 100001462,
    "DESCRIÇÃO": "MÓDULO DE ESCADA 2 DEGRAUS - AÇO INOX (DESENHO 0100-400-E140)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "540,75"
+   "PREÇO": "541,11"
  },
  {
    "ITEM": 100001464,
    "DESCRIÇÃO": "MÓDULO DE ESCADA 3 DEGRAUS - AÇO INOX (DESENHO 0100-400-E124)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "699,88"
+   "PREÇO": "700,36"
  },
  {
    "ITEM": 100001465,
    "DESCRIÇÃO": "MÓDULO DE ESCADA COM GUARDA-CORPO AÇO INOX ( DESENHO 0100-400-E124 E 065)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.226,00"
+   "PREÇO": "2.233,83"
  },
  {
    "ITEM": 100001478,
    "DESCRIÇÃO": "GRADE DE AÇO COM BARRAS DE 1.1/2\" X 1/2”, ESPAÇAMENTO ATÉ 2,0 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.606,80"
+   "PREÇO": "2.608,72"
  },
  {
    "ITEM": 100001479,
    "DESCRIÇÃO": "GRADE DE AÇO COM BARRAS DE 1.1/2” X 1/4”, ESPAÇAMENTO ATÉ 2,5 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.658,23"
+   "PREÇO": "1.660,15"
  },
  {
    "ITEM": 100001480,
    "DESCRIÇÃO": "GRADE DE AÇO COM BARRAS DE 1” X 3/16”, ESPAÇAMENTO ATÉ 2,0 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.102,16"
+   "PREÇO": "1.104,08"
  },
  {
    "ITEM": 100001481,
    "DESCRIÇÃO": "GRADE DE AÇO COM BARRAS DE 2\" X 3/8\", ESPAÇAMENTO ATÉ 5,0 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.087,85"
+   "PREÇO": "2.089,20"
  },
  {
    "ITEM": 100001482,
    "DESCRIÇÃO": "GRADE DE AÇO COM BARRAS DE 2” X 3/8”, ESPAÇAMENTO ATÉ 2,5 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "3.066,52"
+   "PREÇO": "3.068,44"
  },
  {
    "ITEM": 100001483,
    "DESCRIÇÃO": "GRADE DE AÇO COM BARRAS DE 3/4” X 1/8”, ESPAÇAMENTO ATÉ 1,5 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "829,04"
+   "PREÇO": "830,96"
  },
  {
    "ITEM": 100001484,
    "DESCRIÇÃO": "GRADE DE AÇO COM BARRAS DE 3/8” X 1.1/2”, ESPAÇAMENTO ATÉ 2,0 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.467,34"
+   "PREÇO": "2.469,26"
  },
  {
    "ITEM": 100001485,
    "DESCRIÇÃO": "GRADE DE AÇO COM BARRAS DE 3/8” X 1.1/2”, ESPAÇAMENTO ATÉ 3,5 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.028,67"
+   "PREÇO": "2.030,59"
  },
  {
    "ITEM": 100001486,
    "DESCRIÇÃO": "GRADE DE AÇO INOX 304 BARRAS DE 1\" X 1/4\" COM ESPAÇAMENTO DE 2 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.878,58"
+   "PREÇO": "2.878,64"
  },
  {
    "ITEM": 100001492,
    "DESCRIÇÃO": "TAMPA EM CHAPA DE AÇO E = 1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.301,23"
+   "PREÇO": "2.295,71"
  },
  {
    "ITEM": 100001493,
    "DESCRIÇÃO": "TAMPA EM CHAPA DE AÇO E = 1/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.379,63"
+   "PREÇO": "1.374,11"
  },
  {
    "ITEM": 100001494,
    "DESCRIÇÃO": "TAMPA EM CHAPA DE AÇO E = 3/8\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.802,03"
+   "PREÇO": "1.796,51"
  },
  {
    "ITEM": 100001496,
    "DESCRIÇÃO": "GRELHA DE ALUMÍNIO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "1.813,07"
  },
  {
    "ITEM": 100001497,
    "DESCRIÇÃO": "GRELHA DE FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "855,72"
  },
  {
    "ITEM": 100001506,
    "DESCRIÇÃO": "DIVISÓRIA DE GRANITO H = 2,15 M, E = 2 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "2.403,98"
  },
  {
    "ITEM": 100010853,
    "DESCRIÇÃO": "DIVISÓRIA DE GRANILITE H = 2,15 M, E = 3 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "725,82"
  },
  {
    "ITEM": 100010939,
    "DESCRIÇÃO": "GUARDA-CORPO ESCADA AÇO INOX TIPO 1 NTS 282-2020",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.687,73"
+   "PREÇO": "3.689,20"
  },
  {
    "ITEM": 100010940,
    "DESCRIÇÃO": "GUARDA-CORPO ESCADA FIBRA DE VIDRO (PRFV) TIPO 1 NTS 282-2020",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.040,23"
+   "PREÇO": "1.040,32"
  },
  {
    "ITEM": 100010941,
    "DESCRIÇÃO": "GUARDA-CORPO RETO AÇO INOX TIPO 1 NTS 282-2020",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.533,90"
+   "PREÇO": "2.534,77"
  },
  {
    "ITEM": 100010942,
    "DESCRIÇÃO": "GUARDA-CORPO RETO AÇO INOX TIPO 2 NTS 282-2020",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.827,40"
+   "PREÇO": "1.829,09"
  },
  {
    "ITEM": 100010943,
    "DESCRIÇÃO": "GUARDA-CORPO RETO FIBRA DE VIDRO (PRFV) TIPO 1 NTS 282-2020",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.199,48"
+   "PREÇO": "1.199,53"
  },
  {
    "ITEM": 100010944,
    "DESCRIÇÃO": "GUARDA-CORPO RETO FIBRA DE VIDRO (PRFV) TIPO 2 NTS 282-2020",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "954,71"
+   "PREÇO": "954,76"
  },
  {
    "ITEM": 100010945,
    "DESCRIÇÃO": "ESCADA TIPO MARINHEIRO FIBRA DE VIDRO DESNÍVEL MÁX 10M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.704,32"
+   "PREÇO": "1.704,38"
  },
  {
    "ITEM": 100010989,
    "DESCRIÇÃO": "GRADE DE PISO PULTRUDADA PRFV (FIBRA DE VIDRO) H=38 MM X VÃO 38X150 MM INCLUINDO QUADRO DE APOIO (NTS 330)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.413,68"
+   "PREÇO": "1.394,73"
  },
  {
    "ITEM": 100010990,
    "DESCRIÇÃO": "GRADE DE PISO PULTRUDADA PRFV (FIBRA DE VIDRO) H=50 MM X VÃO 38X150 MM INCLUINDO QUADRO DE APOIO (NTS 330)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.157,30"
+   "PREÇO": "2.138,34"
  },
  {
    "ITEM": 100010991,
    "DESCRIÇÃO": "GRADE DE PISO INJETADA PRFV (FIBRA DE VIDRO) H=38 MM E=4 MM VÃO 38X38 MM INCLUINDO QUADRO DE APOIO (NTS 330)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.944,84"
+   "PREÇO": "1.925,89"
  },
  {
    "ITEM": 100010992,
    "DESCRIÇÃO": "TAMPA DE PISO PULTRUDADA PRFV (FIBRA DE VIDRO) H=35 MM INCLUINDO QUADRO DE APOIO (NTS 330)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.618,62"
+   "PREÇO": "2.599,67"
  },
  {
    "ITEM": 100010993,
    "DESCRIÇÃO": "GRADE DE PISO AÇO GALVANIZADO C/PINTURA PERFIL 25X3 VÃO 100X25 C/QUADRO DE APOIO (NTS 330)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.340,11"
+   "PREÇO": "1.321,15"
  },
  {
    "ITEM": 100010994,
    "DESCRIÇÃO": "GRADE DE PISO AÇO GALVANIZADO C/PINTURA PERFIL 40X3 VÃO 100X25 C/QUADRO DE APOIO (NTS 330)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2.041,45"
+   "PREÇO": "2.022,49"
  },
  {
    "ITEM": 100010995,
    "DESCRIÇÃO": "GRADE DE PISO AÇO INOX PERFIL 25X3 VÃO 100X25 C/QUADRO DE APOIO (NTS 330)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "4.942,08"
+   "PREÇO": "4.923,12"
  },
  {
    "ITEM": 100010996,
    "DESCRIÇÃO": "GRADE DE PISO AÇO INOX PERFIL 40X3 VÃO 100X25 C/QUADRO DE APOIO (NTS 330)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "6.304,45"
+   "PREÇO": "6.285,49"
  },
  {
    "ITEM": 100011019,
    "DESCRIÇÃO": "ESCADA TIPO MARINHEIRO AÇO INOX DESNÍVEL MÁX 10M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.551,16"
+   "PREÇO": "2.551,72"
  },
  {
    "ITEM": 100011020,
    "DESCRIÇÃO": "TAMPA DE ACESSO PARA RESERVATÓRIO EM AÇO INOX 304",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.888,99"
+   "PREÇO": "3.890,34"
  },
  {
    "ITEM": 100000284,
    "DESCRIÇÃO": "ESTACA DE CONCRETO, CAPACIDADE 200 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "124,81"
  },
  {
    "ITEM": 100000285,
    "DESCRIÇÃO": "ESTACA DE CONCRETO, CAPACIDADE 300 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "138,06"
  },
  {
    "ITEM": 100000286,
    "DESCRIÇÃO": "ESTACA DE CONCRETO, CAPACIDADE 350 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "154,52"
  },
  {
    "ITEM": 100000287,
    "DESCRIÇÃO": "ESTACA DE CONCRETO, CAPACIDADE 400 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "171,72"
  },
  {
    "ITEM": 100000288,
    "DESCRIÇÃO": "ESTACA DE CONCRETO, CAPACIDADE 600 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "222,71"
  },
  {
    "ITEM": 100000289,
    "DESCRIÇÃO": "ESTACA DE CONCRETO, CAPACIDADE 800 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "260,79"
  },
  {
    "ITEM": 100000290,
    "DESCRIÇÃO": "ESTACA DE EUCALIPTO (COM CASCA), DIÂMETRO MÉDIO 20 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "209,91"
+   "PREÇO": "205,91"
  },
  {
    "ITEM": 100000291,
    "DESCRIÇÃO": "ESTACA DE EUCALIPTO (COM CASCA), DIÂMETRO MÉDIO 25 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "215,14"
+   "PREÇO": "245,24"
  },
  {
    "ITEM": 100000292,
    "DESCRIÇÃO": "ESTACA DE EUCALIPTO (COM CASCA), DIÂMETRO MÉDIO 30 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "255,96"
+   "PREÇO": "259,74"
  },
  {
    "ITEM": 100000319,
    "DESCRIÇÃO": "MOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE ESTACAS PRÉ-MOLDADAS DE CONCRETO A UMA DISTÂNCIA DE ATÉ 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "9.513,80"
  },
  {
    "ITEM": 100000321,
    "DESCRIÇÃO": "MOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE ESTACAS TIPO HÉLICE CONTÍNUA A UMA DISTÂNCIA DE ATÉ 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "37.120,00"
+   "PREÇO": "34.967,04"
  },
  {
    "ITEM": 100000322,
    "DESCRIÇÃO": "MOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE ESTACAS TIPO RAIZ A UMA DISTÂNCIA DE ATÉ 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "30.720,00"
  },
  {
    "ITEM": 100000323,
    "DESCRIÇÃO": "MOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE ESTACAS TIPO STRAUSS A UMA DISTÂNCIA DE ATÉ 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "6.272,00"
  },
  {
    "ITEM": 100000330,
    "DESCRIÇÃO": "TRANSPORTE ALÉM DE 50 KM DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE ESTACAS PRÉ-MOLDADAS DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
    "PREÇO": "28,80"
  },
  {
    "ITEM": 100000332,
    "DESCRIÇÃO": "TRANSPORTE ALÉM DE 50 KM DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE ESTACAS TIPO RAIZ",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "83,20"
+   "PREÇO": "75,71"
  },
  {
    "ITEM": 100000333,
    "DESCRIÇÃO": "TRANSPORTE ALÉM DE 50 KM DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE ESTACAS TIPO STRAUSS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
    "PREÇO": "39,09"
  },
  {
    "ITEM": 100000334,
    "DESCRIÇÃO": "TRANSPORTE ALÉM DE 50 KM, DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE ESTACAS TIPO HÉLICE CONTÍNUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
    "PREÇO": "48,70"
  },
  {
    "ITEM": 100000335,
    "DESCRIÇÃO": "BROCA DE CONCRETO, DIÂMETRO 15 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "96,00"
+   "PREÇO": "96,64"
  },
  {
    "ITEM": 100000336,
    "DESCRIÇÃO": "BROCA DE CONCRETO, DIÂMETRO 20 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "121,15"
+   "PREÇO": "122,61"
  },
  {
    "ITEM": 100000337,
    "DESCRIÇÃO": "BROCA DE CONCRETO, DIÂMETRO 25 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "151,20"
+   "PREÇO": "153,17"
  },
  {
    "ITEM": 100000338,
    "DESCRIÇÃO": "BROCA DE CONCRETO, DIÂMETRO 30 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "214,57"
+   "PREÇO": "219,23"
  },
  {
    "ITEM": 100000339,
    "DESCRIÇÃO": "ESCAVAÇÃO PARA TUBULÃO - BASE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "1.173,47"
  },
  {
    "ITEM": 100000340,
    "DESCRIÇÃO": "ESCAVAÇÃO PARA TUBULÃO - FUSTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "860,56"
  },
  {
    "ITEM": 100000341,
    "DESCRIÇÃO": "LASTRO DE AREIA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "197,62"
+   "PREÇO": "233,59"
  },
  {
    "ITEM": 100000342,
    "DESCRIÇÃO": "LASTRO DE AREIA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "184,78"
+   "PREÇO": "220,75"
  },
  {
    "ITEM": 100000343,
    "DESCRIÇÃO": "LASTRO DE AREIA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "171,93"
+   "PREÇO": "207,90"
  },
  {
    "ITEM": 100000344,
    "DESCRIÇÃO": "LASTRO DE PEDRA BRITADA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "211,32"
+   "PREÇO": "306,65"
  },
  {
    "ITEM": 100000345,
    "DESCRIÇÃO": "LASTRO DE PEDRA BRITADA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "198,48"
+   "PREÇO": "293,81"
  },
  {
    "ITEM": 100000346,
    "DESCRIÇÃO": "LASTRO DE PEDRA BRITADA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "185,63"
+   "PREÇO": "280,96"
  },
  {
    "ITEM": 100000347,
    "DESCRIÇÃO": "LASTRO DE PEDRA-DE-MÃO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "206,82"
+   "PREÇO": "202,62"
  },
  {
    "ITEM": 100000348,
    "DESCRIÇÃO": "LASTRO DE PEDRA-DE-MÃO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "193,98"
+   "PREÇO": "189,79"
  },
  {
    "ITEM": 100000349,
    "DESCRIÇÃO": "LASTRO DE PEDRA-DE-MÃO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "181,13"
+   "PREÇO": "176,93"
  },
  {
    "ITEM": 100000350,
    "DESCRIÇÃO": "TAPETE DE ARGAMASSA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "585,72"
+   "PREÇO": "587,64"
  },
  {
    "ITEM": 100000351,
    "DESCRIÇÃO": "TAPETE DE ARGAMASSA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "555,97"
+   "PREÇO": "557,84"
  },
  {
    "ITEM": 100000352,
    "DESCRIÇÃO": "TAPETE DE ARGAMASSA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "526,22"
+   "PREÇO": "528,04"
  },
  {
    "ITEM": 100000389,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 100 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "106,95"
+   "PREÇO": "118,59"
  },
  {
    "ITEM": 100000390,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 100 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "105,79"
+   "PREÇO": "117,43"
  },
  {
    "ITEM": 100000391,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 100 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "104,64"
+   "PREÇO": "116,28"
  },
  {
    "ITEM": 100000392,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 150 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "146,85"
+   "PREÇO": "161,87"
  },
  {
    "ITEM": 100000393,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 150 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "145,41"
+   "PREÇO": "160,42"
  },
  {
    "ITEM": 100000394,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 150 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "143,96"
+   "PREÇO": "158,98"
  },
  {
    "ITEM": 100000395,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 200 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "182,10"
+   "PREÇO": "199,04"
  },
  {
    "ITEM": 100000396,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 200 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "180,56"
+   "PREÇO": "197,50"
  },
  {
    "ITEM": 100000397,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 200 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "179,02"
+   "PREÇO": "195,96"
  },
  {
    "ITEM": 100000398,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 250 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "195,67"
+   "PREÇO": "213,40"
  },
  {
    "ITEM": 100000399,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 250 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "194,04"
+   "PREÇO": "211,76"
  },
  {
    "ITEM": 100000400,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 250 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "192,40"
+   "PREÇO": "210,12"
  },
  {
    "ITEM": 100000401,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 300 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "222,56"
+   "PREÇO": "243,54"
  },
  {
    "ITEM": 100000402,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 300 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "220,63"
+   "PREÇO": "241,61"
  },
  {
    "ITEM": 100000403,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 300 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "218,70"
+   "PREÇO": "239,68"
  },
  {
    "ITEM": 100000404,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 350 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "276,07"
+   "PREÇO": "299,06"
  },
  {
    "ITEM": 100000405,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 350 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "274,05"
+   "PREÇO": "297,04"
  },
  {
    "ITEM": 100000406,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 350 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "272,03"
+   "PREÇO": "295,01"
  },
  {
    "ITEM": 100000410,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 400 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "314,32"
+   "PREÇO": "339,19"
  },
  {
    "ITEM": 100000411,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 400 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "312,20"
+   "PREÇO": "337,07"
  },
  {
    "ITEM": 100000412,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 400 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "310,08"
+   "PREÇO": "334,95"
  },
  {
    "ITEM": 100000413,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 450 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "382,92"
+   "PREÇO": "410,25"
  },
  {
    "ITEM": 100000414,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 450 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "380,52"
+   "PREÇO": "407,84"
  },
  {
    "ITEM": 100000415,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 450 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "378,11"
+   "PREÇO": "405,43"
  },
  {
    "ITEM": 100000416,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 500 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "434,62"
+   "PREÇO": "463,87"
  },
  {
    "ITEM": 100000417,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 500 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "432,11"
+   "PREÇO": "461,36"
  },
  {
    "ITEM": 100000418,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 500 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "429,61"
+   "PREÇO": "458,86"
  },
  {
    "ITEM": 100000419,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 600 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "507,48"
+   "PREÇO": "539,43"
  },
  {
    "ITEM": 100000420,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 600 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "504,78"
+   "PREÇO": "536,73"
  },
  {
    "ITEM": 100000421,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 600 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "502,08"
+   "PREÇO": "534,03"
  },
  {
    "ITEM": 100000422,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 700 MM (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "619,11"
+   "PREÇO": "655,29"
  },
  {
    "ITEM": 100000423,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 700 MM (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "616,03"
+   "PREÇO": "652,20"
  },
  {
    "ITEM": 100000424,
    "DESCRIÇÃO": "LASTRO, LAJE E BERÇO PARA ASSENTAMENTO DE TUBOS E PEÇAS, DIÂMETRO 700 MM (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "612,94"
+   "PREÇO": "649,12"
  },
  {
    "ITEM": 100000428,
    "DESCRIÇÃO": "PONTALETE DE PEROBA PARA ANCORAGEM DE REDES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "76,48"
+   "PREÇO": "76,94"
  },
  {
    "ITEM": 100000429,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CAP E PLUG, DIÂMETRO 150 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "113,22"
+   "PREÇO": "117,75"
  },
  {
    "ITEM": 100000430,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CAP E PLUG, DIÂMETRO 200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "163,02"
+   "PREÇO": "169,92"
  },
  {
    "ITEM": 100000431,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CAP E PLUG, DIÂMETRO 250 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "223,99"
+   "PREÇO": "233,83"
  },
  {
    "ITEM": 100000432,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CAP E PLUG, DIÂMETRO 300 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "283,21"
+   "PREÇO": "295,71"
  },
  {
    "ITEM": 100000433,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CAP E PLUG, DIÂMETRO 350 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "340,30"
+   "PREÇO": "355,60"
  },
  {
    "ITEM": 100000434,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CAP E PLUG, DIÂMETRO 400 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "414,59"
+   "PREÇO": "433,43"
  },
  {
    "ITEM": 100000435,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CAP E PLUG, DIÂMETRO 500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "489,81"
+   "PREÇO": "512,23"
  },
  {
    "ITEM": 100000436,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 11 GRAUS 15 MIN, DIÂMETRO 150 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "163,02"
+   "PREÇO": "169,92"
  },
  {
    "ITEM": 100000437,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 11 GRAUS 15 MIN, DIÂMETRO 200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "206,27"
+   "PREÇO": "215,11"
  },
  {
    "ITEM": 100000438,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 11 GRAUS 15 MIN, DIÂMETRO 250 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "240,16"
+   "PREÇO": "250,42"
  },
  {
    "ITEM": 100000439,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 11 GRAUS 15 MIN, DIÂMETRO 300 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "291,77"
+   "PREÇO": "304,43"
  },
  {
    "ITEM": 100000440,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 11 GRAUS 15 MIN, DIÂMETRO 350 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "369,04"
+   "PREÇO": "385,33"
  },
  {
    "ITEM": 100000441,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 11 GRAUS 15 MIN, DIÂMETRO 400 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "447,97"
+   "PREÇO": "467,65"
  },
  {
    "ITEM": 100000442,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 11 GRAUS 15 MIN, DIÂMETRO 500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "530,38"
+   "PREÇO": "553,81"
  },
  {
    "ITEM": 100000443,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 22 GRAUS 30 MIN, DIÂMETRO 150 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "176,75"
+   "PREÇO": "184,28"
  },
  {
    "ITEM": 100000444,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 22 GRAUS 30 MIN, DIÂMETRO 200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "226,55"
+   "PREÇO": "236,47"
  },
  {
    "ITEM": 100000445,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 22 GRAUS 30 MIN, DIÂMETRO 250 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "259,16"
+   "PREÇO": "270,45"
  },
  {
    "ITEM": 100000446,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 22 GRAUS 30 MIN, DIÂMETRO 300 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "308,96"
+   "PREÇO": "322,62"
  },
  {
    "ITEM": 100000447,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 22 GRAUS 30 MIN, DIÂMETRO 350 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "376,74"
+   "PREÇO": "393,23"
  },
  {
    "ITEM": 100000448,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 22 GRAUS 30 MIN, DIÂMETRO 400 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "487,51"
+   "PREÇO": "509,30"
  },
  {
    "ITEM": 100000449,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 22 GRAUS 30 MIN, DIÂMETRO 500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "597,38"
+   "PREÇO": "624,17"
  },
  {
    "ITEM": 100000450,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 45 GRAUS, DIÂMETRO 150 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "171,61"
+   "PREÇO": "179,02"
  },
  {
    "ITEM": 100000451,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 45 GRAUS, DIÂMETRO 200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "217,96"
+   "PREÇO": "227,36"
  },
  {
    "ITEM": 100000452,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 45 GRAUS, DIÂMETRO 250 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "266,21"
+   "PREÇO": "277,96"
  },
  {
    "ITEM": 100000453,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 45 GRAUS, DIÂMETRO 300 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "343,36"
+   "PREÇO": "359,01"
  },
  {
    "ITEM": 100000454,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 45 GRAUS, DIÂMETRO 350 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "416,13"
+   "PREÇO": "435,01"
  },
  {
    "ITEM": 100000455,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 45 GRAUS, DIÂMETRO 400 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "533,96"
+   "PREÇO": "558,61"
  },
  {
    "ITEM": 100000456,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 45 GRAUS, DIÂMETRO 500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "661,04"
+   "PREÇO": "691,68"
  },
  {
    "ITEM": 100000457,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 90 GRAUS E TÊ, DIÂMETRO 150 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "292,65"
+   "PREÇO": "305,62"
  },
  {
    "ITEM": 100000458,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 90 GRAUS E TÊ, DIÂMETRO 200 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "317,56"
+   "PREÇO": "331,71"
  },
  {
    "ITEM": 100000459,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 90 GRAUS E TÊ, DIÂMETRO 250 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "448,74"
+   "PREÇO": "468,99"
  },
  {
    "ITEM": 100000460,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 90 GRAUS E TÊ, DIÂMETRO 300 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "583,77"
+   "PREÇO": "610,79"
  },
  {
    "ITEM": 100000461,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 90 GRAUS E TÊ, DIÂMETRO 350 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "772,70"
+   "PREÇO": "808,96"
  },
  {
    "ITEM": 100000462,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 90 GRAUS E TÊ, DIÂMETRO 400 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "985,76"
+   "PREÇO": "1.032,99"
  },
  {
    "ITEM": 100000463,
    "DESCRIÇÃO": "ANCORAGEM EM CONCRETO PARA CURVA 90 GRAUS E TÊ, DIÂMETRO 500 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.188,54"
+   "PREÇO": "1.246,51"
  },
  {
    "ITEM": 100000464,
    "DESCRIÇÃO": "FÔRMA CURVA DE MADEIRA - APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "384,14"
+   "PREÇO": "387,99"
  },
  {
    "ITEM": 100000465,
    "DESCRIÇÃO": "FÔRMA CURVA DE MADEIRA - ESTRUTURA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "335,36"
+   "PREÇO": "338,79"
  },
  {
    "ITEM": 100000466,
    "DESCRIÇÃO": "FÔRMA CURVA METÁLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "401,01"
+   "PREÇO": "408,03"
  },
  {
    "ITEM": 100000467,
    "DESCRIÇÃO": "FÔRMA METÁLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "340,43"
+   "PREÇO": "348,24"
  },
  {
    "ITEM": 100000469,
    "DESCRIÇÃO": "FÔRMA PLANA DE MADEIRA - APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "238,84"
+   "PREÇO": "239,00"
  },
  {
    "ITEM": 100000470,
    "DESCRIÇÃO": "FÔRMA PLANA DE MADEIRA - ESTRUTURA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "172,99"
+   "PREÇO": "171,37"
  },
  {
    "ITEM": 100000471,
    "DESCRIÇÃO": "FÔRMAS DE MADEIRA - COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "102,71"
+   "PREÇO": "105,28"
  },
  {
    "ITEM": 100000472,
    "DESCRIÇÃO": "AÇO PARA PROTENSÃO CP-190 RB - 12D - 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "23,72"
  },
  {
    "ITEM": 100000473,
    "DESCRIÇÃO": "AÇO PARA PROTENSÃO CP-190 RB - 4D - 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "23,72"
  },
  {
    "ITEM": 100000474,
    "DESCRIÇÃO": "AÇO PARA PROTENSÃO CP-190 RB - 6D - 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "23,72"
  },
  {
    "ITEM": 100000475,
    "DESCRIÇÃO": "ARMAÇÃO EM AÇO CA-25",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "21,66"
+   "PREÇO": "20,52"
  },
  {
    "ITEM": 100000476,
    "DESCRIÇÃO": "ARMAÇÃO EM AÇO CA-50",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "16,58"
+   "PREÇO": "18,25"
  },
  {
    "ITEM": 100000477,
    "DESCRIÇÃO": "ARMAÇÃO EM AÇO CA-60",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "18,24"
+   "PREÇO": "17,92"
  },
  {
    "ITEM": 100000478,
    "DESCRIÇÃO": "ARMAÇÃO EM TELA DE AÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "11,93"
+   "PREÇO": "13,06"
  },
  {
    "ITEM": 100000479,
    "DESCRIÇÃO": "CONCRETO NÃO ESTRUTURAL - MÍNIMO 150 KG DE CIMENTO/M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "755,52"
+   "PREÇO": "754,97"
  },
  {
    "ITEM": 100000480,
    "DESCRIÇÃO": "CONCRETO NÃO ESTRUTURAL - MÍNIMO 210 KG DE CIMENTO/M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "866,29"
+   "PREÇO": "865,74"
  },
  {
    "ITEM": 100000482,
    "DESCRIÇÃO": "CONCRETO NÃO ESTRUTURAL CICLÓPICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "769,56"
+   "PREÇO": "841,32"
  },
  {
    "ITEM": 100000483,
    "DESCRIÇÃO": "CONCRETO ESTRUTURAL PARA ESTRUTURAS NÃO SUJEITAS A CONTATO COM ÁGUA E ESGOTO, FCK = 20,0 MPA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "724,94"
+   "PREÇO": "724,21"
  },
  {
    "ITEM": 100000484,
    "DESCRIÇÃO": "CONCRETO ESTRUTURAL PARA ESTRUTURAS NÃO SUJEITAS A CONTATO COM ÁGUA E ESGOTO, FCK = 25,0 MPA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "768,63"
+   "PREÇO": "767,90"
  },
  {
    "ITEM": 100000485,
    "DESCRIÇÃO": "CONCRETO ESTRUTURAL PARA ESTRUTURAS NÃO SUJEITAS A CONTATO COM ÁGUA E ESGOTO, FCK = 30,0 MPA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "788,79"
+   "PREÇO": "788,06"
  },
  {
    "ITEM": 100000489,
    "DESCRIÇÃO": "CONCRETO ESTRUTURAL PARA ESTRUTURAS EM CONTATO COM ÁGUA BRUTA, ÁGUA TRATADA, SOLO E GASES AGRESSIVOS, FCK = 30,0 MPA, A/C MÁX. 0,55 L/KG - MÍN. DE 320 KG DE CIMENTO/M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "805,57"
+   "PREÇO": "854,57"
  },
  {
    "ITEM": 100000490,
    "DESCRIÇÃO": "CONCRETO ESTRUTURAL P/ ESTRUTURAS EM CONTATO COM ÁGUA BRUTA, ÁGUA TRATADA, SOLO E GASES AGRESSIVOS, FCK = 35,0 MPA, A/C MÁX. 0,55 L/KG - MÍN. DE 320 KG DE CIMENTO/M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "812,13"
+   "PREÇO": "872,40"
  },
  {
    "ITEM": 100000491,
    "DESCRIÇÃO": "CONCRETO ESTRUTURAL P/ ESTRUTURAS EM CONTATO COM ÁGUA BRUTA, ÁGUA TRATADA, SOLO E GASES AGRESSIVOS, FCK = 40,0 MPA, A/C MÁX. 0,55 L/KG - MÍN. DE 320 KG DE CIMENTO/M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "868,79"
+   "PREÇO": "868,06"
  },
  {
    "ITEM": 100000497,
    "DESCRIÇÃO": "CONCRETO ESTRUTURAL AUTO-ADENSÁVEL, FCK = 20,0 MPA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "1.010,70"
  },
  {
    "ITEM": 100000499,
    "DESCRIÇÃO": "EXECUÇÃO DE JUNTA TIPO FUGENBAND - M - 35",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "621,62"
+   "PREÇO": "625,98"
  },
  {
    "ITEM": 100000500,
    "DESCRIÇÃO": "EXECUÇÃO DE JUNTA TIPO FUGENBAND - O - 12",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "209,13"
+   "PREÇO": "216,52"
  },
  {
    "ITEM": 100000501,
    "DESCRIÇÃO": "EXECUÇÃO DE JUNTA TIPO FUGENBAND - O - 22",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "259,57"
+   "PREÇO": "252,36"
  },
  {
    "ITEM": 100000502,
    "DESCRIÇÃO": "EXECUÇÃO DE JUNTA TIPO FUGENBAND - O - 35/6",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "590,45"
+   "PREÇO": "587,96"
  },
  {
    "ITEM": 100000503,
    "DESCRIÇÃO": "EXECUÇÃO DE JUNTA TIPO JEENE - JJ 2540 VV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "579,55"
+   "PREÇO": "583,91"
  },
  {
    "ITEM": 100000504,
    "DESCRIÇÃO": "EXECUÇÃO DE JUNTA TIPO JEENE - JJ 3550 VV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "821,93"
+   "PREÇO": "826,29"
  },
  {
    "ITEM": 100000505,
    "DESCRIÇÃO": "ANCORAGEM ATIVA 12 CORDOALHAS - D = 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.589,68"
+   "PREÇO": "1.591,04"
  },
  {
    "ITEM": 100000506,
    "DESCRIÇÃO": "ANCORAGEM ATIVA 4 CORDOALHAS - D = 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "648,51"
+   "PREÇO": "649,87"
  },
  {
    "ITEM": 100000507,
    "DESCRIÇÃO": "ANCORAGEM ATIVA 6 CORDOALHAS - D = 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "917,57"
+   "PREÇO": "918,92"
  },
  {
    "ITEM": 100000508,
    "DESCRIÇÃO": "ANCORAGEM PASSIVA LAÇO - 4 CORDOALHAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "242,50"
+   "PREÇO": "243,85"
  },
  {
    "ITEM": 100000509,
    "DESCRIÇÃO": "ANCORAGEM PASSIVA PRÉ-BLOCADA 4 CORDOALHAS - D = 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.066,18"
+   "PREÇO": "1.067,53"
  },
  {
    "ITEM": 100000510,
    "DESCRIÇÃO": "BAINHA GALVANIZADA PARA 6 CORDOALHAS - 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "44,03"
  },
  {
    "ITEM": 100000511,
    "DESCRIÇÃO": "BAINHA GALVANIZADA PARA 12 CORDOALHAS - 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "56,51"
  },
  {
    "ITEM": 100000512,
    "DESCRIÇÃO": "BAINHA GALVANIZADA PARA 4 CORDOALHAS - 12,7 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "41,91"
  },
  {
    "ITEM": 100000513,
    "DESCRIÇÃO": "BOMBEAMENTO DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "95,76"
+   "PREÇO": "108,11"
  },
  {
    "ITEM": 100000514,
    "DESCRIÇÃO": "INJEÇÃO DOS CABOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "22,81"
+   "PREÇO": "22,85"
  },
  {
    "ITEM": 100000516,
    "DESCRIÇÃO": "APLICAÇÃO DE PLACA DE ISOPOR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "34,44"
+   "PREÇO": "39,13"
  },
  {
    "ITEM": 100000517,
    "DESCRIÇÃO": "PROTEÇÃO DE CABEÇA DE ANCORAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "39,74"
+   "PREÇO": "39,90"
  },
  {
    "ITEM": 100000518,
    "DESCRIÇÃO": "PROTENSÃO DOS CABOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "25,19"
  },
  {
    "ITEM": 100000519,
    "DESCRIÇÃO": "VEDAÇÃO DE JUNTAS COM MASTIQUE ELÁSTICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "176,91"
+   "PREÇO": "199,07"
  },
  {
    "ITEM": 100000520,
    "DESCRIÇÃO": "ARGAMASSA PROJETADA EM PAREDES (CONSUMO MÍNIMO 400 KG CIMENTO/M³)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.099,67"
+   "PREÇO": "3.083,17"
  },
  {
    "ITEM": 100000521,
    "DESCRIÇÃO": "ARGAMASSA PROJETADA EM TETOS (CONSUMO MÍNIMO 400 KG CIMENTO/M³)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.524,25"
+   "PREÇO": "3.506,65"
  },
  {
    "ITEM": 100000522,
    "DESCRIÇÃO": "CONCRETO PROJETADO EM PAREDES (CONSUMO MÍNIMO 400 KG CIMENTO/M³)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.974,05"
+   "PREÇO": "3.052,61"
  },
  {
    "ITEM": 100000523,
    "DESCRIÇÃO": "CONCRETO PROJETADO EM TETOS (CONSUMO MÍNIMO 400 KG CIMENTO/M³)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.310,32"
+   "PREÇO": "3.401,89"
  },
  {
    "ITEM": 100000524,
    "DESCRIÇÃO": "LAJE PRÉ-FABRICADA H.12 PARA FORRO COM CAPA DE 4 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "283,30"
+   "PREÇO": "289,97"
  },
  {
    "ITEM": 100000525,
    "DESCRIÇÃO": "LAJE PRÉ-FABRICADA H.12 PARA PISO COM CAPA DE 4 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "302,04"
+   "PREÇO": "308,71"
  },
  {
    "ITEM": 100000526,
    "DESCRIÇÃO": "LAJE PRÉ-FABRICADA H.16 PARA PISO COM CAPA DE 4 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "353,80"
+   "PREÇO": "361,10"
  },
  {
    "ITEM": 100000527,
    "DESCRIÇÃO": "LAJE PRÉ-FABRICADA H.8 PARA FORRO COM CAPA DE 3 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "254,02"
+   "PREÇO": "259,99"
  },
  {
    "ITEM": 100000528,
    "DESCRIÇÃO": "LAJE PRÉ-FABRICADA H.8 PARA PISO COM CAPA DE 4 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "280,14"
+   "PREÇO": "286,22"
  },
  {
    "ITEM": 100000529,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROFUNDIDADE ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.982,90"
+   "PREÇO": "7.677,86"
  },
  {
    "ITEM": 100000530,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROFUNDIDADE ATÉ 2,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.072,58"
+   "PREÇO": "9.774,28"
  },
  {
    "ITEM": 100000531,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROFUNDIDADE ATÉ 3,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11.508,11"
+   "PREÇO": "13.166,89"
  },
  {
    "ITEM": 100000532,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROFUNDIDADE ATÉ 3,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "13.312,89"
+   "PREÇO": "14.532,44"
  },
  {
    "ITEM": 100000533,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROFUNDIDADE ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "15.514,91"
+   "PREÇO": "15.573,35"
  },
  {
    "ITEM": 100000534,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.816,61"
+   "PREÇO": "6.004,24"
  },
  {
    "ITEM": 100000535,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 3,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.831,95"
+   "PREÇO": "7.020,55"
  },
  {
    "ITEM": 100000536,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.699,96"
+   "PREÇO": "8.890,49"
  },
  {
    "ITEM": 100000537,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 5,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10.762,62"
+   "PREÇO": "10.959,56"
  },
  {
    "ITEM": 100000538,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.642,14"
+   "PREÇO": "12.841,23"
  },
  {
    "ITEM": 100000539,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 7,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "14.841,49"
+   "PREÇO": "15.050,51"
  },
  {
    "ITEM": 100000558,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.944,66"
+   "PREÇO": "8.263,82"
  },
  {
    "ITEM": 100000559,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 3,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.784,42"
+   "PREÇO": "10.157,54"
  },
  {
    "ITEM": 100000560,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11.510,74"
+   "PREÇO": "11.885,55"
  },
  {
    "ITEM": 100000561,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 5,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "14.553,09"
+   "PREÇO": "14.945,86"
  },
  {
    "ITEM": 100000562,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "17.056,85"
+   "PREÇO": "17.454,49"
  },
  {
    "ITEM": 100000563,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 7,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "20.321,08"
+   "PREÇO": "20.740,97"
  },
  {
    "ITEM": 100000582,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTE, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.916,94"
+   "PREÇO": "6.160,35"
  },
  {
    "ITEM": 100000583,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTE, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 3,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.273,82"
+   "PREÇO": "7.560,63"
  },
  {
    "ITEM": 100000584,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTE, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.710,12"
+   "PREÇO": "9.004,32"
  },
  {
    "ITEM": 100000585,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTE, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 5,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10.396,90"
+   "PREÇO": "10.691,46"
  },
  {
    "ITEM": 100000586,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTE, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.083,68"
+   "PREÇO": "12.378,60"
  },
  {
    "ITEM": 100000587,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM TUBO CONCRETO COM PONTE, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 7,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "13.770,46"
+   "PREÇO": "14.065,74"
  },
  {
    "ITEM": 100000606,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.627,81"
+   "PREÇO": "7.945,56"
  },
  {
    "ITEM": 100000607,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 3,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.146,69"
+   "PREÇO": "9.515,25"
  },
  {
    "ITEM": 100000608,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10.683,43"
+   "PREÇO": "11.052,30"
  },
  {
    "ITEM": 100000609,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 5,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.873,43"
+   "PREÇO": "13.242,74"
  },
  {
    "ITEM": 100000610,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "15.063,43"
+   "PREÇO": "15.433,18"
  },
  {
    "ITEM": 100000611,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,20 M EM TUBO CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROF. ATÉ 7,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "17.253,43"
+   "PREÇO": "17.623,62"
  },
  {
    "ITEM": 100000632,
    "DESCRIÇÃO": "POÇO DE INSPEÇÃO D=0,60 M EM TUBO DE CONCRETO COM PONTA, BOLSA E JUNTA ELÁSTICA - PROFUNDIDADE ATÉ 1,60 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.848,62"
+   "PREÇO": "2.948,19"
  },
  {
    "ITEM": 100000633,
    "DESCRIÇÃO": "POÇO DE INSPEÇÃO D=0,60 M EM ALVENARIA - PROFUNDIDADE ATÉ 1,60 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.500,93"
+   "PREÇO": "4.726,09"
  },
  {
    "ITEM": 100000634,
    "DESCRIÇÃO": "POÇO DE INSPEÇÃO D=0,60 M EM MATERIAL PLÁSTICO - PROFUNDIDADE ATÉ 1,60 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.037,80"
+   "PREÇO": "3.338,01"
  },
  {
    "ITEM": 100000637,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 0,80 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "296,97"
+   "PREÇO": "297,50"
  },
  {
    "ITEM": 100000638,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 1,00 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "365,68"
+   "PREÇO": "366,43"
  },
  {
    "ITEM": 100000639,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 1,20 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "476,29"
+   "PREÇO": "477,24"
  },
  {
    "ITEM": 100000640,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 1,30 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "598,71"
+   "PREÇO": "599,84"
  },
  {
    "ITEM": 100000641,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 1,50 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "660,40"
+   "PREÇO": "661,68"
  },
  {
    "ITEM": 100000642,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 1,80 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.056,46"
+   "PREÇO": "1.057,95"
  },
  {
    "ITEM": 100000643,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 2,12 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.329,42"
+   "PREÇO": "1.331,12"
  },
  {
    "ITEM": 100000644,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 2,50 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.690,01"
+   "PREÇO": "1.692,01"
  },
  {
    "ITEM": 100000645,
    "DESCRIÇÃO": "ADUELAS DE CONCRETO ARMADO, PRÉ-MOLDADAS, COM PONTA E BOLSA, DIÂMETRO 3,00 M - H = 0,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.178,22"
+   "PREÇO": "2.180,63"
  },
  {
    "ITEM": 100000646,
    "DESCRIÇÃO": "ADUELAS SUCESSIVAS DE CONCRETO ARMADO MOLDADAS \"IN LOCO\", DIÂMETRO 1,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6.689,96"
+   "PREÇO": "6.922,91"
  },
  {
    "ITEM": 100000647,
    "DESCRIÇÃO": "ADUELAS SUCESSIVAS DE CONCRETO ARMADO MOLDADAS \"IN LOCO\", DIÂMETRO 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8.805,32"
+   "PREÇO": "9.119,52"
  },
  {
    "ITEM": 100000648,
    "DESCRIÇÃO": "ADUELAS SUCESSIVAS DE CONCRETO ARMADO MOLDADAS \"IN LOCO\", DIÂMETRO 2,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10.621,12"
+   "PREÇO": "10.995,49"
  },
  {
    "ITEM": 100000649,
    "DESCRIÇÃO": "ADUELAS SUCESSIVAS DE CONCRETO ARMADO MOLDADAS \"IN LOCO\", DIÂMETRO 3,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "12.793,10"
+   "PREÇO": "13.231,06"
  },
  {
    "ITEM": 100000650,
    "DESCRIÇÃO": "ADUELAS SUCESSIVAS DE CONCRETO ARMADO MOLDADAS \"IN LOCO\", DIÂMETRO 3,80 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "16.016,46"
+   "PREÇO": "16.571,38"
  },
  {
    "ITEM": 100000651,
    "DESCRIÇÃO": "ASSENTAMENTO DE TAMPÃO DE FERRO FUNDIDO, DN 600 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "190,76"
+   "PREÇO": "191,08"
  },
  {
    "ITEM": 100000652,
    "DESCRIÇÃO": "ASSENTAMENTO DE TAMPÃO DE FERRO FUNDIDO, DN 900 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "262,73"
+   "PREÇO": "263,37"
  },
  {
    "ITEM": 100000653,
    "DESCRIÇÃO": "ASSENTAMENTO DE TUBO DE QUEDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "482,99"
+   "PREÇO": "486,94"
  },
  {
    "ITEM": 100000654,
    "DESCRIÇÃO": "BOCA-DE-LOBO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.750,08"
+   "PREÇO": "2.869,11"
  },
  {
    "ITEM": 100000659,
    "DESCRIÇÃO": "EXECUÇÃO DE TAMPA DE BOCA-DE-LOBO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "234,41"
+   "PREÇO": "245,04"
  },
  {
    "ITEM": 100000660,
    "DESCRIÇÃO": "EXTRAVASOR DIÂMETRO ATÉ 250 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "638,97"
+   "PREÇO": "639,11"
  },
  {
    "ITEM": 100000661,
    "DESCRIÇÃO": "EXTRAVASOR DIÂMETRO DE 300 MM ATÉ 350 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "746,48"
+   "PREÇO": "746,64"
  },
  {
    "ITEM": 100000662,
    "DESCRIÇÃO": "EXTRAVASOR DIÂMETRO DE 400 MM ATÉ 600 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.059,23"
+   "PREÇO": "1.059,43"
  },
  {
    "ITEM": 100000663,
    "DESCRIÇÃO": "INSTALAÇÃO DE HIDRANTE DE COLUNA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.309,88"
+   "PREÇO": "1.359,12"
  },
  {
    "ITEM": 100000664,
    "DESCRIÇÃO": "INSTALAÇÃO DE HIDRANTE SUBTERRÂNEO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.027,56"
+   "PREÇO": "1.042,93"
  },
  {
    "ITEM": 100000665,
    "DESCRIÇÃO": "TAMPA DE INSPEÇÃO EM CONCRETO ARMADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.371,47"
+   "PREÇO": "3.536,42"
  },
  {
    "ITEM": 100000666,
    "DESCRIÇÃO": "TERMINAL DE LIMPEZA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "854,25"
+   "PREÇO": "871,65"
  },
  {
    "ITEM": 100000667,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 0,80 X 0,80 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.289,54"
+   "PREÇO": "2.393,83"
  },
  {
    "ITEM": 100000668,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 0,80 X 1,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.482,50"
+   "PREÇO": "2.596,35"
  },
  {
    "ITEM": 100000669,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,00 X 1,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.844,66"
+   "PREÇO": "2.976,68"
  },
  {
    "ITEM": 100000670,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,00 X 1,10 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.004,70"
+   "PREÇO": "3.141,56"
  },
  {
    "ITEM": 100000671,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,00 X 1,20 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.154,94"
+   "PREÇO": "3.298,65"
  },
  {
    "ITEM": 100000672,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,00 X 1,35 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.333,57"
+   "PREÇO": "3.487,33"
  },
  {
    "ITEM": 100000673,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,00 X 1,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.740,45"
+   "PREÇO": "3.909,62"
  },
  {
    "ITEM": 100000674,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,10 X 1,10 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.306,44"
+   "PREÇO": "3.452,43"
  },
  {
    "ITEM": 100000675,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,20 X 1,20 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.434,29"
+   "PREÇO": "3.590,72"
  },
  {
    "ITEM": 100000676,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,20 X 1,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.074,10"
+   "PREÇO": "4.256,60"
  },
  {
    "ITEM": 100000677,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,50 X 1,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.434,59"
+   "PREÇO": "4.632,77"
  },
  {
    "ITEM": 100000678,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 1,50 X 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.619,89"
+   "PREÇO": "5.858,14"
  },
  {
    "ITEM": 100000679,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 2,00 X 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6.463,10"
+   "PREÇO": "6.737,10"
  },
  {
    "ITEM": 100000680,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1 TIJOLO - 2,00 X 2,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "7.305,87"
+   "PREÇO": "7.615,59"
  },
  {
    "ITEM": 100000681,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1/2 TIJOLO - 0,60 X 0,60 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.259,58"
+   "PREÇO": "1.307,60"
  },
  {
    "ITEM": 100000682,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1/2 TIJOLO - 0,80 X 0,80 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.674,73"
+   "PREÇO": "1.738,52"
  },
  {
    "ITEM": 100000683,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1/2 TIJOLO - 0,90 X 0,90 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.889,31"
+   "PREÇO": "1.961,32"
  },
  {
    "ITEM": 100000684,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1/2 TIJOLO - 1,00 X 0,80 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.889,31"
+   "PREÇO": "1.961,32"
  },
  {
    "ITEM": 100000685,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1/2 TIJOLO - 1,00 X 1,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.116,01"
+   "PREÇO": "2.196,67"
  },
  {
    "ITEM": 100000686,
    "DESCRIÇÃO": "CAIXA DE ALVENARIA DE 1/2 TIJOLO - 1,00 X 1,20 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.330,14"
+   "PREÇO": "2.418,97"
  },
  {
    "ITEM": 100000688,
    "DESCRIÇÃO": "CAIXA \"1\" (1,50 X 1,30 M), COM STOP LOG E VERTEDOR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10.360,35"
+   "PREÇO": "10.586,32"
  },
  {
    "ITEM": 100000689,
    "DESCRIÇÃO": "CAIXA \"2\" (2,40 X 0,80 M)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.499,04"
+   "PREÇO": "5.716,20"
  },
  {
    "ITEM": 100000690,
    "DESCRIÇÃO": "CAIXA \"3\" (1,60 X 0,80 M), CAIXA DIVISORA DE VAZÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.078,77"
+   "PREÇO": "5.235,40"
  },
  {
    "ITEM": 100000691,
    "DESCRIÇÃO": "CAIXA \"4\" (0,60 X 0,60 M)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.645,29"
+   "PREÇO": "1.695,73"
  },
  {
    "ITEM": 100000693,
    "DESCRIÇÃO": "CAIXA \"7\" (0,80 X 0,80 M)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.136,54"
+   "PREÇO": "4.252,39"
  },
  {
    "ITEM": 100000694,
    "DESCRIÇÃO": "CAIXA DE INSPEÇÃO (0,60 X 0,60 M)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.351,96"
+   "PREÇO": "2.441,41"
  },
  {
    "ITEM": 100000695,
    "DESCRIÇÃO": "CAIXA DE INSPEÇÃO (0,80 X 0,80 M)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.283,03"
+   "PREÇO": "3.397,39"
  },
  {
    "ITEM": 100000696,
    "DESCRIÇÃO": "DISPOSITIVO DE SAÍDA A",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.810,75"
+   "PREÇO": "6.046,86"
  },
  {
    "ITEM": 100000698,
    "DESCRIÇÃO": "PLACA DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "185,02"
+   "PREÇO": "191,38"
  },
  {
    "ITEM": 100010179,
    "DESCRIÇÃO": "CAIXA \"6\" (1,30 X 1,00 M), COM VERTEDOR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.179,04"
+   "PREÇO": "5.343,97"
  },
  {
    "ITEM": 100010860,
    "DESCRIÇÃO": "POÇO DE INSPEÇÃO D=0,60 M EM MATERIAL PLÁSTICO - PROF. ATÉ 1,60 M ( SEM TROCA DE SOLO )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.683,73"
+   "PREÇO": "2.910,66"
  },
  {
    "ITEM": 100010861,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROF. ATÉ 2,00 M ( SEM TROCA DE SOLO )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.238,33"
+   "PREÇO": "6.794,06"
  },
  {
    "ITEM": 100010862,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROF. ATÉ 2,50 M ( SEM TROCA DE SOLO )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.291,33"
+   "PREÇO": "8.820,02"
  },
  {
    "ITEM": 100010863,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROF. ATÉ 3,00 M ( SEM TROCA DE SOLO )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10.621,27"
+   "PREÇO": "12.074,79"
  },
  {
    "ITEM": 100010864,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROF. ATÉ 3,50 M ( SEM TROCA DE SOLO )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.325,55"
+   "PREÇO": "13.307,72"
  },
  {
    "ITEM": 100010865,
    "DESCRIÇÃO": "POÇO DE VISITA D=1,00 M EM MATERIAL PLÁSTICO - PROF. ATÉ 4,00 M ( SEM TROCA DE SOLO )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "14.558,48"
+   "PREÇO": "14.379,26"
  },
  {
    "ITEM": 100010866,
    "DESCRIÇÃO": "CONCRETO ESTRUTURAL P/ ESTRUTURAS EM CONTATO COM ESGOTO, GASES AGRESSIVOS, AMBIENTE MARÍTIMO E ESTRUTURAS PARA TRATAMENTO DE ÁGUA, FCK = 40,0 MPA, A/C MÁX. 0,45 L/KG - MÍN. DE 360 KG DE CIMENTO/M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.041,06"
+   "PREÇO": "1.040,33"
  },
  {
    "ITEM": 100010906,
    "DESCRIÇÃO": "ESTACA TIPO RAIZ, CAPACIDADE 100 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "344,19"
+   "PREÇO": "375,09"
  },
  {
    "ITEM": 100010907,
    "DESCRIÇÃO": "ESTACA TIPO RAIZ, CAPACIDADE 150 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "377,57"
+   "PREÇO": "413,91"
  },
  {
    "ITEM": 100010908,
    "DESCRIÇÃO": "ESTACA TIPO RAIZ, CAPACIDADE 250 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "413,73"
+   "PREÇO": "451,57"
  },
  {
    "ITEM": 100010909,
    "DESCRIÇÃO": "ESTACA TIPO RAIZ, CAPACIDADE 350 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "499,61"
+   "PREÇO": "478,86"
  },
  {
    "ITEM": 100010910,
    "DESCRIÇÃO": "ESTACA TIPO RAIZ, CAPACIDADE 500 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "617,24"
+   "PREÇO": "554,15"
  },
  {
    "ITEM": 100010911,
    "DESCRIÇÃO": "ESTACA TIPO RAIZ, CAPACIDADE 700 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "677,08"
+   "PREÇO": "603,80"
  },
  {
    "ITEM": 100010912,
    "DESCRIÇÃO": "ESTACA TIPO RAIZ, CAPACIDADE 1.000 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "780,48"
+   "PREÇO": "701,79"
  },
  {
    "ITEM": 100010913,
    "DESCRIÇÃO": "ESTACA TIPO RAIZ, CAPACIDADE 1.300 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "960,42"
+   "PREÇO": "919,96"
  },
  {
    "ITEM": 100010914,
    "DESCRIÇÃO": "ESTACA TIPO STRAUSS, CAPACIDADE 200 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "127,32"
+   "PREÇO": "129,73"
  },
  {
    "ITEM": 100010915,
    "DESCRIÇÃO": "ESTACA TIPO STRAUSS, CAPACIDADE 300 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "159,05"
+   "PREÇO": "163,01"
  },
  {
    "ITEM": 100010916,
    "DESCRIÇÃO": "ESTACA TIPO STRAUSS, CAPACIDADE 400 KN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "215,69"
+   "PREÇO": "221,26"
  },
  {
    "ITEM": 100010917,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 25 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "93,98"
+   "PREÇO": "94,61"
  },
  {
    "ITEM": 100010918,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 30 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "126,08"
+   "PREÇO": "127,00"
  },
  {
    "ITEM": 100010919,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 35 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "155,51"
+   "PREÇO": "156,76"
  },
  {
    "ITEM": 100010920,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 40 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "186,59"
+   "PREÇO": "204,14"
  },
  {
    "ITEM": 100010921,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 50 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "267,32"
+   "PREÇO": "289,34"
  },
  {
    "ITEM": 100010922,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 60 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "393,05"
+   "PREÇO": "426,58"
  },
  {
    "ITEM": 100010923,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 70 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "511,04"
+   "PREÇO": "557,52"
  },
  {
    "ITEM": 100010924,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 80 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "664,19"
+   "PREÇO": "715,67"
  },
  {
    "ITEM": 100010925,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 90 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "829,85"
+   "PREÇO": "892,64"
  },
  {
    "ITEM": 100010926,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 100 CM - CAA I E II",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.124,66"
+   "PREÇO": "1.224,20"
  },
  {
    "ITEM": 100010927,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 25 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "95,23"
+   "PREÇO": "95,86"
  },
  {
    "ITEM": 100010928,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 30 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "127,89"
+   "PREÇO": "128,80"
  },
  {
    "ITEM": 100010929,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 35 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "157,97"
+   "PREÇO": "159,21"
  },
  {
    "ITEM": 100010930,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 40 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "189,80"
+   "PREÇO": "207,35"
  },
  {
    "ITEM": 100010931,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 50 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "272,33"
+   "PREÇO": "294,36"
  },
  {
    "ITEM": 100010932,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 60 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "400,27"
+   "PREÇO": "433,80"
  },
  {
    "ITEM": 100010933,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 70 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "520,87"
+   "PREÇO": "567,35"
  },
  {
    "ITEM": 100010934,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 80 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "677,02"
+   "PREÇO": "728,50"
  },
  {
    "ITEM": 100010935,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 90 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "846,09"
+   "PREÇO": "908,88"
  },
  {
    "ITEM": 100010936,
    "DESCRIÇÃO": "ESTACA TIPO HÉLICE CONTÍNUA, DIÂMETRO 100 CM - CAA III E IV",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.144,72"
+   "PREÇO": "1.244,25"
  },
  {
    "ITEM": 100010937,
    "DESCRIÇÃO": "DISPOSITIVO DE PROTEÇÃO PARA REGISTRO COM ASSENTAMENTO DE TAMPA T-5",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "273,28"
+   "PREÇO": "279,03"
  },
  {
    "ITEM": 100010962,
    "DESCRIÇÃO": "POÇO DE INSPEÇÃO D=0,60 M EM ALVENARIA - PROF. ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.430,15"
+   "PREÇO": "5.698,81"
  },
  {
    "ITEM": 100010963,
    "DESCRIÇÃO": "POÇO DE INSPEÇÃO D=0,60 M EM TUBO DE CONCRETO C/PBJE - PROF. ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.296,58"
+   "PREÇO": "3.396,32"
  },
  {
    "ITEM": 100010971,
    "DESCRIÇÃO": "POÇO DE VISITA D=0,80 M EM MATERIAL PLÁSTICO - PROF. ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.859,50"
+   "PREÇO": "5.074,37"
  },
  {
    "ITEM": 100010972,
    "DESCRIÇÃO": "POÇO DE VISITA D=0,80 M EM MATERIAL PLÁSTICO - PROF. ATÉ 2,50 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.747,81"
+   "PREÇO": "6.114,24"
  },
  {
    "ITEM": 100010973,
    "DESCRIÇÃO": "POÇO DE VISITA D=0,80 M EM MATERIAL PLÁSTICO - PROF. ATÉ 2,00 M ( SEM TROCA DE SOLO )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.324,25"
+   "PREÇO": "4.417,91"
  },
  {
    "ITEM": 100010974,
    "DESCRIÇÃO": "POÇO DE VISITA D=0,80 M EM MATERIAL PLÁSTICO - PROF. ATÉ 2,50 M ( SEM TROCA DE SOLO )",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.073,64"
+   "PREÇO": "5.286,86"
  },
  {
    "ITEM": 100001570,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 110 MM (REF. 4\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "251,69"
+   "PREÇO": "251,60"
  },
  {
    "ITEM": 100001571,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 20 MM (REF. 1/2\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "38,18"
+   "PREÇO": "38,17"
  },
  {
    "ITEM": 100001572,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 25 MM (REF. 3/4\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "43,89"
+   "PREÇO": "43,88"
  },
  {
    "ITEM": 100001573,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 32 MM (REF. 1\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "53,63"
+   "PREÇO": "53,62"
  },
  {
    "ITEM": 100001574,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 40 MM (REF. 1.1/4\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "77,86"
+   "PREÇO": "77,82"
  },
  {
    "ITEM": 100001575,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 50 MM (REF. 1.1/2\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "80,87"
+   "PREÇO": "80,83"
  },
  {
    "ITEM": 100001576,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 60 MM (REF. 2\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "115,96"
+   "PREÇO": "115,92"
  },
  {
    "ITEM": 100001577,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 75 MM (REF. 2.1/2\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "149,61"
+   "PREÇO": "149,58"
  },
  {
    "ITEM": 100001578,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM PVC RÍGIDO - DIÂMETRO 85 MM (REF. 3\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "194,64"
+   "PREÇO": "194,55"
  },
  {
    "ITEM": 100001579,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM FERRO GALVANIZADO - DIÂMETRO 1\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "103,64"
+   "PREÇO": "103,65"
  },
  {
    "ITEM": 100001580,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM FERRO GALVANIZADO - DIÂMETRO 1.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "135,10"
+   "PREÇO": "135,09"
  },
  {
    "ITEM": 100001581,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM FERRO GALVANIZADO - DIÂMETRO 1.1/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "127,90"
+   "PREÇO": "127,87"
  },
  {
    "ITEM": 100001582,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM FERRO GALVANIZADO - DIÂMETRO 1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "74,62"
  },
  {
    "ITEM": 100001583,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM FERRO GALVANIZADO - DIÂMETRO 2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "175,48"
+   "PREÇO": "175,46"
  },
  {
    "ITEM": 100001584,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM FERRO GALVANIZADO - DIÂMETRO 3\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "274,24"
+   "PREÇO": "274,23"
  },
  {
    "ITEM": 100001585,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM FERRO GALVANIZADO - DIÂMETRO 3/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "80,44"
+   "PREÇO": "80,45"
  },
  {
    "ITEM": 100001586,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ÁGUA EM FERRO GALVANIZADO - DIÂMETRO 4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "367,88"
+   "PREÇO": "367,90"
  },
  {
    "ITEM": 100001587,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ESGOTO EM PVC RÍGIDO - DIÂMETRO 100 MM (REF. 4\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "147,08"
+   "PREÇO": "146,68"
  },
  {
    "ITEM": 100001588,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ESGOTO EM PVC RÍGIDO - DIÂMETRO 40 MM (REF. 1.1/4\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "81,86"
+   "PREÇO": "81,72"
  },
  {
    "ITEM": 100001589,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ESGOTO EM PVC RÍGIDO - DIÂMETRO 50 MM (REF. 2\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "95,60"
+   "PREÇO": "95,46"
  },
  {
    "ITEM": 100001590,
    "DESCRIÇÃO": "TUBULAÇÕES E CONEXÕES DE ESGOTO EM PVC RÍGIDO - DIÂMETRO 75 MM (REF. 3\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "136,46"
+   "PREÇO": "136,05"
  },
  {
    "ITEM": 100001596,
    "DESCRIÇÃO": "CAIXA SIFONADA EM PVC - DIÂMETRO 150 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "101,80"
+   "PREÇO": "117,12"
  },
  {
    "ITEM": 100001597,
    "DESCRIÇÃO": "CHUVEIRO (220V) POTÊNCIA APROXIMADA 4000-5000W MODELO BÁSICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "176,92"
+   "PREÇO": "182,53"
  },
  {
    "ITEM": 100001598,
    "DESCRIÇÃO": "GRELHA DE PVC CROMADO, COM PORTA GRELHA REDONDA - DIÂMETRO 150 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "74,24"
+   "PREÇO": "73,89"
  },
  {
    "ITEM": 100001599,
    "DESCRIÇÃO": "LAVATÓRIO EM LOUÇA COM COLUNA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "551,72"
+   "PREÇO": "565,39"
  },
  {
    "ITEM": 100001600,
    "DESCRIÇÃO": "PAPELEIRA DE LOUÇA PARA PAPEL HIGIÊNICO (15 X 15 CM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "108,43"
+   "PREÇO": "108,48"
  },
  {
    "ITEM": 100001602,
    "DESCRIÇÃO": "PIA DE AÇO INOX 3,00 X 0,60 M COM CUBA DE 0,56 X 0,33 X 0,16 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.574,27"
+   "PREÇO": "3.598,50"
  },
  {
    "ITEM": 100001605,
    "DESCRIÇÃO": "PIA DE AÇO INOX 3,60 X 0,60 M COM CUBA DE 0,56 X 0,33 X 0,16 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.127,83"
+   "PREÇO": "4.127,73"
  },
  {
    "ITEM": 100001608,
    "DESCRIÇÃO": "PIA DE AÇO INOX 4,00 X 0,60 M COM CUBA DE 0,56 X 0,33 X 0,16 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.508,44"
+   "PREÇO": "4.508,33"
  },
  {
    "ITEM": 100001610,
    "DESCRIÇÃO": "PIA DE MÁRMORE 1,60 X 0,60 M - COM CUBA DE AÇO INOX 20 A 25 LITROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "997,38"
+   "PREÇO": "1.024,74"
  },
  {
    "ITEM": 100001611,
    "DESCRIÇÃO": "PIA DE MÁRMORE 2,10 X 0,60 M - COM CUBA DE AÇO INOX 20 A 25 LITROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.256,42"
+   "PREÇO": "1.292,35"
  },
  {
    "ITEM": 100001612,
    "DESCRIÇÃO": "PORTA-TOALHA EM METAL CROMADO COM BARRA DE 60 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "198,75"
+   "PREÇO": "230,75"
  },
  {
    "ITEM": 100001613,
    "DESCRIÇÃO": "RALO SECO QUADRADO EM PVC - 100 X 100 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "64,54"
+   "PREÇO": "62,76"
  },
  {
    "ITEM": 100001614,
    "DESCRIÇÃO": "RALO SIFONADO EM PVC - DIÂMETRO 100 MM (ALTURA REGULÁVEL)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "61,59"
+   "PREÇO": "58,80"
  },
  {
    "ITEM": 100001615,
    "DESCRIÇÃO": "REGISTRO DE GAVETA BRUTO - DIÂMETRO INTERNO 20 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "89,63"
+   "PREÇO": "90,28"
  },
  {
    "ITEM": 100001616,
    "DESCRIÇÃO": "REGISTRO DE GAVETA BRUTO - DIÂMETRO INTERNO 32 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "205,26"
+   "PREÇO": "206,28"
  },
  {
    "ITEM": 100001617,
    "DESCRIÇÃO": "REGISTRO DE GAVETA BRUTO - DIÂMETRO INTERNO 40 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "247,26"
+   "PREÇO": "248,61"
  },
  {
    "ITEM": 100001618,
    "DESCRIÇÃO": "REGISTRO DE GAVETA BRUTO - DIÂMETRO INTERNO 50 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "314,83"
+   "PREÇO": "316,52"
  },
  {
    "ITEM": 100001619,
    "DESCRIÇÃO": "REGISTRO DE GAVETA BRUTO - DIÂMETRO INTERNO 25 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "129,00"
+   "PREÇO": "129,70"
  },
  {
    "ITEM": 100001620,
    "DESCRIÇÃO": "REGISTRO DE GAVETA CROMADO COM CANOPLA LISA - DIÂMETRO INTERNO 20 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "155,93"
+   "PREÇO": "156,58"
  },
  {
    "ITEM": 100001621,
    "DESCRIÇÃO": "REGISTRO DE GAVETA CROMADO COM CANOPLA LISA - DIÂMETRO INTERNO 25 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "220,51"
+   "PREÇO": "221,21"
  },
  {
    "ITEM": 100001622,
    "DESCRIÇÃO": "REGISTRO DE GAVETA CROMADO COM CANOPLA LISA - DIÂMETRO INTERNO 32 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "249,97"
+   "PREÇO": "251,00"
  },
  {
    "ITEM": 100001623,
    "DESCRIÇÃO": "REGISTRO DE GAVETA CROMADO COM CANOPLA LISA - DIÂMETRO INTERNO 40 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "274,09"
+   "PREÇO": "275,44"
  },
  {
    "ITEM": 100001625,
    "DESCRIÇÃO": "REGISTRO DE PRESSÃO COM CANOPLA - DIÂMETRO INTERNO 20 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "170,21"
  },
  {
    "ITEM": 100001627,
    "DESCRIÇÃO": "TORNEIRA LATÃO CROMADO COM AREJADOR DE PAREDE PARA COZINHA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "140,10"
  },
  {
    "ITEM": 100001629,
    "DESCRIÇÃO": "TORNEIRA DE BÓIA EM PVC DN 3/4\" PARA CAIXA D´ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "74,02"
+   "PREÇO": "61,81"
  },
  {
    "ITEM": 100001630,
    "DESCRIÇÃO": "TORNEIRA DE PRESSÃO PARA LAVATÓRIO (COM TEMPO AUTOMÁTICO)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "201,37"
+   "PREÇO": "205,31"
  },
  {
    "ITEM": 100001632,
    "DESCRIÇÃO": "VÁLVULA DE DESCARGA EM LIGA DE COBRE - DIÂMETRO 40 MM (1.1/2\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "629,13"
+   "PREÇO": "705,48"
  },
  {
    "ITEM": 100001633,
    "DESCRIÇÃO": "VASO SANITÁRIO COM CAIXA ACOPLADA EM LOUÇA COM ASSENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "749,25"
+   "PREÇO": "804,20"
  },
  {
    "ITEM": 100001635,
    "DESCRIÇÃO": "FOSSA SÉPTICA - DIÂMETRO 1,20 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.695,60"
+   "PREÇO": "1.766,35"
  },
  {
    "ITEM": 100001636,
    "DESCRIÇÃO": "POÇO ABSORVENTE - DIÂMETRO 1,20 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.504,98"
+   "PREÇO": "1.568,72"
  },
  {
    "ITEM": 100001657,
    "DESCRIÇÃO": "CABO DE COBRE NU #10,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "23,85"
+   "PREÇO": "25,50"
  },
  {
    "ITEM": 100001658,
    "DESCRIÇÃO": "CABO DE COBRE NU #120,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "183,08"
+   "PREÇO": "204,21"
  },
  {
    "ITEM": 100001659,
    "DESCRIÇÃO": "CABO DE COBRE NU #16,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "34,74"
+   "PREÇO": "35,43"
  },
  {
    "ITEM": 100001661,
    "DESCRIÇÃO": "CABO DE COBRE NU #25,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "47,95"
+   "PREÇO": "50,29"
  },
  {
    "ITEM": 100001662,
    "DESCRIÇÃO": "CABO DE COBRE NU #35,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "64,88"
+   "PREÇO": "64,04"
  },
  {
    "ITEM": 100001663,
    "DESCRIÇÃO": "CABO DE COBRE NU #50,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "92,40"
+   "PREÇO": "102,89"
  },
  {
    "ITEM": 100001665,
    "DESCRIÇÃO": "CABO DE COBRE NU #70,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "110,45"
+   "PREÇO": "113,52"
  },
  {
    "ITEM": 100001666,
    "DESCRIÇÃO": "CABO DE COBRE NU #95,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "142,55"
+   "PREÇO": "151,76"
  },
  {
    "ITEM": 100001696,
    "DESCRIÇÃO": "ELETRODUTO FLEXÍVEL CORRUGADO, PREDIAL - DIÂMETRO 1\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "24,27"
+   "PREÇO": "24,37"
  },
  {
    "ITEM": 100001698,
    "DESCRIÇÃO": "ELETRODUTO FLEXÍVEL CORRUGADO, PREDIAL - DIÂMETRO 1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "18,10"
+   "PREÇO": "18,76"
  },
  {
    "ITEM": 100001699,
    "DESCRIÇÃO": "ELETRODUTO FLEXÍVEL CORRUGADO, PREDIAL - DIÂMETRO 3/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "18,75"
+   "PREÇO": "19,43"
  },
  {
    "ITEM": 100001701,
    "DESCRIÇÃO": "CAIXA OCTOGONAL 4 X 4\" PARA EMBUTIR EM ALVENARIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "15,10"
+   "PREÇO": "15,17"
  },
  {
    "ITEM": 100001702,
    "DESCRIÇÃO": "CAIXA QUADRADA 4 X 4\" PARA EMBUTIR EM ALVENARIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "12,67"
  },
  {
    "ITEM": 100001703,
    "DESCRIÇÃO": "CAIXA RETANGULAR 4 X 2\" PARA EMBUTIR EM ALVENARIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11,52"
+   "PREÇO": "12,26"
  },
  {
    "ITEM": 100001704,
    "DESCRIÇÃO": "CAIXA SEXTAVADA 3 X 3\" PARA EMBUTIR EM ALVENARIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "13,32"
+   "PREÇO": "14,67"
  },
  {
    "ITEM": 100001705,
    "DESCRIÇÃO": "CONDULETE - 1\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "32,28"
+   "PREÇO": "40,28"
  },
  {
    "ITEM": 100001706,
    "DESCRIÇÃO": "CONDULETE - 1.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "75,93"
+   "PREÇO": "79,40"
  },
  {
    "ITEM": 100001707,
    "DESCRIÇÃO": "CONDULETE - 1.1/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "46,44"
+   "PREÇO": "58,68"
  },
  {
    "ITEM": 100001708,
    "DESCRIÇÃO": "CONDULETE - 1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "22,49"
  },
  {
    "ITEM": 100001709,
    "DESCRIÇÃO": "CONDULETE - 2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "99,51"
+   "PREÇO": "127,39"
  },
  {
    "ITEM": 100001710,
    "DESCRIÇÃO": "CONDULETE - 2.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "220,26"
+   "PREÇO": "278,46"
  },
  {
    "ITEM": 100001711,
    "DESCRIÇÃO": "CONDULETE - 3\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "299,03"
+   "PREÇO": "375,26"
  },
  {
    "ITEM": 100001713,
    "DESCRIÇÃO": "CONDULETE - 3/4'",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "23,18"
+   "PREÇO": "28,72"
  },
  {
    "ITEM": 100001714,
    "DESCRIÇÃO": "CONDULETE - 4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "424,15"
+   "PREÇO": "533,50"
  },
  {
    "ITEM": 100001715,
    "DESCRIÇÃO": "CONECTOR TIPO SPLIT BOLT PARA CABO 10,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "13,40"
+   "PREÇO": "14,50"
  },
  {
    "ITEM": 100001716,
    "DESCRIÇÃO": "CONECTOR TIPO SPLIT BOLT PARA CABO 120 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "82,61"
+   "PREÇO": "81,83"
  },
  {
    "ITEM": 100001717,
    "DESCRIÇÃO": "CONECTOR TIPO SPLIT BOLT PARA CABO 16 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "18,84"
+   "PREÇO": "19,69"
  },
  {
    "ITEM": 100001719,
    "DESCRIÇÃO": "CONECTOR TIPO SPLIT BOLT PARA CABO 25 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "21,71"
+   "PREÇO": "20,85"
  },
  {
    "ITEM": 100001720,
    "DESCRIÇÃO": "CONECTOR TIPO SPLIT BOLT PARA CABO 35,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "29,63"
+   "PREÇO": "29,79"
  },
  {
    "ITEM": 100001721,
    "DESCRIÇÃO": "CONECTOR TIPO SPLIT BOLT PARA CABO 50 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "40,64"
+   "PREÇO": "38,69"
  },
  {
    "ITEM": 100001722,
    "DESCRIÇÃO": "CONECTOR TIPO SPLIT BOLT PARA CABO 70,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "55,91"
+   "PREÇO": "52,63"
  },
  {
    "ITEM": 100001723,
    "DESCRIÇÃO": "CONECTOR TIPO SPLIT BOLT PARA CABO 95 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "72,20"
  },
  {
    "ITEM": 100001724,
    "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 2\" COM 1 INTERRUPTOR BIPOLAR SIMPLES (TECLA DUPLA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "45,82"
+   "PREÇO": "47,73"
  },
  {
    "ITEM": 100001725,
    "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 2\" COM 1 INTERRUPTOR SIMPLES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "25,40"
+   "PREÇO": "26,30"
  },
  {
    "ITEM": 100001726,
    "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 2\" COM 1 INTERRUPTOR SIMPLES E 1 TOMADA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "32,23"
+   "PREÇO": "36,94"
  },
  {
    "ITEM": 100001727,
    "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 2\" COM 1 TOMADA 2P + T",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "26,11"
+   "PREÇO": "29,09"
  },
  {
    "ITEM": 100001728,
    "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 2\" COM 2 INTERRUPTORES SIMPLES",
-   "DATA I0": "jun/26",
-   "UNID": "un",
-   "PREÇO": "40,10"
- },
- {
-   "ITEM": 100001729,
-   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 2\" COM 3 INTERRUPTORES SIMPLES",
-   "DATA I0": "jun/26",
-   "UNID": "un",
-   "PREÇO": "44,99"
- },
- {
-   "ITEM": 100001730,
-   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 4\" COM 1 INTERRUPTOR BIPOLAR SIMPLES (TECLA DUPLA) E 1 TOMADA 2P + T",
-   "DATA I0": "jun/26",
-   "UNID": "un",
-   "PREÇO": "65,00"
- },
- {
-   "ITEM": 100001731,
-   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 4\" COM 1 INTERRUPTOR PARALELO E 1 TOMADA 2P+T 20A",
-   "DATA I0": "jun/26",
-   "UNID": "un",
-   "PREÇO": "59,02"
- },
- {
-   "ITEM": 100001732,
-   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 4\" COM 2 INTERRUPTORES BIPOLARES SIMPLES (TECLA DUPLA)",
-   "DATA I0": "jun/26",
-   "UNID": "un",
-   "PREÇO": "76,31"
- },
- {
-   "ITEM": 100001733,
-   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 4\" COM 2 TOMADAS 2P + T",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "47,17"
  },
  {
+   "ITEM": 100001729,
+   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 2\" COM 3 INTERRUPTORES SIMPLES",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "53,00"
+ },
+ {
+   "ITEM": 100001730,
+   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 4\" COM 1 INTERRUPTOR BIPOLAR SIMPLES (TECLA DUPLA) E 1 TOMADA 2P + T",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "69,32"
+ },
+ {
+   "ITEM": 100001731,
+   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 4\" COM 1 INTERRUPTOR PARALELO E 1 TOMADA 2P+T 20A",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "65,97"
+ },
+ {
+   "ITEM": 100001732,
+   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 4\" COM 2 INTERRUPTORES BIPOLARES SIMPLES (TECLA DUPLA)",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "83,62"
+ },
+ {
+   "ITEM": 100001733,
+   "DESCRIÇÃO": "CONJUNTO DE PLACA 4 X 4\" COM 2 TOMADAS 2P + T",
+   "DATA I0": "set/26",
+   "UNID": "un",
+   "PREÇO": "48,51"
+ },
+ {
    "ITEM": 100001736,
    "DESCRIÇÃO": "HASTE DE ATERRAMENTO 5/8\" X 3.000 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "381,94"
+   "PREÇO": "371,74"
  },
  {
    "ITEM": 100001743,
    "DESCRIÇÃO": "LÂMPADA LUZ MISTA 160 W / 220 V",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "46,71"
+   "PREÇO": "35,65"
  },
  {
    "ITEM": 100001744,
    "DESCRIÇÃO": "LÂMPADA LUZ MISTA 250 W / 220 V",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "72,10"
+   "PREÇO": "71,51"
  },
  {
    "ITEM": 100001750,
    "DESCRIÇÃO": "LUMINÁRIA TIPO ARANDELA TGVP 45 GRAUS, 100W, COM CAIXA DE LIGAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "374,55"
+   "PREÇO": "457,66"
  },
  {
    "ITEM": 100001751,
    "DESCRIÇÃO": "LUMINÁRIA TIPO ARANDELA TGVP 45 GRAUS, 200W, COM CAIXA DE LIGAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "432,15"
+   "PREÇO": "517,85"
  },
  {
    "ITEM": 100001752,
    "DESCRIÇÃO": "LUMINÁRIA TIPO GLOBO OU SIMILAR PARA PRAÇAS OU JARDINS - DIÂMETRO APROXIMADO 50 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "440,38"
+   "PREÇO": "536,06"
  },
  {
    "ITEM": 100001753,
    "DESCRIÇÃO": "LUMINÁRIA TIPO PLAFON DE SOBREPOR COM BASE E GLOBO - DIÂM. APROX. 15 CM - P/ ESCRITÓRIO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "113,18"
+   "PREÇO": "111,58"
  },
  {
    "ITEM": 100001754,
    "DESCRIÇÃO": "PLACA 4 X 2\" COM FURO REDONDO, PARA PONTO DE CHUVEIRO, EXAUSTOR, ETC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11,46"
+   "PREÇO": "13,50"
  },
  {
    "ITEM": 100001755,
    "DESCRIÇÃO": "PLACA 4 X 4\" FECHADA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "14,69"
+   "PREÇO": "16,70"
  },
  {
    "ITEM": 100001758,
    "DESCRIÇÃO": "POSTE DE ENGASTAR RETO, DIÂMETRO 60 MM - H = 3 M, GALVANIZADO A FOGO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.161,33"
+   "PREÇO": "2.317,31"
  },
  {
    "ITEM": 100009759,
    "DESCRIÇÃO": "CAIXA D'ÁGUA DE 310 LITROS - POLIETILENO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "552,00"
+   "PREÇO": "633,05"
  },
  {
    "ITEM": 100009760,
    "DESCRIÇÃO": "CAIXA D'ÁGUA DE 500 LITROS - POLIETILENO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "606,34"
+   "PREÇO": "668,16"
  },
  {
    "ITEM": 100009761,
    "DESCRIÇÃO": "CAIXA D'ÁGUA DE 1000 LITROS - POLIETILENO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "930,56"
+   "PREÇO": "1.026,14"
  },
  {
    "ITEM": 100010849,
    "DESCRIÇÃO": "ARMARIO PLÁSTICO DE SOBREPOR PARA BANHEIRO (LARG 30A34CM X ALT 35A37CM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "203,96"
+   "PREÇO": "213,72"
  },
  {
    "ITEM": 100010854,
    "DESCRIÇÃO": "MINIDISJUNTOR TERMOMAGNÉTICO MONOPOLAR 10 - 30A/220 VCA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "51,43"
+   "PREÇO": "53,54"
  },
  {
    "ITEM": 100010884,
    "DESCRIÇÃO": "POSTE DE ENGASTAR RETO, H = 6 M (ALTURA ÚTIL), GALVANIZADO A FOGO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.700,89"
+   "PREÇO": "3.015,62"
  },
  {
    "ITEM": 100010885,
    "DESCRIÇÃO": "POSTE DUPLO T, DE CONCRETO, L = 7,5 M (COMPRIMENTO TOTAL), 90 DAN",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.258,57"
+   "PREÇO": "2.203,49"
  },
  {
    "ITEM": 100010894,
    "DESCRIÇÃO": "SABONETEIRA SIMPLES DE AÇO INOX FIXADA NA PAREDE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "40,45"
+   "PREÇO": "46,32"
  },
  {
    "ITEM": 100010895,
    "DESCRIÇÃO": "TORNEIRA LATÃO CROMADO PARA JARDIM/TANQUE COM ADAPTADOR MANGUEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "112,97"
  },
  {
    "ITEM": 100010980,
    "DESCRIÇÃO": "LUMINÁRIA CALHA SIMPLES DE SOBREPOR PARA 2 LÂMPADAS LED TUBULAR DE 9W (OBS: INCLUSO LÂMPADA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "245,93"
+   "PREÇO": "216,65"
  },
  {
    "ITEM": 100010981,
    "DESCRIÇÃO": "LUMINÁRIA CALHA SIMPLES DE SOBREPOR PARA 1 LÂMPADA LED TUBULAR DE 18W (OBS: INCLUSO LÂMPADA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "161,40"
+   "PREÇO": "151,19"
  },
  {
    "ITEM": 100010982,
    "DESCRIÇÃO": "LUMINÁRIA CALHA SIMPLES DE SOBREPOR PARA 2 LÂMPADAS LED TUBULAR DE 18W (OBS: INCLUSO LÂMPADA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "261,29"
+   "PREÇO": "227,05"
  },
  {
    "ITEM": 100010983,
    "DESCRIÇÃO": "LUMINÁRIA COMERCIAL DE EMBUTIR PARA 2 LÂMPADAS LED TUBULAR DE 9W (OBS: INCLUSO LÂMPADA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "314,71"
+   "PREÇO": "321,93"
  },
  {
    "ITEM": 100010984,
    "DESCRIÇÃO": "LUMINÁRIA COMERCIAL DE EMBUTIR PARA 2 LÂMPADAS LED TUBULAR DE 18W (OBS: INCLUSO LÂMPADA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "346,46"
+   "PREÇO": "348,07"
  },
  {
    "ITEM": 100010985,
    "DESCRIÇÃO": "LUMINÁRIA COMERCIAL DE EMBUTIR PARA 4 LÂMPADAS LED TUBULAR DE 9W (OBS: INCLUSO LÂMPADA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "501,18"
+   "PREÇO": "472,09"
  },
  {
    "ITEM": 100010986,
    "DESCRIÇÃO": "LUMINÁRIA COMERCIAL DE EMBUTIR PARA 4 LÂMPADAS LED TUBULAR DE 18W (OBS: INCLUSO LÂMPADA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "618,25"
+   "PREÇO": "703,60"
  },
  {
    "ITEM": 100012173,
    "DESCRIÇÃO": "LÂMPADA LED BULBO 6W BIVOLT",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "14,22"
+   "PREÇO": "14,81"
  },
  {
    "ITEM": 100012174,
    "DESCRIÇÃO": "LÂMPADA LED BULBO 9,5W BIVOLT",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "18,79"
+   "PREÇO": "16,12"
  },
  {
    "ITEM": 100012175,
    "DESCRIÇÃO": "LÂMPADA LED BULBO 13,5W BIVOLT",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "23,88"
+   "PREÇO": "23,55"
  },
  {
    "ITEM": 100001322,
    "DESCRIÇÃO": "LIGAÇÕES DOMICILIARES DE ÁGUA - ASSENTAMENTO DE TUBULAÇÃO - PE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "34,37"
+   "PREÇO": "34,18"
  },
  {
    "ITEM": 100001323,
    "DESCRIÇÃO": "LIGAÇÕES DOMICILIARES DE ÁGUA - INTERLIGAÇÃO DO RAMAL DE ÁGUA À REDE PÚBLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "48,96"
+   "PREÇO": "49,00"
  },
  {
    "ITEM": 100001324,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - CONEXÃO POSTERIOR - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "232,11"
+   "PREÇO": "235,72"
  },
  {
    "ITEM": 100001326,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO EIXO, COMPLETA - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "312,79"
+   "PREÇO": "310,90"
  },
  {
    "ITEM": 100001328,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO EIXO, SEM CONEXÃO - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "303,77"
+   "PREÇO": "301,88"
  },
  {
    "ITEM": 100001330,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO PASSEIO OPOSTO, COMPLETA - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "511,71"
+   "PREÇO": "507,97"
  },
  {
    "ITEM": 100001332,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO PASSEIO OPOSTO, SEM CONEXÃO - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "502,68"
+   "PREÇO": "498,94"
  },
  {
    "ITEM": 100001335,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO PASSEIO, COMPLETA - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "157,89"
+   "PREÇO": "157,24"
  },
  {
    "ITEM": 100001336,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO PASSEIO, SEM CONEXÃO - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "148,84"
+   "PREÇO": "148,19"
  },
  {
    "ITEM": 100001338,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO TERÇO OPOSTO, COMPLETA - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "397,09"
+   "PREÇO": "394,50"
  },
  {
    "ITEM": 100001340,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO TERÇO OPOSTO, SEM CONEXÃO - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "388,08"
+   "PREÇO": "385,48"
  },
  {
    "ITEM": 100001342,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO TERÇO, COMPLETA - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "228,99"
+   "PREÇO": "227,78"
  },
  {
    "ITEM": 100001344,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO TERÇO, SEM CONEXÃO - DIÂMETRO 100 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "219,97"
+   "PREÇO": "218,75"
  },
  {
    "ITEM": 100001346,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - CONEXÃO POSTERIOR - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "235,87"
+   "PREÇO": "239,48"
  },
  {
    "ITEM": 100001348,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO EIXO, COMPLETA - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "333,06"
+   "PREÇO": "330,98"
  },
  {
    "ITEM": 100001350,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO EIXO, SEM CONEXÃO - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "329,65"
+   "PREÇO": "327,58"
  },
  {
    "ITEM": 100001352,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO PASSEIO OPOSTO, COMPLETA - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "545,93"
+   "PREÇO": "541,77"
  },
  {
    "ITEM": 100001354,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO PASSEIO OPOSTO, SEM CONEXÃO - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "536,90"
+   "PREÇO": "532,74"
  },
  {
    "ITEM": 100001356,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO PASSEIO, COMPLETA - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "180,38"
+   "PREÇO": "179,69"
  },
  {
    "ITEM": 100001358,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO PASSEIO, SEM CONEXÃO - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "171,34"
+   "PREÇO": "170,65"
  },
  {
    "ITEM": 100001360,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO TERÇO OPOSTO, COMPLETA - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "421,89"
+   "PREÇO": "419,02"
  },
  {
    "ITEM": 100001362,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO TERÇO OPOSTO, SEM CONEXÃO - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "412,83"
+   "PREÇO": "409,96"
  },
  {
    "ITEM": 100001364,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO TERÇO, COMPLETA - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "244,81"
+   "PREÇO": "243,48"
  },
  {
    "ITEM": 100001366,
    "DESCRIÇÃO": "LIGAÇÃO DOMICILIAR DE ESGOTO - NO TERÇO, SEM CONEXÃO - DIÂMETRO 150 MM - PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "235,75"
+   "PREÇO": "234,42"
  },
  {
    "ITEM": 100001368,
    "DESCRIÇÃO": "CARGA, TRANSPORTE ATÉ 10 KM E DESCARGA DE TUBOS E PEÇAS DE PE PARA LIGAÇÕES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "222,31"
+   "PREÇO": "220,70"
  },
  {
    "ITEM": 100001369,
    "DESCRIÇÃO": "TRANSPORTE EXCEDENTE A 10 KM DE TUBOS E PEÇAS DE PE PARA LIGAÇÕES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "QMQ",
-   "PREÇO": "6,40"
+   "PREÇO": "6,36"
  },
  {
    "ITEM": 100001840,
    "DESCRIÇÃO": "MONTAGEM DE COCHO DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "415,99"
+   "PREÇO": "415,63"
  },
  {
    "ITEM": 100001843,
    "DESCRIÇÃO": "INSTALAÇÃO DE AGITADOR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "180,66"
  },
  {
    "ITEM": 100001844,
    "DESCRIÇÃO": "INSTALAÇÃO DE ANTEPARO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "348,25"
  },
  {
    "ITEM": 100001845,
    "DESCRIÇÃO": "INSTALAÇÃO DE BOMBA DOSADORA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "351,32"
  },
  {
    "ITEM": 100001846,
    "DESCRIÇÃO": "INSTALAÇÃO DE CESTO METÁLICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.846,77"
+   "PREÇO": "3.847,42"
  },
  {
    "ITEM": 100001847,
    "DESCRIÇÃO": "INSTALAÇÃO DE CORRENTE DE FERRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "40,84"
+   "PREÇO": "40,86"
  },
  {
    "ITEM": 100001851,
    "DESCRIÇÃO": "MONTAGEM DE ALAVANCA DE MANOBRA VÁLVULA BORBOLETA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.006,48"
+   "PREÇO": "5.010,59"
  },
  {
    "ITEM": 100001852,
    "DESCRIÇÃO": "MONTAGEM DE CHICANAS DO FLOCULADOR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "611,38"
+   "PREÇO": "610,16"
  },
  {
    "ITEM": 100001853,
    "DESCRIÇÃO": "MONTAGEM DE CORTINA DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "689,40"
+   "PREÇO": "688,17"
  },
  {
    "ITEM": 100001854,
    "DESCRIÇÃO": "MONTAGEM DE DISPOSITIVO BASCULANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "389,47"
+   "PREÇO": "391,58"
  },
  {
    "ITEM": 100001855,
    "DESCRIÇÃO": "MONTAGEM DE DISPOSITIVO DE COLETA DE ÁGUA DECANTADA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "277,86"
+   "PREÇO": "277,93"
  },
  {
    "ITEM": 100001858,
    "DESCRIÇÃO": "MONTAGEM DE SARILHO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.183,41"
+   "PREÇO": "3.189,53"
  },
  {
    "ITEM": 100001861,
    "DESCRIÇÃO": "ASSENTAMENTO DE BLOCOS LEOPOLD DO LEITO FILTRANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "161,88"
+   "PREÇO": "160,78"
  },
  {
    "ITEM": 100001862,
    "DESCRIÇÃO": "COLOCAÇÃO DE ANTRACITO NOS FILTROS DO LEITO FILTRANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "159,63"
  },
  {
    "ITEM": 100001863,
    "DESCRIÇÃO": "COLOCAÇÃO DE AREIA NOS FILTROS DO LEITO FILTRANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "159,63"
  },
  {
    "ITEM": 100001864,
    "DESCRIÇÃO": "COLOCAÇÃO DE LONA PLÁSTICA DO LEITO FILTRANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "36,26"
  },
  {
    "ITEM": 100001865,
    "DESCRIÇÃO": "COLOCAÇÃO DE PEDREGULHO NOS FILTROS DO LEITO FILTRANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "174,81"
  },
  {
    "ITEM": 100001866,
    "DESCRIÇÃO": "COLOCAÇÃO E APILOAMENTO DE TERRA NO FILTRO DO LEITO FILTRANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "159,63"
  },
  {
    "ITEM": 100001867,
    "DESCRIÇÃO": "FORNECIMENTO E ENCHIMENTO DO FILTRO COM BRITA Nº 4 NO LEITO FILTRANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "355,78"
+   "PREÇO": "405,06"
  },
  {
    "ITEM": 100002646,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE AÇO CARBONO COM PONTA SOLDADA E FLANGE - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "8,04"
  },
  {
    "ITEM": 100002647,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE AÇO CARBONO PONTAS SOLDADAS - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "11,82"
+   "PREÇO": "11,81"
  },
  {
    "ITEM": 100002648,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE AÇO GALVANIZADO DN 1 1/4\" ATÉ 2 POL - MONTAGEM APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "37,47"
+   "PREÇO": "37,49"
  },
  {
    "ITEM": 100002649,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE AÇO GALVANIZADO DN 2 1/2\" ATÉ 4 POL - MONTAGEM APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "75,02"
+   "PREÇO": "75,10"
  },
  {
    "ITEM": 100002650,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE AÇO GALVANIZADO DN ATÉ 1 POL - MONTAGEM APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "25,38"
+   "PREÇO": "25,41"
  },
  {
    "ITEM": 100002651,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE AÇO INOX COM PONTA SOLDADA E FLANGE - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "10,00"
+   "PREÇO": "9,96"
  },
  {
    "ITEM": 100002652,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE AÇO INOX PONTAS SOLDADAS - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "12,85"
+   "PREÇO": "12,81"
  },
  {
    "ITEM": 100002653,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE PVC DN 60MM ATÉ 110MM - MONTAGEM APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "40,37"
  },
  {
    "ITEM": 100002654,
    "DESCRIÇÃO": "TUBOS E CONEXÕES DE PVC DN ATÉ 50MM - MONTAGEM APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "31,23"
  },
  {
    "ITEM": 100002655,
    "DESCRIÇÃO": "TUBOS E CONEXÕES METÁLICOS FLANGEADOS - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "3,28"
+   "PREÇO": "3,29"
  },
  {
    "ITEM": 100002656,
    "DESCRIÇÃO": "TUBOS E CONEXÕES PEAD (COMPRESSÃO) DN 63MM ATÉ 110MM - MONTAGEM APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "29,45"
  },
  {
    "ITEM": 100002657,
    "DESCRIÇÃO": "TUBOS E CONEXÕES PEAD (COMPRESSÃO) DN ATÉ 50MM - MONTAGEM APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "22,98"
  },
  {
    "ITEM": 100002658,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA ALVENIUS ATÉ DN 200MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "307,69"
+   "PREÇO": "308,54"
  },
  {
    "ITEM": 100002659,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA ALVENIUS DN 250 MM ATÉ DN 400MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "461,64"
+   "PREÇO": "462,35"
  },
  {
    "ITEM": 100002660,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA ALVENIUS DN 450 MM ATÉ DN 600MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "807,40"
+   "PREÇO": "808,64"
  },
  {
    "ITEM": 100002661,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA ALVENIUS DN 700 MM ATÉ DN 800MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "998,50"
+   "PREÇO": "999,95"
  },
  {
    "ITEM": 100002662,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA ALVENIUS DN 900 MM ATÉ DN 1200MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.576,56"
+   "PREÇO": "1.578,73"
  },
  {
    "ITEM": 100002663,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA DRESSER ATÉ DN 200MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "596,99"
+   "PREÇO": "595,01"
  },
  {
    "ITEM": 100002664,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA DRESSER DN 250MM ATÉ DN 400MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "862,67"
+   "PREÇO": "859,70"
  },
  {
    "ITEM": 100002665,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA DRESSER DN 450MM ATÉ DN 600MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.262,67"
+   "PREÇO": "1.262,18"
  },
  {
    "ITEM": 100002666,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA DRESSER DN 700 MM ATÉ DN 800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.670,22"
+   "PREÇO": "1.670,58"
  },
  {
    "ITEM": 100002667,
    "DESCRIÇÃO": "ACOPLAMENTO/JUNTA DRESSER DN 900 MM ATÉ DN 1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.064,00"
+   "PREÇO": "3.063,58"
  },
  {
    "ITEM": 100002668,
    "DESCRIÇÃO": "JUNTA DESMONTAGEM TRAVADA AXIALMENTE ATÉ DN 200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "252,44"
+   "PREÇO": "252,72"
  },
  {
    "ITEM": 100002669,
    "DESCRIÇÃO": "JUNTA DESMONTAGEM TRAVADA AXIALMENTE DN 250 MM ATÉ DN 400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "460,40"
+   "PREÇO": "460,81"
  },
  {
    "ITEM": 100002670,
    "DESCRIÇÃO": "JUNTA DESMONTAGEM TRAVADA AXIALMENTE DN 450 MM ATÉ DN 600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "815,54"
+   "PREÇO": "816,23"
  },
  {
    "ITEM": 100002671,
    "DESCRIÇÃO": "JUNTA DESMONTAGEM TRAVADA AXIALMENTE DN 700 MM ATÉ DN 800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.484,60"
+   "PREÇO": "1.486,14"
  },
  {
    "ITEM": 100002672,
    "DESCRIÇÃO": "JUNTA DESMONTAGEM TRAVADA AXIALMENTE DN 900 MM ATÉ DN 1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.163,20"
+   "PREÇO": "3.166,59"
  },
  {
    "ITEM": 100002673,
    "DESCRIÇÃO": "JUNTA GIBAULT ATÉ DN 300 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "277,29"
+   "PREÇO": "277,86"
  },
  {
    "ITEM": 100002674,
    "DESCRIÇÃO": "JUNTA GIBAULT DN 350 MM ATÉ DN 600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "613,75"
+   "PREÇO": "614,99"
  },
  {
    "ITEM": 100002675,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) ATÉ DN200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "735,97"
+   "PREÇO": "736,58"
  },
  {
    "ITEM": 100002676,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) DN250 MM ATÉ DN400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.849,42"
+   "PREÇO": "1.851,30"
  },
  {
    "ITEM": 100002677,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) DN450 MM ATÉ DN600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.177,51"
+   "PREÇO": "3.180,42"
  },
  {
    "ITEM": 100002678,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) DN700 MM ATÉ DN800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.358,85"
+   "PREÇO": "5.364,86"
  },
  {
    "ITEM": 100002679,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) DN900 MM ATÉ DN1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10.453,67"
+   "PREÇO": "10.464,45"
  },
  {
    "ITEM": 100002680,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO ATÉ DN200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "566,04"
+   "PREÇO": "566,66"
  },
  {
    "ITEM": 100002681,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO DN250 MM ATÉ DN400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.438,28"
+   "PREÇO": "1.440,19"
  },
  {
    "ITEM": 100002682,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO DN450 MM ATÉ DN600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.471,92"
+   "PREÇO": "2.474,88"
  },
  {
    "ITEM": 100002683,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO DN700 MM ATÉ DN800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.234,20"
+   "PREÇO": "4.240,32"
  },
  {
    "ITEM": 100002684,
    "DESCRIÇÃO": "VÁLVULA BORBOLETA FERRO FUNDIDO DN900 MM ATÉ DN1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.237,77"
+   "PREÇO": "8.248,77"
  },
  {
    "ITEM": 100002685,
    "DESCRIÇÃO": "VÁLVULA FERRO FUNDIDO ADUFA OU FLAP ATÉ DN 200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "266,80"
+   "PREÇO": "267,47"
  },
  {
    "ITEM": 100002686,
    "DESCRIÇÃO": "VÁLVULA FERRO FUNDIDO ADUFA OU FLAP DN 250 MM ATÉ DN 400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "756,44"
+   "PREÇO": "758,48"
  },
  {
    "ITEM": 100002687,
    "DESCRIÇÃO": "VÁLVULA FERRO FUNDIDO ADUFA OU FLAP DN 450 MM ATÉ DN 600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.398,96"
+   "PREÇO": "1.402,29"
  },
  {
    "ITEM": 100002688,
    "DESCRIÇÃO": "VÁLVULA FERRO FUNDIDO ADUFA OU FLAP DN 700 MM ATÉ DN 800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.502,59"
+   "PREÇO": "2.509,21"
  },
  {
    "ITEM": 100002689,
    "DESCRIÇÃO": "VÁLVULA FERRO FUNDIDO ADUFA OU FLAP DN 900 MM ATÉ DN 1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.648,65"
+   "PREÇO": "4.660,98"
  },
  {
    "ITEM": 100002690,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) ATÉ DN200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "753,32"
+   "PREÇO": "753,92"
  },
  {
    "ITEM": 100002691,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) DN250 MM ATÉ DN400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.737,05"
+   "PREÇO": "1.737,95"
  },
  {
    "ITEM": 100002692,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) DN450 MM ATÉ DN600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.293,32"
+   "PREÇO": "3.295,53"
  },
  {
    "ITEM": 100002693,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) DN700 MM ATÉ DN800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.073,45"
+   "PREÇO": "6.078,20"
  },
  {
    "ITEM": 100002694,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO (ELÉTRICO OU PNEUMÁTICO) DN900 MM ATÉ DN1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.860,49"
+   "PREÇO": "12.867,03"
  },
  {
    "ITEM": 100002695,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO ATÉ DN200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "579,38"
+   "PREÇO": "579,98"
  },
  {
    "ITEM": 100002696,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO DN250 MM ATÉ DN400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.410,09"
+   "PREÇO": "1.411,05"
  },
  {
    "ITEM": 100002697,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO DN450 MM ATÉ DN600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.716,81"
+   "PREÇO": "2.719,19"
  },
  {
    "ITEM": 100002698,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO DN700 MM ATÉ DN800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.031,88"
+   "PREÇO": "5.036,92"
  },
  {
    "ITEM": 100002699,
    "DESCRIÇÃO": "VÁLVULA GAVETA FERRO FUNDIDO DN900 MM ATÉ DN1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10.768,13"
+   "PREÇO": "10.775,68"
  },
  {
    "ITEM": 100002700,
    "DESCRIÇÃO": "VÁLVULA RETENÇÃO FERRO FUNDIDO ATÉ DN 200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "566,71"
+   "PREÇO": "567,31"
  },
  {
    "ITEM": 100002701,
    "DESCRIÇÃO": "VÁLVULA RETENÇÃO FERRO FUNDIDO DN 250 MM ATÉ DN 400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.489,14"
+   "PREÇO": "1.490,68"
  },
  {
    "ITEM": 100002702,
    "DESCRIÇÃO": "VÁLVULA RETENÇÃO FERRO FUNDIDO DN 450 MM ATÉ DN 600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.606,75"
+   "PREÇO": "2.608,69"
  },
  {
    "ITEM": 100002703,
    "DESCRIÇÃO": "VÁLVULA RETENÇÃO FERRO FUNDIDO DN 700 MM ATÉ DN 800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.463,45"
+   "PREÇO": "4.467,84"
  },
  {
    "ITEM": 100002704,
    "DESCRIÇÃO": "VÁLVULA RETENÇÃO FERRO FUNDIDO DN 900 MM ATÉ DN 1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.520,26"
+   "PREÇO": "8.528,97"
  },
  {
    "ITEM": 100002705,
    "DESCRIÇÃO": "VÁLVULA VENTOSA FERRO FUNDIDO ATÉ DN 50 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "78,59"
+   "PREÇO": "78,57"
  },
  {
    "ITEM": 100002706,
    "DESCRIÇÃO": "VÁLVULA VENTOSA FERRO FUNDIDO DN 60 MM ATÉ DN 200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "456,77"
+   "PREÇO": "457,64"
  },
  {
    "ITEM": 100002707,
    "DESCRIÇÃO": "COMPORTA EM AÇO CARBONO OU INOX - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "5.520,71"
+   "PREÇO": "5.532,00"
  },
  {
    "ITEM": 100002708,
    "DESCRIÇÃO": "COMPORTA EM FIBRA DE VIDRO - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "3.179,79"
+   "PREÇO": "3.187,57"
  },
  {
    "ITEM": 100002709,
    "DESCRIÇÃO": "COMPORTA FERRO FUNDIDO CIRCULAR OU QUADRADA ATÉ DN 200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.969,96"
+   "PREÇO": "1.974,31"
  },
  {
    "ITEM": 100002710,
    "DESCRIÇÃO": "COMPORTA FERRO FUNDIDO CIRCULAR OU QUADRADA DN 250 MM ATÉ DN 400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.914,66"
+   "PREÇO": "3.922,40"
  },
  {
    "ITEM": 100002711,
    "DESCRIÇÃO": "COMPORTA FERRO FUNDIDO CIRCULAR OU QUADRADA DN 450 MM ATÉ DN 600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.892,66"
+   "PREÇO": "5.904,13"
  },
  {
    "ITEM": 100002712,
    "DESCRIÇÃO": "COMPORTA FERRO FUNDIDO CIRCULAR OU QUADRADA DN 700 MM ATÉ DN 800 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.917,15"
+   "PREÇO": "7.931,96"
  },
  {
    "ITEM": 100002713,
    "DESCRIÇÃO": "COMPORTA FERRO FUNDIDO CIRCULAR OU QUADRADA DN 900 MM ATÉ DN 1200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11.283,76"
+   "PREÇO": "11.301,59"
  },
  {
    "ITEM": 100002714,
    "DESCRIÇÃO": "HASTE DE PROLONGAMENTO - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "44,98"
+   "PREÇO": "44,94"
  },
  {
    "ITEM": 100002715,
    "DESCRIÇÃO": "MANCAL INTERMEDIÁRIO - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "134,95"
+   "PREÇO": "135,08"
  },
  {
    "ITEM": 100002716,
    "DESCRIÇÃO": "PEDESTAL DE MANOBRA OU SUSPENSÃO ACIONAMENTO ELÉTRICO - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.935,99"
+   "PREÇO": "1.939,02"
  },
  {
    "ITEM": 100002717,
    "DESCRIÇÃO": "PEDESTAL DE MANOBRA OU SUSPENSÃO ACIONAMENTO MANUAL - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.425,43"
+   "PREÇO": "1.428,48"
  },
  {
    "ITEM": 100002718,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA CENTRÍFUGA 101 CV ATÉ 200 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "22.017,98"
+   "PREÇO": "22.020,88"
  },
  {
    "ITEM": 100002719,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA CENTRÍFUGA 16 CV ATÉ 50 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "10.101,57"
+   "PREÇO": "10.101,39"
  },
  {
    "ITEM": 100002720,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA CENTRÍFUGA 201 CV ATÉ 500 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "35.796,36"
+   "PREÇO": "35.726,64"
  },
  {
    "ITEM": 100002721,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA CENTRÍFUGA 501 ATÉ 1000 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "41.305,22"
+   "PREÇO": "41.322,39"
  },
  {
    "ITEM": 100002722,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA CENTRÍFUGA 51 CV ATÉ 100 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "15.426,34"
+   "PREÇO": "15.427,59"
  },
  {
    "ITEM": 100002724,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA HELICOIDAL 11 CV ATÉ 30 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "5.237,55"
+   "PREÇO": "5.237,42"
  },
  {
    "ITEM": 100002725,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA HELICOIDAL 31 CV ATÉ 50 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "7.231,37"
+   "PREÇO": "7.231,19"
  },
  {
    "ITEM": 100002726,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA HELICOIDAL ATÉ 10 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "2.523,49"
+   "PREÇO": "2.524,65"
  },
  {
    "ITEM": 100002727,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA PARAFUSO ATÉ DN 50 CM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "9.325,41"
+   "PREÇO": "9.330,37"
  },
  {
    "ITEM": 100002728,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA PARAFUSO DN 101CM ATÉ DN 150 CM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "20.293,08"
+   "PREÇO": "20.222,61"
  },
  {
    "ITEM": 100002729,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA PARAFUSO DN 51 CM ATÉ DN 100 CM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "13.681,09"
+   "PREÇO": "13.691,25"
  },
  {
    "ITEM": 100002730,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA SUBMERSA (PARA POÇO) 16 ATÉ 30 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "5.472,90"
+   "PREÇO": "5.473,04"
  },
  {
    "ITEM": 100002731,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA SUBMERSA (PARA POÇO) 31 ATÉ 60 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "8.131,01"
+   "PREÇO": "8.130,21"
  },
  {
    "ITEM": 100002732,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA SUBMERSA (PARA POÇO) 61 ATÉ 100 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "10.271,21"
+   "PREÇO": "10.268,92"
  },
  {
    "ITEM": 100002733,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA SUBMERSA (PARA POÇO) ATÉ 15 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "3.830,40"
+   "PREÇO": "3.830,50"
  },
  {
    "ITEM": 100002734,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA SUBMERSÍVEL 16 ATÉ 50 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "7.454,49"
+   "PREÇO": "7.447,05"
  },
  {
    "ITEM": 100002735,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA SUBMERSÍVEL 51 ATÉ 100 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "10.345,86"
+   "PREÇO": "10.338,66"
  },
  {
    "ITEM": 100002736,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA SUBMERSÍVEL 6 ATÉ 15 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "4.539,49"
+   "PREÇO": "4.535,63"
  },
  {
    "ITEM": 100002737,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA SUBMERSÍVEL ATÉ 5 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "3.266,93"
+   "PREÇO": "3.263,50"
  },
  {
    "ITEM": 100002738,
    "DESCRIÇÃO": "COMPRESSOR / SOPRADOR 31 CV ATÉ 60 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "6.466,31"
+   "PREÇO": "6.468,38"
  },
  {
    "ITEM": 100002739,
    "DESCRIÇÃO": "COMPRESSOR / SOPRADOR 61 CV ATÉ 100 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "8.005,41"
+   "PREÇO": "8.008,26"
  },
  {
    "ITEM": 100002740,
    "DESCRIÇÃO": "COMPRESSOR / SOPRADOR ATÉ 30CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "4.946,42"
+   "PREÇO": "4.947,69"
  },
  {
    "ITEM": 100002741,
    "DESCRIÇÃO": "SISTEMA DE AERAÇÃO POR DIFUSÃO - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "105,70"
+   "PREÇO": "105,82"
  },
  {
    "ITEM": 100002742,
    "DESCRIÇÃO": "CAMINHO DE ROLAMENTO PARA PONTE ROLANTE MOTORIZADA - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "672,95"
+   "PREÇO": "677,22"
  },
  {
    "ITEM": 100002743,
    "DESCRIÇÃO": "GUINDASTE DE COLUNA/BRAÇO GIRATÓRIO ATÉ 3T (SEM TALHA E TROLE) - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.489,27"
+   "PREÇO": "2.494,05"
  },
  {
    "ITEM": 100002744,
    "DESCRIÇÃO": "MONOVIA METÁLICA PARA TALHA E TROLE (CAP. ATÉ 3T) - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "205,11"
+   "PREÇO": "205,85"
  },
  {
    "ITEM": 100002745,
    "DESCRIÇÃO": "PONTE ROLANTE MOTORIZADA (CAP. ATÉ 10T) - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7.541,20"
+   "PREÇO": "7.604,92"
  },
  {
    "ITEM": 100002746,
    "DESCRIÇÃO": "TALHA E TROLE COM ACIONAMENTO ELÉTRICO (CAP. ATÉ 3T) - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.225,23"
+   "PREÇO": "1.218,39"
  },
  {
    "ITEM": 100002747,
    "DESCRIÇÃO": "TALHA E TROLE COM ACIONAMENTO MANUAL (CAP. ATÉ 3T) - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.107,20"
+   "PREÇO": "1.100,36"
  },
  {
    "ITEM": 100002748,
    "DESCRIÇÃO": "CALHA PARSHALL EM FIBRA DE VIDRO W 18\" ATÉ 24\" - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.918,40"
+   "PREÇO": "1.917,88"
  },
  {
    "ITEM": 100002749,
    "DESCRIÇÃO": "CALHA PARSHALL EM FIBRA DE VIDRO W 36\" ATÉ 48\" - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.481,16"
+   "PREÇO": "2.480,06"
  },
  {
    "ITEM": 100002750,
    "DESCRIÇÃO": "CALHA PARSHALL EM FIBRA DE VIDRO W 60\" ATÉ 72\" - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.267,02"
+   "PREÇO": "3.264,44"
  },
  {
    "ITEM": 100002751,
    "DESCRIÇÃO": "CALHA PARSHALL EM FIBRA DE VIDRO W 84\" ATÉ 96\" - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4.167,27"
+   "PREÇO": "4.163,10"
  },
  {
    "ITEM": 100002752,
    "DESCRIÇÃO": "CALHA PARSHALL EM FIBRA DE VIDRO W 9\" ATÉ 12\" - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.356,56"
+   "PREÇO": "1.356,43"
  },
  {
    "ITEM": 100002753,
    "DESCRIÇÃO": "CALHA PARSHALL EM FIBRA DE VIDRO W ATÉ 6\" - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "751,74"
+   "PREÇO": "751,81"
  },
  {
    "ITEM": 100002755,
    "DESCRIÇÃO": "STOP-LOG - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "519,31"
+   "PREÇO": "516,90"
  },
  {
    "ITEM": 100002756,
    "DESCRIÇÃO": "VERTEDOR - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "279,74"
+   "PREÇO": "278,84"
  },
  {
    "ITEM": 100010180,
    "DESCRIÇÃO": "FORNECIMENTO E INSTALAÇÃO DE CESTO METÁLICO EM ESTAÇÃO ELEVATÓRIA (FORN E INST CESTO METÁLICO)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9.664,56"
+   "PREÇO": "9.663,65"
  },
  {
    "ITEM": 100010997,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA CENTRÍFUGA ATÉ 5 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "1.934,81"
+   "PREÇO": "1.934,83"
  },
  {
    "ITEM": 100010998,
    "DESCRIÇÃO": "CONJUNTO MOTO-BOMBA CENTRÍFUGA 6 CV ATÉ 15 CV - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "CJ",
-   "PREÇO": "4.002,85"
+   "PREÇO": "4.004,14"
  },
  {
    "ITEM": 100010999,
    "DESCRIÇÃO": "VÁLVULA GUILHOTINA METÁLICA ATÉ DN200 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "272,13"
+   "PREÇO": "272,42"
  },
  {
    "ITEM": 100011000,
    "DESCRIÇÃO": "VÁLVULA GUILHOTINA METÁLICA DN250 ATÉ DN400 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "583,50"
+   "PREÇO": "583,91"
  },
  {
    "ITEM": 100011001,
    "DESCRIÇÃO": "VÁLVULA GUILHOTINA METÁLICA DN450 ATÉ DN600 MM - MONTAGEM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "733,11"
+   "PREÇO": "733,75"
  },
  {
    "ITEM": 100012125,
    "DESCRIÇÃO": "INSTALAÇÃO DE GRUPO GERADOR DE ENERGIA TRIFÁSICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5.933,35"
+   "PREÇO": "5.951,16"
  },
  {
    "ITEM": 100012126,
    "DESCRIÇÃO": "INSTALAÇÃO DE TRANSMISSOR DE PRESSÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "308,66"
+   "PREÇO": "308,71"
  },
  {
    "ITEM": 100012127,
    "DESCRIÇÃO": "INSTALAÇÃO DE TRANSMISSOR DE NÍVEL TIPO RADAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "308,66"
+   "PREÇO": "308,71"
  },
  {
    "ITEM": 100012128,
    "DESCRIÇÃO": "INSTALAÇÃO DE TRANSMISSOR DE NÍVEL TIPO HIDROSTÁTICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "308,66"
+   "PREÇO": "308,71"
  },
  {
    "ITEM": 100012194,
    "DESCRIÇÃO": "PC-2CF - MONTAGEM E/OU INSTALAÇÃO DE PAINEL ELÉTRICO QUADRO COMPACTO EM CAIXA DE ATÉ 1200MM PARA PARTIDAS COM DOIS CONVERSORES DE FREQUÊNCIA (PARA 2 MOTORES DE 3CV A 15CV) DE 220V",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "6.113,31"
+   "PREÇO": "6.147,43"
  },
  {
    "ITEM": 100012202,
    "DESCRIÇÃO": "PC-2CF - MONTAGEM E/OU INSTALAÇÃO DE PAINEL ELÉTRICO QUADRO COMPACTO EM ARMÁRIO DE ATÉ 2300MM PARA PARTIDAS COM DOIS CONVERSORES DE FREQUÊNCIA (PARA 2 MOTORES DE 20CV A 30CV) DE 220V",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.834,02"
+   "PREÇO": "8.891,21"
  },
  {
    "ITEM": 100012203,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAçãO PVC 750V - #1,5 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1,78"
+   "PREÇO": "1,94"
  },
  {
    "ITEM": 100012204,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #2,5 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2,62"
+   "PREÇO": "3,13"
  },
  {
    "ITEM": 100012205,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #4,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4,69"
+   "PREÇO": "5,52"
  },
  {
    "ITEM": 100012206,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #6,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6,31"
+   "PREÇO": "7,64"
  },
  {
    "ITEM": 100012207,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #10,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,93"
+   "PREÇO": "14,21"
  },
  {
    "ITEM": 100012208,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #16,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "17,33"
+   "PREÇO": "22,51"
  },
  {
    "ITEM": 100012209,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #25,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "27,20"
+   "PREÇO": "34,09"
  },
  {
    "ITEM": 100012210,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #35,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "40,07"
+   "PREÇO": "51,64"
  },
  {
    "ITEM": 100012211,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #50,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "55,49"
+   "PREÇO": "61,33"
  },
  {
    "ITEM": 100012212,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #70,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "78,35"
+   "PREÇO": "92,96"
  },
  {
    "ITEM": 100012213,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #95,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "103,72"
+   "PREÇO": "122,47"
  },
  {
    "ITEM": 100012214,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #120,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "124,94"
+   "PREÇO": "155,88"
  },
  {
    "ITEM": 100012215,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #150,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "155,18"
+   "PREÇO": "197,54"
  },
  {
    "ITEM": 100012216,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #185,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "188,05"
+   "PREÇO": "238,24"
  },
  {
    "ITEM": 100012217,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO PVC 750V - #240,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "250,33"
+   "PREÇO": "301,92"
  },
  {
    "ITEM": 100012218,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #1,5 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2,36"
+   "PREÇO": "2,42"
  },
  {
    "ITEM": 100012219,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #2,5 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2,90"
+   "PREÇO": "3,46"
  },
  {
    "ITEM": 100012220,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #4,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4,31"
+   "PREÇO": "4,46"
  },
  {
    "ITEM": 100012221,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #6,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8,33"
+   "PREÇO": "10,33"
  },
  {
    "ITEM": 100012222,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #10,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "14,11"
+   "PREÇO": "17,52"
  },
  {
    "ITEM": 100012223,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #16,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "23,32"
+   "PREÇO": "24,12"
  },
  {
    "ITEM": 100012224,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #25,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "34,39"
+   "PREÇO": "40,24"
  },
  {
    "ITEM": 100012225,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #35,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "48,04"
+   "PREÇO": "57,10"
  },
  {
    "ITEM": 100012226,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #50,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "69,11"
+   "PREÇO": "79,94"
  },
  {
    "ITEM": 100012227,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #70,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "103,06"
+   "PREÇO": "113,44"
  },
  {
    "ITEM": 100012228,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #95,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "121,92"
+   "PREÇO": "155,65"
  },
  {
    "ITEM": 100012229,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #120,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "174,74"
+   "PREÇO": "190,32"
  },
  {
    "ITEM": 100012230,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #150,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "216,56"
+   "PREÇO": "235,43"
  },
  {
    "ITEM": 100012231,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #185,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "249,07"
+   "PREÇO": "293,24"
  },
  {
    "ITEM": 100012232,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #240,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "344,90"
+   "PREÇO": "380,09"
  },
  {
    "ITEM": 100012233,
    "DESCRIÇÃO": "FORNECIMENTO DE CABO DE COBRE ISOLAÇÃO EPR OU HEPR / COBERTURA PVC 0,6 / 1 KV - #300,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "368,77"
+   "PREÇO": "416,92"
  },
  {
    "ITEM": 100012234,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 3/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "22,42"
+   "PREÇO": "20,46"
  },
  {
    "ITEM": 100012235,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 1\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "27,19"
+   "PREÇO": "27,54"
  },
  {
    "ITEM": 100012236,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 1.1/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "35,81"
+   "PREÇO": "35,74"
  },
  {
    "ITEM": 100012237,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 1.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "42,41"
+   "PREÇO": "45,50"
  },
  {
    "ITEM": 100012238,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "58,60"
+   "PREÇO": "61,57"
  },
  {
    "ITEM": 100012239,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 2.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "97,30"
+   "PREÇO": "76,09"
  },
  {
    "ITEM": 100012240,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 3\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "100,86"
+   "PREÇO": "95,60"
  },
  {
    "ITEM": 100012241,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "145,01"
+   "PREÇO": "135,10"
  },
  {
    "ITEM": 100012242,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RIGIDO ROSCÁVEL DE PVC - DIÂM. 1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4,98"
+   "PREÇO": "4,49"
  },
  {
    "ITEM": 100012243,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RIGIDO ROSCÁVEL DE PVC - DIÂM. 3/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5,80"
+   "PREÇO": "5,92"
  },
  {
    "ITEM": 100012244,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 1\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8,52"
+   "PREÇO": "8,68"
  },
  {
    "ITEM": 100012245,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 1.1/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,58"
+   "PREÇO": "13,06"
  },
  {
    "ITEM": 100012246,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 1.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "11,50"
+   "PREÇO": "13,96"
  },
  {
    "ITEM": 100012247,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "17,08"
+   "PREÇO": "18,46"
  },
  {
    "ITEM": 100012248,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 2.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "27,98"
+   "PREÇO": "30,50"
  },
  {
    "ITEM": 100012249,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 3\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "43,99"
+   "PREÇO": "46,98"
  },
  {
    "ITEM": 100012250,
    "DESCRIÇÃO": "FORNECIMENTO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "58,75"
+   "PREÇO": "67,07"
  },
  {
    "ITEM": 100012251,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #1,5 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2,27"
+   "PREÇO": "2,25"
  },
  {
    "ITEM": 100012252,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #2,5 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2,82"
+   "PREÇO": "2,80"
  },
  {
    "ITEM": 100012253,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #4,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3,76"
+   "PREÇO": "3,75"
  },
  {
    "ITEM": 100012254,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #6,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4,25"
+   "PREÇO": "4,24"
  },
  {
    "ITEM": 100012255,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #10,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4,56"
+   "PREÇO": "4,54"
  },
  {
    "ITEM": 100012256,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #16,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5,08"
+   "PREÇO": "5,07"
  },
  {
    "ITEM": 100012257,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #25,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5,77"
+   "PREÇO": "5,76"
  },
  {
    "ITEM": 100012258,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #35,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6,62"
+   "PREÇO": "6,60"
  },
  {
    "ITEM": 100012259,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #50,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "7,87"
+   "PREÇO": "7,86"
  },
  {
    "ITEM": 100012260,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #70,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "9,54"
+   "PREÇO": "9,52"
  },
  {
    "ITEM": 100012261,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #95,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "11,60"
+   "PREÇO": "11,58"
  },
  {
    "ITEM": 100012262,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #120,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "13,68"
+   "PREÇO": "13,67"
  },
  {
    "ITEM": 100012263,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #150,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "16,15"
+   "PREÇO": "16,14"
  },
  {
    "ITEM": 100012264,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #185,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "19,05"
+   "PREÇO": "19,03"
  },
  {
    "ITEM": 100012265,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #240,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "23,60"
+   "PREÇO": "23,59"
  },
  {
    "ITEM": 100012266,
    "DESCRIÇÃO": "INSTALAÇÃO DE CABO DE COBRE ISOLADO PARA BAIXA TENSÃO - #300,0 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "28,58"
+   "PREÇO": "28,57"
  },
  {
    "ITEM": 100012267,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 3/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "7,73"
  },
  {
    "ITEM": 100012268,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 1\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "9,78"
  },
  {
    "ITEM": 100012269,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 1.1/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "12,63"
  },
  {
    "ITEM": 100012270,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 1.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "15,91"
  },
  {
    "ITEM": 100012271,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "20,08"
  },
  {
    "ITEM": 100012272,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 2.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "24,19"
  },
  {
    "ITEM": 100012273,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 3\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "30,36"
  },
  {
    "ITEM": 100012274,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO DE AÇO GALVANIZADO PESADO - DIÂM. 4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "40,70"
  },
  {
    "ITEM": 100012275,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RIGIDO ROSCÁVEL DE PVC - DIÂM. 1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "9,82"
  },
  {
    "ITEM": 100012276,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RIGIDO ROSCÁVEL DE PVC - DIÂM. 3/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "11,14"
  },
  {
    "ITEM": 100012277,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 1\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "13,02"
  },
  {
    "ITEM": 100012278,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 1.1/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "15,18"
  },
  {
    "ITEM": 100012279,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 1.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "18,04"
  },
  {
    "ITEM": 100012280,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "20,75"
  },
  {
    "ITEM": 100012281,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 2.1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "24,82"
  },
  {
    "ITEM": 100012282,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 3\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "27,53"
  },
  {
    "ITEM": 100012283,
    "DESCRIÇÃO": "INSTALAÇÃO DE ELETRODUTO RÍGIDO ROSCÁVEL DE PVC - DIÂM. 4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "34,33"
  },
  {
    "ITEM": 100000040,
    "DESCRIÇÃO": "ESCAVAÇÃO EM JAZIDA DE SOLO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "15,51"
+   "PREÇO": "15,72"
  },
  {
    "ITEM": 100000041,
    "DESCRIÇÃO": "ESCAVAÇÃO EM ROCHA BRANDA OU MOLEDO A FRIO, EM ÁREAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "428,21"
+   "PREÇO": "430,05"
  },
  {
    "ITEM": 100000042,
    "DESCRIÇÃO": "ESCAVAÇÃO EM ROCHA BRANDA OU MOLEDO A FRIO, EM POÇOS E VALAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "513,87"
+   "PREÇO": "516,07"
  },
  {
    "ITEM": 100000045,
    "DESCRIÇÃO": "ESCAVAÇÃO EM ROCHA COMPACTA A FRIO COM ARGAMASSA EXPANSIVA, EM ÁREAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "799,99"
+   "PREÇO": "803,25"
  },
  {
    "ITEM": 100000046,
    "DESCRIÇÃO": "ESCAVAÇÃO EM ROCHA COMPACTA A FRIO COM ARGAMASSA EXPANSIVA, EM POÇOS E VALAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "890,83"
+   "PREÇO": "894,73"
  },
  {
    "ITEM": 100000048,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL EM ÁREA EM SOLO NÃO ROCHOSO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "58,98"
  },
  {
    "ITEM": 100000049,
    "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE ÁREA EM SOLO NÃO ROCHOSO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "5,09"
+   "PREÇO": "5,20"
  },
  {
    "ITEM": 100000050,
    "DESCRIÇÃO": "ESCAVAÇÃO SUBMERSA COM \"DRAG LINE\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "107,09"
+   "PREÇO": "107,01"
  },
  {
    "ITEM": 100000051,
    "DESCRIÇÃO": "RASPAGEM DA CAMADA SUPERFICIAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "2,24"
+   "PREÇO": "2,27"
  },
  {
    "ITEM": 100000055,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL DE VALAS, POÇOS E CAVAS EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "67,40"
  },
  {
    "ITEM": 100000056,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL DE VALAS, POÇOS E CAVAS EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "101,11"
  },
  {
    "ITEM": 100000057,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL DE VALAS, POÇOS E CAVAS EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "117,95"
  },
  {
    "ITEM": 100000058,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL DE VALAS, POÇOS E CAVAS EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "168,51"
  },
  {
    "ITEM": 100000059,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL DE VALAS, POÇOS E CAVAS EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "269,62"
  },
  {
    "ITEM": 100000060,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL, EM QUALQUER TERRENO EXCETO ROCHA, PARA EXECUÇÃO DE ESTAÇÃO ELEVATÓRIA EM ADUELAS SUCESSIVAS ATÉ 2,00 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "168,51"
  },
  {
    "ITEM": 100000061,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL, EM QUALQUER TERRENO EXCETO ROCHA, PARA EXECUÇÃO DE ESTAÇÃO ELEVATÓRIA EM ADUELAS SUCESSIVAS ALÉM DE 2,00 ATÉ 4,00 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "202,21"
  },
  {
    "ITEM": 100000062,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL, EM QUALQUER TERRENO EXCETO ROCHA, PARA EXECUÇÃO DE ESTAÇÃO ELEVATÓRIA EM ADUELAS SUCESSIVAS ALÉM DE 4,00 ATÉ 6,00 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "252,76"
  },
  {
    "ITEM": 100000063,
    "DESCRIÇÃO": "ESCAVAÇÃO MANUAL, EM QUALQUER TERRENO EXCETO ROCHA, PARA EXECUÇÃO DE ESTAÇÃO ELEVATÓRIA EM ADUELAS SUCESSIVAS ALÉM DE 6,00 ATÉ 8,00 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "337,02"
  },
  {
    "ITEM": 100000064,
    "DESCRIÇÃO": "ADICIONAL DE PREÇO PARA ESCAVAÇÃO MANUAL EM QUALQUER TERRENO, EXCETO ROCHA - PROFUNDIDADE ATÉ 1,25 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "56,33"
  },
  {
    "ITEM": 100000065,
    "DESCRIÇÃO": "ADICIONAL DE PREÇO PARA ESCAVAÇÃO MANUAL EM QUALQUER TERRENO, EXCETO ROCHA - PROFUNDIDADE ATÉ 1,25 M (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "46,96"
  },
  {
    "ITEM": 100000066,
    "DESCRIÇÃO": "ADICIONAL DE PREÇO PARA ESCAVAÇÃO MANUAL EM QUALQUER TERRENO, EXCETO ROCHA - PROFUNDIDADE ATÉ 1,25 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "37,57"
  },
  {
    "ITEM": 100000072,
    "DESCRIÇÃO": "ESCAVAÇÃO EM QUALQUER TERRENO, EXCETO ROCHA, PROFUNDIDADE DE 1,25 A 3,00 M (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "17,15"
+   "PREÇO": "17,40"
  },
  {
    "ITEM": 100000073,
    "DESCRIÇÃO": "ESCAVAÇÃO EM QUALQUER TERRENO, EXCETO ROCHA, PROFUNDIDADE DE 1,25 A 3,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "13,71"
- },
- {
-   "ITEM": 100000074,
-   "DESCRIÇÃO": "ESCAVAÇÃO EM QUALQUER TERRENO, EXCETO ROCHA, PROFUNDIDADE DE 1,25 A 3,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "8,56"
- },
- {
-   "ITEM": 100000103,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "12,66"
- },
- {
-   "ITEM": 100000104,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "10,12"
- },
- {
-   "ITEM": 100000105,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "6,34"
- },
- {
-   "ITEM": 100000106,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "14,14"
- },
- {
-   "ITEM": 100000107,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "11,30"
- },
- {
-   "ITEM": 100000108,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "7,07"
- },
- {
-   "ITEM": 100000109,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "15,62"
- },
- {
-   "ITEM": 100000110,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "12,49"
- },
- {
-   "ITEM": 100000111,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "7,81"
- },
- {
-   "ITEM": 100000112,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "18,57"
- },
- {
-   "ITEM": 100000113,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "14,85"
- },
- {
-   "ITEM": 100000114,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "9,28"
- },
- {
-   "ITEM": 100000115,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "30,39"
- },
- {
-   "ITEM": 100000116,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "24,31"
- },
- {
-   "ITEM": 100000117,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "15,19"
- },
- {
-   "ITEM": 100000118,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "42,20"
- },
- {
-   "ITEM": 100000119,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "33,75"
- },
- {
-   "ITEM": 100000120,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "21,09"
- },
- {
-   "ITEM": 100000125,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "18,96"
- },
- {
-   "ITEM": 100000126,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "15,17"
- },
- {
-   "ITEM": 100000127,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "9,47"
- },
- {
-   "ITEM": 100000128,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "21,17"
- },
- {
-   "ITEM": 100000129,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "16,93"
- },
- {
-   "ITEM": 100000130,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "10,60"
- },
- {
-   "ITEM": 100000131,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "23,39"
- },
- {
-   "ITEM": 100000132,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "18,71"
- },
- {
-   "ITEM": 100000133,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "11,69"
- },
- {
-   "ITEM": 100000134,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "27,81"
- },
- {
-   "ITEM": 100000135,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "22,25"
- },
- {
-   "ITEM": 100000136,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "13,90"
  },
  {
-   "ITEM": 100000137,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (A)",
-   "DATA I0": "jun/26",
+   "ITEM": 100000074,
+   "DESCRIÇÃO": "ESCAVAÇÃO EM QUALQUER TERRENO, EXCETO ROCHA, PROFUNDIDADE DE 1,25 A 3,00 M (C)",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "45,54"
+   "PREÇO": "8,68"
  },
  {
-   "ITEM": 100000138,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (B)",
-   "DATA I0": "jun/26",
+   "ITEM": 100000103,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (A)",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "36,43"
+   "PREÇO": "12,80"
  },
  {
-   "ITEM": 100000139,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "22,76"
- },
- {
-   "ITEM": 100000140,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "63,26"
- },
- {
-   "ITEM": 100000141,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "50,60"
- },
- {
-   "ITEM": 100000142,
-   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "31,62"
- },
- {
-   "ITEM": 100000143,
-   "DESCRIÇÃO": "ADICIONAL DE PREÇO P/ COMPACTAÇÃO COM G.C. >95%, PROF. ATÉ 1,25M (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "11,84"
- },
- {
-   "ITEM": 100000144,
-   "DESCRIÇÃO": "ADICIONAL DE PREÇO P/ COMPACTAÇÃO COM G.C. >95%, PROF. ATÉ 1,25M (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "9,57"
- },
- {
-   "ITEM": 100000145,
-   "DESCRIÇÃO": "ADICIONAL DE PREÇO P/ COMPACTAÇÃO COM G.C. >95%, PROF. ATÉ 1,25M (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "7,41"
- },
- {
-   "ITEM": 100000149,
-   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, COM CONTROLE DO G.C. >= 95% DO ENSAIO NORMAL DE COMPACTAÇÃO (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "35,05"
- },
- {
-   "ITEM": 100000150,
-   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, COM CONTROLE DO G.C. >= 95% DO ENSAIO NORMAL DE COMPACTAÇÃO (B)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "28,71"
- },
- {
-   "ITEM": 100000151,
-   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, COM CONTROLE DO G.C. >= 95% DO ENSAIO NORMAL DE COMPACTAÇÃO (C)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "20,89"
- },
- {
-   "ITEM": 100000152,
-   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, SEM CONTROLE DO G.C. (A)",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "12,28"
- },
- {
-   "ITEM": 100000153,
-   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, SEM CONTROLE DO G.C. (B)",
-   "DATA I0": "jun/26",
+   "ITEM": 100000104,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (B)",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "10,24"
  },
  {
+   "ITEM": 100000105,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "6,40"
+ },
+ {
+   "ITEM": 100000106,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "14,32"
+ },
+ {
+   "ITEM": 100000107,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "11,44"
+ },
+ {
+   "ITEM": 100000108,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "7,16"
+ },
+ {
+   "ITEM": 100000109,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "15,83"
+ },
+ {
+   "ITEM": 100000110,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "12,66"
+ },
+ {
+   "ITEM": 100000111,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "7,91"
+ },
+ {
+   "ITEM": 100000112,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "18,85"
+ },
+ {
+   "ITEM": 100000113,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "15,08"
+ },
+ {
+   "ITEM": 100000114,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "9,42"
+ },
+ {
+   "ITEM": 100000115,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "30,95"
+ },
+ {
+   "ITEM": 100000116,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "24,76"
+ },
+ {
+   "ITEM": 100000117,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "15,48"
+ },
+ {
+   "ITEM": 100000118,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "43,05"
+ },
+ {
+   "ITEM": 100000119,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "34,43"
+ },
+ {
+   "ITEM": 100000120,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE VALAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "21,52"
+ },
+ {
+   "ITEM": 100000125,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "19,17"
+ },
+ {
+   "ITEM": 100000126,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "15,33"
+ },
+ {
+   "ITEM": 100000127,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 1,25 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "9,57"
+ },
+ {
+   "ITEM": 100000128,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "21,44"
+ },
+ {
+   "ITEM": 100000129,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "17,15"
+ },
+ {
+   "ITEM": 100000130,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 2,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "10,73"
+ },
+ {
+   "ITEM": 100000131,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "23,71"
+ },
+ {
+   "ITEM": 100000132,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "18,96"
+ },
+ {
+   "ITEM": 100000133,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 3,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "11,85"
+ },
+ {
+   "ITEM": 100000134,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "28,24"
+ },
+ {
+   "ITEM": 100000135,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "22,59"
+ },
+ {
+   "ITEM": 100000136,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 4,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "14,12"
+ },
+ {
+   "ITEM": 100000137,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "46,39"
+ },
+ {
+   "ITEM": 100000138,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "37,11"
+ },
+ {
+   "ITEM": 100000139,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 6,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "23,18"
+ },
+ {
+   "ITEM": 100000140,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "64,52"
+ },
+ {
+   "ITEM": 100000141,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "51,62"
+ },
+ {
+   "ITEM": 100000142,
+   "DESCRIÇÃO": "ESCAVAÇÃO MECANIZADA DE POÇOS E CAVAS, EM SOLO NÃO ROCHOSO, COM PROFUNDIDADE ATÉ 8,00 M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "32,26"
+ },
+ {
+   "ITEM": 100000143,
+   "DESCRIÇÃO": "ADICIONAL DE PREÇO P/ COMPACTAÇÃO COM G.C. >95%, PROF. ATÉ 1,25M (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "11,88"
+ },
+ {
+   "ITEM": 100000144,
+   "DESCRIÇÃO": "ADICIONAL DE PREÇO P/ COMPACTAÇÃO COM G.C. >95%, PROF. ATÉ 1,25M (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "9,60"
+ },
+ {
+   "ITEM": 100000145,
+   "DESCRIÇÃO": "ADICIONAL DE PREÇO P/ COMPACTAÇÃO COM G.C. >95%, PROF. ATÉ 1,25M (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "7,42"
+ },
+ {
+   "ITEM": 100000149,
+   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, COM CONTROLE DO G.C. >= 95% DO ENSAIO NORMAL DE COMPACTAÇÃO (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "35,08"
+ },
+ {
+   "ITEM": 100000150,
+   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, COM CONTROLE DO G.C. >= 95% DO ENSAIO NORMAL DE COMPACTAÇÃO (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "28,74"
+ },
+ {
+   "ITEM": 100000151,
+   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, COM CONTROLE DO G.C. >= 95% DO ENSAIO NORMAL DE COMPACTAÇÃO (C)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "20,92"
+ },
+ {
+   "ITEM": 100000152,
+   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, SEM CONTROLE DO G.C. (A)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "12,20"
+ },
+ {
+   "ITEM": 100000153,
+   "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, SEM CONTROLE DO G.C. (B)",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "10,18"
+ },
+ {
    "ITEM": 100000154,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS COMPACTADO MECANICAMENTE, SEM CONTROLE DO G.C. (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "8,20"
+   "PREÇO": "8,15"
  },
  {
    "ITEM": 100000155,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM AREIA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "159,83"
+   "PREÇO": "195,61"
  },
  {
    "ITEM": 100000156,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM AREIA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "153,31"
+   "PREÇO": "189,13"
  },
  {
    "ITEM": 100000157,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM AREIA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "146,75"
+   "PREÇO": "182,60"
  },
  {
    "ITEM": 100000158,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM ENVOLTÓRIA DE AREIA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "332,24"
+   "PREÇO": "327,36"
  },
  {
    "ITEM": 100000159,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM ENVOLTÓRIA DE AREIA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "319,17"
+   "PREÇO": "314,41"
  },
  {
    "ITEM": 100000160,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM ENVOLTÓRIA DE AREIA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "306,06"
+   "PREÇO": "301,41"
  },
  {
    "ITEM": 100000161,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM ENVOLTÓRIA DE CIMENTO E AREIA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "708,12"
+   "PREÇO": "706,70"
  },
  {
    "ITEM": 100000162,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM ENVOLTÓRIA DE CIMENTO E AREIA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "654,16"
+   "PREÇO": "652,75"
  },
  {
    "ITEM": 100000163,
    "DESCRIÇÃO": "ATERRO DE VALAS, POÇOS E CAVAS, COM ENVOLTÓRIA DE CIMENTO E AREIA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "573,26"
+   "PREÇO": "571,84"
  },
  {
    "ITEM": 100000164,
    "DESCRIÇÃO": "COMPACTAÇÃO MECANIZADA EM ÁREAS, SEM CONTROLE DO G.C.",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "5,56"
+   "PREÇO": "5,50"
  },
  {
    "ITEM": 100000165,
    "DESCRIÇÃO": "COMPACTAÇÃO MECANIZADA, COM CONTROLE DO G.C. > 95 % DO ENSAIO NORMAL DE COMPACTAÇÃO - EM ÁREAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "12,54"
+   "PREÇO": "12,48"
  },
  {
    "ITEM": 100000166,
    "DESCRIÇÃO": "COMPACTAÇÃO MECANIZADA, COM CONTROLE DO G.C. > 95 % DO E.N.C. - EM MACIÇOS DOS DIQUES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "14,07"
+   "PREÇO": "13,99"
  },
  {
    "ITEM": 100000167,
    "DESCRIÇÃO": "ENSECADEIRA COM SACOS DE AREIA (COM FORNECIMENTO DE AREIA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "527,71"
+   "PREÇO": "583,90"
  },
  {
    "ITEM": 100000168,
    "DESCRIÇÃO": "ENSECADEIRA COM SACOS DE AREIA (SEM FORNECIMENTO DE AREIA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "407,13"
+   "PREÇO": "427,35"
  },
  {
    "ITEM": 100000169,
    "DESCRIÇÃO": "FILTRO DE AREIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "419,65"
+   "PREÇO": "415,04"
  },
  {
    "ITEM": 100000170,
    "DESCRIÇÃO": "FILTRO DE TRANSIÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "376,67"
+   "PREÇO": "393,24"
  },
  {
    "ITEM": 100000171,
    "DESCRIÇÃO": "MACIÇO DE ENROCAMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "365,73"
+   "PREÇO": "361,33"
  },
  {
    "ITEM": 100000172,
    "DESCRIÇÃO": "CARGA E DESCARGA - ENTULHO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "10,33"
+   "PREÇO": "10,51"
  },
  {
    "ITEM": 100000173,
    "DESCRIÇÃO": "CARGA E DESCARGA - ENTULHO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "8,24"
+   "PREÇO": "8,38"
  },
  {
    "ITEM": 100000174,
    "DESCRIÇÃO": "CARGA E DESCARGA - ENTULHO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "5,15"
+   "PREÇO": "5,24"
  },
  {
    "ITEM": 100000175,
    "DESCRIÇÃO": "CARGA E DESCARGA - ROCHA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "11,25"
+   "PREÇO": "11,46"
  },
  {
    "ITEM": 100000176,
    "DESCRIÇÃO": "CARGA E DESCARGA - ROCHA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "9,00"
+   "PREÇO": "9,16"
  },
  {
    "ITEM": 100000177,
    "DESCRIÇÃO": "CARGA E DESCARGA - ROCHA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "5,63"
+   "PREÇO": "5,73"
  },
  {
    "ITEM": 100000178,
    "DESCRIÇÃO": "CARGA E DESCARGA - SOLO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "8,86"
+   "PREÇO": "9,01"
  },
  {
    "ITEM": 100000179,
    "DESCRIÇÃO": "CARGA E DESCARGA - SOLO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "7,09"
+   "PREÇO": "7,22"
  },
  {
    "ITEM": 100000180,
    "DESCRIÇÃO": "CARGA E DESCARGA - SOLO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "4,44"
+   "PREÇO": "4,51"
  },
  {
    "ITEM": 100000181,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - ENTULHO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "4,25"
+   "PREÇO": "4,20"
  },
  {
    "ITEM": 100000182,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - ENTULHO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "3,39"
+   "PREÇO": "3,35"
  },
  {
    "ITEM": 100000183,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - ENTULHO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "2,10"
+   "PREÇO": "2,07"
  },
  {
    "ITEM": 100000184,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - ROCHA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "4,84"
+   "PREÇO": "4,77"
  },
  {
    "ITEM": 100000185,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - ROCHA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "3,85"
+   "PREÇO": "3,81"
  },
  {
    "ITEM": 100000186,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - ROCHA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "2,42"
+   "PREÇO": "2,38"
  },
  {
    "ITEM": 100000187,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - SOLO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "3,74"
+   "PREÇO": "3,70"
  },
  {
    "ITEM": 100000188,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - SOLO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "3,00"
+   "PREÇO": "2,97"
  },
  {
    "ITEM": 100000189,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL ESCAVADO - SOLO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3Q",
-   "PREÇO": "1,87"
+   "PREÇO": "1,84"
  },
  {
    "ITEM": 100012290,
    "DESCRIÇÃO": "TAXA DE BOTA-FORA DE ENTULHO OU SOLO DESAGR. CLASSE II-B (INERTE) EM ATERRO COM LICENÇA AMBIENTAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "49,44"
  },
  {
    "ITEM": 100012291,
    "DESCRIÇÃO": "TAXA DE BOTA-FORA DE ENTULHO OU SOLO DESAGR. CLASSE II-A (NÃO INERTE) EM ATERRO SANITÁRIO LICENCIADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TON",
-   "PREÇO": "167,81"
+   "PREÇO": "192,10"
  },
  {
    "ITEM": 100000271,
    "DESCRIÇÃO": "GRAMA EM PLACAS - TALUDES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "23,17"
+   "PREÇO": "23,85"
  },
  {
    "ITEM": 100000273,
    "DESCRIÇÃO": "PROTEÇÃO COM MANTA NÃO TECIDA DE POLIÉSTER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "52,63"
  },
  {
    "ITEM": 100000274,
    "DESCRIÇÃO": "PROTEÇÃO COM PEDRA DE MÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "302,22"
+   "PREÇO": "297,43"
  },
  {
    "ITEM": 100000276,
    "DESCRIÇÃO": "PROTEÇÃO COM PINTURA BETUMINOSA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "71,94"
+   "PREÇO": "84,63"
  },
  {
    "ITEM": 100000277,
    "DESCRIÇÃO": "RECOMPOSIÇÃO DE TALUDES COM SACOS DE AREIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "449,92"
+   "PREÇO": "507,26"
  },
  {
    "ITEM": 100010886,
    "DESCRIÇÃO": "GABIÃO TIPO CAIXA - H = 0,50 M - MALHA DE 8 X 10 CM - FIO Ø 2,70 MM - GALVANIZADO - 95% Zn / 5% Al",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.078,81"
+   "PREÇO": "1.079,80"
  },
  {
    "ITEM": 100010887,
    "DESCRIÇÃO": "GABIÃO TIPO CAIXA - H = 0,50 M - MALHA DE 8 X 10 CM - FIO Ø 2,40 MM - GALVANIZADO - 95% Zn / 5% Al - REVESTIDO COM PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.172,43"
+   "PREÇO": "1.173,41"
  },
  {
    "ITEM": 100010888,
    "DESCRIÇÃO": "GABIÃO TIPO CAIXA - H = 1,00 M - MALHA DE 8 X 10 CM - FIO Ø 2,70 MM - GALVANIZADO - 95% Zn / 5% Al",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "770,52"
+   "PREÇO": "771,51"
  },
  {
    "ITEM": 100010889,
    "DESCRIÇÃO": "GABIÃO TIPO CAIXA - H = 1,00 M - MALHA DE 8 X 10 CM - FIO Ø 2,40 MM - GALVANIZADO - 95% Zn / 5% Al - REVESTIDO COM PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "901,71"
+   "PREÇO": "902,69"
  },
  {
    "ITEM": 100010890,
    "DESCRIÇÃO": "GABIÃO TIPO COLCHÃO - H = 0,17 M - MALHA DE 6 X 8 CM - FIO Ø 2,00 MM - GALVANIZADO - 95% Zn / 5% Al - REVESTIDO COM PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "196,06"
+   "PREÇO": "196,97"
  },
  {
    "ITEM": 100010891,
    "DESCRIÇÃO": "GABIÃO TIPO COLCHÃO - H = 0,23 M - MALHA DE 6 X 8 CM - FIO Ø 2,00 MM - GALVANIZADO - 95% Zn / 5% Al - REVESTIDO COM PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "232,90"
+   "PREÇO": "233,61"
  },
  {
    "ITEM": 100010892,
    "DESCRIÇÃO": "GABIÃO TIPO COLCHÃO - H = 0,30 M - MALHA DE 6 X 8 CM - FIO Ø 2,00 MM - GALVANIZADO - 95% Zn / 5% Al - REVESTIDO COM PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "275,67"
+   "PREÇO": "276,17"
  },
  {
    "ITEM": 100010893,
    "DESCRIÇÃO": "GABIÃO TIPO SACO - Ø 0,65 - MALHA DE 8 X 10 CM - FIO Ø 2,40 MM - GALVANIZADO - 95% Zn / 5% Al - REVESTIDO COM PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "847,30"
+   "PREÇO": "842,36"
  },
  {
    "ITEM": 100012149,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 63 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "79,45"
+   "PREÇO": "78,78"
  },
  {
    "ITEM": 100012150,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 90 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "86,67"
+   "PREÇO": "86,24"
  },
  {
    "ITEM": 100012151,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 110 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "139,18"
+   "PREÇO": "138,52"
  },
  {
    "ITEM": 100012152,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 160 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "260,21"
+   "PREÇO": "259,66"
  },
  {
    "ITEM": 100012153,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 200 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "366,87"
+   "PREÇO": "366,06"
  },
  {
    "ITEM": 100012154,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 225 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "372,63"
+   "PREÇO": "372,16"
  },
  {
    "ITEM": 100012155,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 250 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "521,34"
+   "PREÇO": "520,76"
  },
  {
    "ITEM": 100012156,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 280 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "529,48"
+   "PREÇO": "529,41"
  },
  {
    "ITEM": 100012157,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 315 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "751,80"
+   "PREÇO": "750,62"
  },
  {
    "ITEM": 100012158,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 355 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "764,47"
+   "PREÇO": "764,11"
  },
  {
    "ITEM": 100012159,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 400 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "915,20"
+   "PREÇO": "914,97"
  },
  {
    "ITEM": 100012160,
    "DESCRIÇÃO": "ASSENTAMENTO DE REDE POR PERFURAÇÃO HORIZONTAL DIRECIONAL (HDD) EM PEAD DE 500 MM - SOLO COMUM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.196,40"
+   "PREÇO": "1.196,76"
  },
  {
    "ITEM": 100012161,
    "DESCRIÇÃO": "ADICIONAL PARA MOBILIZAÇÃO E DESMOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA HDD ATÉ 225 MM - ACIMA DE 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "209,61"
+   "PREÇO": "206,52"
  },
  {
    "ITEM": 100012162,
    "DESCRIÇÃO": "ADICIONAL PARA MOBILIZAÇÃO E DESMOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA HDD 250 A 500 MM - ACIMA DE 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "222,31"
+   "PREÇO": "219,21"
  },
  {
    "ITEM": 100012163,
    "DESCRIÇÃO": "MAPEAMENTO DE INTERFERÊNCIAS PARA MND",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "22,80"
+   "PREÇO": "22,91"
  },
  {
    "ITEM": 100012165,
    "DESCRIÇÃO": "MOBILIZAÇÃO E DESMOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA HDD ATÉ 225 MM ATÉ 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.384,56"
+   "PREÇO": "8.260,25"
  },
  {
    "ITEM": 100012166,
    "DESCRIÇÃO": "MOBILIZAÇÃO E DESMOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA HDD 250 A 500 MM ATÉ 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "8.892,42"
+   "PREÇO": "8.768,10"
  },
  {
    "ITEM": 100012168,
    "DESCRIÇÃO": "PLANO DE FURO PARA PERFURAÇÃO HORIZONTAL DIRECIONAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "26,53"
  },
  {
    "ITEM": 100012284,
    "DESCRIÇÃO": "COLUNA DE JET GROUTING VERTICAL EM SOLO - Ø 100 CM - PERFURAÇÃO E INJEÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.516,37"
+   "PREÇO": "1.507,98"
  },
  {
    "ITEM": 100012285,
    "DESCRIÇÃO": "COLUNA DE JET GROUTING VERTICAL EM SOLO - Ø 120 CM - PERFURAÇÃO E INJEÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.785,69"
+   "PREÇO": "1.782,91"
  },
  {
    "ITEM": 100012286,
    "DESCRIÇÃO": "COLUNA DE JET GROUTING VERTICAL EM SOLO - Ø 100 CM - PERFURAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "251,87"
+   "PREÇO": "256,93"
  },
  {
    "ITEM": 100012287,
    "DESCRIÇÃO": "COLUNA DE JET GROUTING VERTICAL EM SOLO - Ø 120 CM - PERFURAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "289,64"
+   "PREÇO": "297,13"
  },
  {
    "ITEM": 100012288,
    "DESCRIÇÃO": "MOBILIZAÇÃO E DESMOBILIZAÇÃO PARA JET GROUTING - ATÉ 50 KM DE DISTÂNCIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11.378,01"
+   "PREÇO": "11.223,08"
  },
  {
    "ITEM": 100012289,
    "DESCRIÇÃO": "ADICIONAL PARA MOBILIZAÇÃO E DESMOBILIZAÇÃO PARA JET GROUTING - ACIMA DE 50 KM DE DISTÂNCIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "142,25"
+   "PREÇO": "140,34"
  },
  {
    "ITEM": 100012663,
    "DESCRIÇÃO": "EXECUÇÃO DE POÇO DE SERVIÇO Ø 2,00 M, INCLUSIVE REVESTIMENTO COM CHAPA DE AÇO CORRUGADA TIPO TUNNEL LINER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.463,19"
+   "PREÇO": "3.460,10"
  },
  {
    "ITEM": 100012664,
    "DESCRIÇÃO": "EXECUÇÃO DE POÇO DE SERVIÇO Ø 2,20 M, INCLUSIVE REVESTIMENTO COM CHAPA DE AÇO CORRUGADA TIPO TUNNEL LINER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.781,36"
+   "PREÇO": "3.778,26"
  },
  {
    "ITEM": 100012665,
    "DESCRIÇÃO": "EXECUÇÃO DE POÇO DE SERVIÇO Ø 2,40 M, INCLUSIVE REVESTIMENTO COM CHAPA DE AÇO CORRUGADA TIPO TUNNEL LINER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.097,68"
+   "PREÇO": "4.094,61"
  },
  {
    "ITEM": 100012666,
    "DESCRIÇÃO": "EXECUÇÃO DE POÇO DE SERVIÇO Ø 2,60 M, INCLUSIVE REVESTIMENTO COM CHAPA DE AÇO CORRUGADA TIPO TUNNEL LINER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.509,31"
+   "PREÇO": "4.505,87"
  },
  {
    "ITEM": 100012667,
    "DESCRIÇÃO": "EXECUÇÃO DE POÇO DE SERVIÇO Ø 2,80 M, INCLUSIVE REVESTIMENTO COM CHAPA DE AÇO CORRUGADA TIPO TUNNEL LINER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.927,25"
+   "PREÇO": "4.923,52"
  },
  {
    "ITEM": 100012668,
    "DESCRIÇÃO": "EXECUÇÃO DE POÇO DE SERVIÇO Ø 3,0 M, INCLUSIVE REVESTIMENTO COM CHAPA DE AÇO CORRUGADA TIPO TUNNEL LINER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.349,87"
+   "PREÇO": "5.345,79"
  },
  {
    "ITEM": 100001219,
    "DESCRIÇÃO": "LEVANTAMENTO DE GUIAS (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "34,71"
+   "PREÇO": "34,64"
  },
  {
    "ITEM": 100001220,
    "DESCRIÇÃO": "LEVANTAMENTO DE GUIAS (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "27,78"
+   "PREÇO": "27,71"
  },
  {
    "ITEM": 100001221,
    "DESCRIÇÃO": "LEVANTAMENTO DE GUIAS (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "17,36"
+   "PREÇO": "17,32"
  },
  {
    "ITEM": 100001222,
    "DESCRIÇÃO": "LEVANTAMENTO DE PARALELEPÍPEDO COM CAPA ASFÁLTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "40,42"
+   "PREÇO": "40,41"
  },
  {
    "ITEM": 100001223,
    "DESCRIÇÃO": "LEVANTAMENTO DE PARALELEPÍPEDO COM CAPA ASFÁLTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "32,33"
  },
  {
    "ITEM": 100001224,
    "DESCRIÇÃO": "LEVANTAMENTO DE PARALELEPÍPEDO COM CAPA ASFÁLTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "20,21"
  },
  {
    "ITEM": 100001225,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS CIMENTADOS (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "27,05"
+   "PREÇO": "27,01"
  },
  {
    "ITEM": 100001226,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS CIMENTADOS (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "21,63"
+   "PREÇO": "21,61"
  },
  {
    "ITEM": 100001227,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS CIMENTADOS (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "13,53"
+   "PREÇO": "13,50"
  },
  {
    "ITEM": 100001228,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM ARDÓSIA, ARENITO OU PEDRA LUMINÁRIA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,49"
+   "PREÇO": "35,44"
  },
  {
    "ITEM": 100001229,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM ARDÓSIA, ARENITO OU PEDRA LUMINÁRIA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "28,42"
+   "PREÇO": "28,36"
  },
  {
    "ITEM": 100001230,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM ARDÓSIA, ARENITO OU PEDRA LUMINÁRIA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "17,74"
+   "PREÇO": "17,70"
  },
  {
    "ITEM": 100001231,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM CACO CERÂMICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "32,12"
+   "PREÇO": "32,06"
  },
  {
    "ITEM": 100001232,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM CACO CERÂMICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "25,70"
+   "PREÇO": "25,65"
  },
  {
    "ITEM": 100001233,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM CACO CERÂMICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "16,06"
+   "PREÇO": "16,03"
  },
  {
    "ITEM": 100001234,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM GRANITO TIPO PARALELEPÍPEDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,49"
+   "PREÇO": "35,44"
  },
  {
    "ITEM": 100001235,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM GRANITO TIPO PARALELEPÍPEDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "28,42"
+   "PREÇO": "28,36"
  },
  {
    "ITEM": 100001236,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM GRANITO TIPO PARALELEPÍPEDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "17,74"
+   "PREÇO": "17,70"
  },
  {
    "ITEM": 100001237,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM LADRILHO HIDRAULICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,67"
+   "PREÇO": "35,80"
  },
  {
    "ITEM": 100001238,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM LADRILHO HIDRÁULICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "29,73"
+   "PREÇO": "29,82"
  },
  {
    "ITEM": 100001239,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM LADRILHO HIDRÁULICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "23,81"
+   "PREÇO": "23,88"
  },
  {
    "ITEM": 100001240,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM LAJOTÃO COLONIAL CERÂMICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,49"
+   "PREÇO": "35,44"
  },
  {
    "ITEM": 100001241,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM LAJOTÃO COLONIAL CERÂMICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "28,42"
+   "PREÇO": "28,36"
  },
  {
    "ITEM": 100001242,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM LAJOTÃO COLONIAL CERÂMICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "17,74"
+   "PREÇO": "17,70"
  },
  {
    "ITEM": 100001243,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM MOSAICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,49"
+   "PREÇO": "35,44"
  },
  {
    "ITEM": 100001244,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM MOSAICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "28,42"
+   "PREÇO": "28,36"
  },
  {
    "ITEM": 100001245,
    "DESCRIÇÃO": "LEVANTAMENTO DE PASSEIOS EM MOSAICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "17,74"
+   "PREÇO": "17,70"
  },
  {
    "ITEM": 100001246,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO ASFÁLTICA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "32,87"
+   "PREÇO": "33,01"
  },
  {
    "ITEM": 100001247,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO ASFÁLTICA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "27,42"
+   "PREÇO": "27,53"
  },
  {
    "ITEM": 100001248,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO ASFÁLTICA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "21,91"
+   "PREÇO": "21,98"
  },
  {
    "ITEM": 100001249,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO DE CONCRETO NÃO ESTRUTURAL (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "44,36"
+   "PREÇO": "44,67"
  },
  {
    "ITEM": 100001250,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO DE CONCRETO NÃO ESTRUTURAL (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,51"
+   "PREÇO": "35,74"
  },
  {
    "ITEM": 100001251,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO DE CONCRETO NÃO ESTRUTURAL (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "22,22"
+   "PREÇO": "22,37"
  },
  {
    "ITEM": 100001252,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO DE PARALELEPÍPEDO OU BLOCOS (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "34,71"
+   "PREÇO": "34,64"
  },
  {
    "ITEM": 100001253,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO DE PARALELEPÍPEDO OU BLOCOS (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "27,78"
+   "PREÇO": "27,71"
  },
  {
    "ITEM": 100001254,
    "DESCRIÇÃO": "LEVANTAMENTO DE PAVIMENTAÇÃO DE PARALELEPÍPEDO OU BLOCOS (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "17,36"
+   "PREÇO": "17,32"
  },
  {
    "ITEM": 100001255,
    "DESCRIÇÃO": "LEVANTAMENTO DE SARJETAS (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "183,76"
+   "PREÇO": "184,60"
  },
  {
    "ITEM": 100001256,
    "DESCRIÇÃO": "LEVANTAMENTO DE SARJETAS (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "147,01"
+   "PREÇO": "147,67"
  },
  {
    "ITEM": 100001257,
    "DESCRIÇÃO": "LEVANTAMENTO DE SARJETAS (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "91,88"
+   "PREÇO": "92,29"
  },
  {
    "ITEM": 100001258,
    "DESCRIÇÃO": "REGULARIZAÇÃO MECANIZADA DE SUPERFÍCIES (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1,09"
+   "PREÇO": "1,06"
  },
  {
    "ITEM": 100001259,
    "DESCRIÇÃO": "REGULARIZAÇÃO MECANIZADA DE SUPERFÍCIES (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "0,87"
+   "PREÇO": "0,86"
  },
  {
    "ITEM": 100001260,
    "DESCRIÇÃO": "REGULARIZAÇÃO MECANIZADA DE SUPERFÍCIES (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "0,54"
  },
  {
    "ITEM": 100001261,
    "DESCRIÇÃO": "REVESTIMENTO COM BRITA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "201,32"
+   "PREÇO": "257,41"
  },
  {
    "ITEM": 100001262,
    "DESCRIÇÃO": "REVESTIMENTO COM BRITA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "198,92"
+   "PREÇO": "255,07"
  },
  {
    "ITEM": 100001263,
    "DESCRIÇÃO": "REVESTIMENTO COM BRITA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "195,38"
+   "PREÇO": "251,58"
  },
  {
    "ITEM": 100001264,
    "DESCRIÇÃO": "REVESTIMENTO COM CASCALHO OU PEDREGULHO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "79,99"
+   "PREÇO": "79,76"
  },
  {
    "ITEM": 100001265,
    "DESCRIÇÃO": "REVESTIMENTO COM CASCALHO OU PEDREGULHO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "77,59"
+   "PREÇO": "77,41"
  },
  {
    "ITEM": 100001266,
    "DESCRIÇÃO": "REVESTIMENTO COM CASCALHO OU PEDREGULHO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "74,05"
+   "PREÇO": "73,93"
  },
  {
    "ITEM": 100001267,
    "DESCRIÇÃO": "REVESTIMENTO COM MACADAME HIDRÁULICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "273,00"
+   "PREÇO": "347,52"
  },
  {
    "ITEM": 100001268,
    "DESCRIÇÃO": "REVESTIMENTO COM MACADAME HIDRÁULICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "270,60"
+   "PREÇO": "345,18"
  },
  {
    "ITEM": 100001269,
    "DESCRIÇÃO": "REVESTIMENTO COM MACADAME HIDRÁULICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "267,06"
+   "PREÇO": "341,70"
  },
  {
    "ITEM": 100001270,
    "DESCRIÇÃO": "ASSENTAMENTO DE BLOCOS PARA PAVIMENTAÇÃO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "46,95"
+   "PREÇO": "48,18"
  },
  {
    "ITEM": 100001271,
    "DESCRIÇÃO": "ASSENTAMENTO DE BLOCOS PARA PAVIMENTAÇÃO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "43,33"
+   "PREÇO": "44,56"
  },
  {
    "ITEM": 100001272,
    "DESCRIÇÃO": "ASSENTAMENTO DE BLOCOS PARA PAVIMENTAÇÃO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "39,64"
+   "PREÇO": "40,87"
  },
  {
    "ITEM": 100001273,
    "DESCRIÇÃO": "ASSENTAMENTO DE GUIAS (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "20,53"
+   "PREÇO": "22,21"
  },
  {
    "ITEM": 100001274,
    "DESCRIÇÃO": "ASSENTAMENTO DE GUIAS (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "20,01"
+   "PREÇO": "21,68"
  },
  {
    "ITEM": 100001275,
    "DESCRIÇÃO": "ASSENTAMENTO DE GUIAS (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "19,14"
+   "PREÇO": "20,81"
  },
  {
    "ITEM": 100001276,
    "DESCRIÇÃO": "ASSENTAMENTO DE PARALELEPÍPEDO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "156,36"
+   "PREÇO": "135,58"
  },
  {
    "ITEM": 100001277,
    "DESCRIÇÃO": "ASSENTAMENTO DE PARALELEPÍPEDO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "138,23"
+   "PREÇO": "117,43"
  },
  {
    "ITEM": 100001278,
    "DESCRIÇÃO": "ASSENTAMENTO DE PARALELEPÍPEDO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "111,09"
+   "PREÇO": "90,28"
  },
  {
    "ITEM": 100001279,
    "DESCRIÇÃO": "CONSTRUÇÃO DE SARJETAS (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.134,58"
+   "PREÇO": "1.200,24"
  },
  {
    "ITEM": 100001280,
    "DESCRIÇÃO": "CONSTRUÇÃO DE SARJETAS (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.048,76"
+   "PREÇO": "1.114,42"
  },
  {
    "ITEM": 100001281,
    "DESCRIÇÃO": "CONSTRUÇÃO DE SARJETAS (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "920,08"
+   "PREÇO": "985,74"
  },
  {
    "ITEM": 100001282,
    "DESCRIÇÃO": "EXECUÇÃO DE FRESAGEM EM PAVIMENTO ASFÁLTICO EM ÁREAS ACIMA DE 2.000 M2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "220,29"
+   "PREÇO": "220,03"
  },
  {
    "ITEM": 100001283,
    "DESCRIÇÃO": "EXECUÇÃO DE FRESAGEM EM PAVIMENTO ASFÁLTICO EM ÁREAS ATÉ 500 M2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "314,61"
+   "PREÇO": "314,28"
  },
  {
    "ITEM": 100001284,
    "DESCRIÇÃO": "EXECUÇÃO DE FRESAGEM EM PAVIMENTO ASFÁLTICO EM ÁREAS ENTRE 501 A 2.000 M2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "283,14"
+   "PREÇO": "282,83"
  },
  {
    "ITEM": 100001285,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS CIMENTADOS (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "131,76"
+   "PREÇO": "137,04"
  },
  {
    "ITEM": 100001286,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS CIMENTADOS (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "119,08"
+   "PREÇO": "124,34"
  },
  {
    "ITEM": 100001287,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS CIMENTADOS (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "106,37"
+   "PREÇO": "111,64"
  },
  {
    "ITEM": 100001288,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS EM LADRILHO HIDRÁULICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "99,52"
+   "PREÇO": "99,17"
  },
  {
    "ITEM": 100001289,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS EM LADRILHO HIDRÁULICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "91,97"
+   "PREÇO": "91,62"
  },
  {
    "ITEM": 100001290,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS EM LADRILHO HIDRÁULICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "80,62"
+   "PREÇO": "80,27"
  },
  {
    "ITEM": 100001291,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS EM MOSAICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "70,27"
  },
  {
    "ITEM": 100001292,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS EM MOSAICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "62,58"
  },
  {
    "ITEM": 100001293,
    "DESCRIÇÃO": "EXECUÇÃO DE PASSEIOS EM MOSAICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "51,08"
  },
  {
    "ITEM": 100001294,
    "DESCRIÇÃO": "FORNECIMENTO DE BLOCOS DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "89,28"
+   "PREÇO": "90,56"
  },
  {
    "ITEM": 100001295,
    "DESCRIÇÃO": "FORNECIMENTO DE GUIAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "48,88"
+   "PREÇO": "48,37"
  },
  {
    "ITEM": 100001296,
    "DESCRIÇÃO": "FORNECIMENTO DE LADRILHO HIDRÁULICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "149,20"
+   "PREÇO": "128,14"
  },
  {
    "ITEM": 100001297,
    "DESCRIÇÃO": "FORNECIMENTO DE MOSAICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "147,84"
+   "PREÇO": "153,22"
  },
  {
    "ITEM": 100001298,
    "DESCRIÇÃO": "FORNECIMENTO DE PARALELEPÍPEDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "193,40"
+   "PREÇO": "169,60"
  },
  {
    "ITEM": 100001300,
    "DESCRIÇÃO": "TRANSPORTE ALÉM DE 50 KM DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE FRESAGEM EM PAVIMENTO ASFÁLTICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "78,96"
+   "PREÇO": "78,31"
  },
  {
    "ITEM": 100001301,
    "DESCRIÇÃO": "BASE DE MACADAME BETUMINOSO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "906,42"
+   "PREÇO": "951,76"
  },
  {
    "ITEM": 100001302,
    "DESCRIÇÃO": "BASE DE MACADAME BETUMINOSO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "898,80"
+   "PREÇO": "944,20"
  },
  {
    "ITEM": 100001303,
    "DESCRIÇÃO": "BASE DE MACADAME BETUMINOSO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "891,20"
+   "PREÇO": "936,65"
  },
  {
    "ITEM": 100001304,
    "DESCRIÇÃO": "BINDER (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.833,88"
+   "PREÇO": "1.832,67"
  },
  {
    "ITEM": 100001305,
    "DESCRIÇÃO": "BINDER (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.813,71"
+   "PREÇO": "1.812,49"
  },
  {
    "ITEM": 100001306,
    "DESCRIÇÃO": "BINDER (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.791,33"
+   "PREÇO": "1.790,12"
  },
  {
    "ITEM": 100001307,
    "DESCRIÇÃO": "CAPA DE CONCRETO ASFÁLTICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.112,33"
+   "PREÇO": "2.387,19"
  },
  {
    "ITEM": 100001308,
    "DESCRIÇÃO": "CAPA DE CONCRETO ASFÁLTICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.067,37"
+   "PREÇO": "2.342,95"
  },
  {
    "ITEM": 100001309,
    "DESCRIÇÃO": "CAPA DE CONCRETO ASFÁLTICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.022,39"
+   "PREÇO": "2.298,69"
  },
  {
    "ITEM": 100001310,
    "DESCRIÇÃO": "CONCRETO PARA FECHAMENTO DE VALAS (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "847,80"
  },
  {
    "ITEM": 100001311,
    "DESCRIÇÃO": "CONCRETO PARA FECHAMENTO DE VALAS (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "832,93"
  },
  {
    "ITEM": 100001312,
    "DESCRIÇÃO": "CONCRETO PARA FECHAMENTO DE VALAS (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "810,69"
  },
  {
    "ITEM": 100001313,
    "DESCRIÇÃO": "IMPRIMAÇÃO LIGANTE (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "17,73"
+   "PREÇO": "10,09"
  },
  {
    "ITEM": 100001314,
    "DESCRIÇÃO": "IMPRIMAÇÃO LIGANTE (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "16,87"
+   "PREÇO": "9,24"
  },
  {
    "ITEM": 100001315,
    "DESCRIÇÃO": "IMPRIMAÇÃO LIGANTE (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "15,55"
+   "PREÇO": "7,92"
  },
  {
    "ITEM": 100001316,
    "DESCRIÇÃO": "PREPARO DE CAIXA (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "16,35"
+   "PREÇO": "16,27"
  },
  {
    "ITEM": 100001317,
    "DESCRIÇÃO": "PREPARO DE CAIXA (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "13,62"
+   "PREÇO": "13,56"
  },
  {
    "ITEM": 100001318,
    "DESCRIÇÃO": "PREPARO DE CAIXA (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "10,93"
+   "PREÇO": "10,88"
  },
  {
    "ITEM": 100001319,
    "DESCRIÇÃO": "SUB-BASE EM BRITA OU MACADAME HIDRÁULICO (A)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "282,98"
+   "PREÇO": "354,52"
  },
  {
    "ITEM": 100001320,
    "DESCRIÇÃO": "SUB-BASE EM BRITA OU MACADAME HIDRÁULICO (B)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "277,36"
+   "PREÇO": "348,93"
  },
  {
    "ITEM": 100001321,
    "DESCRIÇÃO": "SUB-BASE EM BRITA OU MACADAME HIDRÁULICO (C)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "271,71"
+   "PREÇO": "343,30"
  },
  {
    "ITEM": 100010880,
    "DESCRIÇÃO": "MOBILIZAÇÃO DE EQUIPE E EQUIPAMENTOS PARA EXECUÇÃO DE FRESAGEM EM PAVIMENTO ASFÁLTICO A UMA DISTÂNCIA DE ATÉ 50 KM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12.664,28"
+   "PREÇO": "12.532,49"
  },
  {
    "ITEM": 100002811,
    "DESCRIÇÃO": "INSTALAÇÃO DO CANTEIRO - PERCUSSÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
-   "PREÇO": "35.491,70"
+   "PREÇO": "37.190,59"
  },
  {
    "ITEM": 100002812,
    "DESCRIÇÃO": "INSTALAÇÃO DO CANTEIRO - ROTATIVA EQUIPAMENTO ACIMA DE 1.001 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
-   "PREÇO": "506.242,01"
+   "PREÇO": "518.764,83"
  },
  {
    "ITEM": 100002814,
    "DESCRIÇÃO": "INSTALAÇÃO DO CANTEIRO - ROTATIVA EQUIPAMENTO ATÉ 30 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
-   "PREÇO": "101.660,03"
+   "PREÇO": "106.743,46"
  },
  {
    "ITEM": 100002816,
    "DESCRIÇÃO": "INSTALAÇÃO DO CANTEIRO - ROTATIVA EQUIPAMENTO DE 201 A 400 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
-   "PREÇO": "141.194,48"
+   "PREÇO": "148.254,85"
  },
  {
    "ITEM": 100002818,
    "DESCRIÇÃO": "INSTALAÇÃO DO CANTEIRO - ROTATIVA EQUIPAMENTO DE 31 A 200 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
-   "PREÇO": "112.955,55"
+   "PREÇO": "118.603,87"
  },
  {
    "ITEM": 100002819,
    "DESCRIÇÃO": "INSTALAÇÃO DO CANTEIRO - ROTATIVA EQUIPAMENTO DE 401 A 600 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
-   "PREÇO": "327.022,96"
+   "PREÇO": "336.449,02"
  },
  {
    "ITEM": 100002820,
    "DESCRIÇÃO": "INSTALAÇÃO DO CANTEIRO - ROTATIVA EQUIPAMENTO DE 601 A 1.000 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
-   "PREÇO": "430.618,12"
+   "PREÇO": "441.385,48"
  },
  {
    "ITEM": 100002822,
    "DESCRIÇÃO": "INSTALAÇÃO DO CANTEIRO - ROTO-PERCUSSÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
-   "PREÇO": "109.442,59"
+   "PREÇO": "111.305,56"
  },
  {
    "ITEM": 100002847,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA BÁSICA OU DE SERVIÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "8.608,00"
  },
  {
    "ITEM": 100002848,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE INTEGRAÇÃO - CÁLCULO DO VOLUME DO POÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "18,24"
  },
  {
    "ITEM": 100002849,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE INTEGRAÇÃO - TEMPO DE TRÂNSITO DO PERFIL SÔNICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "21,89"
  },
  {
    "ITEM": 100002850,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE PROFUNDIDADE - CALIBRADOR DE 4 BRAÇOS XYC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,24"
+   "PREÇO": "13,31"
  },
  {
    "ITEM": 100002852,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE PROFUNDIDADE - INDUÇÃO - ELÉTRICO IEL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,24"
+   "PREÇO": "13,31"
  },
  {
    "ITEM": 100002853,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE PROFUNDIDADE - PERFIL DE TEMPERATURA TEMP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10,24"
+   "PREÇO": "12,16"
  },
  {
    "ITEM": 100002854,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE PROFUNDIDADE - RAIOS GAMA EM COMBINAÇÃO/GR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "12,16"
+   "PREÇO": "11,97"
  },
  {
    "ITEM": 100002855,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE PROFUNDIDADE - RAIOS GAMA GR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "12,16"
+   "PREÇO": "11,97"
  },
  {
    "ITEM": 100002856,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE PROFUNDIDADE - SÔNICO COMPENSADO BHC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "15,71"
+   "PREÇO": "14,98"
  },
  {
    "ITEM": 100002857,
    "DESCRIÇÃO": "PERFILAGEM ELÉTRICA - TAXA DE TRANSPORTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "7,86"
+   "PREÇO": "9,41"
  },
  {
    "ITEM": 100002885,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 356 MM (14\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "425,33"
+   "PREÇO": "433,89"
  },
  {
    "ITEM": 100002886,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 406 MM (16\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "479,97"
+   "PREÇO": "488,61"
  },
  {
    "ITEM": 100002887,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 444 MM (17.1/2\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "492,53"
+   "PREÇO": "501,34"
  },
  {
    "ITEM": 100002888,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 508 MM (20\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "498,84"
+   "PREÇO": "507,84"
  },
  {
    "ITEM": 100002889,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 610 MM (24\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.198,20"
+   "PREÇO": "1.204,70"
  },
  {
    "ITEM": 100002890,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 711 MM (28\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.226,69"
+   "PREÇO": "1.233,54"
  },
  {
    "ITEM": 100002891,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 813 MM (32\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.268,43"
+   "PREÇO": "1.275,57"
  },
  {
    "ITEM": 100002892,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 864 MM (34\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.283,02"
+   "PREÇO": "1.290,37"
  },
  {
    "ITEM": 100002893,
    "DESCRIÇÃO": "PERFURAÇÃO PARA TUBO BOCA - DIÂMETRO 914 MM (36\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.297,01"
+   "PREÇO": "1.304,52"
  },
  {
    "ITEM": 100002894,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 216 MM (8.1/2\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.097,93"
+   "PREÇO": "1.100,81"
  },
  {
    "ITEM": 100002895,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 216 MM (8.1/2\") - EQUIPAMENTO ATÉ 30 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "312,93"
+   "PREÇO": "315,49"
  },
  {
    "ITEM": 100002896,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 216 MM (8.1/2\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "577,40"
+   "PREÇO": "579,80"
  },
  {
    "ITEM": 100002897,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 216 MM (8.1/2\") - EQUIPAMENTO DE 31 A 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "399,05"
+   "PREÇO": "402,24"
  },
  {
    "ITEM": 100002898,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 216 MM (8.1/2\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "625,83"
+   "PREÇO": "628,56"
  },
  {
    "ITEM": 100002899,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 216 MM (8.1/2\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "714,71"
+   "PREÇO": "717,67"
  },
  {
    "ITEM": 100002900,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 251 MM (9.7/8\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.215,87"
+   "PREÇO": "1.219,08"
  },
  {
    "ITEM": 100002901,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 251 MM (9.7/8\") - EQUIPAMENTO ATÉ 30 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "350,85"
+   "PREÇO": "353,69"
  },
  {
    "ITEM": 100002902,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 251 MM (9.7/8\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "638,77"
+   "PREÇO": "641,46"
  },
  {
    "ITEM": 100002903,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 251 MM (9.7/8\") - EQUIPAMENTO DE 31 A 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "445,09"
+   "PREÇO": "448,64"
  },
  {
    "ITEM": 100002904,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 251 MM (9.7/8\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "714,71"
+   "PREÇO": "717,67"
  },
  {
    "ITEM": 100002905,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 251 MM (9.7/8\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "790,00"
+   "PREÇO": "793,29"
  },
  {
    "ITEM": 100002906,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.371,46"
+   "PREÇO": "1.374,80"
  },
  {
    "ITEM": 100002907,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO ATÉ 30 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "398,64"
+   "PREÇO": "401,72"
  },
  {
    "ITEM": 100002908,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "721,06"
+   "PREÇO": "723,90"
  },
  {
    "ITEM": 100002909,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO DE 31 A 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "502,49"
+   "PREÇO": "506,32"
  },
  {
    "ITEM": 100002910,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "802,05"
+   "PREÇO": "805,20"
  },
  {
    "ITEM": 100002911,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "892,72"
+   "PREÇO": "896,22"
  },
  {
    "ITEM": 100002912,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.590,66"
+   "PREÇO": "1.595,26"
  },
  {
    "ITEM": 100002913,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO ATÉ 30 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "463,59"
+   "PREÇO": "467,49"
  },
  {
    "ITEM": 100002914,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "834,98"
+   "PREÇO": "838,76"
  },
  {
    "ITEM": 100002915,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 31 A 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "579,51"
+   "PREÇO": "584,38"
  },
  {
    "ITEM": 100002916,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "939,00"
+   "PREÇO": "943,13"
  },
  {
    "ITEM": 100002917,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 601 A 1.000METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.050,46"
+   "PREÇO": "1.055,04"
  },
  {
    "ITEM": 100002918,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.772,29"
+   "PREÇO": "1.775,87"
  },
  {
    "ITEM": 100002919,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "640,86"
+   "PREÇO": "645,39"
  },
  {
    "ITEM": 100002920,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "935,59"
+   "PREÇO": "938,75"
  },
  {
    "ITEM": 100002921,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.032,55"
+   "PREÇO": "1.036,10"
  },
  {
    "ITEM": 100002922,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.151,59"
+   "PREÇO": "1.155,52"
  },
  {
    "ITEM": 100002923,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 508 MM (20\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.965,00"
+   "PREÇO": "1.969,00"
  },
  {
    "ITEM": 100002924,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 508 MM (20\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "712,06"
+   "PREÇO": "717,09"
  },
  {
    "ITEM": 100002925,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 508 MM (20\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.032,55"
+   "PREÇO": "1.036,10"
  },
  {
    "ITEM": 100002926,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 508 MM (20\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.151,59"
+   "PREÇO": "1.155,52"
  },
  {
    "ITEM": 100002927,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 508 MM (20\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.409,31"
+   "PREÇO": "1.413,24"
  },
  {
    "ITEM": 100002928,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 560 MM (22\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.895,90"
+   "PREÇO": "2.896,13"
  },
  {
    "ITEM": 100002929,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 560 MM (22\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.018,53"
+   "PREÇO": "1.022,57"
  },
  {
    "ITEM": 100002930,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 560 MM (22\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.484,52"
+   "PREÇO": "1.486,03"
  },
  {
    "ITEM": 100002931,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 560 MM (22\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.649,47"
+   "PREÇO": "1.651,14"
  },
  {
    "ITEM": 100002932,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 560 MM (22\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.087,74"
+   "PREÇO": "2.088,97"
  },
  {
    "ITEM": 100002933,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 610 MM (24\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.206,31"
+   "PREÇO": "3.206,58"
  },
  {
    "ITEM": 100002934,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 610 MM (24\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.140,61"
+   "PREÇO": "1.145,06"
  },
  {
    "ITEM": 100002935,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 610 MM (24\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.649,47"
+   "PREÇO": "1.651,14"
  },
  {
    "ITEM": 100002936,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 610 MM (24\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.834,32"
+   "PREÇO": "1.836,63"
  },
  {
    "ITEM": 100002937,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA FRIÁVEL - DIÂMETRO 610 MM (24\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.352,45"
+   "PREÇO": "2.353,73"
  },
  {
    "ITEM": 100002938,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO ACIMA DE 1.001 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.592,83"
+   "PREÇO": "1.597,76"
  },
  {
    "ITEM": 100002939,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO ATÉ 400 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "836,38"
+   "PREÇO": "840,36"
  },
  {
    "ITEM": 100002940,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 401 A 600 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "940,54"
+   "PREÇO": "944,92"
  },
  {
    "ITEM": 100002941,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 601 A 1.000 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.045,04"
+   "PREÇO": "1.049,91"
  },
  {
    "ITEM": 100002942,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO ACIMA DE 1.001 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.966,30"
+   "PREÇO": "1.970,29"
  },
  {
    "ITEM": 100002943,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO ATÉ 400 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.033,36"
+   "PREÇO": "1.036,90"
  },
  {
    "ITEM": 100002944,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO DE 401 A 600 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.152,49"
+   "PREÇO": "1.156,42"
  },
  {
    "ITEM": 100002945,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO DE 601 A 1.000 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.280,52"
+   "PREÇO": "1.284,89"
  },
  {
    "ITEM": 100002946,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 508 MM (20\") - EQUIPAMENTO ACIMA DE 1.001 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.312,82"
+   "PREÇO": "2.315,70"
  },
  {
    "ITEM": 100002947,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 508 MM (20\") - EQUIPAMENTO ATÉ 400 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.214,04"
+   "PREÇO": "1.217,02"
  },
  {
    "ITEM": 100002948,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 508 MM (20\") - EQUIPAMENTO DE 401 A 600 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.357,38"
+   "PREÇO": "1.360,69"
  },
  {
    "ITEM": 100002949,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 508 MM (20\") - EQUIPAMENTO DE 601 A 1.000 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.523,32"
+   "PREÇO": "1.526,92"
  },
  {
    "ITEM": 100002950,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 560 MM (22\") - EQUIPAMENTO ACIMA DE 1.001 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.652,95"
+   "PREÇO": "2.656,27"
  },
  {
    "ITEM": 100002951,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 560 MM (22\") - EQUIPAMENTO ATÉ 400 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.395,58"
+   "PREÇO": "1.399,03"
  },
  {
    "ITEM": 100002952,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 560 MM (22\") - EQUIPAMENTO DE 401 A 600 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.555,43"
+   "PREÇO": "1.559,24"
  },
  {
    "ITEM": 100002953,
    "DESCRIÇÃO": "PERFURAÇÃO EM EM ROCHA FRIÁVEL UNDERREAMER - DIÂMETRO 560 MM (22\") - EQUIPAMENTO DE 601 A 1.000 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.736,10"
+   "PREÇO": "1.740,30"
  },
  {
    "ITEM": 100002975,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 152 MM (6\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.988,06"
+   "PREÇO": "2.981,93"
  },
  {
    "ITEM": 100002976,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 152 MM (6\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.083,60"
+   "PREÇO": "1.084,17"
  },
  {
    "ITEM": 100002977,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 152 MM (6\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.576,15"
+   "PREÇO": "1.573,63"
  },
  {
    "ITEM": 100002978,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 152 MM (6\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.763,76"
+   "PREÇO": "1.760,92"
  },
  {
    "ITEM": 100002979,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 152 MM (6\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.975,31"
+   "PREÇO": "1.972,10"
  },
  {
    "ITEM": 100002980,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 203 MM (8\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.145,33"
+   "PREÇO": "3.138,88"
  },
  {
    "ITEM": 100002981,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 203 MM (8\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.137,78"
+   "PREÇO": "1.138,38"
  },
  {
    "ITEM": 100002982,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 203 MM (8\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.646,32"
+   "PREÇO": "1.643,71"
  },
  {
    "ITEM": 100002983,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 203 MM (8\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.852,01"
+   "PREÇO": "1.849,02"
  },
  {
    "ITEM": 100002984,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 203 MM (8\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.057,79"
+   "PREÇO": "2.054,49"
  },
  {
    "ITEM": 100002985,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 254 MM (10\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.696,52"
+   "PREÇO": "3.688,91"
  },
  {
    "ITEM": 100002986,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 254 MM (10\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.323,05"
+   "PREÇO": "1.323,76"
  },
  {
    "ITEM": 100002987,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 254MM (10\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.924,26"
+   "PREÇO": "1.921,22"
  },
  {
    "ITEM": 100002988,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 254 MM (10\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.147,40"
+   "PREÇO": "2.143,97"
  },
  {
    "ITEM": 100002989,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 254 MM (10\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.428,72"
+   "PREÇO": "2.424,79"
  },
  {
    "ITEM": 100002990,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.074,71"
+   "PREÇO": "4.066,38"
  },
  {
    "ITEM": 100002991,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.477,63"
+   "PREÇO": "1.478,43"
  },
  {
    "ITEM": 100002992,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.147,40"
+   "PREÇO": "2.143,97"
  },
  {
    "ITEM": 100002993,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.741,75"
+   "PREÇO": "2.736,77"
  },
  {
    "ITEM": 100002994,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 311 MM (12.1/4\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.288,84"
+   "PREÇO": "3.282,51"
  },
  {
    "ITEM": 100002995,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.320,00"
+   "PREÇO": "4.311,13"
  },
  {
    "ITEM": 100002996,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.558,60"
+   "PREÇO": "1.559,42"
  },
  {
    "ITEM": 100002997,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.279,33"
+   "PREÇO": "2.275,66"
  },
  {
    "ITEM": 100002998,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.148,75"
+   "PREÇO": "3.142,64"
  },
  {
    "ITEM": 100002999,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 375 MM (14.3/4\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.441,84"
+   "PREÇO": "3.435,24"
  },
  {
    "ITEM": 100003000,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.050,23"
+   "PREÇO": "5.039,88"
  },
  {
    "ITEM": 100003001,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.835,11"
+   "PREÇO": "1.836,08"
  },
  {
    "ITEM": 100003002,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.645,89"
+   "PREÇO": "2.641,69"
  },
  {
    "ITEM": 100003003,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.290,62"
+   "PREÇO": "3.284,81"
  },
  {
    "ITEM": 100003004,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 444 MM (17.1/2\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.000,23"
+   "PREÇO": "3.992,63"
  },
  {
    "ITEM": 100003005,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 508 MM (20\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.783,42"
+   "PREÇO": "5.771,62"
  },
  {
    "ITEM": 100003006,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 508 MM (20\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.107,00"
+   "PREÇO": "2.108,12"
  },
  {
    "ITEM": 100003007,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 508 MM (20\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.086,62"
+   "PREÇO": "3.081,65"
  },
  {
    "ITEM": 100003008,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 508 MM (20\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.796,76"
+   "PREÇO": "3.790,02"
  },
  {
    "ITEM": 100003009,
    "DESCRIÇÃO": "PERFURAÇÃO EM ROCHA CRISTALINA - DIÂMETRO 508 MM (20\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.554,33"
+   "PREÇO": "4.545,74"
  },
  {
    "ITEM": 100003132,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 101 MM (4\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "123,21"
+   "PREÇO": "122,98"
  },
  {
    "ITEM": 100003133,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 101 MM (4\") - STANDARD",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "119,72"
+   "PREÇO": "115,89"
  },
  {
    "ITEM": 100003134,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 115 MM (4.1/2\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "178,70"
+   "PREÇO": "190,09"
  },
  {
    "ITEM": 100003135,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 115 MM (4.1/2\") - STANDARD",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "151,28"
+   "PREÇO": "160,10"
  },
  {
    "ITEM": 100003136,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 150 MM (6\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "257,28"
+   "PREÇO": "279,97"
  },
  {
    "ITEM": 100003137,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 150 MM (6\") - STANDARD",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "195,85"
+   "PREÇO": "217,92"
  },
  {
    "ITEM": 100003138,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 206 MM (8\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "425,82"
+   "PREÇO": "468,94"
  },
  {
    "ITEM": 100003139,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 206 MM (8\") - STANDARD",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "347,85"
- },
- {
-   "ITEM": 100003140,
-   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 250 MM (10\") - REFORÇADO",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "475,79"
- },
- {
-   "ITEM": 100003141,
-   "DESCRIÇÃO": "APLICAÇÃO DE PASTA DE CIMENTO: POR GRAVIDADE",
-   "DATA I0": "jun/26",
-   "UNID": "M3",
-   "PREÇO": "1.411,21"
- },
- {
-   "ITEM": 100003144,
-   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "409,43"
- },
- {
-   "ITEM": 100003145,
-   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "246,76"
- },
- {
-   "ITEM": 100003146,
-   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "283,46"
- },
- {
-   "ITEM": 100003147,
-   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
-   "UNID": "M",
-   "PREÇO": "299,08"
- },
- {
-   "ITEM": 100003148,
-   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "330,16"
  },
  {
+   "ITEM": 100003140,
+   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 250 MM (10\") - REFORÇADO",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "475,47"
+ },
+ {
+   "ITEM": 100003141,
+   "DESCRIÇÃO": "APLICAÇÃO DE PASTA DE CIMENTO: POR GRAVIDADE",
+   "DATA I0": "set/26",
+   "UNID": "M3",
+   "PREÇO": "1.445,29"
+ },
+ {
+   "ITEM": 100003144,
+   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "408,44"
+ },
+ {
+   "ITEM": 100003145,
+   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO ATÉ 200 METROS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "246,59"
+ },
+ {
+   "ITEM": 100003146,
+   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO DE 201 A 400 METROS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "283,02"
+ },
+ {
+   "ITEM": 100003147,
+   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO DE 401 A 600 METROS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "298,59"
+ },
+ {
+   "ITEM": 100003148,
+   "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 12,18 KG/M - DIÂM. 101 MM (4\") - EQUIPAMENTO DE 601 A 1.000 METROS",
+   "DATA I0": "set/26",
+   "UNID": "M",
+   "PREÇO": "329,51"
+ },
+ {
    "ITEM": 100003149,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 19,24 KG/M - DIÂM. 152 MM (6\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "591,54"
+   "PREÇO": "590,45"
  },
  {
    "ITEM": 100003150,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 19,24 KG/M - DIÂM. 152 MM (6\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "418,70"
+   "PREÇO": "418,50"
  },
  {
    "ITEM": 100003151,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 19,24 KG/M - DIÂM. 152 MM (6\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "460,85"
+   "PREÇO": "460,35"
  },
  {
    "ITEM": 100003152,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 19,24 KG/M - DIÂM. 152 MM (6\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "476,39"
+   "PREÇO": "475,81"
  },
  {
    "ITEM": 100003153,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, DIN 2440, 19,24 KG/M - DIÂM. 152 MM (6\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "507,55"
+   "PREÇO": "506,82"
  },
  {
    "ITEM": 100003154,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 54,68 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.864,35"
+   "PREÇO": "1.862,95"
  },
  {
    "ITEM": 100003155,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 54,68 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.661,22"
+   "PREÇO": "1.660,93"
  },
  {
    "ITEM": 100003156,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 54,68 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.719,30"
+   "PREÇO": "1.718,55"
  },
  {
    "ITEM": 100003157,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 54,68 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.734,90"
+   "PREÇO": "1.734,08"
  },
  {
    "ITEM": 100003158,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 54,68 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.766,00"
+   "PREÇO": "1.765,04"
  },
  {
    "ITEM": 100003159,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 62,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.095,73"
+   "PREÇO": "2.094,34"
  },
  {
    "ITEM": 100003160,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 62,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.892,61"
+   "PREÇO": "1.892,31"
  },
  {
    "ITEM": 100003161,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 62,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.950,68"
+   "PREÇO": "1.949,94"
  },
  {
    "ITEM": 100003162,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 62,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.966,28"
+   "PREÇO": "1.965,47"
  },
  {
    "ITEM": 100003163,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 62,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.997,39"
+   "PREÇO": "1.996,43"
  },
  {
    "ITEM": 100003164,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 70,59 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.306,78"
+   "PREÇO": "2.305,29"
  },
  {
    "ITEM": 100003165,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 70,59 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.093,62"
+   "PREÇO": "2.093,29"
  },
  {
    "ITEM": 100003166,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 70,59 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.156,99"
+   "PREÇO": "2.156,17"
  },
  {
    "ITEM": 100003167,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 70,59 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.172,53"
+   "PREÇO": "2.171,64"
  },
  {
    "ITEM": 100003168,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 70,59 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.203,65"
+   "PREÇO": "2.202,60"
  },
  {
    "ITEM": 100003169,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 78,54 KG/M - DIÂM. 508 MM (20\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.340,79"
+   "PREÇO": "2.340,40"
  },
  {
    "ITEM": 100003170,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 78,54 KG/M - DIÂM. 508 MM (20\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.553,95"
+   "PREÇO": "2.552,41"
  },
  {
    "ITEM": 100003171,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 78,54 KG/M - DIÂM. 508 MM (20\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.404,16"
+   "PREÇO": "2.403,29"
  },
  {
    "ITEM": 100003172,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 78,54 KG/M - DIÂM. 508 MM (20\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.419,70"
+   "PREÇO": "2.418,75"
  },
  {
    "ITEM": 100003173,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 78,54 KG/M - DIÂM. 508 MM (20\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.450,82"
+   "PREÇO": "2.449,72"
  },
  {
    "ITEM": 100003174,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 86,50 KG/M - DIÂM. 560 MM (22\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.073,86"
+   "PREÇO": "4.072,23"
  },
  {
    "ITEM": 100003175,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 86,50 KG/M - DIÂM. 560 MM (22\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.850,57"
+   "PREÇO": "3.850,16"
  },
  {
    "ITEM": 100003176,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 86,50 KG/M - DIÂM. 560 MM (22\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.919,19"
+   "PREÇO": "3.918,25"
  },
  {
    "ITEM": 100003177,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 86,50 KG/M - DIÂM. 560 MM (22\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.934,76"
+   "PREÇO": "3.933,75"
  },
  {
    "ITEM": 100003178,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 86,50 KG/M - DIÂM. 560 MM (22\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.965,85"
+   "PREÇO": "3.964,68"
  },
  {
    "ITEM": 100003179,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 94,45 KG/M - DIÂM. 609 MM (24\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.740,34"
+   "PREÇO": "5.738,71"
  },
  {
    "ITEM": 100003180,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 94,45 KG/M - DIÂM. 609 MM (24\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.517,06"
+   "PREÇO": "5.516,65"
  },
  {
    "ITEM": 100003181,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 94,45 KG/M - DIÂM. 609 MM (24\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.585,68"
+   "PREÇO": "5.584,73"
  },
  {
    "ITEM": 100003182,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 94,45 KG/M - DIÂM. 609 MM (24\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.601,24"
+   "PREÇO": "5.600,23"
  },
  {
    "ITEM": 100003183,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.10, 94,45 KG/M - DIÂM. 609 MM (24\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.632,33"
+   "PREÇO": "5.631,17"
  },
  {
    "ITEM": 100003184,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 33,31 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "873,01"
+   "PREÇO": "846,41"
  },
  {
    "ITEM": 100003185,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 33,31 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "690,11"
+   "PREÇO": "664,49"
  },
  {
    "ITEM": 100003186,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 33,31 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "737,48"
+   "PREÇO": "711,50"
  },
  {
    "ITEM": 100003187,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 33,31 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "753,02"
+   "PREÇO": "726,96"
  },
  {
    "ITEM": 100003188,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 33,31 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO DE 601 A 800 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "784,24"
+   "PREÇO": "758,03"
  },
  {
    "ITEM": 100003189,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 41,77 KG/M - DIÂM. 254 MM (10\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.068,98"
+   "PREÇO": "1.045,32"
  },
  {
    "ITEM": 100003190,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 41,77 KG/M - DIÂM. 254 MM (10\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "875,96"
+   "PREÇO": "853,32"
  },
  {
    "ITEM": 100003191,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 41,77 KG/M - DIÂM. 254 MM (10\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "928,64"
+   "PREÇO": "905,61"
  },
  {
    "ITEM": 100003192,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 41,77 KG/M - DIÂM. 254 MM (10\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "944,26"
+   "PREÇO": "921,15"
  },
  {
    "ITEM": 100003193,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 41,77 KG/M - DIÂM. 254 MM (10\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "975,40"
+   "PREÇO": "952,14"
  },
  {
    "ITEM": 100003194,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 49,72 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.241,48"
+   "PREÇO": "1.213,61"
  },
  {
    "ITEM": 100003195,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 49,72 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.048,46"
+   "PREÇO": "1.021,61"
  },
  {
    "ITEM": 100003196,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 49,72 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.101,15"
+   "PREÇO": "1.073,89"
  },
  {
    "ITEM": 100003197,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 49,72 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.116,76"
+   "PREÇO": "1.089,43"
  },
  {
    "ITEM": 100003198,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 49,72 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.147,90"
+   "PREÇO": "1.120,42"
  },
  {
    "ITEM": 100003204,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 67,74 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.503,76"
+   "PREÇO": "1.502,36"
  },
  {
    "ITEM": 100003205,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 67,74 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.300,63"
+   "PREÇO": "1.300,34"
  },
  {
    "ITEM": 100003206,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 67,74 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.358,71"
+   "PREÇO": "1.357,96"
  },
  {
    "ITEM": 100003207,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 67,74 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.374,31"
+   "PREÇO": "1.373,49"
  },
  {
    "ITEM": 100003208,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 67,74 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.405,41"
+   "PREÇO": "1.404,45"
  },
  {
    "ITEM": 100003209,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 77,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO ACIMA DE 1.001METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.880,20"
+   "PREÇO": "1.878,81"
  },
  {
    "ITEM": 100003210,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 77,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.677,08"
+   "PREÇO": "1.676,79"
  },
  {
    "ITEM": 100003211,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 77,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.735,16"
+   "PREÇO": "1.734,41"
  },
  {
    "ITEM": 100003212,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 77,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.750,76"
+   "PREÇO": "1.749,94"
  },
  {
    "ITEM": 100003213,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 77,63 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.781,86"
+   "PREÇO": "1.780,90"
  },
  {
    "ITEM": 100003214,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 87,79 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.953,04"
+   "PREÇO": "1.952,22"
  },
  {
    "ITEM": 100003215,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 87,79 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.102,82"
+   "PREÇO": "2.101,34"
  },
  {
    "ITEM": 100003216,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO , SCH.20, 87,79 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.889,66"
+   "PREÇO": "1.889,33"
  },
  {
    "ITEM": 100003217,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 87,79 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.968,58"
+   "PREÇO": "1.967,68"
  },
  {
    "ITEM": 100003218,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.20, 87,79 KG/M - DIÂM. 457 MM (18\") - EQUIPAMENTO DE 601 A 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.999,69"
+   "PREÇO": "1.998,64"
  },
  {
    "ITEM": 100003219,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 81,28 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.647,91"
+   "PREÇO": "2.646,43"
  },
  {
    "ITEM": 100003220,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 81,28 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.434,75"
+   "PREÇO": "2.434,42"
  },
  {
    "ITEM": 100003221,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 81,28 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.498,12"
+   "PREÇO": "2.497,31"
  },
  {
    "ITEM": 100003222,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 81,28 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.513,66"
+   "PREÇO": "2.512,77"
  },
  {
    "ITEM": 100003223,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 81,28 KG/M - DIÂM. 356 MM (14\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.544,78"
+   "PREÇO": "2.543,73"
  },
  {
    "ITEM": 100003224,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 92,98 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.936,38"
+   "PREÇO": "2.934,90"
  },
  {
    "ITEM": 100003225,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 92,98 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.723,23"
+   "PREÇO": "2.722,89"
  },
  {
    "ITEM": 100003226,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 92,98 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.786,60"
+   "PREÇO": "2.785,78"
  },
  {
    "ITEM": 100003227,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 92,98 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.802,14"
+   "PREÇO": "2.801,24"
  },
  {
    "ITEM": 100003228,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.30, 92,98 KG/M - DIÂM. 406 MM (16\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.833,25"
+   "PREÇO": "2.832,20"
  },
  {
    "ITEM": 100003229,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 42,65 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "935,28"
+   "PREÇO": "933,99"
  },
  {
    "ITEM": 100003230,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 42,65 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "742,26"
+   "PREÇO": "741,99"
  },
  {
    "ITEM": 100003231,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 42,65 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "794,94"
+   "PREÇO": "794,28"
  },
  {
    "ITEM": 100003232,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 42,65 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "810,56"
+   "PREÇO": "809,82"
  },
  {
    "ITEM": 100003233,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 42,65 KG/M - DIÂM. 203 MM (8\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "841,70"
+   "PREÇO": "840,81"
  },
  {
    "ITEM": 100003234,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 79,74 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO ACIMA DE 1.001 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.668,24"
+   "PREÇO": "1.666,84"
  },
  {
    "ITEM": 100003235,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 79,74 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO ATÉ 200 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.465,11"
+   "PREÇO": "1.464,82"
  },
  {
    "ITEM": 100003236,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 79,74 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO DE 201 A 400 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.523,19"
+   "PREÇO": "1.522,44"
  },
  {
    "ITEM": 100003237,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 79,74 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO DE 401 A 600 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.538,79"
+   "PREÇO": "1.537,97"
  },
  {
    "ITEM": 100003238,
    "DESCRIÇÃO": "REVESTIMENTO EM TUBO DE AÇO LISO, SCH.40, 79,74 KG/M - DIÂM. 323 MM (12.3/4\") - EQUIPAMENTO DE 601 A 1.000 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.569,89"
+   "PREÇO": "1.568,93"
  },
  {
    "ITEM": 100003239,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 115 MM (4.1/4\") - STANDARD",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.838,14"
+   "PREÇO": "2.065,43"
  },
  {
    "ITEM": 100003240,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 152 MM (6. 1/2\") - STANDARD",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.385,61"
+   "PREÇO": "2.678,16"
  },
  {
    "ITEM": 100003241,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 203 MM (8\") - STANDARD",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.237,95"
+   "PREÇO": "3.622,26"
  },
  {
    "ITEM": 100003247,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 100 MM (4\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.905,27"
+   "PREÇO": "2.131,98"
  },
  {
    "ITEM": 100003248,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 152 MM (6\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.997,44"
+   "PREÇO": "3.400,41"
  },
  {
    "ITEM": 100003249,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 203 MM (8\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.309,38"
+   "PREÇO": "4.983,58"
  },
  {
    "ITEM": 100003250,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 254 MM (10\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.462,04"
+   "PREÇO": "4.461,72"
  },
  {
    "ITEM": 100003251,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 305 MM (12\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.304,26"
+   "PREÇO": "5.303,90"
  },
  {
    "ITEM": 100003252,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 356 MM (14\") - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.712,54"
+   "PREÇO": "4.712,13"
  },
  {
    "ITEM": 100003253,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 254 MM (10\") - SUPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.834,07"
+   "PREÇO": "5.833,75"
  },
  {
    "ITEM": 100003254,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 100 MM (4\") - SUPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.126,40"
+   "PREÇO": "2.385,37"
  },
  {
    "ITEM": 100003255,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 152 MM (6\") - SUPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.465,61"
+   "PREÇO": "3.991,22"
  },
  {
    "ITEM": 100003256,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 203 MM (8\") - SUPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.752,81"
+   "PREÇO": "5.509,75"
  },
  {
    "ITEM": 100003257,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 305 MM (12\") - SUPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "7.239,26"
+   "PREÇO": "7.238,90"
  },
  {
    "ITEM": 100003258,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 356 MM (14\") - SUPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "9.254,87"
+   "PREÇO": "10.768,12"
  },
  {
    "ITEM": 100003259,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 305 MM (12\") - HIPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "9.744,12"
+   "PREÇO": "9.743,76"
  },
  {
    "ITEM": 100003260,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 203 MM (8\") - HIPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "7.034,68"
+   "PREÇO": "8.219,46"
  },
  {
    "ITEM": 100003261,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 254 MM (10\") - HIPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8.255,12"
+   "PREÇO": "8.254,80"
  },
  {
    "ITEM": 100003262,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 356 MM (14\") - HIPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "11.108,79"
+   "PREÇO": "11.108,38"
  },
  {
    "ITEM": 100003263,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 100 MM (4\") - HIPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2.419,87"
+   "PREÇO": "2.685,30"
  },
  {
    "ITEM": 100003264,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - DIÂMETRO 152 MM (6\") - HIPER REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.486,87"
+   "PREÇO": "5.224,55"
  },
  {
    "ITEM": 100003265,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - 600 FUROS/METRO - DIÂMETRO 6.5/8\" - JAQUETADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.780,35"
+   "PREÇO": "3.780,03"
  },
  {
    "ITEM": 100003266,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - 720 FUROS/METRO - DIÂMETRO 8.5/8\" - JAQUETADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4.130,94"
+   "PREÇO": "4.130,62"
  },
  {
    "ITEM": 100003267,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, GALVANIZADO - 840 FUROS/METRO - DIÂMETRO 10.3/4\" - JAQUETADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8.433,77"
+   "PREÇO": "8.433,45"
  },
  {
    "ITEM": 100003269,
    "DESCRIÇÃO": "FILTROS EM PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 100 MM (4\") - REFORCADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "199,04"
+   "PREÇO": "198,84"
  },
  {
    "ITEM": 100003270,
    "DESCRIÇÃO": "FILTROS EM PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 115 MM (4.1/2\") - REFORCADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "269,44"
+   "PREÇO": "269,21"
  },
  {
    "ITEM": 100003272,
    "DESCRIÇÃO": "FILTROS EM PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 150 MM (6\") - REFORCADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "336,47"
+   "PREÇO": "336,20"
  },
  {
    "ITEM": 100003273,
    "DESCRIÇÃO": "FILTROS EM PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 154 MM (6\") - STANDARD",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "348,62"
+   "PREÇO": "348,35"
  },
  {
    "ITEM": 100003274,
    "DESCRIÇÃO": "FILTROS EM PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 200 MM (8\") - REFORCADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "524,07"
+   "PREÇO": "523,78"
  },
  {
    "ITEM": 100003275,
    "DESCRIÇÃO": "FILTROS EM PVC RÍGIDO, NERVURADO, DIN 4925, NBR 13.604 - DIÂMETRO 206 MM (8\") - STANDARD",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "656,83"
+   "PREÇO": "656,54"
  },
  {
    "ITEM": 100003277,
    "DESCRIÇÃO": "FILTRO ESTAMPADO, TIPO NOLD, PRETO- DIÂMETRO 100 MM (4\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "476,56"
+   "PREÇO": "439,46"
  },
  {
    "ITEM": 100003278,
    "DESCRIÇÃO": "FILTRO ESTAMPADO, TIPO NOLD, PRETO- DIÂMETRO 152 MM (6\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "592,03"
+   "PREÇO": "544,72"
  },
  {
    "ITEM": 100003279,
    "DESCRIÇÃO": "FILTRO ESTAMPADO, TIPO NOLD, PRETO - DIÂMETRO 203 MM (8\")",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "716,86"
+   "PREÇO": "854,68"
  },
  {
    "ITEM": 100003280,
    "DESCRIÇÃO": "PRÉ-FILTRO, SUB-ARREDONDADO (CIRCULAÇÃO D´ÁGUA) - (1,5 T/M3) - EQUIPAMENTO ACIMA DE 1.001 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.559,60"
+   "PREÇO": "3.552,01"
  },
  {
    "ITEM": 100003281,
    "DESCRIÇÃO": "PRÉ-FILTRO, SUB-ARREDONDADO (CIRCULAÇÃO D´ÁGUA) - (1,5 T/M3) - EQUIPAMENTO ATÉ 30 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.223,16"
+   "PREÇO": "2.221,64"
  },
  {
    "ITEM": 100003282,
    "DESCRIÇÃO": "PRÉ-FILTRO, SUB-ARREDONDADO (CIRCULAÇÃO D´ÁGUA) - (1,5 T/M3) - EQUIPAMENTO DE 201 A 400 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.628,47"
+   "PREÇO": "2.624,45"
  },
  {
    "ITEM": 100003283,
    "DESCRIÇÃO": "PRÉ-FILTRO, SUB-ARREDONDADO (CIRCULAÇÃO D´ÁGUA) - (1,5 T/M3) - EQUIPAMENTO DE 31 A 200 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.297,86"
+   "PREÇO": "2.296,17"
  },
  {
    "ITEM": 100003284,
    "DESCRIÇÃO": "PRÉ-FILTRO, SUB-ARREDONDADO (CIRCULAÇÃO D´ÁGUA) - (1,5 T/M3) - EQUIPAMENTO DE 401 A 600 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.748,17"
+   "PREÇO": "2.743,72"
  },
  {
    "ITEM": 100003285,
    "DESCRIÇÃO": "PRÉ-FILTRO, SUB-ARREDONDADO (CIRCULAÇÃO D´ÁGUA) - (1,5 T/M3) - EQUIPAMENTO DE 601 A 1.000 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.881,15"
+   "PREÇO": "2.876,20"
  },
  {
    "ITEM": 100003291,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA ATÉ 20 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "599,50"
+   "PREÇO": "594,94"
  },
  {
    "ITEM": 100003292,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 20,1 A 35 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "721,09"
+   "PREÇO": "714,65"
  },
  {
    "ITEM": 100003293,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 35,1 A 60 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "885,02"
+   "PREÇO": "864,55"
  },
  {
    "ITEM": 100003294,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 60,1 A 90 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.005,49"
+   "PREÇO": "994,60"
  },
  {
    "ITEM": 100003295,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 90,1 A 120 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.033,80"
+   "PREÇO": "1.021,30"
  },
  {
    "ITEM": 100003296,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 120,1 A 150 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.052,12"
+   "PREÇO": "1.051,49"
  },
  {
    "ITEM": 100003297,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 150,1 A 180 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.145,42"
+   "PREÇO": "1.126,96"
  },
  {
    "ITEM": 100003298,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 180,1 A 210 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.159,24"
+   "PREÇO": "1.131,75"
  },
  {
    "ITEM": 100003299,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 210,1 A 250 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.173,59"
+   "PREÇO": "1.154,09"
  },
  {
    "ITEM": 100003300,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM BOMBA SUBMERSA DE 250,1 A 400 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.372,52"
+   "PREÇO": "1.342,89"
  },
  {
    "ITEM": 100003301,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM COMPRESSOR 1.200 LB/POL.2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.342,22"
+   "PREÇO": "1.306,00"
  },
  {
    "ITEM": 100003302,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM COMPRESSOR 175 LB/POL.2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "715,14"
+   "PREÇO": "708,29"
  },
  {
    "ITEM": 100003303,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM COMPRESSOR 250 LB/POL.2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "786,88"
+   "PREÇO": "774,67"
  },
  {
    "ITEM": 100003304,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM COMPRESSOR 960 LB/POL.2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.141,22"
+   "PREÇO": "1.095,88"
  },
  {
    "ITEM": 100003305,
    "DESCRIÇÃO": "DESENVOLVIMENTO COM PLUNGE OU PISTÃO COM VÁLVULA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "524,35"
+   "PREÇO": "514,79"
  },
  {
    "ITEM": 100003306,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA ATÉ 20 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "599,50"
+   "PREÇO": "594,94"
  },
  {
    "ITEM": 100003307,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 20,1 A 35 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "721,09"
+   "PREÇO": "714,65"
  },
  {
    "ITEM": 100003308,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 35,1 A 60 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "885,02"
+   "PREÇO": "864,55"
  },
  {
    "ITEM": 100003309,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 60,1 A 90 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.005,49"
+   "PREÇO": "994,60"
  },
  {
    "ITEM": 100003310,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 90,1 A 120 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.033,80"
+   "PREÇO": "1.021,30"
  },
  {
    "ITEM": 100003311,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 120,1 A 150 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.052,12"
+   "PREÇO": "1.051,49"
  },
  {
    "ITEM": 100003312,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 150,1 A 180 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.145,42"
+   "PREÇO": "1.126,96"
  },
  {
    "ITEM": 100003313,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 180,1 A 210 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.159,24"
+   "PREÇO": "1.131,75"
  },
  {
    "ITEM": 100003314,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 210,1 A 250 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.173,59"
+   "PREÇO": "1.154,09"
  },
  {
    "ITEM": 100003315,
    "DESCRIÇÃO": "ENSAIO DE VAZÃO COM BOMBA SUBMERSA DE 250,1 A 400 HP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "H",
-   "PREÇO": "1.372,52"
+   "PREÇO": "1.342,89"
  },
  {
    "ITEM": 100003327,
    "DESCRIÇÃO": "PRODUTOS QUÍMICOS - DISPERSANTE (HEXAMETAFOSFATO DE SÓDIO, DISPERGEL OU SIMILAR)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "122,70"
+   "PREÇO": "91,51"
  },
  {
    "ITEM": 100003328,
    "DESCRIÇÃO": "FUÍDO PARA PERFURACAO (DMP 2000, S 1500 OU SIMILAR)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
    "PREÇO": "104,96"
  },
  {
    "ITEM": 100003335,
    "DESCRIÇÃO": "ENDOSCOPIA (PERFILAGEM ÓPTICA) - ACIMA DE 1.001 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "39,68"
  },
  {
    "ITEM": 100003336,
    "DESCRIÇÃO": "ENDOSCOPIA (PERFILAGEM ÓPTICA) - ATÉ 200 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "30,08"
  },
  {
    "ITEM": 100003337,
    "DESCRIÇÃO": "ENDOSCOPIA (PERFILAGEM ÓPTICA) - DE 201 A 400 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "33,28"
  },
  {
    "ITEM": 100003338,
    "DESCRIÇÃO": "ENDOSCOPIA (PERFILAGEM ÓPTICA) - DE 401 A 600 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "34,56"
  },
  {
    "ITEM": 100003339,
    "DESCRIÇÃO": "ENDOSCOPIA (PERFILAGEM ÓPTICA) - DE 601 A 800 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "35,84"
  },
  {
    "ITEM": 100003340,
    "DESCRIÇÃO": "ENDOSCOPIA (PERFILAGEM ÓPTICA) - DE 801 A 1.000 METROS DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "37,12"
  },
  {
    "ITEM": 100003341,
    "DESCRIÇÃO": "ENDOSCOPIA (PERFILAGEM ÓPTICA) - TAXA DE TRANSPORTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "8,23"
+   "PREÇO": "9,15"
  },
  {
    "ITEM": 100011002,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, AÇO INOX - DIÂM. 100 MM ( 4\" ) - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3.848,99"
+   "PREÇO": "4.487,85"
  },
  {
    "ITEM": 100011003,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, AÇO INOX - DIÂM. 152 MM ( 6\" ) - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "5.846,13"
+   "PREÇO": "6.819,76"
  },
  {
    "ITEM": 100011004,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, AÇO INOX - DIÂM. 203 MM ( 8\" ) - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8.869,03"
+   "PREÇO": "10.238,71"
  },
  {
    "ITEM": 100011005,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, AÇO INOX - DIÂM. 254 MM ( 10\" ) - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "10.570,74"
+   "PREÇO": "12.384,54"
  },
  {
    "ITEM": 100011006,
    "DESCRIÇÃO": "FILTRO ESPIRALADO, PERFIL V, AÇO INOX - DIÂM. 323 MM ( 12 3/4\" ) - REFORÇADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "13.782,54"
+   "PREÇO": "16.179,47"
  },
  {
    "ITEM": 100004801,
    "DESCRIÇÃO": "ANDAIMES TUBULARES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3M",
-   "PREÇO": "33,56"
+   "PREÇO": "33,63"
  },
  {
    "ITEM": 100004802,
    "DESCRIÇÃO": "CIMBRAMENTO DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "100,47"
+   "PREÇO": "99,98"
  },
  {
    "ITEM": 100004803,
    "DESCRIÇÃO": "CIMBRAMENTO TUBULAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3M",
    "PREÇO": "41,31"
  },
  {
    "ITEM": 100004804,
    "DESCRIÇÃO": "PLATAFORMA COM LANÇA ARTICULADA - H=25 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
-   "PREÇO": "34.233,92"
+   "PREÇO": "35.392,00"
  },
  {
    "ITEM": 100004805,
    "DESCRIÇÃO": "PLATAFORMA COM LANÇA ARTICULADA - H=40 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
-   "PREÇO": "64.774,08"
+   "PREÇO": "67.345,60"
  },
  {
    "ITEM": 100004806,
    "DESCRIÇÃO": "PROTEÇÃO COM TELA DE NYLON",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "19,26"
+   "PREÇO": "20,19"
  },
  {
    "ITEM": 100004807,
    "DESCRIÇÃO": "RECUPERAÇÃO EM ESTRUTURAS VERTICAIS COM UTILIZAÇÃO DE CADEIRA SUSPENSA COM CATRACA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
    "PREÇO": "970,56"
  },
  {
    "ITEM": 100004808,
    "DESCRIÇÃO": "APICOAMENTO MANUAL DE SUPERFÍCIE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "84,25"
  },
  {
    "ITEM": 100004809,
    "DESCRIÇÃO": "DEFINIÇÃO E DEMARCAÇÃO DA ÁREA DE REPARO COM DISCO DE CORTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8,61"
+   "PREÇO": "8,55"
  },
  {
    "ITEM": 100004810,
    "DESCRIÇÃO": "DEMOLIÇÃO DE CONCRETO ATÉ A PROFUNDIDADE DE 10 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "64,00"
+   "PREÇO": "64,38"
  },
  {
    "ITEM": 100004811,
    "DESCRIÇÃO": "DEMOLIÇÃO DE CONCRETO ATÉ A PROFUNDIDADE DE 5 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "32,01"
+   "PREÇO": "32,20"
  },
  {
    "ITEM": 100004812,
    "DESCRIÇÃO": "ESCARIFICAÇÃO MECÂNICA ATÉ A PROFUNDIDADE DE 4 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "9,92"
+   "PREÇO": "9,98"
  },
  {
    "ITEM": 100004813,
    "DESCRIÇÃO": "ESCARIFICAÇÃO MECÂNICA COM DISCO DE DESBASTE ATÉ 0,5 CM DE PROFUNDIDADE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "45,35"
+   "PREÇO": "44,98"
  },
  {
    "ITEM": 100004814,
    "DESCRIÇÃO": "ESCOVAMENTO MANUAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "11,11"
  },
  {
    "ITEM": 100004815,
    "DESCRIÇÃO": "HIDROJATEAMENTO DE ALTA PRESSÃO COM ÁGUA QUENTE OU FRIA E SOLUÇÃO LIMPADORA ATÉ 17 MPA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "19,46"
+   "PREÇO": "19,89"
  },
  {
    "ITEM": 100004816,
    "DESCRIÇÃO": "HIDROJATEAMENTO DE ALTÍSSIMA PRESSÃO COM ÁGUA QUENTE OU FRIA E SOLUÇÃO LIMPADORA ACIMA DE 17 MPA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "19,46"
+   "PREÇO": "19,89"
  },
  {
    "ITEM": 100004817,
    "DESCRIÇÃO": "JATEAMENTO COM AR COMPRIMIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "12,06"
+   "PREÇO": "11,78"
  },
  {
    "ITEM": 100004818,
    "DESCRIÇÃO": "LIXAMENTO DO SUBSTRATO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "28,74"
+   "PREÇO": "28,48"
  },
  {
    "ITEM": 100004819,
    "DESCRIÇÃO": "UMEDECIMENTO DO SUBSTRATO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "9,02"
+   "PREÇO": "9,43"
  },
  {
    "ITEM": 100004821,
    "DESCRIÇÃO": "APLICAÇÃO DE TINTA DE ALTO TEOR DE ZINCO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "9,96"
+   "PREÇO": "9,93"
  },
  {
    "ITEM": 100004822,
    "DESCRIÇÃO": "COMPLEMENTAÇÃO DE BARRAS DE AÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "25,40"
+   "PREÇO": "26,12"
  },
  {
    "ITEM": 100004823,
    "DESCRIÇÃO": "EMENDAS POR TRANSPASSE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "15,40"
+   "PREÇO": "15,46"
  },
  {
    "ITEM": 100004824,
    "DESCRIÇÃO": "JATEAMENTO COM MINÉRIO TIPO ESFÉRICO GRANULOMETRIA 12/20 ALFA ALUMINA - 80%",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "100,74"
+   "PREÇO": "112,69"
  },
  {
    "ITEM": 100004825,
    "DESCRIÇÃO": "JATEAMENTO COM ESCÓRIA DE COBRE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "45,67"
+   "PREÇO": "47,26"
  },
  {
    "ITEM": 100004826,
    "DESCRIÇÃO": "LIMPEZA DE SUPERFÍCIE COM GRANALHA DE AÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "38,78"
+   "PREÇO": "38,63"
  },
  {
    "ITEM": 100004827,
    "DESCRIÇÃO": "LIXAMENTO DAS ARMADURAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "13,02"
+   "PREÇO": "12,97"
  },
  {
    "ITEM": 100004828,
    "DESCRIÇÃO": "SUBSTITUIÇÃO DE BARRAS DE AÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "28,22"
+   "PREÇO": "28,95"
  },
  {
    "ITEM": 100004829,
    "DESCRIÇÃO": "TRATAMENTO DE CONCRETO COM ARMADURAS OXIDADAS E RECOMPOSIÇÃO COM ARGAMASSA POLIMÉRICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "741,48"
+   "PREÇO": "738,44"
  },
  {
    "ITEM": 100004830,
    "DESCRIÇÃO": "APLICAÇÃO DE ARGAMASSA TIPO DRY PACK PARA REPAROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "8.615,91"
+   "PREÇO": "8.616,06"
  },
  {
    "ITEM": 100004831,
    "DESCRIÇÃO": "APLICAÇÃO DE ARGAMASSA TIPO DRY PACK PARA TIRANTES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "38,89"
+   "PREÇO": "38,86"
  },
  {
    "ITEM": 100004832,
    "DESCRIÇÃO": "APLICAÇÃO DE MEMBRANA DE CURA QUÍMICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "16,86"
  },
  {
    "ITEM": 100004833,
    "DESCRIÇÃO": "ARGAMASSA À BASE DE CIMENTO MODIFICADA COM POLÍMEROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "9.624,97"
+   "PREÇO": "9.625,09"
  },
  {
    "ITEM": 100004834,
    "DESCRIÇÃO": "ARGAMASSA À BASE DE CIMENTO MODIFICADA COM POLÍMEROS ESPESSURA ATÉ 2 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "192,51"
  },
  {
    "ITEM": 100004835,
    "DESCRIÇÃO": "ARGAMASSA À BASE DE CIMENTO MODIFICADA COM POLÍMEROS ESPESSURA ATÉ 3 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "288,78"
  },
  {
    "ITEM": 100004836,
    "DESCRIÇÃO": "ARGAMASSA À BASE DE CIMENTO MODIFICADA COM POLÍMEROS ESPESSURA ATÉ 5 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "481,27"
+   "PREÇO": "481,28"
  },
  {
    "ITEM": 100004837,
    "DESCRIÇÃO": "ARGAMASSA BASE EPÓXI ESPESSURA ATÉ 3 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "3.385,80"
+   "PREÇO": "3.485,70"
  },
  {
    "ITEM": 100004838,
    "DESCRIÇÃO": "ARGAMASSA PROJETADA EM PAREDES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.910,56"
+   "PREÇO": "2.895,41"
  },
  {
    "ITEM": 100004839,
    "DESCRIÇÃO": "ARGAMASSA PROJETADA EM TETOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.211,02"
+   "PREÇO": "3.193,73"
  },
  {
    "ITEM": 100004840,
    "DESCRIÇÃO": "CONCRETO PROJETADO EM PAREDES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.020,31"
+   "PREÇO": "3.098,68"
  },
  {
    "ITEM": 100004841,
    "DESCRIÇÃO": "CONCRETO PROJETADO EM TETOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.331,29"
+   "PREÇO": "3.419,69"
  },
  {
    "ITEM": 100004842,
    "DESCRIÇÃO": "ESTANCAMENTO DE INFILTRAÇÃO COM CIMENTO DE PEGA ULTRA RÁPIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "983,44"
+   "PREÇO": "1.248,74"
  },
  {
    "ITEM": 100004843,
    "DESCRIÇÃO": "FORMA PARA REPAROS PROFUNDOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "375,72"
+   "PREÇO": "375,17"
  },
  {
    "ITEM": 100004844,
    "DESCRIÇÃO": "GRAUTE MINERAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "4.332,16"
+   "PREÇO": "4.797,72"
  },
  {
    "ITEM": 100004845,
    "DESCRIÇÃO": "GRAUTE MINERAL E PEDRISCOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "3.277,64"
+   "PREÇO": "3.610,25"
  },
  {
    "ITEM": 100004846,
    "DESCRIÇÃO": "MICRO CONCRETO MODIFICADO COM POLÍMEROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "12.619,48"
+   "PREÇO": "12.005,24"
  },
  {
    "ITEM": 100004847,
    "DESCRIÇÃO": "MICRO CONRETO MODIFICADO COM POLÍMEROS COM TRAÇO REALIZADO IN LOCO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.869,58"
+   "PREÇO": "2.716,13"
  },
  {
    "ITEM": 100004848,
    "DESCRIÇÃO": "DESOBSTRUÇÃO DA JUNTA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "36,11"
  },
  {
    "ITEM": 100004849,
    "DESCRIÇÃO": "RECOMPOSIÇÃO DE BORDA DE CONCRETO COM ARGAMASSA EPOXIDICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "126,96"
+   "PREÇO": "111,17"
  },
  {
    "ITEM": 100004850,
    "DESCRIÇÃO": "RECOMPOSIÇÃO DE BORDA DE CONCRETO COM ARGAMASSA POLIMÉRICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "40,35"
  },
  {
    "ITEM": 100004851,
    "DESCRIÇÃO": "REPARO EM JUNTAS COM PERFIL PRÉ-MOLDADO DE NEOPRENE LARGURA DE 10 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "174,12"
+   "PREÇO": "174,26"
  },
  {
    "ITEM": 100004852,
    "DESCRIÇÃO": "REPARO EM JUNTAS COM PERFIL PRÉ-MOLDADO DE NEOPRENE LARGURA DE 20 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "288,84"
+   "PREÇO": "288,99"
  },
  {
    "ITEM": 100004853,
    "DESCRIÇÃO": "REPARO EM JUNTAS COM PERFIL PRÉ-MOLDADO DE NEOPRENE LARGURA DE 25 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "356,26"
+   "PREÇO": "356,40"
  },
  {
    "ITEM": 100004854,
    "DESCRIÇÃO": "REPARO EM JUNTAS COM PERFIL PRÉ-MOLDADO DE NEOPRENE LARGURA DE 30 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "521,84"
+   "PREÇO": "521,98"
  },
  {
    "ITEM": 100004855,
    "DESCRIÇÃO": "REPARO EM JUNTAS COM PERFIL PRÉ-MOLDADO DE NEOPRENE LARGURA DE 35 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "583,41"
+   "PREÇO": "583,55"
  },
  {
    "ITEM": 100004856,
    "DESCRIÇÃO": "REPARO EM JUNTAS COM PERFIL PRÉ-MOLDADO DE NEOPRENE LARGURA DE 40 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "834,74"
+   "PREÇO": "834,88"
  },
  {
    "ITEM": 100004857,
    "DESCRIÇÃO": "REPARO EM JUNTAS COM PERFIL PRÉ-MOLDADO DE NEOPRENE LARGURA DE 50 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "996,15"
+   "PREÇO": "996,29"
  },
  {
    "ITEM": 100004858,
    "DESCRIÇÃO": "RETIRADA DE PERFIL VULCANIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "54,13"
  },
  {
    "ITEM": 100004859,
    "DESCRIÇÃO": "VEDAÇÃO DE JUNTAS COM MASTIQUE ELÁSTICO DE POLIURETANO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "54,75"
+   "PREÇO": "65,45"
  },
  {
    "ITEM": 100004860,
    "DESCRIÇÃO": "VEDAÇÃO DE JUNTAS COM MASTIQUE ELÁSTICO DE SILICONE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "42,06"
+   "PREÇO": "35,40"
  },
  {
    "ITEM": 100004862,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO E PROTEÇÃO QUÍMICA POR TRATAMENTO DE CRISTALIZAÇÃO OSMÓTICA PROFUNDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "108,89"
+   "PREÇO": "111,58"
  },
  {
    "ITEM": 100004863,
    "DESCRIÇÃO": "REPARO EM JUNTAS DE DILATAÇÃO COM PERFIL FLEXÍVEL PRÉ-MOLDADO DE EPDM L=40 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "235,25"
+   "PREÇO": "235,39"
  },
  {
    "ITEM": 100004864,
    "DESCRIÇÃO": "REPARO ESTRUTURAL DE VIGAS, LAJES E PILARES COM APLICAÇÃO DE GRAUTE VÃOS DE 35 A 70 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "76,08"
+   "PREÇO": "77,25"
  },
  {
    "ITEM": 100004865,
    "DESCRIÇÃO": "SERVIÇOS DE PERFURAÇÃO E INSTALAÇÃO DE BICOS DE PERFURAÇÃO E INJEÇÃO DE (113X15)MM AO LONGO DE FISSURA E/OU TRINCA EM ESTRUTURAS DE CONCRETO SIMPLES E/OU ARMADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "34,85"
+   "PREÇO": "26,80"
  },
  {
    "ITEM": 100004866,
    "DESCRIÇÃO": "TRATAMENTO DE CONCRETO SEGREGADO (BICHEIRAS) POR CRISTALIZAÇÃO OSMÓTICA PROFUNDA, SEM PERCOLAÇÃO DE ÁGUA PELO MÉTODO DE DRY-PACK COM ESPESSURA DE 3 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "3.463,00"
+   "PREÇO": "3.557,95"
  },
  {
    "ITEM": 100004867,
    "DESCRIÇÃO": "TRATAMENTO DE FISSURAS COM INJECAO DE GEL ACRILICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "269,16"
+   "PREÇO": "231,05"
  },
  {
    "ITEM": 100004868,
    "DESCRIÇÃO": "TRATAMENTO DE JUNTA DE CONCRETAGEM E FISSURAS PASSIVAS POR CRISTALIZAÇÃO OSMÓTICA PROFUNDA, COM PERCOLAÇÃO DE ÁGUA PELO MÉTODO DE DRY-PACK (CANALETA DE 3,00X 4,00 CM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "143,30"
+   "PREÇO": "145,51"
  },
  {
    "ITEM": 100004869,
    "DESCRIÇÃO": "TRATAMENTO DE JUNTA DE CONCRETAGEM E FISSURAS PASSIVAS POR CRISTALIZAÇÃO OSMÓTICA PROFUNDA, SEM PERCOLAÇÃO DE ÁGUA PELO MÉTODO DE DRY-PACK (CANALETA DE 3,00X 3,00 CM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "128,29"
+   "PREÇO": "131,05"
  },
  {
    "ITEM": 100004870,
    "DESCRIÇÃO": "TRATAMENTO DE JUNTA DE DILATAÇÃO COM INJEÇÃO DE ESPUMA A BASE DE POLIURETANO HIDROATIVADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "L",
-   "PREÇO": "225,80"
+   "PREÇO": "223,74"
  },
  {
    "ITEM": 100004871,
    "DESCRIÇÃO": "TRATAMENTO DE JUNTAS DE DILATACAO COM INJECAO DE GEL ACRILICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "L",
-   "PREÇO": "543,32"
+   "PREÇO": "471,56"
  },
  {
    "ITEM": 100004872,
    "DESCRIÇÃO": "TRATAMENTO DE JUNTAS DE DILATAÇÃO COM INJEÇÃO DE GEL DE POLIURETANO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "L",
-   "PREÇO": "146,65"
+   "PREÇO": "171,42"
  },
  {
    "ITEM": 100004874,
    "DESCRIÇÃO": "TRATAMENTO FLEXÍVEL COM INJEÇÃO DE ESPUMA À BASE DE POLIURETANO HIDROATIVO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "347,65"
+   "PREÇO": "313,20"
  },
  {
    "ITEM": 100004875,
    "DESCRIÇÃO": "TRATAMENTO FLEXÍVEL COM INJEÇÃO DE GEL À BASE DE POLIURETANO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "343,96"
+   "PREÇO": "321,66"
  },
  {
    "ITEM": 100004876,
    "DESCRIÇÃO": "TRATAMENTO FLEXÍVEL COM INJEÇÃO DE SELANTE À BASE DE POLIURETANO HIDROATIVADO E GEL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "663,18"
+   "PREÇO": "618,01"
  },
  {
    "ITEM": 100004877,
    "DESCRIÇÃO": "TRATAMENTO FLEXÍVEL COM MASTIQUE ELÁSTICO BASE POLIURETANO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "137,28"
+   "PREÇO": "141,77"
  },
  {
    "ITEM": 100004878,
    "DESCRIÇÃO": "TRATAMENTO FLEXÍVEL COM MASTIQUE ELÁSTICO BASE SILICONE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "126,37"
+   "PREÇO": "123,34"
  },
  {
    "ITEM": 100004879,
    "DESCRIÇÃO": "TRATAMENTO FLEXÍVEL COM PERFIL PRÉ MOLDADO DE NEOPRENE LARGURA DE 10 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "192,72"
+   "PREÇO": "192,50"
  },
  {
    "ITEM": 100004880,
    "DESCRIÇÃO": "TRATAMENTO FLEXÍVEL COM PERFIL PRÉ MOLDADO DE NEOPRENE LARGURA DE 25 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "375,77"
+   "PREÇO": "375,55"
  },
  {
    "ITEM": 100004881,
    "DESCRIÇÃO": "TRATAMENTO FLEXÍVEL COM PERFIL PRÉ MOLDADO DE NEOPRENE LARGURA DE 50 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "1.018,85"
+   "PREÇO": "1.018,64"
  },
  {
    "ITEM": 100004883,
    "DESCRIÇÃO": "TRATAMENTO RÍGIDO POR TAMPONAMENTO COM INJEÇÃO DE RESINA EPÓXI",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "568,26"
+   "PREÇO": "510,86"
  },
  {
    "ITEM": 100004884,
    "DESCRIÇÃO": "TRATAMENTO RÍGIDO POR TAMPONAMENTO COM INJEÇÃO DE RESINA EPÓXI",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KG",
-   "PREÇO": "270,92"
+   "PREÇO": "243,02"
  },
  {
    "ITEM": 100004886,
    "DESCRIÇÃO": "ANCORAGEM DE BARRAS DE AÇO - Ø 10,0 MM COM RESINA EPOXÍDICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "11,02"
+   "PREÇO": "11,01"
  },
  {
    "ITEM": 100004888,
    "DESCRIÇÃO": "ANCORAGEM DE BARRAS DE AÇO - Ø 12,5 MM COM RESINA EPOXÍDICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "12,11"
+   "PREÇO": "12,03"
  },
  {
    "ITEM": 100004890,
    "DESCRIÇÃO": "ANCORAGEM DE BARRAS DE AÇO - Ø 16,0 MM COM RESINA EPOXÍDICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "14,48"
+   "PREÇO": "14,40"
  },
  {
    "ITEM": 100004892,
    "DESCRIÇÃO": "ANCORAGEM DE BARRAS DE AÇO - Ø 20,0 MM COM RESINA EPOXÍDICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "17,10"
+   "PREÇO": "16,99"
  },
  {
    "ITEM": 100004894,
    "DESCRIÇÃO": "ANCORAGEM DE BARRAS DE AÇO - Ø 6,3 MM COM RESINA EPOXÍDICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9,28"
+   "PREÇO": "9,27"
  },
  {
    "ITEM": 100004895,
    "DESCRIÇÃO": "FORNECIMENTO E COLOCAÇÃO DE CHUMBADORES QUÍMICOS E PARAFUSO PRISIONEIRO - Ø 1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "27,19"
+   "PREÇO": "27,01"
  },
  {
    "ITEM": 100004896,
    "DESCRIÇÃO": "FORNECIMENTO E COLOCAÇÃO DE CHUMBADORES QUÍMICOS E PARAFUSO PRISIONEIRO - Ø 3/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "63,76"
+   "PREÇO": "63,56"
  },
  {
    "ITEM": 100004897,
    "DESCRIÇÃO": "FORNECIMENTO E COLOCAÇÃO DE CHUMBADORES QUÍMICOS E PARAFUSO PRISIONEIRO - Ø 3/8\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "20,36"
+   "PREÇO": "20,43"
  },
  {
    "ITEM": 100004898,
    "DESCRIÇÃO": "FORNECIMENTO E COLOCAÇÃO DE CHUMBADORES EXPANSIVEIS - Ø 1/2\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "18,94"
  },
  {
    "ITEM": 100004899,
    "DESCRIÇÃO": "FORNECIMENTO E COLOCAÇÃO DE CHUMBADORES EXPANSIVEIS - Ø 3/4\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "35,17"
  },
  {
    "ITEM": 100004900,
    "DESCRIÇÃO": "FORNECIMENTO E COLOCAÇÃO DE CHUMBADORES EXPANSIVEIS - Ø 3/8\"",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "10,09"
  },
  {
    "ITEM": 100004901,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 1\" E PROFUNDIDADE 10 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "9,86"
+   "PREÇO": "9,89"
  },
  {
    "ITEM": 100004902,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 1\" E PROFUNDIDADE 20 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "21,52"
+   "PREÇO": "21,47"
  },
  {
    "ITEM": 100004903,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 1\" E PROFUNDIDADE 30 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "30,04"
+   "PREÇO": "28,13"
  },
  {
    "ITEM": 100004904,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 1/2\" E PROFUNDIDADE 10 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "5,58"
+   "PREÇO": "5,88"
  },
  {
    "ITEM": 100004905,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 1/2\" E PROFUNDIDADE 20 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "13,94"
+   "PREÇO": "13,93"
  },
  {
    "ITEM": 100004906,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 1/2\" E PROFUNDIDADE 30 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "20,25"
+   "PREÇO": "20,21"
  },
  {
    "ITEM": 100004907,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 3/4\" E PROFUNDIDADE 10 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "7,41"
+   "PREÇO": "7,46"
  },
  {
    "ITEM": 100004908,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 3/4\" E PROFUNDIDADE 20 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "21,38"
+   "PREÇO": "21,35"
  },
  {
    "ITEM": 100004909,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 3/4\" E PROFUNDIDADE 30 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "24,46"
+   "PREÇO": "24,41"
  },
  {
    "ITEM": 100004910,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 3/8\" E PROFUNDIDADE 10 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "4,71"
+   "PREÇO": "4,75"
  },
  {
    "ITEM": 100004911,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 3/8\" E PROFUNDIDADE 20 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "10,00"
+   "PREÇO": "10,04"
  },
  {
    "ITEM": 100004912,
    "DESCRIÇÃO": "FUROS EM CONCRETO COM Ø 3/8\" E PROFUNDIDADE 30 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "16,46"
+   "PREÇO": "16,44"
  },
  {
    "ITEM": 100004913,
    "DESCRIÇÃO": "PREPARAÇÃO E APLICAÇÃO DE PONTE DE ADERÊNCIA COM ADESIVO BASE ACRÍLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "21,20"
+   "PREÇO": "20,79"
  },
  {
    "ITEM": 100004914,
    "DESCRIÇÃO": "PREPARAÇÃO E APLICAÇÃO DE PONTE DE ADERÊNCIA COM ADESIVO BASE EPÓXI",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "134,17"
+   "PREÇO": "123,11"
  },
  {
    "ITEM": 100004915,
    "DESCRIÇÃO": "ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "920,08"
+   "PREÇO": "903,71"
  },
  {
    "ITEM": 100004916,
    "DESCRIÇÃO": "ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3 COM ADESIVO DE RESINA ACRÍLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.184,01"
+   "PREÇO": "1.141,79"
  },
  {
    "ITEM": 100004917,
    "DESCRIÇÃO": "ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3 COM ADESIVO DE RESINA ACRÍLICA DE ESPESSURA DE 1,0 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "20,88"
+   "PREÇO": "20,48"
  },
  {
    "ITEM": 100004918,
    "DESCRIÇÃO": "ARGAMASSA DE CIMENTO E AREIA - TRAÇO 1:3 COM ADESIVO DE RESINA ACRÍLICA DE ESPESSURA DE 2,0 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "54,95"
+   "PREÇO": "54,21"
  },
  {
    "ITEM": 100004919,
    "DESCRIÇÃO": "CHAPISCO COM ADESIVO ACRÍLICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "18,62"
+   "PREÇO": "18,25"
  },
  {
    "ITEM": 100004920,
    "DESCRIÇÃO": "ESTUCAMENTO COM ADESIVO DE RESINA ACRÍLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "20,40"
+   "PREÇO": "20,38"
  },
  {
    "ITEM": 100004921,
    "DESCRIÇÃO": "PINTURA IMPERMEABILIZANTE A BASE DE EPÓXI E ALCATRÃO DE HULHA ( TRÊS DEMÃOS)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "122,87"
+   "PREÇO": "113,97"
  },
  {
    "ITEM": 100004922,
    "DESCRIÇÃO": "PINTURA IMPERMEABILIZANTE VERNIZ EPÓXI BICOMPONENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "49,11"
+   "PREÇO": "54,63"
  },
  {
    "ITEM": 100004923,
    "DESCRIÇÃO": "PINTURA IMPERMEABILIZANTE VERNIZ POLIURETANO ALIFÁTICO BICOMPONENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "81,36"
+   "PREÇO": "94,28"
  },
  {
    "ITEM": 100004925,
    "DESCRIÇÃO": "REVESTIMENTO IMPERMEABILIZANTE E ANTICORROSIVO EPOXI ISENTO DE SOLVENTES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "188,12"
+   "PREÇO": "172,34"
  },
  {
    "ITEM": 100004926,
    "DESCRIÇÃO": "IMPERBEABILIZAÇÃO COM RESINA À BASE DE POLÍMERO ACRÍLICO REFORCADA COM TELA DE POLIÉSTER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "140,08"
+   "PREÇO": "141,59"
  },
  {
    "ITEM": 100004927,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO À BASE CIMENTOS ESPECIAIS/ADITIVOS QUÍMICOS/MINERAIS COM ADIÇÃO EMULSÃO ADESIVA BASE ACRÍLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "92,60"
+   "PREÇO": "103,62"
  },
  {
    "ITEM": 100004928,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM RESINA TERMOPLÁSTICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "94,12"
+   "PREÇO": "97,74"
  },
  {
    "ITEM": 100004929,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM RESINA TERMOPLÁSTICA REFORÇADA COM DUPLA TELA DE POLIÉSTER PARA FISSURAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "31,17"
+   "PREÇO": "33,14"
  },
  {
    "ITEM": 100004930,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM RESINA TERMOPLÁSTICA REFORÇADA COM TELA DE POLIÉSTER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "101,86"
+   "PREÇO": "107,81"
  },
  {
    "ITEM": 100004931,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO SEMIFLEXÍVEL DE BASE RESINA ACRÍLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "83,44"
  },
  {
    "ITEM": 100004932,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM MANTA ASFÁLTICA ESTRUTURADA COM VÉU DE FIBRA DE VIDRO E = 4,0 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "94,45"
+   "PREÇO": "100,45"
  },
  {
    "ITEM": 100004933,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM MANTA ASFÁLTICA MODIFICADA COM POLÍMEROS E ESTRUTURURADA COM POLIÉSTER E = 4,0 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "97,73"
+   "PREÇO": "104,29"
  },
  {
    "ITEM": 100004934,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM RESINA ACRÍLICA ELASTOMÉRICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "143,27"
+   "PREÇO": "157,06"
  },
  {
    "ITEM": 100004935,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM RESINA ACRÍLICA ELASTOMÉRICA INCORPORADA COM FIBRAS SINTÉTICAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "161,80"
+   "PREÇO": "185,45"
  },
  {
    "ITEM": 100004936,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM RESINA ACRÍLICA ELASTOMÉRICA INCORPORADA COM MICRO-ESFERAS DE ISOLANTE TÉRMICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "139,35"
+   "PREÇO": "142,84"
  },
  {
    "ITEM": 100004938,
    "DESCRIÇÃO": "PROTEÇÃO TÉRMICA COM AGREGADO LEVE DE ESPESSURA 12 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "120,73"
+   "PREÇO": "149,08"
  },
  {
    "ITEM": 100004939,
    "DESCRIÇÃO": "PROTEÇÃO TÉRMICA EM LAJES PLANAS DE COBERTURA COM POLIESTIRENO EXPANDIDO COM ESPESSURA 2,5 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "62,64"
+   "PREÇO": "67,60"
  },
  {
    "ITEM": 100004940,
    "DESCRIÇÃO": "REMOÇÃO DA IMPERMEABILIZAÇÃO E DA REGULARIZAÇÃO EXISTENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "33,70"
  },
  {
    "ITEM": 100004941,
    "DESCRIÇÃO": "REMOÇÃO DA PROTEÇÃO MECÂNICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "53,93"
  },
  {
    "ITEM": 100004942,
    "DESCRIÇÃO": "REMOÇÃO DA PROTEÇÃO TÉRMICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "67,40"
  },
  {
    "ITEM": 100004943,
    "DESCRIÇÃO": "REVESTIMENTO IMPERMEABILIZANTE MINERAL DE ALTA RESISTÊNCIA QUÍMICA, ESPESSURA DE 5 MM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "155,80"
+   "PREÇO": "174,96"
  },
  {
    "ITEM": 100004944,
    "DESCRIÇÃO": "LIMPEZA DA OBRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "13,48"
  },
  {
    "ITEM": 100004945,
    "DESCRIÇÃO": "REMOÇÃO DE ENTULHO INCLUSIVE A CARGA, TRANSPORTE E DESCARGA EM BOTA FORA A QUALQUER DISTÂNCIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "184,74"
+   "PREÇO": "192,42"
  },
  {
    "ITEM": 100010158,
    "DESCRIÇÃO": "REMOÇÃO DE CAMADAS DE PROTEÇÃO TÉRMICA, MECÂNICA, IMPERMEABILZAÇÃO E CAMADA DE REGULARIZAÇÃO DE LAJE DE COBERTURA.",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "112,19"
+   "PREÇO": "109,49"
  },
  {
    "ITEM": 100010851,
    "DESCRIÇÃO": "TRATAMENTO DE MICRO FISSURAS POR SILICATAÇÃO OU FLUORSILICATAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "22,78"
+   "PREÇO": "23,46"
  },
  {
    "ITEM": 100010873,
    "DESCRIÇÃO": "IMPERMEABIL.C/RESINA TERMOPLÁSTICA C/ FIBRAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "126,78"
+   "PREÇO": "137,75"
  },
  {
    "ITEM": 100010874,
    "DESCRIÇÃO": "ARGAMASSA A BASE DE CIMENTO, MODIFICADA C/ POLÍMEROS, COM AGENTE ADESIVO E INIBIDOR DE CORROSÃO INTEGRADOS ESPESSURA ATÉ 5 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "673,06"
+   "PREÇO": "714,24"
  },
  {
    "ITEM": 100010875,
    "DESCRIÇÃO": "APLICAÇÃO DE PRIMER EPÓXI BICOMPONENTE À BASE D'ÁGUA EM SUPERFÍCIES ÚMIDAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "60,88"
+   "PREÇO": "66,18"
  },
  {
    "ITEM": 100010876,
    "DESCRIÇÃO": "APLICAÇÃO DE PRIMER EPÓXI BICOMPONENTE PARA SUBSTRATOS COM UMIDADE E CONTAMINADO COM ÓLEOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "132,19"
+   "PREÇO": "143,83"
  },
  {
    "ITEM": 100010877,
    "DESCRIÇÃO": "REVESTIMENTO IMPERMEABILIZANTE E ANTICORROSIVO EPÓXI ISENTO DE SOLVENTES, DE ALTA RESISTÊNCIA QUÍMICA, COM PREPARAÇÃO DA SUPERFÍCIE COM PRIMER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "177,50"
+   "PREÇO": "189,27"
  },
  {
    "ITEM": 100010878,
    "DESCRIÇÃO": "REVESTIMENTO IMPERMEABILIZANTE À BASE DE POLIURETANO BICOMPONENTE ISENTO DE SOLVENTES, DE ALTA RESISTÊNCIA QUÍMICA, COM PREPARAÇÃO DA SUPERFÍCIE COM PRIMER",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "330,14"
+   "PREÇO": "341,91"
  },
  {
    "ITEM": 100010879,
    "DESCRIÇÃO": "PROTEÇÃO MECÂNICA PARA MANTAS DE PVC COM PLACAS DE CONCRETO PRE-MOLDADA 46 X 46 CM E ISOLAMENTO TÉRMICO EM EPS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "95,61"
+   "PREÇO": "101,78"
  },
  {
    "ITEM": 100010938,
    "DESCRIÇÃO": "PINTURA IMPERMEABILIZANTE, CINCO DEMÃOS DE POLIURETANO VEGETAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "98,51"
+   "PREÇO": "98,75"
  },
  {
    "ITEM": 100010970,
    "DESCRIÇÃO": "APLIC.DE REVESTIM. DE RESINA ACRÍLICA E CIMENTO C/ALTA ALCALIN. E ADITIVO INIBIDOR DE CORROSÃO - DUAS DEMÃOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4,57"
+   "PREÇO": "5,06"
  },
  {
    "ITEM": 100001509,
    "DESCRIÇÃO": "ARGAMASSA DE CIMENTO E AREIA PARA ENCHIMENTO, REGULARIZAÇÃO, NIVELAMENTO E PROTEÇÃO MECÂNICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "945,91"
+   "PREÇO": "955,51"
  },
  {
    "ITEM": 100001510,
    "DESCRIÇÃO": "CHAPISCO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "13,12"
+   "PREÇO": "13,20"
  },
  {
    "ITEM": 100001511,
    "DESCRIÇÃO": "CONTRAPISO DE CONCRETO NÃO-ESTRUTURAL IMPERMEABILIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.039,86"
+   "PREÇO": "1.062,64"
  },
  {
    "ITEM": 100001512,
    "DESCRIÇÃO": "EMBOÇO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "65,70"
+   "PREÇO": "64,68"
  },
  {
    "ITEM": 100001513,
    "DESCRIÇÃO": "FORRO EM FIBRA MINERAL, E = 12 MM, REMOVÍVEL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "156,58"
+   "PREÇO": "155,25"
  },
  {
    "ITEM": 100001514,
    "DESCRIÇÃO": "FORRO EM PLACA DE GESSO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "97,66"
+   "PREÇO": "98,70"
  },
  {
    "ITEM": 100001515,
    "DESCRIÇÃO": "FORRO EM PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "125,70"
+   "PREÇO": "138,25"
  },
  {
    "ITEM": 100001516,
    "DESCRIÇÃO": "PISO CIMENTADO LISO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "88,82"
+   "PREÇO": "90,56"
  },
  {
    "ITEM": 100001517,
    "DESCRIÇÃO": "PISO DE CONCRETO NÃO-ESTRUTURAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.186,18"
+   "PREÇO": "1.203,46"
  },
  {
    "ITEM": 100001518,
    "DESCRIÇÃO": "PISO EM ARDÓSIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "167,16"
+   "PREÇO": "173,77"
  },
  {
    "ITEM": 100001519,
    "DESCRIÇÃO": "PISO EM CERÂMICA VERMELHA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "263,51"
+   "PREÇO": "263,80"
  },
  {
    "ITEM": 100001520,
    "DESCRIÇÃO": "PISO EM CHAPA VINÍLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "232,37"
+   "PREÇO": "261,91"
  },
  {
    "ITEM": 100001521,
    "DESCRIÇÃO": "PISO EM GRANILITE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "216,74"
+   "PREÇO": "220,20"
  },
  {
    "ITEM": 100001522,
    "DESCRIÇÃO": "PISO EM GRANITO (ESPESSURA 20 MM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1.208,55"
+   "PREÇO": "1.215,65"
  },
  {
    "ITEM": 100001523,
    "DESCRIÇÃO": "PISO EM PLACA DE BORRACHA LISA OU TEXTURIZADA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "248,54"
+   "PREÇO": "260,95"
  },
  {
    "ITEM": 100001524,
    "DESCRIÇÃO": "PISO EM REVESTIMENTO CERÂMICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "147,14"
+   "PREÇO": "155,32"
  },
  {
    "ITEM": 100001525,
    "DESCRIÇÃO": "REBOCO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "41,01"
+   "PREÇO": "40,59"
  },
  {
    "ITEM": 100001526,
    "DESCRIÇÃO": "REVESTIMENTO COM AZULEJO PARA PAREDE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "68,08"
+   "PREÇO": "67,96"
  },
  {
    "ITEM": 100001527,
    "DESCRIÇÃO": "REVESTIMENTO COM LAJOTA CERÂMICA SEMI-FOSCA PARA PAREDE (LITOCERÂMICA)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "334,26"
+   "PREÇO": "331,64"
  },
  {
    "ITEM": 100001529,
    "DESCRIÇÃO": "RODAPÉ EM GRANITO, H = 7 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "114,83"
+   "PREÇO": "114,98"
  },
  {
    "ITEM": 100001530,
    "DESCRIÇÃO": "RODAPÉ EM MADEIRA H = 7 CM, COM CORDÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "65,70"
+   "PREÇO": "62,40"
  },
  {
    "ITEM": 100001531,
    "DESCRIÇÃO": "SOLEIRA EM GRANITO E = 2 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "240,36"
+   "PREÇO": "240,47"
  },
  {
    "ITEM": 100001532,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO BETUMINOSA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "23,07"
+   "PREÇO": "26,59"
  },
  {
    "ITEM": 100001533,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM CIMENTO CRISTALIZANTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,39"
+   "PREÇO": "41,74"
  },
  {
    "ITEM": 100001534,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM CIMENTO CRISTALIZANTE - BASE ACRÍLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "43,17"
+   "PREÇO": "49,48"
  },
  {
    "ITEM": 100001536,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO COM MANTA GEOTÊXTIL IMPREGNADA COM ASFALTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "277,54"
+   "PREÇO": "298,07"
  },
  {
    "ITEM": 100001537,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO RÍGIDA COM ARGAMASSA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "157,79"
+   "PREÇO": "161,23"
  },
  {
    "ITEM": 100001538,
    "DESCRIÇÃO": "JUNTA DE DILATAÇÃO ASFALTICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "17,27"
+   "PREÇO": "19,00"
  },
  {
    "ITEM": 100001539,
    "DESCRIÇÃO": "PROTEÇÃO MECÂNICA COM ARGAMASSA DE CIMENTO E AREIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.225,68"
+   "PREÇO": "1.259,28"
  },
  {
    "ITEM": 100001540,
    "DESCRIÇÃO": "PROTEÇÃO TÉRMICA COM BLOCOS DE CONCRETO CELULAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.743,40"
+   "PREÇO": "1.861,52"
  },
  {
    "ITEM": 100001541,
    "DESCRIÇÃO": "PROTEÇÃO TÉRMICA EM CONCRETO COM AGREGADO LEVE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.925,06"
+   "PREÇO": "2.249,78"
  },
  {
    "ITEM": 100001542,
    "DESCRIÇÃO": "REGULARIZAÇÃO DE BASE COM ARGAMASSA DE CIMENTO E AREIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "1.004,72"
+   "PREÇO": "1.014,32"
  },
  {
    "ITEM": 100001543,
    "DESCRIÇÃO": "LIMPEZA COM APLICAÇÃO DE SODA CÁUSTICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1,19"
+   "PREÇO": "1,10"
  },
  {
    "ITEM": 100001544,
    "DESCRIÇÃO": "PINTURA À BASE DE CIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "20,89"
  },
  {
    "ITEM": 100001545,
    "DESCRIÇÃO": "PINTURA À CAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "20,24"
+   "PREÇO": "20,02"
  },
  {
    "ITEM": 100001546,
    "DESCRIÇÃO": "PINTURA A ÓLEO EM MADEIRA, COM MASSA CORRIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "71,80"
+   "PREÇO": "76,93"
  },
  {
    "ITEM": 100001547,
    "DESCRIÇÃO": "PINTURA A ÓLEO EM MADEIRA, SEM MASSA CORRIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "56,60"
+   "PREÇO": "59,39"
  },
  {
    "ITEM": 100001548,
    "DESCRIÇÃO": "PINTURA A ÓLEO EM METAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "78,85"
+   "PREÇO": "82,38"
  },
  {
    "ITEM": 100001549,
    "DESCRIÇÃO": "PINTURA A ÓLEO EM PAREDE, COM MASSA CORRIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "65,91"
+   "PREÇO": "72,03"
  },
  {
    "ITEM": 100001550,
    "DESCRIÇÃO": "PINTURA A ÓLEO EM PAREDE, SEM MASSA CORRIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "50,71"
+   "PREÇO": "54,49"
  },
  {
    "ITEM": 100001551,
    "DESCRIÇÃO": "PINTURA COM HIDRÓFUGO À BASE DE SILICONE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "56,45"
+   "PREÇO": "56,18"
  },
  {
    "ITEM": 100001552,
    "DESCRIÇÃO": "PINTURA COM VERNIZ ACRÍLICO EM CONCRETO APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "35,65"
+   "PREÇO": "36,72"
  },
  {
    "ITEM": 100001553,
    "DESCRIÇÃO": "PINTURA COM VERNIZ POLIURETANO EM CONCRETO APARENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "49,16"
+   "PREÇO": "55,01"
  },
  {
    "ITEM": 100001554,
    "DESCRIÇÃO": "PINTURA DE PISO COM GRAFITE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "44,13"
+   "PREÇO": "43,93"
  },
  {
    "ITEM": 100001555,
    "DESCRIÇÃO": "PINTURA DE PISO COM TINTA NOVA COR OU SIMILAR",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "25,01"
+   "PREÇO": "23,10"
  },
  {
    "ITEM": 100001556,
    "DESCRIÇÃO": "PINTURA DO LOGOTIPO SABESP",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "440,73"
+   "PREÇO": "440,23"
  },
  {
    "ITEM": 100001557,
    "DESCRIÇÃO": "PINTURA EM LÁTEX ACRÍLICO, COM MASSA CORRIDA ACRÍLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "56,44"
+   "PREÇO": "55,54"
  },
  {
    "ITEM": 100001558,
    "DESCRIÇÃO": "PINTURA EM LÁTEX ACRÍLICO, SEM MASSA CORRIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "42,42"
+   "PREÇO": "41,43"
  },
  {
    "ITEM": 100001559,
    "DESCRIÇÃO": "PINTURA EM LÁTEX PVA, COM MASSA CORRIDA PVA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "53,66"
+   "PREÇO": "53,53"
  },
  {
    "ITEM": 100001560,
    "DESCRIÇÃO": "PINTURA EM LÁTEX PVA, SEM MASSA CORRIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "43,29"
+   "PREÇO": "43,14"
  },
  {
    "ITEM": 100001561,
    "DESCRIÇÃO": "PINTURA EPÓXI COM MASSA EPOXI",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "213,90"
+   "PREÇO": "217,01"
  },
  {
    "ITEM": 100001562,
    "DESCRIÇÃO": "PINTURA EPÓXI SEM MASSA EPOXI",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "134,32"
+   "PREÇO": "150,07"
  },
  {
    "ITEM": 100001563,
    "DESCRIÇÃO": "PINTURA ESMALTE EM MADEIRA, COM MASSA CORRIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "74,65"
+   "PREÇO": "76,84"
  },
  {
    "ITEM": 100001564,
    "DESCRIÇÃO": "PINTURA ESMALTE EM MADEIRA, SEM MASSA CORRIDA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "59,46"
+   "PREÇO": "59,30"
  },
  {
    "ITEM": 100001565,
    "DESCRIÇÃO": "PINTURA ESMALTE EM METAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "80,33"
+   "PREÇO": "81,32"
  },
  {
    "ITEM": 100001566,
    "DESCRIÇÃO": "PINTURA GRAFITE OU ALUMÍNIO EM METAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "82,69"
+   "PREÇO": "83,62"
  },
  {
    "ITEM": 100001567,
    "DESCRIÇÃO": "PINTURA VERNIZ EM MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "42,38"
+   "PREÇO": "42,92"
  },
  {
    "ITEM": 100001568,
    "DESCRIÇÃO": "ANDAIME",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2M",
-   "PREÇO": "91,97"
+   "PREÇO": "87,22"
  },
  {
    "ITEM": 100001569,
    "DESCRIÇÃO": "BALANCIM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "UNM",
-   "PREÇO": "949,58"
+   "PREÇO": "951,90"
  },
  {
    "ITEM": 100010852,
    "DESCRIÇÃO": "PROTEÇÃO TÉRMICA COM CONCRETO CELULAR ESPUMOSO, DENSIDADE 600 KG / M3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "480,91"
+   "PREÇO": "472,09"
  },
  {
    "ITEM": 100010896,
    "DESCRIÇÃO": "PROTEÇÃO TÉRMICA COM CONCRETO CELULAR ESPUMOSO, DENSIDADE 1.000 KG/M3",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "600,67"
+   "PREÇO": "592,10"
  },
  {
    "ITEM": 100011016,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO DE LAJES DE COBERTURAS E SUPERFÍCIES EXPOSTAS AOS RAIOS SOLARES, COM MANTA DE PVC RESISTENTE À U.V. E REALIZAÇÃO DE TESTE HOLIDAY",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "353,84"
+   "PREÇO": "288,28"
  },
  {
    "ITEM": 100011017,
    "DESCRIÇÃO": "IMPERMEABILIZAÇÃO DE RESERVATÓRIO DE ÁGUA POTÁVEL COM MANTA DE PVC E REALIZAÇÃO DE TESTE HOLIDAY",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "364,03"
+   "PREÇO": "366,18"
  },
  {
    "ITEM": 100012292,
    "DESCRIÇÃO": "PINTURA DA IDENTIDADE VISUAL SABESP EM MUROS E FACHADAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "131,25"
+   "PREÇO": "130,75"
  },
  {
    "ITEM": 100002772,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 100 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "700,07"
+   "PREÇO": "704,18"
  },
  {
    "ITEM": 100002773,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 100 MM - CONVENCIONAL PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "552,76"
+   "PREÇO": "556,02"
  },
  {
    "ITEM": 100002775,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 150 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "751,28"
+   "PREÇO": "755,64"
  },
  {
    "ITEM": 100002777,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 200 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "813,96"
+   "PREÇO": "818,71"
  },
  {
    "ITEM": 100002779,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 250 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "892,42"
+   "PREÇO": "897,51"
  },
  {
    "ITEM": 100002781,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 300 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.046,08"
+   "PREÇO": "1.051,14"
  },
  {
    "ITEM": 100002783,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 350 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.165,08"
+   "PREÇO": "1.170,56"
  },
  {
    "ITEM": 100002785,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 400 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.403,08"
+   "PREÇO": "1.408,83"
  },
  {
    "ITEM": 100002787,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 50 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "623,78"
+   "PREÇO": "627,48"
  },
  {
    "ITEM": 100002788,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 50 MM - CONVENCIONAL PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "500,68"
+   "PREÇO": "503,71"
  },
  {
    "ITEM": 100002790,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 500 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.645,06"
+   "PREÇO": "1.651,32"
  },
  {
    "ITEM": 100002792,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 600 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.127,09"
+   "PREÇO": "2.134,44"
  },
  {
    "ITEM": 100002793,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 700 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "2.946,19"
+   "PREÇO": "2.955,10"
  },
  {
    "ITEM": 100002794,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 75 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "662,07"
+   "PREÇO": "665,97"
  },
  {
    "ITEM": 100002795,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 75 MM - CONVENCIONAL PVC",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "526,85"
+   "PREÇO": "530,00"
  },
  {
    "ITEM": 100002797,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂMETRO 800 MM - CONVENCIONAL FERRO FUNDIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "3.627,60"
+   "PREÇO": "3.640,51"
  },
  {
    "ITEM": 100002810,
    "DESCRIÇÃO": "ENCHIMENTO DA LAGOA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "HPH",
-   "PREÇO": "3,84"
+   "PREÇO": "3,78"
  },
  {
    "ITEM": 100010499,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 50 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "479,67"
+   "PREÇO": "481,48"
  },
  {
    "ITEM": 100010500,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 80 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "616,72"
+   "PREÇO": "619,35"
  },
  {
    "ITEM": 100010501,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 100 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "641,27"
+   "PREÇO": "644,04"
  },
  {
    "ITEM": 100010502,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 150 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "683,75"
+   "PREÇO": "686,76"
  },
  {
    "ITEM": 100010503,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 200 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "699,49"
+   "PREÇO": "702,55"
  },
  {
    "ITEM": 100010504,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 250 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "901,39"
+   "PREÇO": "905,45"
  },
  {
    "ITEM": 100010505,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 300 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.129,91"
+   "PREÇO": "1.134,99"
  },
  {
    "ITEM": 100010506,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 350 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.215,16"
+   "PREÇO": "1.220,39"
  },
  {
    "ITEM": 100010507,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 400 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.263,68"
+   "PREÇO": "1.269,08"
  },
  {
    "ITEM": 100010508,
    "DESCRIÇÃO": "INTERLIGAÇÃO COM REDES DE ÁGUA EXISTENTES - DIÂM. 500 MM - TÊ TRIPARTIDO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "1.400,10"
+   "PREÇO": "1.405,84"
  },
  {
    "ITEM": 100003342,
    "DESCRIÇÃO": "DESCOBRIMENTO E NIVELAMENTO DE POÇO DE VISITA, POÇO DE INSPEÇÃO, TERMINAL DE LIMPEZA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "696,96"
+   "PREÇO": "698,36"
  },
  {
    "ITEM": 100003343,
    "DESCRIÇÃO": "DETECÇÃO ELETROMAGNÉTICA DE PEÇAS DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "110,17"
+   "PREÇO": "111,74"
  },
  {
    "ITEM": 100003344,
    "DESCRIÇÃO": "DETECÇÃO ELETROMAGNÉTICA DE REDE DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "4,38"
+   "PREÇO": "4,44"
  },
  {
    "ITEM": 100003345,
    "DESCRIÇÃO": "DETECÇÃO PELO MÉTODO DE SONDAGEM COM VARAS METÁLICAS, REDE DE ÁGUA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "5,91"
  },
  {
    "ITEM": 100003346,
    "DESCRIÇÃO": "PESQUISA DE INTERFERÊNCIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "86,45"
+   "PREÇO": "86,67"
  },
  {
    "ITEM": 100003347,
    "DESCRIÇÃO": "PESQUISA DE VAZAMENTOS INVISÍVEIS DE REDE DE ÁGUA E RAMAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "KM",
-   "PREÇO": "1.811,62"
+   "PREÇO": "1.810,29"
  },
  {
    "ITEM": 100003348,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PEÇAS LOCALIZADAS (CAVAS) COM PAVIMENTAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "650,58"
+   "PREÇO": "659,34"
  },
  {
    "ITEM": 100003349,
    "DESCRIÇÃO": "SONDAGEM DE REDES E PEÇAS LOCALIZADAS (CAVAS) SEM PAVIMENTAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "447,21"
+   "PREÇO": "446,92"
  },
  {
    "ITEM": 100003352,
    "DESCRIÇÃO": "ALTEAMENTO DO FECHAMENTO DE DIVISA COM 3 FIOS DE ARAME FARPADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "30,44"
+   "PREÇO": "30,12"
  },
  {
    "ITEM": 100003353,
    "DESCRIÇÃO": "COLOCAÇÃO DE ARAME FARPADO EM MOURÕES EXISTENTES - 11 FIOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "29,40"
+   "PREÇO": "28,71"
  },
  {
    "ITEM": 100003354,
    "DESCRIÇÃO": "COLOCAÇÃO DE ARAME FARPADO EM MOURÕES EXIXTENTES - 5 FIOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "13,94"
+   "PREÇO": "13,64"
  },
  {
    "ITEM": 100003355,
    "DESCRIÇÃO": "COLOCAÇÃO DE TELA DE ALAMBRADO EM MOURÕES EXISTENTES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "162,66"
+   "PREÇO": "141,59"
  },
  {
    "ITEM": 100003356,
    "DESCRIÇÃO": "CONSERVAÇÃO DE ÁREAS VERDES (CAPINA COM REMOÇÃO DE VEGETAÇÃO DIVERSAS E EXTERMÍNIO DE PRAGAS EM CAMINHOS E/OU FAIXAS)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "0,70"
+   "PREÇO": "0,72"
  },
  {
    "ITEM": 100003357,
    "DESCRIÇÃO": "CONSERVAÇÃO DE ÁREAS VERDES - CORTE E MANUTENÇÃO DO GRAMADO EM ÁREAS PLANAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1,14"
+   "PREÇO": "1,10"
  },
  {
    "ITEM": 100003358,
    "DESCRIÇÃO": "CONSERVAÇÃO DE ÁREAS VERDES - CORTE E MANUTENÇÃO DO GRAMADO EM TALUDES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1,37"
+   "PREÇO": "1,33"
  },
  {
    "ITEM": 100003359,
    "DESCRIÇÃO": "CONSERVAÇÃO DE ÁREAS VERDES - LIMPEZA DE TALUDES PROTEGIDOS COM ENROCAMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "1,51"
  },
  {
    "ITEM": 100003360,
    "DESCRIÇÃO": "CONSERVAÇÃO DE ÁREAS VERDES - RECOBRIMENTO DE ÁREA GRAMADA COM TERRA VEGETAL E ADUBAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "9,98"
+   "PREÇO": "9,83"
  },
  {
    "ITEM": 100003361,
    "DESCRIÇÃO": "CONSERVAÇÃO DE ÁREAS VERDES - ROÇAGEM COM REMOÇÃO DE VEGETAÇÃO DIVERSAS E EXTERMÍNIO DE PRAGAS EM FAIXAS DE ESTRADAS E MARGENS DE CANAIS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "2,55"
  },
  {
    "ITEM": 100003362,
    "DESCRIÇÃO": "CONSERVAÇÃO DE ÁREAS VERDES - ROÇAGEM E APLICAÇÃO DE HERBICIDAS NA VEGETAÇÃO DE PÁTIOS EMPEDRADOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "1,11"
+   "PREÇO": "1,09"
  },
  {
    "ITEM": 100003363,
    "DESCRIÇÃO": "CONSERVAÇÃO DE ÁREAS VERDES - ROÇAGEM SEM REMOÇÃO DE VEGETAÇÃO DIVERSAS E EXTERMÍNIO DE PRAGAS EM FAIXAS DE ADUTORAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "0,61"
  },
  {
    "ITEM": 100003364,
    "DESCRIÇÃO": "CONSERVAÇÃO DE FAIXAS DE CIRCULAÇÃO - PINTURA DOS MARCOS COM LÁTEX E NUMERAÇÃO COM TINTA À ÓLEO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "36,74"
+   "PREÇO": "36,56"
  },
  {
    "ITEM": 100003365,
    "DESCRIÇÃO": "CONSERVAÇÃO DE FAIXAS DE CIRCULAÇÃO - PINTURA DOS MARCOS E NUMERAÇÃO COM TINTA À ÓLEO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "52,56"
+   "PREÇO": "54,37"
  },
  {
    "ITEM": 100003366,
    "DESCRIÇÃO": "CONSERVAÇÃO DE FAIXAS DE CIRCULAÇÃO - REPOSIÇÃO DE FIOS ARREBENTADOS OU ARRANCADOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3,34"
+   "PREÇO": "3,25"
  },
  {
    "ITEM": 100003367,
    "DESCRIÇÃO": "CONSERVAÇÃO DE FAIXAS DE CIRCULAÇÃO - REPOSIÇÃO DE MARCOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "60,06"
+   "PREÇO": "59,87"
  },
  {
    "ITEM": 100003368,
    "DESCRIÇÃO": "CONSERVAÇÃO DE FAIXAS DE CIRCULAÇÃO - REPOSIÇÃO DE MOURÕES DE CONCRETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "129,31"
+   "PREÇO": "137,95"
  },
  {
    "ITEM": 100003369,
    "DESCRIÇÃO": "CONSERVAÇÃO DE FAIXAS DE CIRCULAÇÃO DE 1,00 METRO JUNTO AS DIVISAS - ROÇAGEM COM REMOÇÃO DA VEGETAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "0,61"
  },
  {
    "ITEM": 100003370,
    "DESCRIÇÃO": "IRRIGAÇÃO DE ÁREA GRAMADA COM CAMINHÃO IRRIGADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "0,33"
  },
  {
    "ITEM": 100003371,
    "DESCRIÇÃO": "LIMPEZA DE CAIXA DE PASSAGEM OU BUEIRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "46,96"
+   "PREÇO": "46,95"
  },
  {
    "ITEM": 100003372,
    "DESCRIÇÃO": "LIMPEZA DE CANALETAS DE DRENAGEM SUPERFICIAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1,48"
  },
  {
    "ITEM": 100003373,
    "DESCRIÇÃO": "CARGA E DESCARGA MANUAL DE MATERIAIS DE DEMOLIÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "41,19"
+   "PREÇO": "41,59"
  },
  {
    "ITEM": 100003374,
    "DESCRIÇÃO": "DEMOLIÇÃO DE ALVENARIA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "101,11"
  },
  {
    "ITEM": 100003375,
    "DESCRIÇÃO": "DEMOLIÇÃO DE CONCRETO ARMADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "359,58"
+   "PREÇO": "363,34"
  },
  {
    "ITEM": 100003376,
    "DESCRIÇÃO": "DEMOLIÇÃO DE CONCRETO SIMPLES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "179,79"
+   "PREÇO": "181,67"
  },
  {
    "ITEM": 100003377,
    "DESCRIÇÃO": "REMOÇÃO COMPLETA DE CERCA DE ALAMBRADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "67,40"
  },
  {
    "ITEM": 100003378,
    "DESCRIÇÃO": "REMOÇÃO COMPLETA DE CERCA DE ARAME FARPADO - 11 FIOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "33,70"
  },
  {
    "ITEM": 100003379,
    "DESCRIÇÃO": "REMOÇÃO COMPLETA DE CERCA DE ARAME FARPADO - 5 FIOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "16,84"
  },
  {
    "ITEM": 100003380,
    "DESCRIÇÃO": "REMOÇÃO DE APARELHOS DE ILUMINAÇÃO PARA LÂMPADA FLUORESCENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "70,18"
  },
  {
    "ITEM": 100003381,
    "DESCRIÇÃO": "REMOÇÃO DE APARELHOS DE ILUMINAÇÃO PARA LÂMPADA INCANDESCENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "28,10"
  },
  {
    "ITEM": 100003382,
    "DESCRIÇÃO": "REMOÇÃO DE APARELHOS SANITÁRIOS, INCLUSIVE ACESSÓRIOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "61,52"
  },
  {
    "ITEM": 100003383,
    "DESCRIÇÃO": "REMOÇÃO DE ARAME FARPADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1,68"
  },
  {
    "ITEM": 100003384,
    "DESCRIÇÃO": "REMOÇÃO DE BATENTES DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "92,02"
  },
  {
    "ITEM": 100003385,
    "DESCRIÇÃO": "REMOÇÃO DE CAIAÇÃO OU TINTA MINERAL IMPERMEÁVEL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "4,49"
  },
  {
    "ITEM": 100003386,
    "DESCRIÇÃO": "REMOÇÃO DE CAIBROS DE MADEIRA DA COBERTURA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "4,67"
  },
  {
    "ITEM": 100003387,
    "DESCRIÇÃO": "REMOÇÃO DE CAIXAS ESTAMPADAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "4,70"
  },
  {
    "ITEM": 100003388,
    "DESCRIÇÃO": "REMOÇÃO DE CALHAS E RUFOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "7,77"
  },
  {
    "ITEM": 100003389,
    "DESCRIÇÃO": "REMOÇÃO DE ESQUADRIAS METÁLICAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "55,71"
  },
  {
    "ITEM": 100003390,
    "DESCRIÇÃO": "REMOÇÃO DE ESTRUTURA DE MADEIRA EM TESOURA PONTALETADA OU MISTA PARA TELHAS CERÂMICAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "45,64"
  },
  {
    "ITEM": 100003391,
    "DESCRIÇÃO": "REMOÇÃO DE ESTRUTURA DE MADEIRA EM TESOURA PONTALETADA OU MISTA PARA TELHAS FIBROCIMENTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "33,01"
  },
  {
    "ITEM": 100003392,
    "DESCRIÇÃO": "REMOÇÃO DE FECHADURAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "21,20"
  },
  {
    "ITEM": 100003393,
    "DESCRIÇÃO": "REMOÇÃO DE FIOS ELÉTRICOS ATÉ 2,5 MM2",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "4,70"
  },
  {
    "ITEM": 100003394,
    "DESCRIÇÃO": "REMOÇÃO DE FOLHAS DE PORTAS OU JANELAS DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "21,20"
  },
  {
    "ITEM": 100003395,
    "DESCRIÇÃO": "REMOÇÃO DE FORRO DE ESTUQUE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "17,51"
  },
  {
    "ITEM": 100003396,
    "DESCRIÇÃO": "REMOÇÃO DE FORROS DE MADEIRA PREGADAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "21,35"
  },
  {
    "ITEM": 100003397,
    "DESCRIÇÃO": "REMOÇÃO DE INTERRUPTORES E TOMADAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "7,94"
  },
  {
    "ITEM": 100003398,
    "DESCRIÇÃO": "REMOÇÃO DE PINTURA A ÓLEO, ESMALTE OU LÁTEX/ACRÍLICO EM PAREDES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "9,83"
  },
  {
    "ITEM": 100003399,
    "DESCRIÇÃO": "REMOÇÃO DE PINTURA A ÓLEO, ESMALTE OU VERNIZ EM ESQUADRIAS DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "14,32"
  },
  {
    "ITEM": 100003400,
    "DESCRIÇÃO": "REMOÇÃO DE PINTURA A ÓLEO, ESMALTE, ALUMÍNIO OU GRAFITE EM ESQUADRIAS DE FERRO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "13,08"
  },
  {
    "ITEM": 100003401,
    "DESCRIÇÃO": "REMOÇÃO DE PISO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "63,68"
+   "PREÇO": "63,64"
  },
  {
    "ITEM": 100003402,
    "DESCRIÇÃO": "REMOÇÃO DE PORTÃO OU GRADE METÁLICA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "11,88"
+   "PREÇO": "11,87"
  },
  {
    "ITEM": 100003403,
    "DESCRIÇÃO": "REMOÇÃO DE REGISTROS E VÁLVULAS DE DESCARGA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "164,72"
  },
  {
    "ITEM": 100003404,
    "DESCRIÇÃO": "REMOÇÃO DE REVESTIMENTO DE ARGAMASSA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "6,76"
  },
  {
    "ITEM": 100003405,
    "DESCRIÇÃO": "REMOÇÃO DE REVESTIMENTO DE AZULEJO, INCLUSIVE ARGAMASSA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "13,48"
  },
  {
    "ITEM": 100003406,
    "DESCRIÇÃO": "REMOÇÃO DE RIPAS DE MADEIRA DA COBERTURA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "0,79"
  },
  {
    "ITEM": 100003407,
    "DESCRIÇÃO": "REMOÇÃO DE TELA OU ALAMBRADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "6,76"
  },
  {
    "ITEM": 100003408,
    "DESCRIÇÃO": "REMOÇÃO DE TELHAS CERÂMICAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "24,03"
  },
  {
    "ITEM": 100003409,
    "DESCRIÇÃO": "REMOÇÃO DE TELHAS DE FIBROCIMENTO ESTRUTURAL L = 49 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "10,93"
  },
  {
    "ITEM": 100003410,
    "DESCRIÇÃO": "REMOÇÃO DE TELHAS DE FIBROCIMENTO ESTRUTURAL L = 90 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "13,96"
  },
  {
    "ITEM": 100003411,
    "DESCRIÇÃO": "REMOÇÃO DE TELHAS DE FIBROCIMENTO ONDULADAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "10,93"
  },
  {
    "ITEM": 100003412,
    "DESCRIÇÃO": "REMOÇÃO DE TUBULAÇÕES EM GERAL",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "13,48"
  },
  {
    "ITEM": 100003413,
    "DESCRIÇÃO": "REMOÇÃO DE VIDROS OU CRISTAIS PLANOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "33,11"
  },
  {
    "ITEM": 100003414,
    "DESCRIÇÃO": "TRANSPORTE DE MATERIAL DE DEMOLIÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TOK",
-   "PREÇO": "2,87"
+   "PREÇO": "2,84"
  },
  {
    "ITEM": 100003415,
    "DESCRIÇÃO": "ESTRUTURA DE COBERTURA EM MADEIRA DE LEI EM TESOURAS PARA TELHAS CERÂMICAS - VÃOS ATÉ 7,00 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "299,80"
  },
  {
    "ITEM": 100003416,
    "DESCRIÇÃO": "ESTRUTURA DE COBERTURA EM MADEIRA DE LEI EM TESOURAS PARA TELHAS CERÂMICAS - VÃOS DE 7,01 ATÉ 10,00 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "332,89"
  },
  {
    "ITEM": 100003417,
    "DESCRIÇÃO": "ESTRUTURA DE COBERTURA EM MADEIRA DE LEI EM TESOURAS PARA TELHAS ONDULADAS - VÃOS ATÉ 7,00 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "223,22"
  },
  {
    "ITEM": 100003418,
    "DESCRIÇÃO": "ESTRUTURA DE COBERTURA EM MADEIRA DE LEI EM TESOURAS PONTALETADAS (MISTA) PARA TELHAS CERÂMICAS - VÃOS ATÉ 7,00 METROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "263,99"
  },
  {
    "ITEM": 100003419,
    "DESCRIÇÃO": "FORRO DE ESTUQUE DE TETOS E BEIRAIS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "292,08"
+   "PREÇO": "295,26"
  },
  {
    "ITEM": 100003421,
    "DESCRIÇÃO": "FORRO DE TÁBUAS APARELHADAS MACHO E FEMEA DE PINHO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "98,41"
+   "PREÇO": "95,73"
  },
  {
    "ITEM": 100003422,
    "DESCRIÇÃO": "LIMPEZA DE APARELHO SANITÁRIO, INCLUSIVE METAIS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "26,94"
  },
  {
    "ITEM": 100003423,
    "DESCRIÇÃO": "LIMPEZA DE PISOS CIMENTADOS, CERÂMICOS, AZULEJOS, PEDRAS, PISOS VINÍLICOS, LADRILHOS HIDRÁULICOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "20,22"
  },
  {
    "ITEM": 100003424,
    "DESCRIÇÃO": "LIMPEZA DE VIDROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "25,28"
  },
  {
    "ITEM": 100003425,
    "DESCRIÇÃO": "RECOLOCAÇÃO DE CAIBROS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "11,46"
  },
  {
    "ITEM": 100003426,
    "DESCRIÇÃO": "RECOLOCAÇÃO DE RIPAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1,50"
  },
  {
    "ITEM": 100003427,
    "DESCRIÇÃO": "RECOLOCAÇÃO DE TELHAS ONDULADAS DE FIBROCIMENTO - SEM AMIANTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "30,50"
  },
  {
    "ITEM": 100003428,
    "DESCRIÇÃO": "RECOLOCAÇÃO DE TELHAS TIPO FRANCESA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "48,12"
  },
  {
    "ITEM": 100003429,
    "DESCRIÇÃO": "RECOLOCAÇÃO DE TELHAS TIPO PAULISTA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "104,69"
  },
  {
    "ITEM": 100003430,
    "DESCRIÇÃO": "REPREGAMENTO DE FORROS DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
    "PREÇO": "9,61"
  },
  {
    "ITEM": 100000013,
    "DESCRIÇÃO": "SINALIZAÇÃO DE TRÁFEGO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6,85"
+   "PREÇO": "6,35"
  },
  {
    "ITEM": 100000015,
    "DESCRIÇÃO": "SINALIZAÇÃO LUMINOSA PARA OBRAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "8,61"
  },
  {
    "ITEM": 100000016,
    "DESCRIÇÃO": "TAPUME CONTÍNUO EM CHAPAS DE MADEIRA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "12,02"
+   "PREÇO": "11,92"
  },
  {
    "ITEM": 100000019,
    "DESCRIÇÃO": "TAPUME DE CHAPA DE MADEIRA COMPENSADA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "138,38"
+   "PREÇO": "131,68"
  },
  {
    "ITEM": 100000020,
    "DESCRIÇÃO": "PASSADIÇOS DE CHAPA METÁLICA PARA VEÍCULOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "135,27"
+   "PREÇO": "134,71"
  },
  {
    "ITEM": 100000021,
    "DESCRIÇÃO": "PASSADIÇOS DE MADEIRA PARA PEDESTRES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "176,41"
+   "PREÇO": "178,33"
  },
  {
    "ITEM": 100000022,
    "DESCRIÇÃO": "PASSADIÇOS DE MADEIRA PARA VEÍCULOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "142,07"
+   "PREÇO": "139,19"
  },
  {
    "ITEM": 100000026,
    "DESCRIÇÃO": "ESCORAMENTO DE POSTES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
    "PREÇO": "218,80"
  },
  {
    "ITEM": 100000027,
    "DESCRIÇÃO": "SUSTENTAÇÃO DE TUBULAÇÕES EXISTENTES - PERFIS METÁLICOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "TON",
-   "PREÇO": "2.239,80"
+   "PREÇO": "2.240,68"
  },
  {
    "ITEM": 100000028,
    "DESCRIÇÃO": "SUSTENTAÇÃO DE TUBULAÇÕES EXISTENTES - PRANCHAS DE PEROBA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
    "PREÇO": "4.765,80"
  },
  {
    "ITEM": 100000029,
    "DESCRIÇÃO": "ATERRO DE FOSSA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "162,39"
+   "PREÇO": "155,08"
  },
  {
    "ITEM": 100000030,
    "DESCRIÇÃO": "ATERRO DE FOSSA COM EXECUÇÃO DE VIGA DE CONCRETO PARA BERÇO DE TUBULAÇÃO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "222,40"
+   "PREÇO": "236,94"
  },
  {
    "ITEM": 100000032,
    "DESCRIÇÃO": "CORTE E REMOÇÃO DE ÁRVORES, INCLUSIVE RAÍZES - DIÂMETRO ACIMA DE 30 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "203,29"
+   "PREÇO": "202,74"
  },
  {
    "ITEM": 100000033,
    "DESCRIÇÃO": "CORTE E REMOÇÃO DE ÁRVORES, INCLUSIVE RAÍZES - DIÂMETRO ENTRE 16 E 30 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "160,47"
+   "PREÇO": "160,03"
  },
  {
    "ITEM": 100000034,
    "DESCRIÇÃO": "CORTE E REMOÇÃO DE ÁRVORES, INCLUSIVE RAÍZES - DIÂMETRO ENTRE 5 E 15 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "72,51"
+   "PREÇO": "72,32"
  },
  {
    "ITEM": 100000035,
    "DESCRIÇÃO": "ROÇADA E CAPINA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "4,56"
+   "PREÇO": "4,54"
  },
  {
    "ITEM": 100000036,
    "DESCRIÇÃO": "EQUIPE A - ATENDIMENTO DE 50 A 100 EMPREGADOS POR EMPRESA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
    "PREÇO": "18.788,80"
  },
  {
    "ITEM": 100000037,
    "DESCRIÇÃO": "EQUIPE B - ATENDIMENTO DE 101 A 250 EMPREGADOS POR EMPRESA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
    "PREÇO": "69.949,79"
  },
  {
    "ITEM": 100000038,
    "DESCRIÇÃO": "EQUIPE C - ATENDIMENTO DE 251 A 500 EMPREGADOS POR EMPRESA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
    "PREÇO": "88.738,60"
  },
  {
    "ITEM": 100000039,
    "DESCRIÇÃO": "EQUIPE D - ATENDIMENTO DE 501 A 1.000 EMPREGADOS POR EMPRESA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "MES",
    "PREÇO": "154.988,86"
  },
  {
    "ITEM": 100012092,
    "DESCRIÇÃO": "SINALIZAÇÃO DE TRÁFEGO COM BARREIRA E CERQUITE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "8,55"
+   "PREÇO": "8,72"
  },
  {
    "ITEM": 100000002,
    "DESCRIÇÃO": "DETALHAMENTO DE PROJETO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "15,35"
+   "PREÇO": "15,33"
  },
  {
    "ITEM": 100000003,
    "DESCRIÇÃO": "CADASTRO DE ADUTORAS, COLETORES-TRONCO E INTERCEPTORES (ACIMA DIÂMETRO 500 MM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6,26"
+   "PREÇO": "6,27"
  },
  {
    "ITEM": 100000004,
    "DESCRIÇÃO": "CADASTRO DE ADUTORAS, COLETORES-TRONCO E INTERCEPTORES (ATÉ DIÂMETRO 500 MM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "6,26"
+   "PREÇO": "6,27"
  },
  {
    "ITEM": 100000005,
    "DESCRIÇÃO": "CADASTRO DE LIGAÇÕES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "22,52"
+   "PREÇO": "22,60"
  },
  {
    "ITEM": 100000006,
    "DESCRIÇÃO": "CADASTRO DE OBRAS LOCALIZADAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "1.898,09"
+   "PREÇO": "1.895,21"
  },
  {
    "ITEM": 100000007,
    "DESCRIÇÃO": "CADASTRO DE REDES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2,27"
+   "PREÇO": "2,28"
  },
  {
    "ITEM": 100000008,
    "DESCRIÇÃO": "LOCAÇÃO DE ADUTORAS, COLETORES-TRONCO E INTERCEPTORES (ACIMA DIÂMETRO 500 MM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "3,07"
+   "PREÇO": "3,08"
  },
  {
    "ITEM": 100000009,
    "DESCRIÇÃO": "LOCAÇÃO DE ADUTORAS, COLETORES-TRONCO E INTERCEPTORES (ATÉ DIÂMETRO 500 MM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1,97"
  },
  {
    "ITEM": 100000010,
    "DESCRIÇÃO": "LOCAÇÃO DE OBRAS LOCALIZADAS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "1.479,21"
+   "PREÇO": "1.480,54"
  },
  {
    "ITEM": 100000011,
    "DESCRIÇÃO": "LOCAÇÃO DE REDES DE ESGOTOS (ATÉ DIÂMETRO 500 MM)",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
    "PREÇO": "1,47"
  },
  {
    "ITEM": 100000012,
    "DESCRIÇÃO": "LOCAÇÃO E ACOMPANHAMENTO TOPOGRÁFICO DE OBRAS ESPECIAIS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "EQD",
-   "PREÇO": "1.479,21"
+   "PREÇO": "1.480,54"
  },
  {
    "ITEM": 100009779,
    "DESCRIÇÃO": "CADASTRO DE REDES GEORREFERENCIADO COM GNSS RTK",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2,83"
+   "PREÇO": "2,82"
  },
  {
    "ITEM": 100009780,
    "DESCRIÇÃO": "CADASTRO DE REDES GEORREFERENCIADO COM GNSS RTK NTRIP COM NIVELAMENTO GEOMÉTRICO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "2,71"
+   "PREÇO": "2,73"
  },
  {
    "ITEM": 100011024,
    "DESCRIÇÃO": "ETA COMPACTA AÇO INOX - 5L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "5.751.509,45"
  },
  {
    "ITEM": 100011025,
    "DESCRIÇÃO": "ETA COMPACTA AÇO INOX - 20L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "8.516.166,77"
  },
  {
    "ITEM": 100011026,
    "DESCRIÇÃO": "ETA COMPACTA AÇO INOX - 40L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "9.194.004,69"
  },
  {
    "ITEM": 100011027,
    "DESCRIÇÃO": "ETA COMPACTA AÇO INOX - 60L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "11.449.663,95"
  },
  {
    "ITEM": 100011028,
    "DESCRIÇÃO": "ETA COMPACTA AÇO INOX - 80L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "14.319.763,78"
  },
  {
    "ITEM": 100011029,
    "DESCRIÇÃO": "ETA COMPACTA AÇO INOX - 100L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "22.511.863,58"
  },
  {
    "ITEM": 100011030,
    "DESCRIÇÃO": "ETA COMPACTA PRFV - 5L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "2.778.210,22"
  },
  {
    "ITEM": 100011031,
    "DESCRIÇÃO": "ETA COMPACTA PRFV - 20L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "5.123.000,00"
  },
  {
    "ITEM": 100011032,
    "DESCRIÇÃO": "ETA COMPACTA PRFV - 40L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "6.322.000,00"
  },
  {
    "ITEM": 100011033,
    "DESCRIÇÃO": "ETA COMPACTA PRFV - 60L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "7.630.000,00"
  },
  {
    "ITEM": 100011034,
    "DESCRIÇÃO": "ETA COMPACTA PRFV - 80L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "8.720.000,00"
  },
  {
    "ITEM": 100011035,
    "DESCRIÇÃO": "ETA COMPACTA PRFV - 100L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "9.810.000,00"
  },
  {
    "ITEM": 100011036,
    "DESCRIÇÃO": "ETE COMPACTA MBBR PRFV - 1L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "1.431.714,89"
  },
  {
    "ITEM": 100011037,
    "DESCRIÇÃO": "ETE COMPACTA MBBR PRFV - 5L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "5.417.939,50"
  },
  {
    "ITEM": 100011038,
    "DESCRIÇÃO": "ETE COMPACTA MBBR PRFV - 20L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "8.960.571,89"
  },
  {
    "ITEM": 100011039,
    "DESCRIÇÃO": "ETE COMPACTA MBBR PRFV - 40L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "11.732.871,70"
  },
  {
    "ITEM": 100011040,
    "DESCRIÇÃO": "ETE COMPACTA MBBR PRFV - 60L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "16.342.228,80"
  },
  {
    "ITEM": 100011041,
    "DESCRIÇÃO": "ETE COMPACTA MBBR PRFV - 80L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "21.199.916,85"
  },
  {
    "ITEM": 100011042,
    "DESCRIÇÃO": "ETE COMPACTA MBBR PRFV - 100L/S",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "25.215.324,95"
  },
  {
    "ITEM": 100011043,
    "DESCRIÇÃO": "RESERVATÓRIO SOLDADO METÁLICO - 15M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "97.000,00"
  },
  {
    "ITEM": 100011044,
    "DESCRIÇÃO": "RESERVATÓRIO SOLDADO METÁLICO - 50M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "144.000,00"
  },
  {
    "ITEM": 100011045,
    "DESCRIÇÃO": "RESERVATÓRIO SOLDADO METÁLICO - 100M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "212.000,00"
  },
  {
    "ITEM": 100011046,
    "DESCRIÇÃO": "RESERVATÓRIO SOLDADO METÁLICO - 500M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "867.000,00"
  },
  {
    "ITEM": 100011047,
    "DESCRIÇÃO": "RESERVATÓRIO SOLDADO METÁLICO - 1000M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "1.287.966,96"
  },
  {
    "ITEM": 100011113,
    "DESCRIÇÃO": "RESERVATÓRIO PARAFUSADO METÁLICO - 2000M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "2.184.175,93"
  },
  {
    "ITEM": 100011114,
    "DESCRIÇÃO": "RESERVATÓRIO PARAFUSADO METÁLICO - 3000M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "3.235.053,91"
  },
  {
    "ITEM": 100011115,
    "DESCRIÇÃO": "RESERVATÓRIO PARAFUSADO METÁLICO - 5000M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "4.371.790,67"
  },
  {
    "ITEM": 100011116,
    "DESCRIÇÃO": "RESERVATÓRIO PARAFUSADO METÁLICO - 10000M³",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "6.988.514,45"
  },
  {
    "ITEM": 100012176,
    "DESCRIÇÃO": "EPAT - ESTAÇÃO PRESSURIZADORA DE ÁGUA TRATADA - MINI-BOOSTER, 4CV ATÉ 50MCA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "204.095,53"
  },
  {
    "ITEM": 100012177,
    "DESCRIÇÃO": "EPAT - ESTAÇÃO PRESSURIZADORA DE ÁGUA TRATADA - MINI-BOOSTER, 8CV ATÉ 50MCA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "231.762,64"
  },
  {
    "ITEM": 100012178,
    "DESCRIÇÃO": "EPAT - ESTAÇÃO PRESSURIZADORA DE ÁGUA TRATADA - MINI-BOOSTER, 12CV ATÉ 50MCA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "252.349,64"
  },
  {
    "ITEM": 100012179,
    "DESCRIÇÃO": "EPAT - ESTAÇÃO PRESSURIZADORA DE ÁGUA TRATADA - MINI-BOOSTER, 15CV ATÉ 50MCA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "268.827,06"
  },
  {
    "ITEM": 100012180,
    "DESCRIÇÃO": "EPAT - ESTAÇÃO PRESSURIZADORA DE ÁGUA TRATADA - MINI-BOOSTER, 20CV ATÉ 50MCA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "GB",
    "PREÇO": "290.975,11"
  },
  {
    "ITEM": 100002757,
    "DESCRIÇÃO": "ALTEAMENTO DE PROTEÇÃO EM ARAME COM LÂMINAS - CONCERTINA AÇO GALVANIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "106,87"
+   "PREÇO": "107,83"
  },
  {
    "ITEM": 100002758,
    "DESCRIÇÃO": "ALTEAMENTO DE PROTEÇÃO EM ARAME FARPADO, 10 FIOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "145,15"
+   "PREÇO": "144,26"
  },
  {
    "ITEM": 100002759,
    "DESCRIÇÃO": "CERCAS DE ARAME FARPADO 11 FIOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "114,19"
+   "PREÇO": "118,95"
  },
  {
    "ITEM": 100002760,
    "DESCRIÇÃO": "CERCAS DE ARAME FARPADO 5 FIOS",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "85,32"
+   "PREÇO": "84,36"
  },
  {
    "ITEM": 100002761,
    "DESCRIÇÃO": "CERCAS DE TELA TIPO ALAMBRADO - ARAME GALVANIZADO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "381,25"
+   "PREÇO": "370,69"
  },
  {
    "ITEM": 100002762,
    "DESCRIÇÃO": "COLOCAÇÃO DE TELA OU ALAMBRADO EM ESTRUTURA EXISTENTE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "150,59"
+   "PREÇO": "129,82"
  },
  {
    "ITEM": 100002763,
    "DESCRIÇÃO": "GRADE METÁLICA DE 1/2\", ESPAÇAMENTO DE 10 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "664,82"
+   "PREÇO": "666,79"
  },
  {
    "ITEM": 100002764,
    "DESCRIÇÃO": "GRADE METÁLICA DE 3/4\", ESPAÇAMENTO DE 15 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "644,16"
+   "PREÇO": "646,02"
  },
  {
    "ITEM": 100002765,
    "DESCRIÇÃO": "MURO TIPO PALITEIRO, H = 2,00 M",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M",
-   "PREÇO": "978,37"
+   "PREÇO": "1.027,64"
  },
  {
    "ITEM": 100002766,
    "DESCRIÇÃO": "PORTÃO DE TELA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "579,69"
+   "PREÇO": "571,38"
  },
  {
    "ITEM": 100002767,
    "DESCRIÇÃO": "PORTÃO EM GRADES METÁLICAS DE 3/4\", E = 15 CM",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "783,41"
+   "PREÇO": "784,00"
  },
  {
    "ITEM": 100002768,
    "DESCRIÇÃO": "PLANTIO DE ARBUSTO",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "159,22"
+   "PREÇO": "130,96"
  },
  {
    "ITEM": 100002769,
    "DESCRIÇÃO": "PLANTIO DE ÁRVORES",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "un",
-   "PREÇO": "203,89"
+   "PREÇO": "200,81"
  },
  {
    "ITEM": 100002770,
    "DESCRIÇÃO": "PLANTIO DE GRAMA EM PLACA",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M2",
-   "PREÇO": "19,34"
+   "PREÇO": "19,87"
  },
  {
    "ITEM": 100002771,
    "DESCRIÇÃO": "ESCADA EM TALUDE",
-   "DATA I0": "jun/26",
+   "DATA I0": "set/26",
    "UNID": "M3",
-   "PREÇO": "2.745,88"
+   "PREÇO": "2.951,24"
  }
 ];

@@ -21,17 +21,18 @@
         <input type="file" id="input-arquivo" class="hidden" accept=".json" onchange="carregarProjeto(event)">
     </div>
     <div class="db-info no-print">
-        * Utilizando banco de preços de serviços e materiais da Sabesp SPO atualizado para Junho/2026.
+        <span class="db-info-destaque">* Utilizando banco de preços de serviços e materiais da Sabesp SPO atualizado para Setembro/2026.</span>
     </div>
 
     <div class="container">
         <div class="content-wrapper">
 
             <div class="version-wrapper no-print">
-                <div class="version-badge">v6.0.1 ℹ️</div>
+                <div class="version-badge">v6.1 ℹ️</div>
                 <div class="changelog-box">
                     <h4>Últimas Atualizações</h4>
                     <ul>
+                        <li data-version="6.1.0"><strong>v6.1:</strong> Bases de serviços e materiais atualizadas para Sabesp SPO Setembro/2026 (4.063 serviços e 4.358 insumos), com remoção das linhas SiiS e das duplicatas de serviços.</li>
                         <li data-version="6.0.0"><strong>v6.0:</strong> Revisão do cálculo de água perdida: a vazão passa a ser limitada pela capacidade hidráulica da tubulação (teto de 6 m/s e perda de carga por Hazen-Williams), o fechamento dos registros limita o período faturável também em Área do Furo, a área do furo não pode exceder a seção do tubo e a pressão tem faixa de plausibilidade. Novos parâmetros: alimentação por um ou dois lados, expansão da abertura com a pressão (FAVAD) e origem da pressão. UFESP com vigência por exercício. Memória de cálculo impressa no documento.</li>
                         <li data-version="5.11.0"><strong>v5.11:</strong> Endereço da unidade OVMS atualizado no rodapé: Av. Heitor Villa Lobos, 1229 - Vila Ema - CEP 12243-260 - São José dos Campos - SP, Tel. 55(12)3904-3202.</li>
                         <li data-version="5.10.0"><strong>v5.10:</strong> Seção Plena: o tempo informado passa a ser o vazamento até o fechamento dos registros, limitando o período faturável. A pressão decai de P₀ a zero durante o vazamento (vazão média = ⅔ de Q₀): V = ⅔ × Q₀ × T_efetivo.</li>
