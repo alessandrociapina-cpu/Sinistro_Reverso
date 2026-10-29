@@ -1,7 +1,12 @@
 window.SABESP_APP_INFO = Object.freeze({
-  version: '6.1.0',
-  displayVersion: 'v6.1',
+  version: '6.2.0',
+  displayVersion: 'v6.2',
   releaseNotes: [
+    {
+      version: '6.2.0',
+      displayVersion: 'v6.2',
+      summary: 'Bases reduzidas ao escopo dos laudos para diminuir a exposicao de dados no repositorio publico: 777 servicos (de 4.063) e 2.547 materiais (de 4.358), de 1.594 KB para 682 KB. Servicos limitados aos grupos de reparo, assentamento, vala, pavimento, aterro, equipe, sondagem, interferencia, lastro, escoramento, transporte e remocao, somente classe A. Materiais limitados a hidromecanica mais tubos de concreto, pocos e tampoes; eletrica, equipamentos e mao de obra removidos. O recorte e reproduzivel por scripts/recortar-bases.mjs.'
+    },
     {
       version: '6.1.0',
       displayVersion: 'v6.1',

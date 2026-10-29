@@ -22,16 +22,24 @@
     </div>
     <div class="db-info no-print">
         <span class="db-info-destaque">* Utilizando banco de preços de serviços e materiais da Sabesp SPO atualizado para Setembro/2026.</span>
+        <div class="db-info-escopo">
+            Base restrita ao escopo dos laudos: serviços de reparo, assentamento, vala, pavimento,
+            equipe e sondagem, apenas <strong>classe A</strong>; materiais hidráulicos (tubos, peças,
+            válvulas, conexões, poços e tampões). Não contém elétrica, equipamentos nem classes B/C.
+            Se o item necessário não aparecer na busca, consulte a tabela SPO completa — não substitua
+            por item aproximado.
+        </div>
     </div>
 
     <div class="container">
         <div class="content-wrapper">
 
             <div class="version-wrapper no-print">
-                <div class="version-badge">v6.1 ℹ️</div>
+                <div class="version-badge">v6.2 ℹ️</div>
                 <div class="changelog-box">
                     <h4>Últimas Atualizações</h4>
                     <ul>
+                        <li data-version="6.2.0"><strong>v6.2:</strong> Bases reduzidas ao escopo dos laudos para diminuir a exposição de dados no repositório público: 777 serviços (de 4.063) e 2.547 materiais (de 4.358). Serviços apenas classe A; materiais sem elétrica, equipamentos e mão de obra.</li>
                         <li data-version="6.1.0"><strong>v6.1:</strong> Bases de serviços e materiais atualizadas para Sabesp SPO Setembro/2026 (4.063 serviços e 4.358 insumos), com remoção das linhas SiiS e das duplicatas de serviços.</li>
                         <li data-version="6.0.0"><strong>v6.0:</strong> Revisão do cálculo de água perdida: a vazão passa a ser limitada pela capacidade hidráulica da tubulação (teto de 6 m/s e perda de carga por Hazen-Williams), o fechamento dos registros limita o período faturável também em Área do Furo, a área do furo não pode exceder a seção do tubo e a pressão tem faixa de plausibilidade. Novos parâmetros: alimentação por um ou dois lados, expansão da abertura com a pressão (FAVAD) e origem da pressão. UFESP com vigência por exercício. Memória de cálculo impressa no documento.</li>
                         <li data-version="5.11.0"><strong>v5.11:</strong> Endereço da unidade OVMS atualizado no rodapé: Av. Heitor Villa Lobos, 1229 - Vila Ema - CEP 12243-260 - São José dos Campos - SP, Tel. 55(12)3904-3202.</li>
